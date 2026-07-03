@@ -22,7 +22,7 @@ does and how it was validated. [`METHOD.md`](METHOD.md) is the deep stage-by-sta
 - **`appointment_type_comparison.csv`** — per-attorney LLM-vs-gold appointment-type agreement flag.
 - **`MDL_merged.csv`** — the 809-MDL master list (old + new).
 - **`csvs_current_dataset/`** — the human hand-coded gold (Orders / Appointments / Attorneys).
-- **`yale_replication_mdl/`** — the paper's replication notebook adapted to this dataset
+- **`replication_mdl/`** — the paper's replication notebook adapted to this dataset
   (`code/analysis_ours.ipynb`, scope switch old/new/both) + the generated figures (`figures_ours/`).
 
 **Not distributed via git** (size): the raw PDFs (`files/`), the OCR corpus (`ocr/`), the working corpus
@@ -99,8 +99,8 @@ $P code/build_final_database.py              # -> unified_mdl_database.xlsx
 $P code/compare_roles_vs_gold.py             # -> appointment_type_comparison.csv (LLM-vs-gold role flag)
 ```
 
-Figures — open `yale_replication_mdl/code/analysis_ours.ipynb`, set `SCOPE` to `"old" | "new" | "both"`,
-Run All (writes `yale_replication_mdl/figures_ours/<scope>/`).
+Figures — open `replication_mdl/code/analysis_ours.ipynb`, set `SCOPE` to `"old" | "new" | "both"`,
+Run All (writes `replication_mdl/figures_ours/<scope>/`).
 
 Billable stages are **resumable** — re-running only processes what isn't already cached.
 

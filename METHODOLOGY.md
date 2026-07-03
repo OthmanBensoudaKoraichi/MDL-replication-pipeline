@@ -136,7 +136,7 @@ same MDLs) shows the *method* reproduces the gold distributions; the differences
 pipeline. One caveat surfaced: pre-2010 leadership-heavy MDLs in the extracted corpus are under-covered
 (~16 MDLs) because older court documents are harder to obtain/OCR — relevant only to time-trend analyses.
 
-**Replication figures** (`yale_replication_mdl/code/analysis_ours.ipynb`): the paper's figures regenerate
+**Replication figures** (`replication_mdl/code/analysis_ours.ipynb`): the paper's figures regenerate
 on this dataset for `old` / `new` / `both` via a scope switch, using the canonical IDs directly. The
 central Monte-Carlo result — observed repeat co-appointment far exceeds a capacity-constrained random null
 (p ≈ 0) — holds in every scope, independently reproduced by the extracted corpus.

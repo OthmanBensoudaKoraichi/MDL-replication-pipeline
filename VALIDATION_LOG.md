@@ -210,9 +210,9 @@ attorney/Monte-Carlo/entrant/gender/age figures unaffected). Backup: `canonical_
 
 ## ✅ YALE REPLICATION — re-run on our data, old / new / both (2026-07-01)
 
-Adapted the Yale replication notebook (`yale_replication_mdl/code/analysis.ipynb`) to our unified deduped
-data. Deliverables: `yale_replication_mdl/code/analysis_ours.ipynb` (scope switch: old|new|both, executed
-for both), `yale_replication_mdl/datasets_ours/*.csv` (exported unified tabs), `yale_replication_mdl/
+Adapted the Yale replication notebook (`replication_mdl/code/analysis.ipynb`) to our unified deduped
+data. Deliverables: `replication_mdl/code/analysis_ours.ipynb` (scope switch: old|new|both, executed
+for both), `replication_mdl/datasets_ours/*.csv` (exported unified tabs), `replication_mdl/
 figures_ours/{old,new,both}/` (14 static PNGs each; the 2 bar-state choropleths are interactive plotly).
 
 **Key adaptation:** the original notebook's two crude dedup steps — scraping a numeric attorney_id from
