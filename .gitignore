@@ -3,6 +3,8 @@
 .env.*
 *.env
 *_api_key*
+# the placeholder template IS committed (no real values):
+!.env.example
 
 # ============ raw document corpora + intermediates (huge; not distributed via git) ============
 /files/
