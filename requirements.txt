@@ -1,0 +1,18 @@
+# MDL pipeline dependencies (Python 3.12 — the Framework Python the pipeline runs on).
+pymupdf==1.27.2.3        # fitz: page counts + PDF page splitting (count_pages, ocr_llamaparse)
+openai==2.41.0           # gpt-5.4-mini / gpt-5.5 calls (classify, refine, gate, extract, resolve)
+python-dotenv==1.2.2     # load OPENAI_API_KEY / llamaparse_api_key from .env
+tqdm==4.66.1             # progress bars
+llama-cloud==2.9.0       # LlamaParse OCR (ocr_llamaparse.py, AsyncLlamaCloud)
+pytesseract==0.3.13      # local OCR fallback when LlamaParse stalls on a batch
+pillow==10.2.0           # render PDF pages to images for Tesseract
+pydantic>=2.0            # structured extraction schema (extract_orders, resolve_motions)
+pandas>=2.0              # build the Excel workbook from the JSONL (extract_orders.build_excel)
+openpyxl==3.1.2          # pandas ExcelWriter engine for the .xlsx workbook
+python-docx>=1.1         # regenerate DATA_DICTIONARY.docx (make_dd_docx.py)
+numpy>=1.26              # Monte-Carlo null model (analysis) + dist_compare
+matplotlib>=3.7          # replication figures (yale_replication_mdl/code/analysis_ours.ipynb)
+plotly>=5.24             # appendix bar-state choropleths (interactive, in-notebook)
+# NOTE: pytesseract needs the Tesseract binary: `brew install tesseract`
+# NOTE: pandas>=3 requires openpyxl>=3.1.5 to READ .xlsx (writing works on 3.1.2).
+# The eval harness (code/eval_vs_gold.py) uses only the standard library.

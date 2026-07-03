@@ -1,0 +1,813 @@
+﻿Order_No,MDL_No,Docket_No,MDL Type,Date,Judge,Judge_Type,Contested,Applications_Solicited,Resolve_Rule_23,OU_Create,OU_Terminate,OU_Functions,OU_Duties_to_Nonclients,IRPA_Duties_to_Clients,Limit_Nonleader_Practice,Order_Types,Rule_23,MCL,Notes,OU_Plaintiff,OU_Defendant,Appointments_Count
+1431-16,1431,16,Products Liability,2002-02-01,MJD,DJ,checked,checked,,4,,checked,,,checked,"LeadCounsel,Management,Communications",,checked,Cites MCL 3d. Creates an Executive Committee within the PSC.,checked,checked,31
+1566-141,1566,141,Antitrust,2005-02-23,PMP,,,,,1,,checked,,,checked,LeadCounsel,,,,checked,,3
+1566-249,1566,249,Antitrust,2005-05-02,PMP,,,,,1,,checked,,,,LeadCounsel,,,,checked,,4
+1570-248,1570,248,Common Disaster,2004-06-16,RCC,DJ,,,,3,0,checked,,,,"Communications,Management",,,Contemplates contributions toward an expense fund and directs counsel to propose contributions for the court's approval,checked,,25
+1663-12,1663,12,Antitrust,2005-03-18,FSH,,,,,1,,checked,,,,Communications,,,,checked,checked,2
+1663-182,1663,182,Antitrust,2005-08-05,PS,,,,,2,,,,,,Communications,,,Order entered by magistrate judge,checked,,2
+1663-635,1663,635,Antitrust,2006-07-18,FSH,,,,,,,,,,,LeadCounsel,,,,checked,,2
+1700-2,1700,2,Employment Practices ,2005-08-30,RLM,,,,,1,,,,,,Communications,,,,checked,,1
+1700-52,1700,52,Employment Practices ,2005-08-15,CAN,,,,,3,,checked,,,,"LeadCounsel,Management,Communications",,,Entered by magistrate judge. Includes defendants' co-lead counsel and defendants' liaison counsel (not included in above counts and appointments not entered yet).,checked,,7
+1663-118,1663,118,Antitrust,2005-05-25,FSH,DJ,checked,checked,,2,,checked,,,checked,"LeadCounsel,Management",,checked,,checked,,3
+1720-278,1720,278,Antitrust,2006-02-24,JO,MJ,checked,checked,,1,,,,,,LeadCounsel,,,,checked,,3
+1720-279,1720,279,Antitrust,2006-02-24,JO,MJ,,checked,,3,,checked,checked,,,"LeadCounsel,Communications",,,"This order memorializes the court's decision to appoint co-lead counsel, while also appointing liaison counsel, and specifies their respective duties. ",checked,,5
+1720-6754,1720,6754,Antitrust,2016-11-30,JO,MJ,checked,checked,checked,2,,,,,,LeadCounsel,,,"After the Second Circuit reversed a class action settlement, concluding that conflicts existed between class members seeking damages and injunctive relief, the Magistrate Judge appointed separate firms to represent a 23(b)(2) and (b)(3) class. ",checked,,7
+1738-24,1738,24,Antitrust,2006-06-07,JO,MJ,,,checked,4,,checked,,,,"LeadCounsel,Communications",,,"This is an uncontested appointment of lead and liaison class counsel for the MDL under F.R.C.P. 23(g). But it incorporates, by reference, a proposed order outlining responsibilities of the Co-Lead and Liaison counsel that isn't in our database.",checked,,6
+1836-26,1836,26,Products Liability,2007-08-23,FLN,MJ,,,,4,,checked,checked,,,"LeadCounsel,Communications,Discovery,Fees,Bellwether,Settlement,Trial",,,"This order interestingly creates separate lead and liaison counsel positions for single defendants, Pfizer and Boehringer. The Court also avoids creating a plaintiff steering committee because the three plaintiff law firms named in the order ""represent nearly all"" of the plaintiffs who have filed in federal court.",checked,checked,12
+1869-70,1869,70,Antitrust,2008-03-11,PLF,DJ,checked,checked,checked,3,,,,,,"LeadCounsel,Management,ClassCounsel,Communications",,,"The court rejected an application to appoint a separate liaison counsel because the lead counsel was already located in Washington D.C. and could serve that same role. The court entertained applications for a separate ""Executive Committee,"" which I've coded as ""Management."" A separate order issued that same day, which references this order, specifies the functions of lead counsel and calls for the leadership to appoint a single liaison counsel. ",checked,,5
+1869-71,1869,71,Antitrust,2008-03-11,PLF,DJ,checked,checked,checked,3,,checked,,,,"LeadCounsel,Management,ClassCounsel,Communications",,,"Although the accompanying memorandum and order says no need for liaison counsel, this order makes clear that the lead attorneys should select a single attorney to serve as a liaison counsel.",checked,,2
+1869-72,1869,72,Antitrust,2008-03-11,PLF,DJ,checked,checked,checked,2,,checked,,,,"LeadCounsel,ClassCounsel,Communications",,,"This order is connected to the memorandum and order issued on the same day, DKT 70, which specifies the duties of lead counsel for the indirect purchasers and requires it selects, from among themselves, an attorney to serve as liaison counsel.",checked,,3
+1869-99,1869,99,Antitrust,2008-04-28,PLF,DJ,checked,checked,checked,1,,,,,,Management,,,"In a previous order, the Court asked lead counsel to nominate members to the executive committee, which was contested by five out of fifty firms. The Court ratified the lead counsel's selection over the objectors.",checked,,5
+1871-45,1871,45,Products Liability,2007-11-05,CMR,DJ,checked,checked,,3,,checked,,,,"Communications,Management",,,"This order sets out the duties of the PSC and liaison counsel for plaintiffs and defendants and invites applications for the PSC. It also appoints liaison counsel for defendants. Interestingly, even though plaintiffs asked for a ""lead counsel"" designation, the Court never invites submissions for that.",checked,checked,1
+1871-108,1871,108,Products Liability,2008-04-09,CMR,DJ,checked,checked,,1,,checked,,,,Management,,,"This order officially appoints 14 lawyers to the steering committee and one lawyer as plaintiffs liaison counsel, while reserving two spots for future appointment. The Court observes that interviews for the steering committee took place in ""open court.""",checked,,14
+1871-156,1871,156,Products Liability,2008-07-02,CMR,DJ,,checked,,,,,,,,Management,,,"Following nomination to committee and affording opportunities for others to respond, the Court appointed an additional lawyer to the PSC without objection.",checked,,1
+1871-423,1871,423,Products Liability,2009-05-22,CMR,DJ,,checked,,1,,checked,,,,Coordination,,,"The court not only specifies the obligations and non-obligations of the SLC, but how she should represent herself in state courts: ""The SLC should make it clear when dealing with state court Judges, litigants and lawyers that the SLC is a lawyer for the plaintiffs, not a Court officer or neutral spokesperson for this or any other court.""",checked,,1
+1871-522,1871,522,Products Liability,2009-09-25,CMR,DJ,,checked,,,,,,,,Management,,,The Court solicited applications and interviewed new candidates for the PSC in open court.,checked,,2
+1871-495,1871,495,Products Liability,2009-08-26,CMR,DJ,,,,1,,checked,,,,Fees,,,Establishes a common benefit fund to be managed by Andrew A. Chirls and reimburse participating attorneys for work specified in the order.,checked,,1
+1871-695,1871,695,Products Liability,2010-06-24,CMR,DJ,,checked,,,,checked,,,,Management,,,The Court invites members of the steering committee to withdraw; notifies them that they still must comply with their obligations on the committee until they do so; and instructs them to inform the court about any uncompleted obligations on the committee. ,,,0
+1871-723,1871,723,Products Liability,2010-07-26,CMR,DJ,checked,checked,,,,,,,,Management,,,Mark Lanier steps down from the PSC and is replaced by Turner Branch.,checked,,1
+1871-882,1871,882,Products Liability,2010-11-15,CMR,DJ,,,,1,,checked,,,,SettlementAdministration,,,"This creates a qualified settlement fund, overseen by one of the attorneys on the PSC, to resolve his clients' claims and subrogation claims asserted by insurers and government entities under a master settlement agreement brokered with Glasko Smith Kline.",,,1
+1871-883,1871,883,Products Liability,2010-11-15,CMR,DJ,,,,1,,checked,,,,SettlementAdministration,,,"Establishes a qualified settlement fund, under a master settlement agreement with the defendant, to resolve plaintiffs' claims and those brought in subrogation. ",,,1
+1871-1221,1871,1221,Products Liability,2011-03-02,CMR,DJ,,checked,,,,,,,,"Management,Coordination,Communications",,,"The order appoints new members to the PSC, maintains some old members to ""facilitate an orderly and effective transition in leadership""; and maintains same federal and state liaison counsel.",checked,,16
+1964-24,1964,24,Products Liability,2008-10-08,RWS,DJ,,,,3,,,,,,"LeadCounsel,Management,Communications",,,,checked,,9
+1964-220,1964,220,Products Liability,2009-07-07,RWS,DJ,,,,,,,,,,Management,,,,checked,,1
+1964-721,1964,721,Products Liability,2010-02-19,RWS,DJ,,,,,,,,,,Management,,,,checked,,4
+1964-817,1964,817,Products Liability,2010-07-27,RWS,DJ,,,,,,,,,,Management,,,,checked,,1
+1964-872,1964,872,Products Liability,2010-11-24,RWS,DJ,,,,,,,,,,Management,,,,checked,,1
+1964-875,1964,875,Products Liability,2010-12-02,RWS,DJ,,,,,,,,,,Management,,,,checked,,1
+1964-1128,1964,1128,Products Liability,2011-12-09,RWS,DJ,,,,,,,,,,"LeadCounsel,Management",,,Something messy going on behind the scenes. Additions and removals to PSC and multiple motions. ,checked,,5
+1964-1183,1964,1183,Products Liability,2012-03-06,RWS,DJ,,,,,,,,,,Management,,,,checked,,2
+1964-1681,1964,1681,Products Liability,2014-02-07,RWS,DJ,,,,1,,checked,,,,Settlement,,,"Joint committee with New Jersey Superior Court, Bergen County",checked,,3
+2047-21,2047,21,Products Liability,2009-07-06,EEF,DJ,,checked,,1,,checked,,,,Communications,,,,,,1
+2047-24,2047,24,Products Liability,2009-07-06,EEF,DJ,,,,2,,checked,,,,LeadCounsel,,,,checked,checked,2
+2047-144,2047,144,Products Liability,2009-07-27,EEF,DJ,checked,checked,,1,,checked,,,,Management,,,"""the appointment to the PSC is for one year from the date of this Order""",checked,,13
+2047-1870,2047,1870,Products Liability,2010-03-19,EEF,DJ,,,,1,,checked,,,,Communications,,,"Liaison Counsel for Installers. Ex Parte motion. Order indicates there is a duly appointed Homebuilders and
+Installers Liaison Counsel, which we should track down.",,,1
+2047-1871,2047,1871,Products Liability,2010-03-19,EEF,DJ,,,,2,,checked,,,,Coordination,,,,checked,checked,11
+2047-5144,2047,5144,Products Liability,2010-08-13,EEF,DJ,,,,,,,,,,Management,,,,,checked,1
+2047-5286,2047,5286,Products Liability,2010-11-20,EEF,DJ,,,,,,,,,,Management,,,,,checked,0
+2047-5286,2047,5286,Products Liability,2010-08-20,EEF,DJ,,,,,,,,,,Management,,,,,checked,0
+2047-5538,2047,5538,Products Liability,2010-09-14,EEF,DJ,,,,,,,,,,Management,,,Not clear whether this is a P or D committee,,,8
+2047-16616,2047,16616,Products Liability,2013-03-15,EFF,DJ,,,,2,,,,,,SettlementAdministration,,,,,,8
+2047-16781,2047,16781,Products Liability,2013-04-25,EEF,DJ,,,,1,,,,,,SettlementAdministration,,,,,,4
+2047-16782,2047,16782,Products Liability,2013-04-25,EEF,DJ,,,,,,,,,,SettlementAdministration,,,,checked,,4
+2047-17177,2047,17177,Products Liability,2013-10-21,EEF,DJ,,,checked,1,,,,,,"ClassCounsel,SettlementAdministration",checked,,,checked,,4
+2047-17600,2047,17600,Products Liability,2014-04-07,EFF,DJ,checked,checked,,,,,,,,Management,,,"Reappointments, because PTOs 8 and 8C make all appointments for one year",checked,,17
+2047-18028,2047,18028,Products Liability,2014-09-26,EFF,DJ,,,checked,,,,,,,ClassCounsel,checked,,,checked,,2
+2047-18782,2047,18782,Products Liability,2015-04-28,EEF,DJ,,,,,,,,,,Management,,,,checked,,17
+2047-19234,2047,19234,Products Liability,2015-06-26,EFF,DJ,,,,1,,checked,,,,Communications,,,,,checked,1
+2047-22481,2047,22481,Products Liability,2020-01-16,EEF,DJ,,,,1,,checked,,,,Fees,,,,,,5
+2047-2369,2047,2369,Products Liability,2010-04-07,EFF,DJ,,,,1,,,,,,"Management,LeadCounsel",,,"Insurer Steering Committee. ""The Court directs the members of the Insurer Steering Committee to determine among themselves which subcommittees are necessary and which members are to be appointed to these subcommittees.""",checked,,11
+2158-9,2158,9,Products Liability,2011-02-18,MCA,MJ,,,,2,,checked,,,checked,Communications,,,"Creates a mandatory mediation process.
+
+""No pleadings or other papers shall be filed or discovery conducted concerning liability on behalf of all plaintiffs except as prepared on behalf of and signed by the Plaintiffs' Liaison Counsel, or their designees.""",checked,checked,8
+2187-5,2187,5,Products Liability,2010-12-09,JRG,DJ,,checked,,2,,checked,,,,Communications,,,,checked,checked,4
+2187-22,2187,22,Products Liability,2011-02-01,JRG,DJ,checked,checked,,,,checked,,checked,checked,LeadCounsel,,,,checked,checked,7
+2187-70,2187,70,Products Liability,2011-07-25,JRG,DJ,,checked,,,,,,,,Management,,,,checked,,1
+2187-113,2187,113,Products Liability,2011-11-17,JGR,DJ,,,,,,checked,,,,LeadCounsel,,,,,,1
+2187-181,2187,181,Products Liability,2012-03-05,JRG,DJ,,,,,,,,,,LeadCounsel,,,,,,2
+2187-222,2187,222,Products Liability,2012-04-18,JRG,DJ,,,,2,,checked,,,,"LeadCounsel,Management",,,"Crazy order. Case starts as one transvaginal mesh MDL, and then four MDLs end up in front of the same judge. The judge creates a massive Plaintiffs' Steering Committee that spans four MDLs",,,69
+2187-229,2187,229,Products Liability,2012-05-04,JRG,DJ,,,,,,,,,,Management,,,,,,62
+2187-654,2187,654,Products Liability,2013-09-17,JRG,DJ,,,,,,checked,,,checked,Communications,,,,,,2
+2187-656,2187,656,Products Liability,2013-09-20,JRG,DJ,,,,,,,,,,Management,,,,checked,,11
+2187-701,2187,701,Products Liability,2013-12-06,JRG,DJ,,,,,,,,,,Management,,,"This would be a good order to illustrate how we coded. 
+
+""Since the initial organization, this Court has been assigned additional MDLs relating to transvaginal mesh, and is currently overseeing nearly 40,000 cases, across six MDLs. With scheduled matters, including Bellwether trials, extensive discovery, consolidation and motion practice and considering the current posture of the litigation, I FIND, after careful consideration, that it is appropriate to add plaintiffs’ co-liaison counsel to the Plaintiffs’ Executive Committee.""",,,3
+2187-748,2187,748,Products Liability,2014-01-28,JRG,DJ,,,,,,,,,,Management,,,,checked,,4
+2187-1744,2187,1744,Products Liability,2016-01-15,JRG,DJ,,,,1,,checked,,,,Fees,,,Detailed protocol for applying for common benefit fees,checked,,9
+2197-71,2197,71,Products Liability,2011-01-26,DAK,DJ,,checked,,9,,,,,,"LeadCounsel,Communications,Management,Discovery,Expert",,,"Also creates a ""Law and Motions"" committee. Should we have a category for this?",checked,checked,37
+2197-958,2197,958,Products Liability,2015-10-14,DAK,DJ,,,,1,,checked,,,,Fees,,,,checked,,14
+2243-93,2243,93,Products Liability,2011-07-06,LHG,MJ,,,,2,,checked,,,,LeadCounsel,,,,checked,,2
+2243-110,2243,110,Products Liability,2011-07-14,GEB,DJ,,,,1,,checked,,,,Communications,,,,,checked,2
+2243-112,2243,112,Products Liability,2011-07-14,GEB,DJ,,,,,,checked,,,,,,,"Written by attorneys.  Appointments are wonky: ""The Court designates the following attorneys and firms as the Plaintiffs' Steering Committee."" Coded them as individual appointments because appointment type currently wasn't a multiple-value field. ",,,11
+2243-215,2243,2243,Products Liability,2011-09-22,GEB,DJ,,,,,,,,,,Management,,,,checked,,1
+2243-216,2243,216,Products Liability,2011-09-22,GEB,DJ,,,,,,,,,,Management,,,,checked,,1
+2244-80,2244,80,Products Liability,2012-01-09,K,DJ,,checked,,9,,,,,,"LeadCounsel,Communications,Management,Discovery,Expert,Motions,Trial,Coordination",,,,checked,,51
+2244-254,2244,254,Products Liability,2013-01-23,K,DJ,,,,,,,,,,"LeadCounsel,Management,Communications,Discovery,Motions,Fees,Coordination,Trial",,,,checked,,46
+2244-414,2244,414,Products Liability,2014-06-20,K,DJ,,,,,,,,,,"LeadCounsel,Management,Discovery,Motions,Expert,Coordination,Trial,Communications",,,,checked,,42
+2244-575,2244,575,Products Liability,2015-11-09,K,DJ,,,,0,,,,,,"LeadCounsel,Management,Communications,Discovery,Motions,Expert,Coordination,Trial",,,Reappointment,checked,,48
+2244-731,2244,731,Products Liability,2017-01-19,K,DJ,,,,,,,,,,"LeadCounsel,Management,Communications,Discovery,Expert,Motions,Trial,Coordination",,,,checked,,45
+2151-169,2151,169,Products Liability,2010-05-14,JVS,DJ,checked,checked,,7,,checked,,,,"LeadCounsel,Communications,Discovery,Coordination",,checked,Discusses conflicts of interest between economic loss and wrongful death plaintiffs,checked,checked,23
+2272-48,2272,48,Products Liability,2011-09-02,RP,DJ,checked,checked,,4,,checked,checked,,checked,"LeadCounsel,Management,Communications",,checked,Minute entry granting application at Doc. No. 27,checked,checked,21
+2331-20,2331,20,Products Liability,2012-06-22,VVP,MJ,,,,3,,,,,,"Management,Communications",,,Order creates a Plaintiffs' Executive Committee and Plaintiffs' Steering Committee. Both coded as Management.,checked,,16
+2387-10,2387,10,Products Liability,2012-09-21,JRG,DJ,checked,checked,,3,,checked,,checked,,"LeadCounsel,Communications",,,"Says there will be Defendant Liaison but doesn't appoint anyone. Coded this as an OU without an appointment.
+
+""All attorneys representing parties to this litigation, regardless of their role in the management structure of the litigation and regardless of this court's designation of Lead and Liaison Counsel, a Plaintiffs= Executive Committee and a Plaintiffs' Steering Committee, continue to bear the responsibility to represent their individual client or clients.""",checked,checked,6
+2387-21,2387,21,Products Liability,2012-11-05,JRG,DJ,,checked,,,,,,,,Communications,,,,,checked,3
+2387-425,2387,2387,Products Liability,2015-12-04,JRG,DJ,,,,,,checked,,,,LeadCounsel,,,,,,0
+2387-441,2387,2387,Products Liability,2016-01-15,JRG,DJ,,,,1,,checked,,,,Fees,,,,checked,,9
+2387-2392,2387,2392,Products Liability,2019-03-13,JRG,DJ,,,,1,,checked,,,,Fees,,,,checked,,0
+2391-127,2391,127,Products Liability,2012-12-05,RLL,DJ,checked,checked,,4,,checked,,,,"LeadCounsel,Management,Communications",,,,checked,checked,26
+1871-2131,1871,2131,Products Liability,2012-02-16,CMR,DJ,checked,,,3,1,checked,,checked,,"LeadCounsel,Management,ClassCounsel,Fees,Coordination,Communications",,,"This order signals a new stage of the litigation. Many on the steering committee settled large inventories of claims. So, the court has dissolved the steering committee, and put in place a structure to maintain a document depository for non-settling plaintiffs and reimburse fees and costs. As evidenced by order, 2146, this was contested by another attorney seeking to represent third-party payors.",checked,,10
+2391-179,2391,179,Products Liability,2013-01-08,2013-01-08,DJ,,,,,,,,,,Communications,,,,,checked,1
+2391-1144,2391,1144,Products Liability,2013-12-26,RLM,DJ,,checked,,4,,,,,,"LeadCounsel,Communications,Management",,,Reappointment of existing PSC,checked,,22
+2391-1154,2391,1154,Products Liability,2013-12-30,RLM,DJ,,checked,,4,,,,,,"LeadCounsel,Communications,Management",,,,checked,,23
+2391-2806,2391,2806,Products Liability,2014-12-22,RLM,DJ,,checked,,4,,,,,,"LeadCounsel,Management,Communications",,,Reappointment,checked,,23
+2391-2909,2391,2909,Products Liability,2015-05-27,RLM,DJ,,checked,,1,1,checked,,,,"Management,LeadCounsel",,checked,Creation of new PSC after master settlement in initial case,checked,,11
+2391-2925,2391,2391,Products Liability,2015-06-24,RLM,DJ,,,,1,,,,,,Fees,,,,checked,,5
+2391-2929,2391,2929,Products Liability,2015-06-30,RLM,DJ,,,,1,,,,,,"Management,Communications",,,Creates a Plaintiffs' Executive Committee within the PSC,checked,,5
+2391-2934,2391,2934,Products Liability,2015-07-14,RLM,DJ,,,,,,,,,,Management,,,,,,2
+2151-1430,2151,1430,Products Liability,2011-05-04,JVS,DJ,checked,checked,,5,,checked,,,,"LeadCounsel,Management,Communications,Coordination,ClassCounsel",,,"This order reappoints most counsel to their previously designated positions, pursuant to the reappointment process agreed to the parties at the outset of the litigation. The Court observes that Brian Panish and Stanley Chesney dropped out of the litigation at this point.",checked,,21
+2391-3245,2391,3245,Products Liability,2016-10-28,RLM,DJ,,,,1,,,,,,Fees,,,Creates second fee committee after second PSC settles outstanding cases,checked,,4
+2418-51,2418,51,Products Liability,2013-07-16,FLW,DJ,,,,2,,checked,,,,"Communications,LeadCounsel",,,,checked,checked,2
+2418-126,2418,126,Products Liability,2015-03-04,FLW,DJ,,,,,,,,,,Communications,,,,,,2
+2419-82,2419,82,Products Liability,2013-02-15,FDS,DJ,,,,3,,checked,,,,"LeadCounsel,Management,Coordination",,,"Order specifies ""alternates"" for designated counsel that exercise authority when designated counsel says so. I coded them as regular appointments. ",checked,,9
+2419-1752,2419,1752,Products Liability,2015-03-25,RWZ,DJ,,,,1,,checked,,,,ProSe,,,Cites similar order in Chinese Drywall -- check that we have ,checked,,1
+2151-2151,2151,2151,Products Liability,2012-05-08,JVS,DJ,,checked,,3,2,checked,,,,"LeadCounsel,Management,Coordination,ClassCounsel,Communications",,,"This order reappoints the existing steering committee, but terminates the lead counsel for the foreign plaintiff class action, as well as that attorneys consulting role on issues of foreign law. Other attorneys leading individual cases, like Mark Lanier, ask to leave the steering committee to perform other tasks.",,,0
+2151-3399,2151,3399,Products Liability,2013-02-15,JVS,DJ,,,,3,,,,,,"LeadCounsel,Management,Coordination",,,"The Court, finding that the steering committee is moving smoothly, simply reappoints the existing membership to the same roles for the next year.",,,0
+2151-3753,2151,3753,Products Liability,2013-06-07,JVS,DJ,,,,1,,checked,checked,,,Fees,,,"This sets out the process for applying for common benefit fees, and it designates Elizabeth Cabraser and Mark Robinson to create the fund.",checked,,2
+2151-3830,2151,3830,Products Liability,2013-06-27,JVS,DJ,,,,,,,,,,Management,,,"This order appoints additional counsel to the leadership committee overseeing wrongful death cases. At this point it time, Toyota appears to have settled a class action involving the economic loss claims.",checked,,4
+2151-4542,2151,4542,Products Liability,2014-04-07,JVS,DJ,,,,,1,,,,,"LeadCounsel,Management,Coordination",,,"The Court mostly reappoints the existing committee of counsel. In the process, it notes there is no longer a need for a separate committee for economic loss claims in light of the approved class action settled reached in 2013.",checked,,0
+2428-244,2428,244,Products Liability,2013-07-18,DPW,DJ,,,,4,,checked,,,checked,"LeadCounsel,Communications,Management,Coordination",,,,checked,,19
+2428-245,2428,245,Products Liability,2013-07-18,DPW,DJ,,,,4,,checked,,,checked,"LeadCounsel,Management,Communications,Coordination",,,,checked,,19
+2434-103,2434,103,Products Liability,2013-05-22,CS,DJ,,checked,,2,,,,,,"LeadCounsel,Communications",,,,,,4
+2434-207,2434,207,Products Liability,2013-07-10,CS,DJ,,,,1,,checked,checked,checked,,Management,,checked,,,,13
+2434-960,2434,960,Products Liability,2014-05-07,CS,DJ,,,,,,,,,,Management,,,,,,2
+2434-3240,2434,3240,Products Liability,2016-06-20,CS,DJ,,,,,,,,,,LeadCounsel,,,,,,3
+2329-79,2329,79,Products Liability,2012-05-03,79,DJ,,checked,,2,,checked,,,checked,,checked,checked,"""Pursuant to Rule 23(g) of the Federal Rules of Civil Procedure, the Court appoints as Co-Lead Counsel:""",,,4
+2436-26,2436,26,Products Liability,2013-05-21,LS,DJ,checked,checked,,4,,checked,,,,"LeadCounsel,Management,Communications,Coordination",,,,checked,,8
+2436-27,2436,27,Products Liability,2013-05-23,LS,DJ,,checked,,2,,,,,,"LeadCounsel,Communications",,,,,checked,3
+2440-13,2440,13,Products Liability,2013-07-30,JRG,DJ,,,,,,,,checked,,"LeadCounsel,Communications",,,,,,5
+2440-32,2440,32,Products Liability,2013-09-20,JRG,DJ,,,,,,,,,,Management,,,,checked,,11
+2440-78,2440,78,Products Liability,2014-01-28,JRG,DJ,,,,,,,,,,Management,,,,checked,,4
+2440-414,2440,414,Products Liability,2016-01-15,JRG,DJ,,,,1,,checked,,,,Fees,,,,,,9
+2452-157,2452,157,Products Liability,2013-10-21,AJB,DJ,,,,5,,,,,,,,,,,,23
+2325-8,2325,8,Products Liability,2012-02-29,JRG,DJ,,checked,,4,,checked,,,checked,"LeadCounsel,Management,Communications",,checked,"CMO sets up a structure for people to apply to, and object to, candidates for the steering committee as well as for liaison counsel. It also creates a structure for non-members to object to stipulations, and if they fail to do so within a short period of time, be bound to those decisions of the committee. In that way, these opt-out provisions limit the practice of non-steering members.",checked,checked,0
+2325-84,2325,84,Products Liability,2012-03-29,JRG,DJ,,checked,,4,,checked,,,,"LeadCounsel,Management",,,"After large numbers of attorneys called the court asking whether they were eligible to participate in leadership before their cases had been transferred, the Court issued a clarifying order noting they were eligible to apply so long as they had a pending mesh case in federal court somewhere. It highlights the already sprawling--as opposed to concentrated nature of the litigation predating the MDL's formation.",checked,,0
+2325-147,2325,147,Products Liability,2012-04-17,JRG,DJ,,checked,,7,,checked,,,checked,"LeadCounsel,Management,Communications",,,"This order creates both an overarching committee to coordinate plaintiffs across four different MDLs, and also, appoints lead counsel and liaison counsel for plaintiffs and defendants in this MDL. Although there isn't an explicit limit on non-leadership to represent plaintiffs, this order creates an ""opt-out"" option--that is, stipulations negotiated by the committee are binding, unless individual attorneys object in a specified period of time.",checked,checked,9
+2495-15,2495,15,Products Liability,2014-01-16,TWT,DJ,,,,5,,checked,,,,"LeadCounsel,Management,Communications",,,,checked,checked,13
+2545-243,2545,243,Products Liability,2014-07-31,MFK,DJ,checked,checked,,5,,,,,,"LeadCounsel,Communications,Management",,,,checked,checked,34
+2545-244,2545,244,Products Liability,2014-07-31,MFK,DJ,checked,checked,,5,,,,,,"LeadCounsel,Management,Communications",,,Corrected version of CMO 4,checked,checked,35
+2545-254,2545,2545,Products Liability,2014-08-13,MFK,DJ,,checked,,12,,checked,,,,"LeadCounsel,Communications",,,Creates one defense liaison counsel and lead counsel for each defendant ,,checked,14
+2545-255,2545,255,Products Liability,2014-08-13,MFK,DJ,,,,5,,checked,,,checked,"LeadCounsel,Management,Communications",,,Repeat of amended CMO 4 with contact information included,checked,,34
+2545-2923,2545,2923,Products Liability,2018-11-21,MFK,DJ,checked,,,1,,,,,,Fees,,,"""The Court is required to appoint a committee with an odd number of members to avoid potential tie votes, and is not persuaded that the committee needs to be as large as proposed by the Plaintiffs' Steering Committee or even larger, as proposed by one of the applicants.""",,,5
+2570-51,2570,51,Products Liability,2014-11-25,TAB,MJ,,checked,,5,,,,,,"LeadCounsel,Communications,Management,Coordination",,,,checked,checked,12
+2575-113,2575,113,Products Liability,2015-06-25,RMD,DJ,checked,checked,checked,2,,checked,,,checked,"ClassCounsel,LeadCounsel,Communications",checked,,,checked,,6
+2575-489,2575,2575,Products Liability,2017-03-06,RMW,DJ,,,,1,,checked,,,,Communications,,,,checked,,0
+2590-27,2590,27,Products Liability,2015-03-05,JBG,DJ,checked,,checked,2,,checked,,,checked,"LeadCounsel,Communications",,,,checked,,4
+2592-38,2592,38,Products Liability,2015-01-16,EEF,DJ,checked,checked,,1,,checked,,,,Communications,,,,,,2
+2592-39,2592,39,Products Liability,2015-10-02,EEF,DJ,,,,1,,checked,,,,Communications,,,,,checked,1
+2592-150,2592,150,Products Liability,2015-02-03,EEF,DJ,,checked,,,,,,,,LeadCounsel,,,,,checked,2
+2592-169,2592,169,Products Liability,2015-02-09,EFF,DJ,checked,checked,,5,,checked,,,checked,"LeadCounsel,Management,Communications,Coordination",,,,,,16
+2592-830,2592,830,Products Liability,2015-04-29,EFF,DJ,,,,,,,,,,Management,,,,checked,,3
+2592-1314,2592,1314,Products Liability,2015-09-24,EFF,DJ,,,,,,,,,,Management,,,,checked,,3
+2606-9,2606,9,Products Liability,2015-04-30,RBK,DJ,,,,2,,,,,,Communications,,,,checked,checked,2
+2606-18,2606,18,Products Liability,2015-05-20,RBK,DJ,,checked,,2,,,,,,Management,,,,checked,,21
+2606-21,2606,21,Products Liability,2015-05-22,RBK,DJ,,,,1,,checked,,,,Fees,,,Directs PSC to create a Time and Expense Committee,,,0
+2606-1148,2606,1148,Products Liability,2017-08-22,RBK,DJ,,,,1,,checked,checked,,,ProSe,,,,checked,,1
+2606-1223,2606,1223,Products Liability,2019-04-04,RBK,DJ,,checked,,,,checked,checked,,,Fees,,,,checked,,9
+2599-393,2599,393,Products Liability,2015-03-17,MD,DJ,checked,checked,,4,,checked,,,checked,"LeadCounsel,Management",,,Separates cases into PI and economic loss classes,,,6
+2599-1798,2599,1798,Products Liability,2017-06-12,MD,DJ,,,checked,1,,checked,,,,"SettlementAdministration,ClassCounsel",checked,checked,,,,1
+2599-1799,2599,1799,Products Liability,2017-06-12,MD,DJ,,,checked,1,,checked,,,,"ClassCounsel,SettlementAdministration",checked,checked,,checked,,6
+2599-1800,2599,1800,Products Liability,2017-06-12,MD,DJ,,,checked,1,,checked,,,,"ClassCounsel,SettlementAdministration",checked,checked,,checked,,6
+2599-1801,2599,1801,Products Liability,2017-06-12,MD,DJ,,,checked,1,,checked,,,,"ClassCounsel,SettlementAdministration",checked,checked,,checked,,6
+2599-2042,2599,2042,Products Liability,2017-09-19,MD,DJ,,,checked,1,,checked,,,,"SettlementAdministration,ClassCounsel",checked,checked,,,,6
+2599-2043,2599,2043,Products Liability,2017-09-19,MD,DJ,,,checked,1,,,,,,"ClassCounsel,SettlementAdministration",checked,checked,,checked,,6
+2599-2162,2599,2162,Products Liability,2017-11-01,MD,DJ,,,checked,2,,,,,,"LeadCounsel,ClassCounsel,SettlementAdministration",checked,,Final settlement for BMW,,,6
+2599-2164,2599,2164,Products Liability,2017-11-01,MD,DJ,,,checked,2,,,,,,"LeadCounsel,ClassCounsel,SettlementAdministration",checked,,,checked,,6
+2599-2166,2599,2166,Products Liability,2017-11-01,MD,DJ,,,checked,2,,,,,,"LeadCounsel,ClassCounsel,SettlementAdministration",,,Subaru,checked,,6
+2599-2168,2599,2168,Products Liability,2017-11-01,MD,DJ,,,checked,2,,,,,,"LeadCounsel,ClassCounsel,SettlementAdministration",,,Toyota final class settlement approval,checked,,6
+2599-2385,2599,2385,Products Liability,2018-02-28,MD,DJ,,,checked,2,,,,,,"LeadCounsel,ClassCounsel,SettlementAdministration",checked,,Final Honda approval,,,6
+2599-2388,2599,2388,Products Liability,2018-02-28,MD,DJ,,,checked,2,,,,,,"LeadCounsel,ClassCounsel,SettlementAdministration",checked,,,checked,,6
+2599-2998,2599,2998,Products Liability,2018-09-05,MD,DJ,,,checked,1,,,,,,"ClassCounsel,SettlementAdministration",checked,checked,Ford preliminary approval,checked,,6
+2599-3182,2599,3182,Products Liability,2018-12-20,MD,DJ,,,checked,1,,,,,,"ClassCounsel,SettlementAdministration",checked,checked,Ford final approval,checked,,6
+2641-248,2641,248,Products Liability,2015-10-30,DGC,DJ,checked,,,3,,checked,,checked,,,,,,checked,,24
+2641-4016,2641,4016,Products Liability,2016-11-16,DGC,DJ,,,,5,,checked,,checked,,"LeadCounsel,Management,Coordination,Communications",,,Weird structure. Lead counsel is also liaison and state/federal liaison,checked,,25
+2642-112,2642,112,Products Liability,2016-03-17,JRT,DJ,checked,checked,,5,,checked,,checked,checked,,,,,,,14
+2657-28,2657,28,Products Liability,2015-11-18,FDS,DJ,,,,3,,checked,,,,"LeadCounsel,Coordination,Management",,,,checked,,4
+2657-115,2657,115,Products Liability,2015-12-17,FDS,DJ,checked,checked,,,,checked,,,,Management,,,,,,14
+2657-630,2657,630,Products Liability,2017-03-15,FDS,DJ,,,,,,,,,,Communications,,,,checked,,3
+2657-1486,2657,1486,Products Liability,2019-05-09,FDS,DJ,,,,,,,,,,Management,,,,checked,,1
+2666-21,2666,21,Products Liability,2016-02-23,JNE,DJ,,checked,,4,,checked,,,,"LeadCounsel,Communications,Management",,,,checked,checked,23
+2691-72,2691,72,Products Liability,2016-06-15,RS,DJ,,checked,,5,,checked,,,,"LeadCounsel,Management,Communications,Coordination",,,,checked,,14
+2734-8,2734,8,Products Liability,2016-10-19,MCR,DJ,,,,,,,,,,"LeadCounsel,Coordination",,checked,,checked,,3
+2734-79,2734,79,Products Liability,2016-11-16,MCR,DJ,,checked,,8,,checked,,,,"LeadCounsel,Coordination,Management,Discovery,Settlement,Communications",,,Creates committees but doesn't appoint anyone to them,checked,checked,0
+2734-143,2734,143,Products Liability,2016-12-16,MCR,DJ,checked,checked,,11,,,,,,"LeadCounsel,Management,Communications,Coordination,Settlement,Discovery,Fees",,,Creates joint discovery and settlement committees. Coded as Plaintiff side because database wasn't setup for multiple types ,,,23
+2734-180,2734,180,Products Liability,2017-01-31,MCR,DJ,,,,,,,,,,"Discovery,Expert",,,,checked,checked,4
+2738-72,2738,72,Products Liability,2016-12-06,FLW,DJ,,checked,checked,1,,checked,,,checked,ClassCounsel,checked,,,checked,,1
+2738-73,2738,73,Products Liability,2016-12-06,FLW,DJ,checked,checked,,4,,,,,,"LeadCounsel,Management,Communications",,,,checked,,18
+2738-9676,2738,9676,Products Liability,2019-04-30,FLW,DJ,,,,,,,,,,Management,,,,,,2
+2740-4,2740,4,Products Liability,2016-10-13,KDE,DJ,,,,,,,,,,"Management,Communications",,checked,Specifies lead/liaison responsibilities without appointing anyone to positions ,checked,,0
+2740-104,2740,104,Products Liability,2016-11-17,KDE,DJ,checked,checked,,3,,,,,,"Management,Communications",,,,checked,checked,17
+2740-133,2740,133,Products Liability,2016-12-13,KDE,DJ,,,,1,,checked,,,,Settlement,,,,checked,checked,9
+2740-156,2740,156,Products Liability,2016-12-30,JTM,DJ,,,,1,,checked,,,,Coordination,,,,checked,,1
+2740-209,2740,209,Products Liability,2017-01-31,JTM,DJ,,,,,,,,,,Settlement,,,,,,2
+2740-371,2740,371,Products Liability,2017-05-11,JTM,DJ,,,,1,,checked,,,,Settlement,,,,,checked,6
+2740-5377,2740,5377,Products Liability,2018-11-28,JTM,DJ,,checked,,,,,,,,Settlement,,,,,,5
+2740-5379,2740,5379,Products Liability,2018-11-28,JTM,DJ,,checked,,,,,,,,"Communications,Settlement",,,,,,5
+2740-6018,2740,6018,Products Liability,2019-01-29,JTM,DJ,,checked,,,,,,,,"Communications,Management,Coordination",,,Reappoints ,checked,,21
+2741-62,2741,2741,Products Liability,2016-12-07,VC,DJ,checked,checked,,3,,checked,,,checked,LeadCounsel,,,,checked,,5
+2750-8,2750,8,Products Liability,2016-12-21,BRM,DJ,,,,,,checked,,,,"Communications,Management",,,Specifies functions of liaison and PSC without appointing anyone to them,checked,checked,0
+2750-28,2750,28,Products Liability,2017-01-24,BRM,DJ,,checked,,3,,checked,,,,"Communications,LeadCounsel,Management",,,,,,14
+2753-4,2753,4,Products Liability,2017-01-13,LM,DJ,,,,1,,,,,,LeadCounsel,,checked,Incorporates MCL provisions re: timekeeing,checked,,1
+2753-10,2753,10,Products Liability,2017-03-17,LM,DJ,,checked,,4,,,,,,"LeadCounsel,Management,Communications,Coordination",,checked,,checked,,8
+2753-40,2753,40,Products Liability,2017-03-13,LM,DJ,,,,,,checked,,,,"LeadCounsel,Management,Communications,Coordination",,,"Since appointments were entered in PTO 3, I didn't recode them here",checked,,0
+2753-745,2753,745,Products Liability,2018-06-29,LM,DJ,,,,,,,,,,Management,,,"This is wild. PTO 3A gives the PSC authority to appoint new members. So PSC meets with other potential members adds a bunch itself
+
+QUERY WHETHER THIS IS PROPERLY CONSIDERED AN ""ORDER""
+
+ALSO NEED TO ADJUST JUDGE COUNTS -- THERE IS NO JUDGE FOR THIS ORDER",,,5
+2754-26,2754,26,Products Liability,2017-04-10,DLC,DJ,,,,4,,checked,,,checked,"LeadCounsel,Management,Coordination",,,"Co-Liaison Counsel duties: 
+
+d. To maintain in conjunction with their accountant records of receipts and disbursements advanced by members of the PSC and received by the PSC and to report in writing to the PSC concerning disbursements and receipts;
+e. To act as the treasurer for any common benefit assessments and expenses, which shall be allocated to one of the Co-Liaison counsel, not both;
+
+",checked,,16
+2767-3,2767,3,Products Liability,2017-04-25,PAE,DJ,,,,1,,checked,,,checked,"LeadCounsel,Communications",,checked,,checked,,1
+2767-37,2767,37,Products Liability,2017-06-16,PAE,DJ,,checked,,4,,checked,,,,"LeadCounsel,Management,Communications",,,,checked,,15
+2768-156,2768,156,Products Liability,2017-06-09,IT,DJ,checked,checked,,5,,checked,,,checked,"LeadCounsel,Communications,Coordination,Management",,,"Creates a leadership structure without appointing anyone to it. ""Plaintiffs’ Steering Committee and other plaintiffs’ counsel as may be appropriate) the position of the plaintiffs on all matters arising during pretrial proceedings"" ",checked,,0
+2768-183,2768,183,Products Liability,2017-06-30,IT,DJ,,checked,,,,checked,,,checked,"LeadCounsel,Management,Communications,Coordination",,,,checked,,17
+2775-94,2775,94,Products Liability,2017-06-28,CCB,DJ,,,,5,,checked,,,,"LeadCounsel,Communications,Management",,,Proposed order drafted by counsel,checked,,18
+2775-108,2775,108,Products Liability,2017-07-19,CCB,DJ,,,,1,,checked,,,,Settlement,,,,checked,,2
+2775-780,2775,780,Products Liability,2018-06-12,CCB,DJ,,,,,,,,,,Management,,,,,,7
+2776-28,2776,28,Products Liability,2017-06-02,LGS,DJ,,checked,,3,,checked,checked,,,"LeadCounsel,Management,Communications",,checked,Creates positions and calls for applications,,,0
+2776-55,2776,55,Products Liability,2017-07-13,LGS,DJ,,checked,,,,,,,,"LeadCounsel,Management,Communications",,,,checked,,7
+2777-173,2777,173,Products Liability,2017-06-19,EMC,DJ,checked,checked,,3,,checked,,,,"LeadCounsel,Management,Coordination",,,,,,11
+2777-561,2777,561,Products Liability,2019-05-03,EMC,DJ,,,checked,1,,,,,,SettlementAdministration,checked,,,,,10
+2782-207,2782,207,Products Liability,2017-08-03,RWS,DJ,,,,2,,checked,,,,"LeadCounsel,Communications",,,,,checked,4
+2782-215,2782,215,Products Liability,2017-08-16,RWS,DJ,,,,3,,checked,,,,"LeadCounsel,Management,Communications",,,,checked,,12
+2789-3,2789,3,Products Liability,2017-08-15,CCC,DJ,,,,1,,,,,,LeadCounsel,,,,checked,,1
+2789-10,2789,10,Products Liability,2017-08-23,CCC,DJ,,checked,,3,,checked,,checked,checked,"LeadCounsel,Management",,,"Under no circumstances are co-lead counsel, the executive committee, or any member of
+the PSC responsible for the filings. discovery, or any other issue or matter related to an
+individual plaintifts case or claim. More specifically, the PSC is in no way responsible fbr the
+attorney client relationship and the duties and responsibilities each individual attorney or law
+rrn owe to their clients in prosecution of their individual case.",,,21
+2792-6,2792,6,Products Liability,2017-10-13,D,DJ,,,,2,,,,,,,checked,checked,,checked,checked,2
+2792-10,2792,10,Products Liability,2017-10-18,D,DJ,,,,,,,,,,Communications,,,,,checked,2
+2792-52,2792,52,Products Liability,2017-12-06,D,DJ,,checked,,4,,checked,,,,"LeadCounsel,ClassCounsel,Management,Communications",checked,checked,,checked,checked,14
+2792-160,2792,160,Products Liability,2019-06-07,D,DJ,,,,,,,,,,LeadCounsel,,,,,checked,3
+2809-162,2809,162,Products Liability,2018-09-06,KKC,DJ,,,,5,,checked,checked,,,"LeadCounsel,Communications,Management,Coordination",,,,checked,,15
+2814-25,2814,25,Products Liability,2018-05-08,AB,DJ,,,,2,,checked,,,checked,"LeadCounsel,Communications",,,,checked,,1
+2816-57,2816,57,Products Liability,2018-05-31,JEJ,DJ,,,,3,,,,,,"LeadCounsel,Communications,Management",,,,,,7
+2816-86,2816,86,Products Liability,2018-07-10,JEJ,DJ,,,,,,checked,,,,"LeadCounsel,Communications,Management",,,Specifies duties for committees created in CMO 3,,,0
+2816-87,2816,87,Products Liability,2018-07-10,JEJ,DJ,,,,1,,,,,,Coordination,,,,checked,,3
+2841-59,2841,59,Products Liability,2018-08-17,DPG,DJ,checked,checked,,3,,checked,,,checked,"LeadCounsel,Communications,Management",,,Interesting stuff on leaders' power to enter into stipulations,checked,,4
+2846-16,2846,16,Products Liability,2018-09-19,EAS,DJ,,checked,,4,,checked,,,checked,"Management,Communications,LeadCounsel",,,"Under no circumstances are Co-Lead Counsel, Liaison Counsel, the members of the PEC, or any member of the PSC responsible for filings, discovery, or any other issue or matter related to an individual plaintiff's case or claim. More specifically, Co-Lead Counsel, Liaison Counsel, the members of the PEC, or any member of the PSC are in no way responsible for the attorneyclient relationship and the duties and responsibilities each individual attorney or law firm owe to their client(s) in the prosecution of their individual case(s).",checked,,15
+2846-189,2846,189,Products Liability,2019-06-27,EAS,DJ,,,,4,,checked,,,checked,"Management,Communications,LeadCounsel",,,,checked,,17
+2848-7,2848,7,Products Liability,2018-09-11,HB,DJ,,checked,,5,,checked,,checked,checked,"LeadCounsel,Management,Communications,Coordination",,,"Cnder no circumstances are Co-Lead counsel, the PEC or any member of the PSC responsible for the filings, discovery, or any other issue or matter related to an individual plaintiff's case or claim. More specifically, the PSC is in no way responsible for the attorneyclient relationship and the duties and responsibilities each individual attorney or law firm owe to their clients in prosecution of their individual case.",checked,,11
+2848-19,2848,19,Products Liability,2018-09-25,HB,DJ,,,,1,,checked,,,,Coordination,,,,,checked,1
+2848-277,2848,277,Products Liability,2019-04-25,HB,DJ,,,,,,,,,,Management,,,,checked,,1
+2848-364,2848,364,Products Liability,2019-09-03,HB,DJ,,,,,,,,,,Management,,,,checked,,1
+2848-765,2848,495,Products Liability,2020-02-04,HB,DJ,,,,,,,,,,Management,,,,checked,,1
+2859-3,2859,3,Products Liability,2018-10-26,PAC,DJ,,,,1,,,,,checked,LeadCounsel,,checked,,checked,,3
+2859-33,2859,33,Products Liability,2018-12-17,JMF,DJ,,checked,,2,,,,,,Management,,,"Tells leadership committees to submit orders with their own duties. Docket indicates assigned to Crotty but signed by Jesse Furman.
+
+The Zimmer Defendants objected to Andrew Norden’s membership on the PEC absent an agreement to stay and coordinate all state court proceedings with these MDL proceedings. (Dkt. 10.) This Court overruled that objection and adopted Plaintiffs’ leadership structure as described above.
+
+
+
+",checked,,7
+2859,2859,2859,Products Liability,2019-01-30,PAC,DJ,,,,,,checked,checked,,,Management,,checked,"Really long specification of duties of PEC and PSC, including duty to contribute to common benefit fund ",,,0
+2873-48,2873,48,Products Liability,2019-03-20,RMG,DJ,,,,7,,checked,,,checked,"LeadCounsel,Management,Communications",,,"Includes an ""Advisory Counsel to the PEC"" with one attorney (coded as Management)",checked,checked,31
+2873-72,2873,72,Products Liability,2019-04-26,RMG,DJ,,,,1,,,,,,"Management,Coordination",,,,checked,checked,10
+2873-130,2873,130,Products Liability,2019-06-26,RMG,DJ,,,,,,,,,checked,,,,,,,0
+2873-391,2873,391,Products Liability,2019-11-01,RMG,DJ,,,,,,,,,,Coordination,,,,,checked,3
+2873-529,2873,529,Products Liability,2020-03-23,RMG,DJ,checked,checked,,,,,,,,"LeadCounsel,Communications,Management,Coordination",,,Really big reappointment order. Includes Advisory Counsel to the PEC (coded as Management). Includes really big defense side structure. ,checked,checked,43
+2873-5536,2873,529,Products Liability,2020-03-30,RMG,DJ,,,,,,,,,,Management,,,,checked,,0
+2875-5,2875,5,Products Liability,2019-02-25,RBK,DJ,,,,1,,checked,,,,Communications,,checked,,,,0
+2875-96,2875,96,Products Liability,2019-05-06,PBK,DJ,,,,7,,,,,,"LeadCounsel,Coordination,Management",,,"Creates separate PSCs for economic reimbursement and personal injury. Drafted by counsel. 
+
+""Plaintiffs may establish PEC/PSC Committees to focus on particular areas of the litigation, including for example the TPP Committee comprised of co-chairs Andres Rivero, (Rivero Mestre), Gregory Hansel (Preti Flaherty), and Peter St Phillip (Lowey Dannenberg), and a Discovery Committee, Science Committee, Law and Briefing
+Committee, Time and Expense Committee, and potentially others.""",,,45
+2875-313,2875,313,Products Liability,2019-12-06,PBK,DJ,,,,,,,,,,Management,,,,,checked,1
+2886-5,2886,5,Products Liability,2019-04-29,DCN,DJ,,,,1,,checked,,,,Communications,,,Defines duties of Liaison counsel prior to appointment ,checked,,0
+2886-22,2886,22,Products Liability,2019-12-17,DCN,DJ,,,,5,,checked,checked,,checked,"LeadCounsel,Management,Communications",,,,checked,checked,12
+2887-20,2887,20,Products Liability,2019-07-31,JAR,DJ,checked,checked,,5,,,,,checked,,checked,checked,"""Any non-lead counsel may file motions for relief from or to modify this or any other order of the Court, but are cautioned that they should do so only if there is a matter of the utmost importance that they have already unsuccessfully sought to have raised by their Lead Counsel.""
+
+""Any proposed settlement that resolves, in whole or in part, the claims filed in this action shall first be subject to review and approval by the Court. Any discussions of such a settlement must be conducted by Plaintiffs’ Co-Lead Counsel.""",,,10
+2441-5,2441,5,Products Liability,2013-07-05,DWF,DJ,,,,2,,,,,,"LeadCounsel,Communications",,,,checked,,2
+2441-114,2441,114,Products Liability,2013-11-05,DWF,DJ,,,,4,,checked,,,,"LeadCounsel,Management,Communications",,,"Creates a ""Lead Counsel Committee."" Coded all members as LeadCounsel",checked,checked,29
+2441-785,2441,785,Products Liability,2016-02-26,DWF,DJ,,,,1,,,,,,Fees,,,,checked,,4
+2441-789,2441,789,Products Liability,2016-03-15,DWF,DJ,,,,,,,,,,Fees,,,,checked,,1
+2441-1257,2441,1257,Products Liability,2019-04-25,DWF,DJ,,,,,,,,,,LeadCounsel,,,"Replaces Charles S. Zimmerman, who died. ",,,2
+2326-3,2326,3,Products Liability,2012-02-29,JRG,DJ,,,,,,checked,,,,"LeadCounsel,Communications,Management",,checked,,checked,,0
+2326-103,2326,103,Products Liability,2012-04-17,JRG,DJ,checked,checked,,7,,checked,,checked,,"LeadCounsel,Communications,Management",,,Super appointment order for four MDLs. Goes along with a consensus slate of a bazillion attorneys that the plaintiffs came up with themselves. ,checked,checked,76
+2326-1289,2326,1289,Products Liability,2016-01-15,JRG,DJ,,,,1,,checked,,,,Fees,,,,,,9
+2326-4178,2326,4178,Products Liability,2017-08-09,JRG,DJ,,,,,,,,,,LeadCounsel,,,,,checked,2
+2326-7902,2326,7902,Products Liability,2019-03-13,JRG,DJ,,,,,,checked,,,,Fees,,,"Reappoints prior FCC. Note that order 7900 is identical, also issued the same day. Only entered once.",,,9
+2327-6,2327,6,Products Liability,2012-02-29,JRG,DJ,,,,,,checked,,,,"Communications,Management",,,Specifies duties of PSC and Liaison counsel prior to appointment,,,0
+2327-120,2327,120,Products Liability,2012-04-17,2012-04-17,DJ,checked,checked,,7,,checked,,,checked,"LeadCounsel,Management,Communications,Coordination",,,,checked,checked,16
+2327-1845,2327,1845,Products Liability,2016-01-15,JRG,DJ,,,,1,,checked,,,,Fees,,,,checked,,9
+2327-7644,2327,7644,Products Liability,2019-03-19,JRG,DJ,,,,,,checked,,,,Fees,,,Reappointment of fee committee,,,9
+2672-545,2672,545,Products Liability,2016-01-05,CRB,DJ,,,checked,1,,,,,,"LeadCounsel,ClassCounsel",checked,,,checked,,1
+2672-1084,2672,1084,Products Liability,2016-01-21,CRB,DJ,checked,checked,,3,,checked,,checked,checked,"LeadCounsel,Communications,Management",,,,checked,checked,22
+2672-1256,2672,1256,Products Liability,2016-02-25,CRB,DJ,,,,1,,checked,,,,Coordination,,,Specifies functions State Court Liaison Counsel is to perform and calls for nominations. ,,,0
+2672-1327,2672,1327,Products Liability,2016-03-04,CRB,DJ,,checked,,,,,,,,Coordination,,,,,,2
+2672-1698,2672,1698,Products Liability,2016-07-29,CRB,DJ,,,checked,1,,,,,,SettlementAdministration,checked,checked,,checked,,22
+2672-2023,2672,2023,Products Liability,2016-10-11,CRB,DJ,,,checked,1,,,,,,"LeadCounsel,ClassCounsel",checked,checked,,checked,,1
+2672-2077,2672,2077,Products Liability,2016-10-18,CRB,DJ,,,checked,1,,,,,,"SettlementAdministration,ClassCounsel",,,,checked,,2
+2672-5077,2672,5077,Products Liability,2018-06-07,CRB,DJ,,,checked,1,,checked,,,,"LeadCounsel,ClassCounsel",,,,checked,,4
+2885-3,2885,3,Products Liability,2019-04-05,MCR,DJ,,,,1,,checked,,,,LeadCounsel,,checked,,checked,,1
+2885-76,2885,76,Products Liability,2019-04-19,MCR,DJ,,,,12,,checked,,,checked,"LeadCounsel,Management,Communications,Discovery,Fees,Settlement",,,Includes several committee types we don't have as of 3/23. Emphasizes diversity; competitive application process.  Invites applications including law firm information form.,checked,checked,0
+2885-376,2885,376,Products Liability,2019-05-22,MCR,DJ,checked,checked,,,,checked,,,checked,"LeadCounsel,Management,Communications,Discovery,Motions,Fees,Expert,Settlement",,checked,"Lots of committee types that we didn't have as of 3/23. Says that appointment decisions were made by ""the Panel.""",checked,checked,58
+2885-453,2885,453,Products Liability,2019-06-20,MCR,DJ,,,,5,,,,,,"LeadCounsel,Communications,Discovery,Settlement",,,Also includes appointments to Armed Services Comm. and Statute of Limitations Comm.,,checked,10
+2885-1130,2885,1130,Products Liability,2020-05-16,MCR,DJ,,checked,,,,,,,,"LeadCounsel,Management,Communications,Discovery,Motions,Fees,Expert,Settlement,Vetting",,,,checked,,55
+2885-1131,2885,1131,Products Liability,2020-05-16,MCR,DJ,,checked,,,,,,,,"LeadCounsel,Management,Communications,Discovery,Motions,Fees,Expert,Settlement,Vetting",,,"Ministerial correction to 2885-1130
+",checked,,56
+2879-3,2879,3,Miscellanous,2019-02-13,PWG,DJ,,,,2,,checked,,,,Communications,,checked,Did this one with the RAs -- doublecheck later ,checked,checked,3
+1700-2428,1700,2428,Employment Practices ,2011-01-19,RLM,DJ,,,,2,0,,,,,Communications,,,,checked,checked,5
+2179-506,2179,506,Common Disaster,2010-10-08,CJB,DJ,,checked,,2,,checked,checked,,,Management,,,Plaintiffs Liaison Counsels James Roy and Stephen Herman were appointed to the Plaintiffs Executive Committee. PSC members Brian Barr and Scott Summy were also appointed to the Plaintiffs Executive Committee.,checked,,17
+2179-2,2179,2,Common Disaster,2010-08-10,CJB,DJ,,,,4,,checked,checked,,,"Communications,Management",,checked,"Liaison counsels in consolidated action were appointed until a new liaison counsel was appointed. I considered this an ""interim"" appointment.
+
+4 OUs created were: 1. Interim Liaison Counsel (Plaintiff); 2. Interim Liaison Counsel (Def), 3. PSC (No appointment yet), and 4. Def. SC. ",checked,,3
+2179-110,2179,110,Common Disaster,2010-08-27,CJB,DJ,,,,3,,checked,,,,Communications,,,"Interim Co-Liaison Counsel James Roy and Stephen Herman were appointed Plaintiffs' Co-Liaison Counsel. They were also ordered to serve as ex officio members of the PSC, and act as members of the Executive Committee.
+",checked,,2
+2179-567,2179,567,Common Disaster,2010-10-19,CJB,DJ,,checked,,2,,,,,,"Management,Communications",,,,,checked,16
+2179-4226,2179,4226,Common Disaster,2011-10-05,CJB,DJ,,checked,,,,checked,,,,"Management,Communications",,,All are reappointments except for Joseph Rice and Conrad Williams.,checked,,19
+2179-5960,2179,5960,Common Disaster,2012-03-05,CJB,DJ,,,,1,,,,,,ClassCounsel,checked,,,checked,,2
+2179-7350,2179,7350,Common Disaster,2012-09-10,CJB,DJ,,,,,,checked,,,,"Management,Communications",,,Reappointment,,,19
+2179-11557,2179,11557,Common Disaster,2013-10-01,CJB,DJ,,,,,,checked,,,,"Management,Communications",,,Reappointment,checked,,18
+2179-13817,2179,13817,Common Disaster,2014-12-10,CJB,DJ,,,,,,checked,,,,"Management,Communications",,,Reappointment,checked,,18
+2179-15394,2179,15394,Common Disaster,2015-09-28,CJB,DJ,,,,,,checked,,,,"Management,Communications",,,Reappointment,checked,,18
+2179-21767,2179,21767,Common Disaster,2016-10-04,CJB,DJ,,,,,,checked,,,,"Management,Communications",,,Reappointment,checked,,18
+2179-23456,2179,23456,Common Disaster,2017-09-29,CJB,DJ,,,,,,checked,,,,"Management,Communications",,,Reappointment,checked,,17
+2179-25224,2179,25224,Common Disaster,2018-12-11,CJB,DJ,,,,,,,,,,"Management,Communications",,,"The Court no longer appointed/re-appointed members to the PSC, but retained the co-liaison counsel.",checked,,2
+2331-390,2331,390,Products Liability,2018-04-12,CJB,DJ,,,,1,,checked,,,,Settlement,,,,checked,checked,3
+2543-19,2543,19,Sales Practices,2014-06-24,JMF,DJ,,,,1,,checked,,,checked,LeadCounsel,,checked,,checked,,3
+2543-249,2543,249,Sales Practices,2014-08-15,JMF,DJ,,checked,,4,,checked,,,,"LeadCounsel,Management,Communications,Coordination",,checked,,checked,,15
+2543-304,2543,304,Sales Practices,2014-09-16,JMF,DJ,,,,,,checked,checked,checked,checked,"LeadCounsel,Communications,Coordination,Management",,checked,This is a separate order that outlined the duties and responsibilities of the appointed lawyers. This is not a reappointment.,checked,,15
+2566-79,2566,79,Securities ,2014-12-23,TSH,DJ,,,,2,,checked,checked,,,"LeadCounsel,Management",,,,checked,,6
+2566-116,2566,116,Securities ,2015-03-15,TSH,DJ,,,,2,,checked,checked,,,,,,,checked,,2
+2595-12,2595,12,Miscellanous,2015-04-13,KOB,DJ,,,,2,,,,,,"LeadCounsel,Communications",,,,checked,,4
+2595-14,2595,14,Miscellanous,2015-04-16,KOB,DJ,,checked,,3,,checked,checked,,,,checked,,,checked,,11
+2595-16,2595,16,Miscellanous,2015-05-11,KOB,DJ,,,,,,,,,,Management,,,Removal of one PSC member,,,2
+2595-202,2595,202,Miscellanous,2018-12-19,KOB,DJ,,,,1,,,,,,Settlement,,,Appointment of co-lead counsel as settlement counsel,checked,,2
+1916-103,1916,103,Miscellanous,2008-08-12,KAM,DJ,,,,1,,,,,,LeadCounsel,,,Co-lead counsel designated only for the derivative actions. ,checked,,2
+1916-147,1916,147,Miscellanous,2008-09-19,KAM,DJ,checked,checked,,1,,,,,,LeadCounsel,,,This appointment is to serve as lead counsel only of a single case in the MDL and arouse out of a leadership dispute between two plaintiffs that was later resolved via stipulation. Judge Marra initially requested applications from both plaintiffs in Doc. 130. It is not an appointment to be lead counsel of the entire MDL. ,checked,,1
+2009-59,2009,59,Securities ,2010-11-05,SHM,DJ,,,,2,,,,,,"LeadCounsel,Communications",,,"Order names only firms, not individual lawyers to serve as lead and liaison counsel. Names Barroway Topaz Kessler Meltzer & Cheek, LLP as lead counsel and Bramlett Law Offices as liason counsel. This ruling appears only to relate to a certain group of four actions, not the entire MDL. ",checked,,2
+1570-9212,1570,9212,Common Disaster,2023-07-17,GBD,DJ,checked,,,,,,,,,,,checked,Removes members of PEC who leaked deposition transcript as sanction,checked,,4
+2885-1795,2885,1795,Products Liability,2021-05-26,MCR,DJ,,,,,,,,,,"LeadCounsel,Management,Communications,Discovery,Motions,Fees,Expert,Settlement",,,"Continues a number of committees and subcommittees, but these are unchanged from entry #1131. Most of the attorneys are reappointments, but there are some new attorneys.",checked,,47
+2885-2177,2885,2177,Products Liability,2021-10-06,MCR,DJ,,,,,,,,,,"Motions,Management",,,Adds members to the PSC and Law & Briefing Subcommittee,checked,,6
+2885-3080,2885,3080,Products Liability,2022-05-06,MCR,DJ,,,,,,,,,,"LeadCounsel,Management,Communications,Fees,Discovery,Vetting,Expert,Motions,Settlement",,,"Does not create any new units but continues with the structure laid out in previous orders. Most attorneys were reappointed, however there are several new appointments and some did not reapply. ",checked,,63
+2885-3734,2885,3734,Products Liability,2023-05-15,MCR,DJ,,checked,,,,,,,,,,,Requests applications to re-appoint P's leadership in previous order #3717,checked,,65
+2885-3863,2885,3863,Products Liability,2023-09-11,MCR,DJ,,,,,11,,,,,"LeadCounsel,Communications,Management,Discovery,Motions,Fees,Expert,Settlement,Vetting",,,Terminates all appointments with the exception of Bryan Aylstock as lead counsel.,checked,,1
+2879-238,2879,238,Miscellanous,2019-04-29,PWG,DJ,checked,checked,,4,,checked,,,,"LeadCounsel,Management,Communications,ClassCounsel",checked,checked,"Creates sub-OU's for each plaintiff type. All co-lead counsel are ""designated as Co-Interim Class Counsel"" but is unclear whether the order is referring to all attorneys designated as co-lead counsel or merely those designated as co-lead counsel for the securities actions. ",checked,checked,43
+2879-1015,2879,1015,Miscellanous,2022-05-03,PWG,DJ,,,checked,1,,,,,,ClassCounsel,checked,,Continues appointments set out in #238 alongside naming class counsel. ,checked,,3
+2875-455,2875,455,Products Liability,2020-06-03,RBK,DJ,,,,,,,,,,Management,,,Expands PSC created in #96,checked,,4
+2857-500,2875,500,Products Liability,2020-06-29,RBK,DJ,,,,,,,,,,Management,,,Moved to be withdrawn from PSC in #494,checked,,1
+2875-540,2875,540,Products Liability,2020-08-04,RBK,DJ,,,,,,,,,,Management,,,Replacement for withdrawal in previous order,checked,,1
+2875-1957,2875,1957,Products Liability,2022-03-03,RBK,DJ,,,,1,,,,,,Settlement,,,,checked,checked,13
+2875-1997,2875,1997,Products Liability,2022-04-08,RBK,DJ,,,,,,,,,,Management,,,Court notes Savin is removed from PSC but I cannot locate the order originally appointing him,checked,,7
+2875-2261,2875,2261,Products Liability,2023-02-08,RBK,DJ,,,checked,1,,,,,,ClassCounsel,checked,,Order has a typo in Gemen's name,checked,,2
+2633-35,2633,35,Miscellanous,2015-08-07,MHS,DJ,,checked,,2,,,,,,"LeadCounsel,Communications",checked,,,checked,,7
+2633-43,2633,43,Miscellanous,2015-10-06,MHS,DJ,,,,3,,checked,checked,,,"LeadCounsel,Communications,Management",checked,,,checked,,10
+2738-22196,2738,22196,Products Liability,2021-06-03,LHG,MJ,,,,1,,checked,,,,Communications,,,Appointment of a pro se liaison counsel,checked,,1
+2738-26586,2738,26586,Products Liability,2022-12-08,FLW,DJ,,,,1,,,,,,Management,,,,checked,,1
+2768-1574,2768,1574,Products Liability,2012-12-16,IT,DJ,,,,1,,checked,,,,SettlementAdministration,,,,checked,,5
+2874-48,2874,48,Intellectual Property,2019-04-08,SI,DJ,,checked,,1,,,,,,Communications,,,Only appoints D's liaison counsel ,,checked,1
+2865-30,2865,30,Miscellanous,2018-11-20,LAK,DJ,,checked,,1,,,,,,LeadCounsel,,,,,checked,1
+2859-334,2859,334,Products Liability,2021-03-02,PAC,DJ,,,,,,,,,,Management,,,Readopts P's previous leadership slate with one change,checked,,10
+2843-102,2843,102,Miscellanous,2018-07-27,VC,DJ,,checked,,1,,checked,,,,LeadCounsel,,,"Solicited applications and named ""finalists"" in doc #76 before officially naming lead counsel in this order. Later defines duties in doc #120",checked,,2
+2833-20,2833,20,Contract ,2018-09-12,CDJ,DJ,,,,1,,,,,,ClassCounsel,,,,checked,,1
+2833-29,2833,29,Contract ,2018-10-16,CDJ,DJ,,,,2,,,,,,"LeadCounsel,Management",,,,checked,,8
+2828-104,2828,104,Sales Practices,2018-06-18,MHS,DJ,,,,,,,,,,"LeadCounsel,Management,Communications",checked,,Creates appointments only on an interim basis with one year renewable terms,checked,,11
+2775-1789,2775,1789,Products Liability,2019-09-24,CCB,DJ,,,,,,,,,,"LeadCounsel,Management,Communications",,,Reappointment and adding new PSC members,checked,,20
+2809-607,2809,607,Products Liability,2020-12-22,KKC,DJ,,,,,,,,,,Management,,,,checked,,1
+2818-13,2818,13,Sales Practices,2018-04-11,MFL,DJ,,checked,,1,,checked,checked,,,LeadCounsel,,,,checked,,4
+2846-3,2846,3,Products Liability,2018-08-17,EAS,DJ,,,,3,,,,,,"LeadCounsel,Communications,Management",,,,checked,,3
+2846-855,2846,855,Products Liability,2024-09-16,EAS,DJ,,,,,,,,,,Management,,,Resignation,checked,,1
+2827-99,2827,99,Miscellanous,2018-05-01,EJD,DJ,checked,checked,,14,,,,,,"LeadCounsel,Management,Discovery,Motions,Settlement,Expert,Trial,Communications",checked,,"Dearman appointed as ""chair"" of the PEC",checked,,59
+2522-64,2522,64,Miscellanous,2014-05-15,PAM,DJ,,checked,,8,,checked,checked,,checked,"LeadCounsel,Management,Communications",checked,,"Appoints ""Coordinating"" lead and liaison counsel to oversee entire litigation, as well as lead and liaison counsel for specific groups of plaintiffs. Subject to reappointment in a year.",checked,,8
+2522-74,2522,74,Miscellanous,2014-05-22,PAM,DJ,,,,3,,,,,,Management,,,"Appoints executive/steering committees to assist coordinating lead/liaison counsel, financial institution lead/liaison counsel, and consumer lead/liaison counsel counsel.",checked,,11
+2522-364,2522,364,Miscellanous,2015-03-19,PAM,DJ,,,checked,1,,,,,,"Settlement,SettlementAdministration",checked,,,checked,,6
+2522-436,2522,436,Miscellanous,2015-06-02,PAM,DJ,,,,,,,,,,"LeadCounsel,Communications",,,"Order says that it is reappointing all lead and liaison counsel originally appointed in entry 64 - except for the liaison counsel for the shareholder derivative cases, where it is reappointing an apparent substitution made earlier. It seems this substitution may have happened in a different docket.",checked,,7
+2873-536,2873,536,Products Liability,2020-03-30,RMG,DJ,,,,,,,,,,Management,,,,checked,,1
+2873-1358,2873,1358,Products Liability,2021-03-24,RMG,DJ,checked,checked,,,,,,,,"LeadCounsel,Management,Communications,Coordination",,,Appointments for March 2021-2022 term. Plaintiffs and Defense. Robert A. Bilott is Advisory Counsel to the PEC (coded as management in line with what the previous coder did).,checked,checked,50
+2873-2259,2873,2259,Products Liability,2022-03-30,RMG,DJ,,checked,,,,,,,,"LeadCounsel,Management,Communications,Coordination",,,Appointments for March 2022-2023 term. Plaintiff and Defense. Advisory Counsel is coded as management in line with what the previous coder did.,checked,checked,49
+2873-3602,2873,3602,Products Liability,2023-08-22,RMG,DJ,,,,,,,,,,LeadCounsel,,,Adding 4th Co-Lead Counsel on Plaintiffs' motion.,checked,,1
+2873-4904,2873,4904,Products Liability,2024-04-25,RMG,DJ,,checked,,,,,,,,"LeadCounsel,Management,Communications,Coordination",,,,checked,checked,54
+2873-5217,2873,5217,Products Liability,2024-06-28,RMG,DJ,,,,,,,,,,ClassCounsel,,,Text Order: granting motion to withdraw David P. Hersh as Lead Class Counsel and substituting Michael S. Burg.,checked,,2
+2873-6357,2873,6357,Products Liability,2024-11-13,RMG,DJ,,,,,,,,,,"LeadCounsel,Management",,,Paul J. Napoli resigned as Plaintiff Co-Lead and the Court accepts. Other Plaintiff Co-Leads continue to serve (not included here because not an appointment). Court appoints Hunter J. Shkolnik as a member of the PEC.,checked,,2
+2827-429,2827,429,Miscellanous,2020-05-07,EJD,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,checked,,2
+2873-1858,2873,1858,Products Liability,2021-08-16,RMG,DJ,,,,,,,,,,Coordination,,,Appointing Maxwell because Kirn withdrew.,,checked,2
+2740-11412,2740,11412,Products Liability,2020-11-10,JTM,DJ,,,,,,,,,,Management,,,"Counsel automatically re-appointed unless cause to remove (or they request to be removed). All counsel holding positions in the MDL are re-appointed (for both P and D), with the exception of Zimmerman and the addition of some attorneys to the PSC. See below.",checked,,36
+2820-36,2820,36,Miscellanous,2018-04-17,SNL,DJ,checked,,,,,checked,,,,,checked,checked,,checked,,11
+2820-354,2820,354,Miscellanous,2019-04-01,SNL,DJ,,,,,,,,,,Management,,,"This is a minute order, no document itself but text of the order was uploaded via a document. Zimmerman was removed due to his death.",checked,,2
+2807-343,2807,343,Miscellanous,2020-02-11,JSG,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,checked,,2
+2522-589,2522,589,Miscellanous,2015-09-15,PAM,DJ,,,checked,2,,,,,,ClassCounsel,checked,,,checked,,11
+2797-35,2797,35,Sales Practices,2012-11-17,AJG,DJ,checked,checked,,,,checked,,,,"LeadCounsel,Communications,Management",checked,checked,,checked,,6
+2522-758,2522,758,Miscellanous,2016-05-12,PAM,DJ,,,checked,1,,,,,,Settlement,checked,,,checked,,9
+2795-25,2795,25,Sales Practices,2018-04-01,MJD,DJ,,checked,,3,,,,,,"LeadCounsel,Management,ClassCounsel",,,"Court names firms to specific roles, and then names ""lead attorneys"" from the firms, but does not appoint the individuals to specific roles or positions. Court also notes defendant's counsel, but does not appoint them to anything, so I do not include them below. ",checked,,21
+2795-400,2795,400,Sales Practices,2019-04-23,MJD,DJ,,,,3,,checked,,,,LeadCounsel,,,Appoints counsel only for the derivative actions,checked,,6
+2586-14,2586,14,Miscellanous,2015-04-21,ADM,DJ,,,,3,,checked,,,,"LeadCounsel,Communications,Management",checked,,,checked,,8
+2615-90,2615,90,Miscellanous,2016-03-04,KM,DJ,,,,3,,,,,,Communications,checked,,,checked,,5
+2695-24,2695,24,Sales Practices,2016-05-24,JOB,DJ,,,,5,,checked,checked,,,"LeadCounsel,Management,Communications,Coordination",checked,checked,,checked,,17
+2695-205,2695,205,Sales Practices,2018-08-31,JOB,DJ,,,,,,,,,,LeadCounsel,checked,,"Yanchunis made a motion to withdraw both as co-lead counsel and to withdraw entirely from the case. The court granted his motion to withdraw as co-lead, but denies his motion to withdraw from the case.",checked,,1
+2695-247,2695,247,Sales Practices,2019-06-24,JOB,DJ,,,,,,,,,,Communications,,,"Granting motion for Mcginn to withdraw as Liaison Counsel, and substitute Nancy Long.",checked,,2
+2709-5,2709,5,Sales Practices,2016-06-22,GAF,DJ,,,,2,,checked,checked,,checked,"LeadCounsel,Communications",checked,,,checked,,2
+2709-228,2709,228,Sales Practices,2019-03-21,GAF,DJ,,,checked,17,,,,,,"ClassCounsel,LeadCounsel",checked,,"Appoints a lead counsel over all classes, as well as class counsel for each different class/state.",checked,,30
+2709-259,2709,259,Sales Practices,2021-02-08,GAF,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,,checked,,23
+2737-134,2737,134,Miscellanous,2017-03-13,MSS,DJ,,,,,,,,,,Management,,,Replacing Steering Committee member. Original appointment order of committee is sealed.,checked,,2
+2737-249,2737,249,Miscellanous,2020-11-02,MSS,DJ,,,checked,1,,checked,,,,"Settlement,ClassCounsel",checked,,,checked,,2
+2795-404,2795,404,Sales Practices,2019-05-30,MJD,DJ,,,,3,,checked,,,,"LeadCounsel,Management,Communications",,,,checked,,6
+2795-813,2795,813,Sales Practices,2020-09-14,MJD,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,,,2
+2779-61,2779,61,Sales Practices,2017-08-22,MAS,DJ,checked,checked,,3,,checked,,,,,checked,,"Court conditionally appoints Steve W. Berman to co-lead counsel should the mdl ""grow in size""",checked,,12
+2020-236,2020,236,Contract ,2009-07-31,FSH,DJ,checked,checked,,3,,checked,,checked,checked,"Management,LeadCounsel,Settlement",checked,checked,"Plaintiffs struggled over months to reach agreement on leadership structure. Court set it up as one executive committee, and appointed a chair of the committee and settlement liaison within the committee.",checked,,6
+2020-898,2020,898,Contract ,2013-08-13,FSH,DJ,,,checked,1,,,,,,"Settlement,ClassCounsel",checked,,,checked,,15
+2067-19,2067,19,Sales Practices ,2009-12-30,NMG,DJ,,,,4,,checked,checked,,,"Management,ClassCounsel",checked,checked,,,,6
+2338-10,2338,10,Securities ,2012-05-21,VM,DJ,checked,checked,,2,,,checked,,,"LeadCounsel,Management",checked,,"Specifically directs the leadership structure to coordinate with one party who has maintained an individual action, as well as the normal duties. ",checked,,6
+2338-43,2338,43,Securities ,2013-03-28,VM,DJ,,,checked,1,,,,,,"Settlement,ClassCounsel",checked,,,checked,,2
+2338-69,2338,69,Securities ,2013-12-20,VM,DJ,,,checked,,,,,,checked,"Settlement,ClassCounsel",checked,,,checked,,2
+2338-70,2338,70,Securities ,2013-12-20,VM,DJ,,,checked,,,,,,checked,"Settlement,ClassCounsel",checked,,,checked,,2
+2338-72,2338,72,Securities ,2014-01-31,VM,DJ,,,checked,1,,,,,checked,"Settlement,ClassCounsel",checked,,,checked,,2
+2382-61,2382,61,Sales Practices,2013-05-31,HEA,DJ,checked,,,3,,,,,,"LeadCounsel,Management",checked,checked,,checked,,8
+2587-76,2587,76,Miscellanous,2015-03-15,SAF,DJ,checked,checked,,4,,checked,checked,,checked,"LeadCounsel,Management,Communications",checked,checked,,,checked,24
+2587-172,2587,172,Miscellanous,2016-04-22,SAF,DJ,,,,,,checked,,,,"LeadCounsel,Management,Communications",checked,checked,"Amends Order 76 to group by LEC (Local Exchange Carrier) as some now are plaintiffs, while others are defendants. Have not marked plaintiff or defendant. Also removed John S. Cooper.",,,24
+2590-746,2590,746,Products Liability,2020-01-21,JBG,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,checked,,3
+2591-67,2591,67,Miscellanous,2015-01-22,JWL,DJ,checked,,,5,,checked,,,,"LeadCounsel,Management,Communications",checked,checked,,checked,checked,15
+2591-2547,2591,2547,Miscellanous,2016-09-26,JWL,DJ,,,checked,1,,,,,,ClassCounsel,checked,checked,,checked,,4
+2591-3366,2591,3366,Miscellanous,2017-08-08,JWL,DJ,,,,1,,,,,,Settlement,,,,checked,,4
+2591-3532,2591,3532,Miscellanous,2018-04-10,JWL,DJ,,,checked,4,,,,,,"Settlement,ClassCounsel",checked,,,checked,,6
+2153-14,2153,14,Sales Practices ,2010-07-16,GHW,DJ,checked,,,3,,checked,,,,"LeadCounsel,Communications,Management",,checked,,checked,,5
+1871-5387,1871,5387,Products Liability,2021-11-30,CMR,DJ,,,,,,,,,,Communications,,,,,,1
+2036,2036,2036,Contract ,2009-09-02,JLK,DJ,checked,,,3,,checked,,,,"Management,LeadCounsel",,,,checked,checked,9
+2036-1128,2036,1128,Contract ,2011-02-04,JLK,DJ,,,,1,,checked,,,,Management,,,Creates coordinating counsel post for lawyer who switched firms,checked,,3
+2036-1763,2036,1763,Contract ,2011-07-25,JLK,DJ,checked,,,1,,,,,,ClassCounsel,checked,,Class certification order,,,8
+2036-1912,2036,1912,Contract ,2011-10-03,JLK,DJ,,,,,,,,,,LeadCounsel,,,Reappoints Bruce Rogow after he switched firms ,,,1
+2036-2615,2036,2615,Contract ,2011-07-25,JLK,DJ,checked,,checked,1,,,,,,,checked,,Grants class certification ,checked,,9
+2036-2657,2036,2657,Contract ,2012-04-26,JLK,DJ,,,checked,1,,,,,,ClassCounsel,checked,checked,"Approves settlement and certifies settlement class. Class counsel are listed in the settlement agreement, which we didn't have as of Feb. 2025, and so aren't coded.",,,0
+2036-2659,2036,2659,Contract ,2012-04-26,JLK,DJ,,,checked,1,,,,,,ClassCounsel,,,Approves motion for certification of settlement class ,,,20
+2036-2673,2036,2673,Contract ,2012-02-04,JLK,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,checked,,10
+2036-2697,2036,2697,Contract ,2012-05-16,JLK,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,,,8
+2036-2875,2036,2875,Contract ,2012-08-10,JLK,DJ,,,checked,1,,,,,,ClassCounsel,,,,,,8
+2036-2949,2036,2949,Contract ,2012-09-13,JLK,DJ,,,,,,,,,,ClassCounsel,checked,,,checked,,17
+2036-3128,2036,3128,Contract ,2012-12-18,JLK,DJ,,,,,,,,,,"ClassCounsel,SettlementAdministration",checked,,Counsel listed in settlement agreement and not yet coded,,,13
+2036-3134,2036,3134,Contract ,2012-12-19,JLK,DJ,,,,,,,,,,"ClassCounsel,SettlementAdministration",checked,,,,,25
+2036-3331,2036,3331,Contract ,2013-03-12,JLK,DJ,,,,2,,,,,,"SettlementAdministration,ClassCounsel",checked,,,checked,,21
+2036-3339,2036,3339,Contract ,2013-03-18,JLK,DJ,,,,2,,,,,,"ClassCounsel,SettlementAdministration",checked,,,checked,,21
+2036-3570,2036,3570,Contract ,2013-08-02,JLK,DJ,,,checked,2,,,,,,"ClassCounsel,SettlementAdministration",checked,,,checked,,13
+2036-3572,2036,3572,Contract ,2013-08-02,JLK,DJ,,,checked,2,,,,,,"SettlementAdministration,ClassCounsel",checked,,,checked,,13
+2036-3574,2036,3574,Contract ,2013-08-02,JLK,DJ,,,checked,2,,,,,,"SettlementAdministration,ClassCounsel",checked,,,checked,,13
+2036-3576,2036,3576,Contract ,2013-08-02,JLK,DJ,,,checked,2,,,,,,"SettlementAdministration,ClassCounsel",checked,,,checked,,13
+2036-3578,2036,3578,Contract ,2013-08-02,JLK,DJ,,,checked,2,,,,,,"SettlementAdministration,ClassCounsel",checked,,,checked,,13
+2036-3580,2036,3580,Contract ,2013-08-05,JLK,DJ,,,checked,2,,,,,,"SettlementAdministration,ClassCounsel",checked,,Counsel listed in settlement agreement and not coded yet ,checked,,17
+2036-3818,2036,3818,Contract ,2014-04-01,JLK,DJ,,,checked,2,,,,,,"SettlementAdministration,ClassCounsel",checked,,,checked,,13
+2036-3894,2036,3894,Contract ,2014-06-09,JLK,DJ,,,checked,2,,,,,,"SettlementAdministration,ClassCounsel",checked,,Counsel listed in settlement agreement and not coded yet ,checked,,17
+2036-4088,2036,4088,Contract ,2015-03-15,JLK,DJ,,,checked,2,,,,,,"SettlementAdministration,ClassCounsel",checked,,,checked,,9
+2036-4168,2036,4168,Contract ,2015-05-22,JLK,DJ,,,checked,2,,,,,,"SettlementAdministration,ClassCounsel",checked,,,checked,,12
+,,,,,,,,,,,,,,,,,,,,,,0
+2036-4180,2036,4180,Contract ,2015-06-08,JLK,DJ,,,checked,2,,,,,,ClassCounsel,checked,,,checked,,8
+2036-4181,2036,4181,Contract ,2015-06-18,JLK,DJ,,,checked,,,,,,,"ClassCounsel,SettlementAdministration",checked,,,,,8
+2184-47,2184,47,Miscellanous,2010-10-08,JW,DJ,,,,,,,,,,"ClassCounsel,LeadCounsel",checked,,,checked,,3
+2873-1112,2873,1112,Products Liability,2021-01-15,RMG,DJ,,,,,,,,,,Management,,,,checked,,1
+2666-2263,2666,2263,Products Liability,2022-12-28,JNE,DJ,,,,,,,,,,LeadCounsel,,,,,checked,2
+2666-2259,2666,2259,Products Liability,2022-11-17,JNE,DJ,,,,,,,,,,LeadCounsel,,,"This is a notice of withdrawal, but he was currently appointed as co-lead counsel.",,checked,1
+2592-18012,2592,18012,Products Liability,2021-10-27,EEF,DJ,,,,,,,,,,LeadCounsel,,,,,checked,3
+2740-12102,2740,12102,Products Liability,2021-01-29,JTM,DJ,,,,,,,,,,Settlement,,,,,checked,2
+2740-12759,2740,2740,Products Liability,2021-06-01,JTM,DJ,,,,,,,,,,Settlement,,,,,checked,2
+2789-770,2789,770,Products Liability,2022-03-11,CCC,DJ,,,,,,,,,,Management,,,,checked,,1
+2789-771,2789,771,Products Liability,2022-03-11,CCC,DJ,,,,,,,,,,Management,,,,checked,,1
+2800-232,2800,232,Miscellanous,2018-02-12,TWT,DJ,,checked,,8,,checked,checked,,,,checked,checked,,checked,,31
+2800-1193,2800,1193,Miscellanous,2020-11-16,TWT,DJ,,,checked,,,checked,,,,ClassCounsel,checked,,Final approval of settlement. Class counsel responsible for determining distribution of the fee award. One firm sued the Co-Lead Counsel alleging its fee award was too low and the method for determining fee allocation violated their ethical and fiduciary duties in a Chancery Court. This court enjoins the firm from proceeding saying they have exclusive jurisdiction.,checked,,2
+2800-1283,2800,1283,Miscellanous,2023-12-18,TWT,DJ,,,,,,,,,,LeadCounsel,,,,checked,,1
+2185-79,2185,79,Securities ,2010-12-28,KEP,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,checked,,5
+2185-248,2185,248,Securities ,2010-10-12,KEP,DJ,,,,3,,checked,,,checked,"LeadCounsel,Management,Communications",,,,checked,,6
+2185-141,2185,141,Securities ,2011-04-13,KEP,DJ,,,,,,,,,,Management,,,,checked,,2
+2185-857,2185,857,Securities ,2014-05-20,KEP,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,checked,,2
+2296-569,2296,569,Miscellanous,2012-02-23,WHP,DJ,,,,2,,checked,,,checked,Communications,,checked,,checked,checked,5
+2296-1050,2296,1050,Miscellanous,2012-06-05,WHP,DJ,,,,1,,checked,,,,Communications,,,,checked,,1
+2296-1395,2296,1395,Miscellanous,2012-09-07,WHP,DJ,,,,5,,checked,,,checked,Communications,checked,,,checked,checked,58
+2244-1052,2244,1052,Products Liability,2019-09-11,K,DJ,,,,,,,,,,Fees,,,,,,1
+2263-20,2263,20,Sales Practices,2011-11-10,SM,DJ,checked,checked,,3,,,,,,"LeadCounsel,Management",,,,checked,,11
+2286-21,2286,21,Miscellanous,2012-03-13,MMA,DJ,,checked,,2,,,,,,"LeadCounsel,Communications",checked,checked,,checked,,5
+2286-524,2286,524,Miscellanous,2017-08-01,MMA,DJ,checked,checked,,,,,,,,"LeadCounsel,Communications",checked,checked,,checked,,5
+2286-548,2286,548,Miscellanous,2017-11-29,MMA,DJ,,checked,,,,,,,,Communications,,,,checked,,0
+2744-16,2744,16,Miscellanous,2016-11-16,DML,DJ,,checked,,3,,checked,,,,"LeadCounsel,Management,Communications",,,,checked,,7
+2744-492,2744,492,Miscellanous,2019-12-09,DML,DJ,,,checked,1,,,,,,ClassCounsel,checked,,"Does not specifically name class counsel in the order, but merely says that lead counsel and the PSC are appointed as class counsel",checked,,6
+2743-17,2743,17,Sales Practices,2016-12-22,AJT,DJ,,checked,,2,,,,,,LeadCounsel,,,,checked,checked,3
+2743-43,2743,43,Sales Practices,2017-03-01,AJT,DJ,,,,1,,,,,,LeadCounsel,,,,checked,,3
+2743-85,2743,85,Sales Practices,2017-07-10,AJT,DJ,,,,2,,,,,,Settlement,,,,checked,checked,3
+2743-128,2743,128,Sales Practices,2018-06-15,AJT,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,,,6
+2800-1133,2800,1133,Miscellanous,2020-06-04,TWT,DJ,,,,,,checked,,,,ClassCounsel,checked,,Preliminary approval of settlement; class likely meets all requirements of FRCP 23(a) and (b)(3). Appoints class counsel,checked,,2
+2873-4543,2873,4543,Products Liability,2024-02-26,RMG,DJ,,,,,,,,,,ClassCounsel,checked,,Confirms appointment of class counsel,checked,,5
+2886-25,2886,25,Products Liability,2020-12-18,DCN,DJ,,,,1,,,,,,Settlement,checked,,,checked,,10
+2775-2579,2775,2579,Products Liability,2021-03-24,CCB,DJ,,,,,,,,,,LeadCounsel,,,,checked,,2
+2775-2103,2775,2103,Products Liability,2020-04-03,CCB,DJ,,,,,,,,,,LeadCounsel,,,,checked,,3
+2775-3788,2775,3788,Products Liability,2022-07-01,CCB,DJ,,,,,,,,,,Settlement,,,,,,5
+2295-17,2295,17,Miscellanous,2012-04-09,JAH,DJ,,,,2,,,,,,"LeadCounsel,Communications",,,,checked,,3
+2295-374,2295,374,Miscellanous,2016-06-23,JAH,DJ,,,,2,,,,,,"ClassCounsel,Communications",,,,checked,,5
+2295-596,2295,596,Miscellanous,2018-06-08,JAH,DJ,,,,,,checked,,,,"LeadCounsel,Communications",,,,checked,,3
+2323-64,2323,64,Miscellanous,2012-04-26,ABB,DJ,,,,5,,,,,,"LeadCounsel,Management,Communications",,,The Order is not signed and dated.,checked,checked,28
+2323-72,2323,72,Miscellanous,2012-05-10,ABB,DJ,,,,,,,,,,"LeadCounsel,Management",,,,checked,,3
+2323-3587,2323,3587,Miscellanous,2012-08-28,ABB,DJ,,,,,,,,,,Communications,,,,,checked,1
+2323-9561,2323,9561,Miscellanous,2018-01-08,ABB,DJ,,,,1,,,,,,ProSe,,,Appointment of counsel for pro se settlement class members,checked,,1
+2323-10624,2323,10624,Miscellanous,2019-05-24,ABB,DJ,,,,,,,,,,"LeadCounsel,Management,Communications",,,Appointments terminated except lead counsel,,,30
+2323-10855,2323,10855,Miscellanous,2019-09-16,ABB,DJ,,,,,,,,,,LeadCounsel,,,Revokes prior appointments of plaintiffs' counsel against Riddell defendants,checked,,2
+2353-18,2353,18,Sales Practices,2012-02-14,DMC,DJ,,,,1,,checked,checked,,,LeadCounsel,,,,checked,,1
+2357-202,2357,202,Miscellanous,2014-09-18,RCJ,DJ,,,,3,,,,,,"LeadCounsel,Management,Communications",,,,checked,,7
+2433-20,2433,20,Miscellanous,2013-05-29,EAS,DJ,,,,3,,checked,checked,,,"LeadCounsel,Management,Communications",,,,checked,,9
+2433-5136,2433,5136,Miscellanous,2018-06-06,EAS,DJ,,,,1,,checked,,,,Fees,,,Established Fee Committee,checked,,4
+2272-162,2272,162,Products Liability,2011-11-10,RP,DJ,checked,,,,,checked,,,checked,"LeadCounsel,Communications,Management",,checked,Jointly submitted CMO that carries forward lead counsel appointments from Doc. No. 48,checked,checked,21
+2440-705,2440,705,Products Liability,2019-03-13,JRG,DJ,,,,,,checked,,,,Fees,,,,checked,,9
+2742-98,2742,98,Securities ,2016-12-21,PKC,DJ,,,,2,,checked,,,,"LeadCounsel,Communications",,,,checked,,2
+2742-103,2742,103,Securities ,2016-12-22,PKC,DJ,,,,1,,,,,,LeadCounsel,,,Appoints lead counsel for a specified list of actions. ,,,1
+2742-549,2742,549,Securities ,2019-01-07,PKC,DJ,,,checked,1,,,,,,ClassCounsel,,,,checked,,1
+2741-14966,2741,14966,Products Liability,2022-06-21,VC,DJ,,,checked,1,,,,,,ClassCounsel,,,,checked,,4
+2741-16401,2741,16401,Products Liability,2023-03-31,VC,DJ,,,checked,1,,,,,,ClassCounsel,checked,,Confirms prior appointment of class counsel without specifically renaming the appointments,checked,,4
+2705-111,2705,111,Sales Practices,2016-09-16,GF,DJ,checked,,,2,,checked,,,,"LeadCounsel,Management",checked,,,checked,,12
+2693-85,2693,85,Miscellanous,2016-06-08,JLS,DJ,checked,checked,,3,,checked,,,,"LeadCounsel,Management,Communications",checked,,,checked,checked,7
+2693-297,2693,297,Miscellanous,2019-01-01,JLS,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,checked,,5
+2492-15,2492,15,Miscellanous,2014-02-05,JZL,DJ,,,,,,checked,,,,"LeadCounsel,Communications",,checked,Indicates court's intent to appoint lead counsel and liaison counsel and solicits applications ,checked,checked,0
+2492-76,2492,76,Miscellanous,2014-07-30,JZL,DJ,checked,checked,,4,,checked,checked,checked,,"ClassCounsel,LeadCounsel,Communications",checked,,Resolves leadership fight between Steve Berman and Jay Edelson,checked,checked,7
+2492-291,2492,291,Miscellanous,2016-09-08,JZL,DJ,,,,,,checked,checked,checked,,"LeadCounsel,Communications",,checked,"After most cases settle, solicits leadership applications for Single Sport/Single School Cases. No one seems to have been appointed in response to the order. ",checked,checked,0
+2493-23,2493,23,Miscellanous,2014-02-11,IMK,DJ,,,,3,,checked,,,,,,,,checked,checked,4
+2752-58,2752,58,Miscellanous,2017-02-09,LHK,DJ,checked,checked,,2,,checked,,,,"Management,LeadCounsel",checked,,Create PEC and appoints lead plaintiffs' counsel. Yanchunis is chair of the PEC.,checked,,5
+2677-174,2677,174,Sales Practices,2016-03-31,GAT,DJ,checked,checked,,3,,checked,,,,"LeadCounsel,Management,Communications",checked,,,checked,,13
+2504-194,2504,194,Employment Practices ,2016-05-04,DJH,DJ,,,checked,1,,,,,,ClassCounsel,checked,checked,Certifies settlement class,checked,,5
+2672-7997,2672,7997,Products Liability,2022-07-08,CRB,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,checked,,1
+2504-295,2504,295,Employment Practices ,2016-06-27,DJH,DJ,,,checked,,,,,,,ClassCounsel,checked,,Final settlement class approval,checked,,1
+2672-8088,2672,8088,Products Liability,2022-11-09,CRB,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,checked,,1
+2669-87,2669,87,Miscellanous,2016-02-05,JAR,DJ,checked,checked,,4,,checked,,,,"LeadCounsel,Management,Communications",,checked,Appoints both individuals and firms to plaintiffs' leadership,checked,checked,17
+2669-354,2669,354,Miscellanous,2017-07-21,JAR,DJ,,,checked,1,,checked,,,,Settlement,checked,,Preliminary Approval Order of Settlement -- appoints several firms as class settlement counsel.,checked,,3
+2664-58,2664,58,Miscellanous,2016-01-28,ABJ,DJ,checked,checked,,3,,,,,,"LeadCounsel,ClassCounsel,Management",,,,checked,,5
+2551-18,2551,18,Miscellanous,2014-09-18,SRN,DJ,,checked,,4,,,,,,"LeadCounsel,ClassCounsel,Communications,Management",,,,checked,,12
+2645-41,2645,41,Sales Practices,2015-11-13,WHP,DJ,checked,checked,,,,,,,,ClassCounsel,checked,,Interim Class Counsel appointed for a one year term,,,3
+2645-95,2645,95,Sales Practices,2016-12-30,PWH,DJ,,,,,,,,,,ClassCounsel,,,,checked,,3
+2645-126,2645,126,Sales Practices,2018-03-02,WHP,DJ,,,,,,,,,,ClassCounsel,,,,,,3
+2645-216,2645,216,Sales Practices,2021-03-04,WHP,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,checked,,3
+2627-457,2627,457,Sales Practices,2015-08-05,AJT,DJ,,checked,,2,,,,,,LeadCounsel,,,,checked,checked,5
+2627-1227,2627,1227,Sales Practices,2017-11-30,AJT,DJ,,,,,,,,,,LeadCounsel,,,,,,3
+2804-37,2804,37,Miscellanous,2018-01-04,DAP,DJ,,,,3,,checked,,,,"LeadCounsel,Management,Communications",,checked,"Submitted one motion proposing the committee, but hospital plaintiffs and third party payors made separate motions requesting a seat/separate track. Court ordered the plaintiffs to amend the committee proposal accordingly.",checked,,22
+2804-31,2804,31,Miscellanous,2017-12-29,DAP,DJ,,,,2,,,,,,"Communications,Management",,,Minute entry without a docket entry number - used docket entry 31 as a placeholder since the entry comes right after. (text of the order is in the word doc in the folder),,checked,20
+2804-38,2804,38,Miscellanous,2018-01-04,DAP,DJ,,,,,,,,,,Management,,,"Not an order, but in the order appointing Defendant leadership organizations the Court asked the defendants to designate one more attorney as part of the Steering Committee. This entry is that notice designating the additional attorney, per the Court's request.",,checked,1
+2804-96,2804,96,Miscellanous,2018-01-26,DAP,DJ,,,,,,,,,,Communications,,,Minute entry without a docket number. Used 96 as a placeholder since this entry is between 96 and 97.,,checked,2
+2804-118,2804,118,Miscellanous,2018-02-07,DAP,DJ,,,,3,,,,,,Settlement,,,Included last two appointments for Attorneys General subgroups.,checked,checked,22
+2804-2490,2804,2490,Miscellanous,2019-08-19,DAP,DJ,,,checked,1,,,checked,checked,checked,ClassCounsel,checked,checked,,checked,,0
+2804-2591,2804,2591,Miscellanous,2019-09-11,DAP,DJ,,,checked,1,,checked,checked,checked,,ClassCounsel,checked,,,checked,,6
+2551-134,2551,134,Miscellanous,2015-04-07,SRN,DJ,,,,,,,,,,Management,,,,checked,,1
+2551-545,2551,545,Miscellanous,2016-06-28,SRN,DJ,,,,,,,,,,Management,,,,,,2
+2575-113,2575,113,Products Liability,2015-06-25,RMD,DJ,,,,2,,checked,,,checked,"ClassCounsel,Communications",checked,,,checked,,4
+2575-489,2575,489,Products Liability,2017-03-06,RMD,DJ,,,,,,,,,,Communications,,,,checked,,2
+2599-4659,2599,4659,Products Liability,2023-06-20,FAM,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,checked,,1
+2599-4660,2599,4660,Products Liability,2023-06-26,FAM,DJ,,,,,,,,,,ClassCounsel,checked,,Adds class counsel for case against FCA US,checked,,7
+2559-4689,2599,4689,Products Liability,2023-06-26,FAM,DJ,,,,1,,,,,,ClassCounsel,checked,,Certifies class as to GM,checked,,7
+2555-53,2555,53,Sales Practices,2015-05-28,JSW,DJ,,,,2,,,,,checked,"LeadCounsel,Management",,,,checked,,11
+2555-74,2555,74,Sales Practices,2015-07-16,JSW,DJ,,,,,,checked,,,checked,"LeadCounsel,Management",,,,,,4
+2613-169,2613,169,Contract ,2018-02-22,BHH,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,,,8
+2613-169,2613,169,Contract ,2018-02-22,BHH,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,,,9
+2624-8,2624,8,Miscellanous,2015-06-24,RMW,DJ,,,,,,checked,,,,"LeadCounsel,Communications",,checked,Invites lead counsel applications and specifies contemplated duties of lead counsel ,,,0
+2624-44,2624,44,Miscellanous,2015-07-24,RMW,DJ,checked,checked,checked,1,,,,,,LeadCounsel,checked,,Good teaching opinion resolving leadership contest,checked,,7
+2475-155,2475,155,Antitrust,2014-05-28,ALC,DJ,,,,2,,,,,,LeadCounsel,,,,checked,,4
+2804-4286,2804,4286,Miscellanous,2022-02-25,DAP,DJ,,,,1,,checked,,,,Fees,,,,checked,,4
+2627-1382,2627,1382,Sales Practices,2018-04-06,AJT,DJ,,,,1,,checked,,,,LeadCounsel,,,Creates lead counsel for personal injury plaintiffs,checked,,2
+2627-1524,2627,1524,Sales Practices,2018-06-15,AJT,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,checked,,6
+2570-64,2570,64,Products Liability,2014-12-03,TAB,MJ,,,,,,,,,,LeadCounsel,,,,checked,,1
+2570-93,2570,93,Products Liability,2014-12-19,TAB,MJ,,,,3,,checked,,,,"LeadCounsel,Coordination,Management",,,,checked,,12
+2570-506,2570,506,Products Liability,2015-07-01,TAB,MJ,,,,,,,,,,"LeadCounsel,Management,Coordination",,,,checked,,18
+2570-645,2570,645,Products Liability,2015-09-08,TAB,MJ,,,,,,,,,,Management,,,,,,1
+2570-1749,2570,1749,Products Liability,2016-06-08,TAB,MJ,,,,1,,,,,,"LeadCounsel,Management,Coordination",,,,,,26
+2570-875,2570,875,Products Liability,2015-12-03,TAB,MJ,,,,,,,,,,"LeadCounsel,Coordination,Management",,,,checked,,23
+2570-1664,2570,1664,Products Liability,2016-05-24,TAB,MJ,,,,,,,,,,"LeadCounsel,Coordination,Management",,,,checked,,23
+2570-8845,2570,8845,Products Liability,2018-08-03,TAB,MJ,,,,,,,,,,"Management,LeadCounsel,Coordination",,,Has a typo in Jonathan Sedgh's name,checked,,27
+2570-10512,2570,10512,Products Liability,2019-04-23,TAB,MJ,,,,,,,,,,"Management,LeadCounsel,Coordination",,,,checked,,28
+2667-11,2667,11,Miscellanous,2015-12-17,RLM,DJ,,,,1,,checked,,,,LeadCounsel,checked,checked,Interim lead counsel appointed until permanent appointment can be made.,checked,,5
+2667-55,2667,55,Miscellanous,2016-02-04,RLM,DJ,checked,checked,,,,checked,,,,"LeadCounsel,ClassCounsel",checked,,"Because the defendant has few assets, the court declines to make a steering committee and just appoints one lead counsel, so the funds available for class members remains as large as possible. If after mediation still no resolution then they will likely appoint a steering committee and co-lead counsel. ",checked,,2
+2667-102,2667,102,Miscellanous,2017-01-31,RLM,DJ,,,,,,,,,,"LeadCounsel,ClassCounsel",,,Extends appointment for 60 days because they are in the settlement process.,checked,,2
+2667-116,2667,116,Miscellanous,2017-03-29,RLM,DJ,,checked,,,,,,,,"ClassCounsel,LeadCounsel",,,Reappoints lead counsel for another year.,checked,,2
+2667-133,2667,133,Miscellanous,2018-03-28,RLM,DJ,,,,,,,,,,"LeadCounsel,ClassCounsel",,,Extend for one month while people apply.,checked,,2
+2667-135,2667,135,Miscellanous,2018-04-23,RLM,DJ,,checked,,,,,,,,"ClassCounsel,LeadCounsel",,,One year reappointment.,checked,,2
+1566-507,1566,507,Antitrust,2007-05-01,PMP,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,checked,,4
+1566-1621,1566,1621,Antitrust,2009-05-07,PMP,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Appoints the same firms as class counsel for the classes bringing claims under California law,checked,,4
+1566-2795,1566,2795,Antitrust,2017-01-08,RCJ,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,"Appoints new firms as class counsel for a set of state law class actions brought under Kansas, Missouri, and Wisconsin Law. Some of these firms are appointed as class counsel for more than one of the classes, in which case I've listed them twice. ",checked,,8
+1566-2907,1566,2907,Antitrust,2017-06-05,RCJ,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,More class counsel appointments for a set of state law class actions against additional defendants,checked,,5
+1566-2932,1566,2932,Antitrust,2017-07-27,RCJ,DJ,,,,,,,,,,"ClassCounsel,Settlement",checked,,Approves same firms and classes as in 2795 for settlement against additional defendants,checked,,8
+1566-3126,1566,3126,Antitrust,2019-04-05,RCJ,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Additional appointments for further settlements with the Wisconsin class,checked,,2
+1566-2902,1566,2902,Antitrust,2017-06-05,RCJ,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Final approval of firms preliminarily appointed as class counsel previously,,,8
+1566-2904,1566,2904,Antitrust,2017-06-05,RCJ,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Final approval of settlement and appointment of class counsel as previously preliminarily approved,checked,,8
+1566-2905,1566,2905,Antitrust,2017-06-05,RCJ,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Final approval of settlement and appointment of class counsel as previously preliminarily approved,checked,,8
+1566-2954,1566,2954,Antitrust,2017-08-22,RCJ,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Final approval of class settlement and appointment of class counsel as previously preliminarily approved,checked,,5
+1566-2956,1566,2956,Antitrust,2017-08-22,RCJ,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Final approval of previously preliminarily approved class settlement and appointment of class counsel,,,5
+1566-3127,1566,3127,Antitrust,2019-04-05,RCJ,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Preliminary approval of settlement for only the Wisconsin class,checked,,2
+1566-3150,1566,3150,Antitrust,2019-08-05,RCJ,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Preliminary approval of settlement and appointment of class counsel,checked,,2
+1566-3152,1566,3152,Antitrust,2019-08-05,RCJz,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Final approval of class settlement and class counsel appointments,checked,,2
+1566-3153,1566,3153,Antitrust,2019-08-05,RCJ,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Final approval of class settlement and class counsel appointments,checked,,2
+1566-3156,1566,3156,Antitrust,2019-08-05,RCJ,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Final approval of class settlement and class counsel appointments,checked,,5
+1720-8647,1720,8647,Antitrust,2021-09-27,MKB,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,checked,,4
+2724-36,2724,36,Antitrust,2016-09-08,CMR,DJ,,checked,,1,,checked,,,,Coordination,,,"In prior order, counsel for the plaintiffs ordered to confer and submit a maximum of three candidates for the position of liaison counsel (along with their CV and other relevant info). Liebenberg on behalf of End-Player Plaintiffs, and Nast on behalf of Direct-Purchaser Plaintiffs.",checked,,2
+2724-37,2724,37,Antitrust,2016-09-08,CMR,DJ,,,,1,,checked,,,,Coordination,,,,,checked,1
+2724-84,2724,84,Antitrust,2016-11-28,CMR,DJ,checked,checked,,1,,checked,,,,"LeadCounsel,Management,Coordination",,,"""The appointments set forth above are of both the attorneys and the law firms. The Court expects that the leadership will provide opportunities for attorneys not named to the PSC, particularly less-senior attorneys, to participate meaningfully and efficiently in the MDL, including through participation in any committees within the PSC and in determining which counsel will argue any motions before the Court.""",checked,,28
+2724-160,2724,160,Antitrust,2017-03-20,CMR,DJ,,,,,,,,,,Management,,,Amendingappointments,checked,,7
+2724-342,2724,342,Antitrust,2017-05-19,CMR,DJ,checked,checked,,3,,,,,,Management,,,"Makes three PSCs based upon plaintiff groups (direct purchaser, end-payer, and indirect reseller). Expects leadership provide opportunities for non-named attorneys.",checked,,46
+2724-343,2724,343,Antitrust,2017-05-19,CMR,DJ,,checked,,,,checked,,,,"Coordination,LeadCounsel",,,,,checked,9
+2724-505,2724,505,Antitrust,2017-09-26,CMR,DJ,,,,1,,checked,,,,Coordination,,,State Liaison Counsel appointed.,checked,,1
+2724-556,2724,556,Antitrust,2018-01-25,CMR,DJ,,,,,,,,,,Management,,,,checked,,3
+2724-933,2724,933,Antitrust,2019-04-08,CMR,DJ,,,,,,,,,,Management,,,,checked,,6
+2724-1009,2724,1009,Antitrust,2019-05-29,CMR,DJ,checked,checked,,1,,checked,,,,Coordination,,,Appoint Blechman as Direct Action Plaintiff Liaison Counsel,checked,,1
+2724-1385,2724,1385,Antitrust,2020-05-14,CMR,DJ,,,,,,,,,,"Coordination,LeadCounsel",,,,,checked,13
+2724-2034,2724,2034,Antitrust,2022-04-04,CMR,DJ,,,,,,,,,,"Coordination,LeadCounsel",,,,,checked,14
+1869-269,1869,269,Antitrust,2009-04-08,PJF,DJ,,,,,,,,,,LeadCounsel,,,"References No. 232, which is not in our database, which substituted co-lead counsel. This order reconfirms that substitution ",checked,,2
+1869-540,1869,540,Antitrust,2012-06-21,PLF,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,checked,,2
+1913-130,1913,130,Antitrust,2008-03-28,CRB,DJ,,,,1,,,,,,ClassCounsel,checked,,,checked,,2
+1913-951,1913,951,Antitrust,2014-10-14,CRB,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Appoints settlement class counsel for the purposes of settling with 2 defendants,checked,,2
+1917-282,1917,282,Antitrust,2008-05-09,SC,DJ,checked,,,2,,,,,,ClassCounsel,checked,,Signature on order is difficult to read. Each individual/firm below is stand alone lead counsel for a putative specific subclass,checked,,4
+1917-1179,1917,1179,Antitrust,2012-05-03,SC,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Creates class counsel for settlement purposes,checked,,1
+1917-1441,1917,1441,Antitrust,2012-11-13,SC,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Appoints class counsel for the purposes of settlement,checked,,1
+1917-3376,1917,3376,Antitrust,2015-01-13,SC,DJ,,,,1,,,,,,"LeadCounsel,Coordination,Settlement",,,Adopts special master recommendation in #3200 to appoint additional attorneys as co-lead counsel to form a committee to assist settlement negotiations and coordinate with state plaintiffs. ,checked,,2
+1917-5518,1917,5518,Antitrust,2019-07-03,JST,DJ,,,,1,,,,,,LeadCounsel,,,"Appoints new lead counsel for a subset of states. Confusingly, grants motion 5451 for appointment without renaming counsel who applied to be co-lead class counsel",,,4
+1917-5577,1917,5577,Antitrust,2019-09-06,JST,DJ,,,,1,,checked,,,,Communications,,,"Court references a previous order not in our database where the actual appointment was made, this order affirms that appointment and details obligations of liaison counsel",checked,,1
+1917-5578,1917,5578,Antitrust,2019-09-06,JST,DJ,,,,1,,checked,,,,Communications,,,"Court references a previous order not in our database where the actual appointment was made, this order affirms that appointment and details obligations of liaison counsel",checked,,1
+1917-6042,1917,6042,Antitrust,2022-08-01,JST,DJ,,,,1,,,,,,ClassCounsel,checked,,Appoints class counsel for the purposes of settlement with a single defendant ,checked,,1
+1917-6104,1917,6104,Antitrust,2022-10-31,JST,DJ,,,,1,,,,,,ClassCounsel,checked,,Appoints class counsel for the purposes of settlement with a single defendant ,,,2
+2665-26,2665,26,Sales Practices,2016-01-08,ESH,DJ,,,,1,,,,,,LeadCounsel,,,,,,2
+2665-266,2665,266,Sales Practices,2019-11-04,ESH,DJ,,,,1,,,,,,ClassCounsel,checked,,Court deferred appointment of class counsel in class certification ruling because one of the attorneys had switched law firms. Appoints class counsel in a minute order several months later. ,checked,,2
+2002-3,2002,3,Antitrust,2008-12-12,GEKP,DJ,,,,3,,checked,checked,,,Communications,,checked,There are two Jan Levine appearing in the list of attorneys.,checked,checked,6
+2002-4,2002,4,Antitrust,2009-01-16,GEKP,DJ,,,,2,,,,,,"LeadCounsel,Communications",,,,checked,,5
+2034-17,2034,17,Antitrust,2009-09-24,ABB,DJ,,,,1,,,,,,Communications,,checked,,checked,,1
+2034-23,2034,23,Antitrust,2009-10-21,ABB,DJ,,,,3,,checked,checked,,,"LeadCounsel,Management,Communications",,checked,,checked,,14
+2034-96,2034,96,Antitrust,2010-08-10,ABB,DJ,,,,,,,,,,Management,,,,checked,,1
+2034-170,2034,170,Antitrust,2012-11-27,ABB,DJ,,,,,,,,,,LeadCounsel,,,,checked,,2
+2084-475,2084,475,Antitrust,2011-10-19,TWT,DJ,,,,2,,checked,,,,"LeadCounsel,ClassCounsel,Communications",,,,checked,,7
+2221-14,2221,14,Antitrust,2011-03-02,RER,DJ,,,,1,,checked,,,,"LeadCounsel,ClassCounsel",checked,,,checked,,3
+2034-268,2034,268,Antitrust,2018-09-05,ABB,DJ,,,,1,,,,,,ClassCounsel,,,,checked,,3
+2724-2055,2724,2055,Antitrust,2022-04-14,DMR,DJ,,,,,,,,,,"LeadCounsel,Management,Coordination",,,Gives current composition of PSCs,checked,,46
+2090-15,2090,15,Antitrust,2009-12-15,ADM,DJ,,,,2,,checked,checked,,,,,,,checked,,4
+2724-2092,2724,2092,Antitrust,2022-05-11,CMR,DJ,,,checked,1,,,,,,ClassCounsel,checked,,Certifies settlement class and appoints class counsel for Indirect Reseller Plaintiffs.,,,2
+2724-2093,2724,2092,Antitrust,2022-05-11,CMR,DJ,,,checked,1,,,,,,ClassCounsel,checked,,Direct Purchaser Plaintiffs class cert.,,,12
+2090-651,2090,651,Antitrust,2017-09-09,ADM,DJ,,,,1,,,,,,ClassCounsel,checked,,,checked,,3
+2724-2171,2724,2724,Antitrust,2022-07-18,CMR,DJ,,,,,,,,,,"LeadCounsel,Management,Coordination",,,,,,47
+2724-2205,2724,2205,Antitrust,2022-08-24,CMR,DJ,,,,,,,,,,"LeadCounsel,Coordination",,,,,checked,12
+2724-2274,2724,2274,Antitrust,2022-11-10,CMR,DJ,,,,,,,,,,LeadCounsel,,,Appoints co-lead counsel,checked,,1
+2704-11,2704,11,Antitrust,2016-06-10,PAE,DJ,,,,2,,checked,,,,LeadCounsel,,,Appoints interim lead counsel for P and D.,checked,checked,2
+2311-60,2311,60,Antitrust,2012-03-19,MOB,DJ,,,,,,checked,,,,"ClassCounsel,Communications",,,,checked,,5
+2704-99,2704,99,Antitrust,2016-08-03,PAE,DJ,checked,checked,checked,,,checked,,,,,checked,checked,"Appoints liaison counsel for defendants and 2 firms as interim co-lead counsel, specifically pre-approving delegation to three firms: Susman Godfrey, Kellogg Huber, and Hagens Berman (not included below because they were not appointed, they just serve in a support capacity).",checked,checked,6
+2311-64,2311,64,Antitrust,2012-03-23,MOB,DJ,,,,2,,checked,,,,"ClassCounsel,Communications",checked,,,checked,,4
+2687-139,2687,139,Antitrust,2016-04-08,JLL,DJ,checked,checked,,3,,checked,,,,,,,Creates steering committee and appoints lead and liaison counsel.,checked,,14
+2687-162,2687,162,Antitrust,2016-05-10,JLL,DJ,,,,,,,,,,Management,,,,checked,,1
+2687-211,2687,211,Antitrust,2016-07-06,JAD,MJ,,checked,,2,,checked,,,,"LeadCounsel,Coordination",,,Appoints interim co-lead counsel and (permanent) liaison counsel for indirect purchaser class.,checked,,3
+2687-1173,2687,1173,Antitrust,2018-12-04,JLL,DJ,,,,1,,,,,,ClassCounsel,checked,,Appoints class counsel for Indirect Purchaser Settlement Class,checked,,2
+2687-1281,2687,1281,Antitrust,2019-04-22,JLL,DJ,,,checked,1,,,,,,ClassCounsel,checked,,Appoints class counsel for Direct Purchaser Settlement Class.,checked,,1
+2687-1388,2687,1388,Antitrust,2016-09-26,MCA,DJ,,,,,,,,,,ClassCounsel,checked,,Appoints class counsel for Direct Purchaser Settlement Class.,checked,,1
+2687-1410,2687,1410,Antitrust,2019-11-07,MCA,DJ,,,checked,,,,,,,ClassCounsel,checked,,,checked,,2
+2687-1420,2687,1420,Antitrust,2019-11-21,MCA,DJ,,,,,,,,,,ClassCounsel,checked,,,checked,,1
+2673-186,2673,186,Antitrust,2017-08-23,PGG,DJ,checked,checked,,2,,checked,,,,"LeadCounsel,Coordination",checked,,Appoints co-lead counsel for Ps and liaison counsel for Ds,checked,checked,6
+2673-198,2673,198,Antitrust,2017-09-13,PGG,DJ,,,,1,,,,,,Management,,,Appoints Ps' Steering Committee based on recommendation from interim co-lead counsel (uncontested).,checked,,3
+2221-648,2221,648,Antitrust,2015-08-04,NGG,DJ,,,,,,,,,,"LeadCounsel,ClassCounsel",,,"This order removes Friedman, but McCaffery and Hellmich file motions to withdraw, which are granted in a text only order with no docket entry # on September 17 2015. McCaffery had taken over work for Hellmich after Hellmich left Patton Boggs, but never was officially appointed by the court. ",checked,,2
+2262-66,2262,66,Antitrust,2011-11-29,NRB,DJ,checked,checked,,2,,checked,,,,ClassCounsel,checked,checked,Appoint class counsel for exchange-based plaintiffs and OTC plaintiffs,checked,,4
+2262-197,2262,197,Antitrust,2012-08-10,NRB,DJ,,checked,,1,,checked,,,,LeadCounsel,checked,,designates firms as interim co-lead counsel for the bondholder plaintiff class,checked,,2
+2262-692,2262,692,Antitrust,2014-10-14,NRB,DJ,,checked,,4,,,,,,ClassCounsel,checked,checked,,checked,,5
+2262-3038,2262,3038,Antitrust,2020-03-02,NRB,DJ,,,checked,1,,,,,,"Settlement,ClassCounsel",checked,,Appoints settlement class counsel,checked,,2
+2262-2687,2262,2687,Antitrust,2018-08-20,NRB,DJ,,,checked,,,checked,,,,"ClassCounsel,Settlement",,,Appoints settlement class counsel.,checked,,1
+2262-3008,2262,3008,Antitrust,2019-11-21,NRB,DJ,,,checked,,,,,,,,checked,,Lender Settlement Class,checked,,1
+2262-3024,2262,3024,Antitrust,2020-01-23,NRB,DJ,,,checked,,,,,,,"Settlement,ClassCounsel",checked,,,checked,,1
+2262-3038,2262,3038,Antitrust,2020-05-05,NRB,DJ,,,checked,,,,,,,"Settlement,ClassCounsel",checked,,appointing Bondholder settlement class counsel,checked,,2
+2262-3175,2262,3175,Antitrust,2020-09-17,NRB,DJ,,,checked,,,,,,,"Settlement,ClassCounsel",checked,,Final Approval of settlement. settlement class counsel for exchange-based Ps,checked,,2
+2262-3176,2262,3176,Antitrust,2020-09-17,NRB,DJ,,,checked,,,,,,,"Settlement,ClassCounsel",checked,,Final approval of settlement. settlement class counsel for exchange-based Ps,checked,,2
+2262-3177,2262,3177,Antitrust,2020-09-17,NRB,DJ,,,checked,,,,,,,"Settlement,ClassCounsel",checked,,,checked,,2
+2262-3178,2262,3178,Antitrust,2020-09-17,NRB,DJ,,,checked,,,,,,,"Settlement,ClassCounsel",checked,,,checked,,2
+2262-3179,2262,3179,Antitrust,2020-09-17,NRB,DJ,,,checked,,,,,,,"Settlement,ClassCounsel",checked,,,checked,,2
+2262-3180,2262,3180,Antitrust,2020-09-17,NRB,DJ,,,checked,,,,,,,"Settlement,ClassCounsel",checked,,,checked,,2
+2262-3184,2262,3184,Antitrust,2020-10-05,NRB,DJ,,,checked,,,,,,,"ClassCounsel,Settlement",checked,,,checked,,2
+2262-3217,2262,3217,Antitrust,2020-10-27,NRB,DJ,,,checked,,,,,,,"Settlement,ClassCounsel",checked,,,checked,,2
+2262-3218,2262,3218,Antitrust,2020-10-30,NRB,DJ,,,checked,,,,,,,"ClassCounsel,Settlement",checked,,,checked,,1
+2262-3246,2262,3246,Antitrust,2020-12-16,NRB,DJ,,,checked,,,,,,,"Settlement,ClassCounsel",checked,,,checked,,2
+2262-3378,2262,3378,Antitrust,2022-03-11,NRB,DJ,,,checked,,,,,,,"Settlement,ClassCounsel",checked,,,checked,,1
+2262-3578,2262,3578,Antitrust,2022-11-07,NRB,DJ,,,checked,,,,,,,"Settlement,ClassCounsel",checked,,,checked,,2
+2262-3654,2262,3654,Antitrust,2023-03-28,NRB,DJ,,,checked,,,,,,,"ClassCounsel,Settlement",checked,,,checked,,2
+2221-707,2221,707,Antitrust,2015-11-05,NGG,DJ,,,,2,,checked,,,,"Management,LeadCounsel,ClassCounsel",checked,,Removes Reinhardt as lead counsel and replaces him with Hausfeld. PEC then created.,checked,,4
+2311-65,2311,65,Antitrust,2012-03-23,MOB,DJ,,checked,,2,,checked,,,,"LeadCounsel,ClassCounsel,Communications",checked,,,checked,,4
+2332-109,2332,109,Antitrust,2012-08-10,PGS,DJ,checked,,,5,,checked,,,,"LeadCounsel,Management,ClassCounsel,Communications",checked,,"Direct-purchaser' leadership was not contested, however end-payor leadership. Oddly the court appoints firms for the direct-purchaser leadership but individual attorneys for the end-payor leadership and PEC. Court also invites James Dugan to file a motion to disqualify Richards from leadership and have himself appointed co-lead counsel",checked,,16
+2332-647,2332,647,Antitrust,2017-04-03,PGS,DJ,,,,,,,,,,"LeadCounsel,ClassCounsel",,,,checked,,2
+2332-1031,2332,1031,Antitrust,2021-01-11,PGS,DJ,checked,,,1,,,,,,Settlement,checked,,,checked,,5
+2406-15,2406,15,Antitrust,2013-02-28,RDP,DJ,,checked,,1,,checked,,,,Communications,,,,checked,,1
+2406-61,2406,61,Antitrust,2013-04-26,RDP,DJ,checked,checked,,4,,checked,,,,"LeadCounsel,ClassCounsel,Coordination,Management,Discovery",checked,checked,,checked,,16
+2406-82,2406,82,Antitrust,2013-06-04,RDP,DJ,,,,8,,,,,,"Discovery,Motions,Expert,Settlement,Coordination",,,Order adopts in full special masters report and recommendation which is #62. Attorneys and their respective appointments are attached to the report as exhibits A and B. ,checked,,94
+2670-119,2670,1119,Antitrust,2016-03-24,JLS,DJ,checked,checked,,6,,checked,,,,"LeadCounsel,Coordination,Management",checked,,,checked,,11
+2670-1021,2670,1021,Antitrust,2018-05-24,JLS,DJ,,,,,,,,,,Management,,,,checked,,1
+2670-1931,2670,1931,Antitrust,2019-07-30,JLS,DJ,,,checked,2,,,,,,ClassCounsel,checked,,,checked,,3
+2670-2733,2670,2733,Antitrust,2022-01-26,DMS,DJ,,,checked,1,,,,,,"Settlement,ClassCounsel",checked,,,checked,,1
+2670-2734,2670,2734,Antitrust,2022-01-26,DMS,DJ,,,checked,1,,,,,,"ClassCounsel,Settlement",checked,,,checked,,1
+2670-2735,2670,2735,Antitrust,2022-01-26,DMS,DJ,,,checked,1,,,,,,"Settlement,ClassCounsel",checked,,,checked,,1
+2670-2871,2670,2871,Antitrust,2022-07-15,DMS,DJ,,,checked,,,,,,,"Settlement,ClassCounsel",checked,,,checked,,1
+2670-2897,2670,2897,Antitrust,2022-08-22,DMS,DJ,,,checked,,,,,,,"ClassCounsel,Settlement",checked,,,checked,,1
+2670-3011,2670,3011,Antitrust,2023-03-07,DMS,DJ,,,checked,,,,,,,"Settlement,ClassCounsel",checked,,,,,1
+2878-31,2878,31,Antitrust,2019-04-22,NMG,DJ,,,,1,,checked,,,,"LeadCounsel,ClassCounsel",checked,,,checked,,2
+2878-32,2878,32,Antitrust,2019-04-22,NMG,DJ,,,,1,,checked,,,,LeadCounsel,checked,,,checked,,2
+2878-469,2878,569,Antitrust,2021-09-24,NMG,DJ,,,checked,1,,checked,,,,ClassCounsel,checked,,,checked,,3
+2878-487,2878,487,Antitrust,2021-10-26,NMG,DJ,,,checked,1,,checked,,,,ClassCounsel,checked,,,checked,,2
+2420-194,2420,194,Antitrust,2013-05-13,YGR,DJ,checked,,,4,,checked,,,,"LeadCounsel,ClassCounsel,Communications",checked,,,checked,,8
+2420-229,2420,229,Antitrust,2013-07-10,YGR,DJ,,,,2,,,,,,Management,,,,checked,,14
+2420-1182,2420,1182,Antitrust,2016-03-25,YGR,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Appoints class counsel for settlement purposes,checked,,3
+2420-1756,2420,1756,Antitrust,2017-04-26,YGR,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Appoints class counsel for settlement purposes,checked,,3
+2420-1757,2420,1757,Antitrust,2017-04-26,YGR,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Appoints class counsel for settlement purposes,checked,,3
+2420-1758,2420,1758,Antitrust,2017-04-26,YGR,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,,checked,,3
+2420-1759,2420,1759,Antitrust,2017-04-26,YGR,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Appoints class counsel for settlement,checked,,3
+2420-2104,2420,2104,Antitrust,2017-12-22,YGR,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Appoints class counsel for settlement purposes,checked,,3
+2420-2105,2420,2105,Antitrust,2017-12-22,YGR,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,appoints class counsel for settlement purposes,checked,,3
+2420-2106,2420,2106,Antitrust,2017-12-22,YGR,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,checked,,3
+2420-2516,2420,2516,Antitrust,2019-08-16,YGR,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Appoints class counsel for settlement,checked,,3
+2420-2681,2420,2681,Antitrust,2010-12-20,YGR,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,,checked,,3
+2867-170,2867,170,Antitrust,2019-01-23,VMK,DJ,checked,checked,,3,,checked,,,,"LeadCounsel,Coordination,Management",checked,checked,,checked,,4
+2867-437,2867,437,Antitrust,2021-01-19,VMK,DJ,,,,,,,,,,"LeadCounsel,Management,Coordination",,,,checked,,5
+2867-991,2867,991,Antitrust,2023-06-14,VMK,DJ,,,checked,,,,,,,ClassCounsel,checked,,,checked,,1
+2862-107,2862,107,Antitrust,2018-11-28,DWA,DJ,checked,checked,,2,,checked,,,,"LeadCounsel,Coordination",checked,checked,,checked,,3
+2862-273,2862,273,Antitrust,2020-02-04,DWA,DJ,,,,,,checked,,,,"LeadCounsel,Coordination",checked,checked,,checked,,3
+2862-444,2862,444,Antitrust,2021-02-02,DWA,DJ,,,,,,checked,,,,"LeadCounsel,Coordination",checked,checked,,checked,,3
+2862-624,2862,624,Antitrust,2022-01-28,DWA,DJ,,,,,,checked,,,,"LeadCounsel,Coordination",checked,checked,,checked,,3
+2862-845,2862,845,Antitrust,2023-02-08,WSH,DJ,,,,,,checked,,,,"LeadCounsel,Coordination",checked,checked,,checked,,3
+2326-6025,2326,6025,Products Liability,2018-05-25,TEJ,DJ,,,,,,,,,,Communications,,,"The order doesn't explicitly remove Thomas a member of leadership committee, but it grants his motion to withdraw/be substituted in all member cases. Since he was appointed in his individual capacity, treating as a termination/substitution (see order 103).",checked,,2
+2437-2,2437,2,Antitrust,2013-04-11,MMB,DJ,,,,4,,checked,,,,"Communications,LeadCounsel",,checked,"For duties/functions, order just says that ""the duties of interim lead counsel and interim liasion counsel will be as described in Manual for Complex Litigation, 4th Edition""",checked,checked,5
+2437-11,2437,11,Antitrust,2013-05-07,MMB,DJ,,,,,,checked,,,checked,"LeadCounsel,Communications",,checked,,checked,checked,6
+2437-183,2437,183,Antitrust,2016-03-16,MMB,DJ,,,checked,1,,,,,,"ClassCounsel,Settlement",checked,,,checked,,3
+2437-186,2437,186,Antitrust,2015-03-16,MMB,DJ,,,checked,1,,,,,,"ClassCounsel,Settlement",checked,,,checked,,3
+2437-631,2437,631,Antitrust,2017-08-23,MMB,DJ,,,,1,,,,,,ClassCounsel,,,,checked,,3
+2445-44,2445,44,Antitrust,2013-08-07,MSG,DJ,,checked,,7,,checked,,,,"Communications,LeadCounsel,Management",,,,checked,checked,25
+2445-588,2445,588,Antitrust,2019-09-27,MSG,DJ,,,checked,,,,,,,"ClassCounsel,LeadCounsel",checked,,,checked,,8
+2460-16,2460,16,Antitrust,2013-10-17,JED,DJ,,,,2,,checked,,,checked,"LeadCounsel,Communications",checked,,,checked,,4
+2460-32,2460,32,Antitrust,2013-12-19,JED,DJ,,,,3,,checked,,,,Communications,,,,checked,,3
+2460-36,2460,36,Antitrust,2013-12-23,JED,DJ,,,,2,,checked,,,,"LeadCounsel,Communications,Management",,,,checked,,17
+2460-688,2460,688,Antitrust,2019-08-14,JED,DJ,,,checked,1,,,,,,LeadCounsel,,,,checked,,3
+,,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,,0
+2541-82,2541,82,Antitrust,2014-08-22,CW,DJ,checked,checked,,1,,checked,,,,"LeadCounsel,ClassCounsel",,,,checked,,3
+2541-305,2541,305,Antitrust,2015-12-04,CW,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,checked,,3
+2542-36,2542,36,Antitrust,2014-06-26,VSB,DJ,,,,2,,checked,,,,"LeadCounsel,ClassCounsel,Communications",checked,,,checked,,4
+2542-1216,2542,1216,Antitrust,2020-12-16,VSB,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Appoints class counsel for settlement,checked,,3
+2548-12,2548,12,Antitrust,2014-10-02,VEC,DJ,,checked,,,,,,,,Communications,,,,,checked,1
+2548-187,2548,187,Antitrust,2016-12-09,VEC,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Appoints class counsel for settlement purposes,checked,,2
+2548-515,2548,515,Antitrust,2021-02-12,VEC,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Appoints class counsel for settlement purposes,checked,,2
+2548-628,2548,628,Antitrust,2022-01-13,VEC,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Appoints class counsel for settlement,checked,,2
+2557-42,2557,42,Antitrust,2014-09-15,GAP,DJ,,,,2,,,,,,Communications,,,,checked,checked,2
+2557-302,2557,302,Antitrust,2017-02-21,TBS,MJ,,,,,,,,,,Communications,,,,checked,,2
+2567-78,2567,78,Antitrust,2014-12-15,GAF,DJ,checked,,,4,,,,,,"LeadCounsel,Communications,ClassCounsel",,,,checked,,7
+2567-439,2567,439,Antitrust,2020-06-18,GAF,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Appoints class counsel for settlement. Oddly appoints firms despite previously appointing individuals as interim class counsel,checked,,4
+2567-489,2567,489,Antitrust,2020-11-30,GAF,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Appoints class counsel for settlement purposes,checked,,3
+2567-543,2567,543,Antitrust,2021-03-30,GAF,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Appoints class counsel for settlement,checked,,3
+2573-17,2573,17,Antitrust,2014-11-25,VC,DJ,checked,checked,,1,,,,,,ClassCounsel,checked,,,,,2
+2573-166,2573,166,Antitrust,2016-11-22,VC,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Appoints class counsel for settlement ,checked,,2
+2580-78,2580,78,Antitrust,2015-04-02,HDL,DJ,checked,checked,,1,,,,,,"LeadCounsel,ClassCounsel",checked,,,checked,,2
+2580-786,2580,786,Antitrust,2022-03-09,HDL,DJ,,,,,,,,,,LeadCounsel,,,,checked,,2
+2580-1085,2580,1085,Antitrust,2022-11-03,HDL,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,,checked,,2
+2580-1091,2580,1091,Antitrust,2022-12-15,HDL,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,,checked,,2
+2656-76,2656,76,Antitrust,2016-02-04,CKK,DJ,checked,checked,,2,,,,,,"ClassCounsel,LeadCounsel,Management",checked,,,checked,,5
+2656-151,2656,151,Antitrust,2017-01-26,CKK,DJ,,,,,,,,,,"LeadCounsel,ClassCounsel,Management",,,,checked,,5
+2656-202,2656,202,Antitrust,2018-01-09,CKK,DJ,,,,,,,,,,"LeadCounsel,ClassCounsel",,,,checked,,2
+2656-203,2656,203,Antitrust,2018-01-19,CKK,DJ,,,,,,,,,,"LeadCounsel,ClassCounsel,Management",,,,checked,,5
+2626-116,2626,116,Antitrust,2015-10-07,HES,DJ,checked,checked,,2,,checked,,,,"LeadCounsel,ClassCounsel,Trial",checked,checked,,checked,,6
+2626-841,2626,841,Antitrust,2018-07-09,HES,DJ,,,checked,1,,,,,,"ClassCounsel,Settlement",checked,,,checked,,3
+2626-940,2626,940,Antitrust,2018-12-04,HES,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,checked,,3
+2626-1224,2626,1224,Antitrust,2020-11-10,HES,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Appoints class counsel for settlement ,checked,,3
+2626-1257,2626,1257,Antitrust,2021-06-01,HES,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Class counsel for settlement,checked,,3
+2626-1343,2626,1343,Antitrust,2022-05-09,HES,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Class counsel for settlement,checked,,3
+2626-1362,2626,1362,Antitrust,2022-10-12,HES,DJ,,,,,,,,,,"ClassCounsel,Settlement",checked,,Class counsel for settlement,checked,,3
+2850-106,2850,106,Antitrust,2018-11-06,JFC,DJ,checked,checked,,1,,checked,,,,"LeadCounsel,ClassCounsel",checked,checked,,checked,,2
+2850-117,2850,117,Antitrust,2018-11-13,JFC,DJ,checked,checked,,1,,checked,,,,Coordination,,checked,"No permission for the appointment order (ECF: 112, November 7, 2018), so coded the duties order.",checked,,1
+2850-314,2850,314,Antitrust,2020-08-26,JFC,DJ,,,checked,1,,,,,,"Settlement,ClassCounsel,LeadCounsel",checked,,,checked,,2
+2842-119,2842,119,Antitrust,2018-08-16,MSS,DJ,checked,checked,,2,,checked,,,,"LeadCounsel,Management",checked,checked,,checked,,5
+2842-241,2842,241,Antitrust,2019-04-16,MSS,DJ,checked,,,,,,,,,"LeadCounsel,Management",,,Justice switched firms and Kessler tried to replace her but the court denied.,checked,,1
+2842-268,2842,268,Antitrust,2019-08-08,MSS,DJ,checked,checked,,,,,,,,"LeadCounsel,Management",,,,checked,,6
+2842-178,2842,178,Antitrust,2018-11-09,MSS,DJ,,,,,,,,,,Management,,,,checked,,2
+2842-302,2842,302,Antitrust,2020-03-24,MSS,DJ,,,,,,,,,,"LeadCounsel,Coordination",,,,,,7
+2842-334,2842,334,Antitrust,2021-03-01,MSS,DJ,,,,,,,,,,"LeadCounsel,Management",,,,checked,,6
+2842-357,2842,357,Antitrust,2022-02-23,MSS,DJ,,,,,,,,,,"LeadCounsel,Management",,,,checked,,6
+2836-105,2836,105,Antitrust,2018-08-15,RBS,DJ,checked,checked,,11,,,,,,"LeadCounsel,ClassCounsel,Coordination",checked,checked,,checked,checked,29
+2836-751,2836,751,Antitrust,2019-11-22,RBS,DJ,,,,1,,,,,,"Settlement,LeadCounsel,ClassCounsel",checked,,,checked,,2
+2785-40,2785,40,Sales Practices,2017-09-12,DDC,DJ,checked,checked,,4,,checked,,,,"LeadCounsel,Communications,Management",,checked,,checked,checked,13
+2836-1316,2836,1316,Antitrust,2021-08-20,RBS,DJ,,,checked,2,,,,,,"ClassCounsel,Coordination,LeadCounsel",checked,,,checked,,3
+2836-1570,2836,1570,Antitrust,2022-06-08,DEM,MJ,,,,,,,,,,LeadCounsel,,,,,checked,4
+2785-491,2785,491,Sales Practices,2018-04-30,DDC,DJ,,,,,,,,,,Communications,,,,,checked,1
+2785-522,2785,522,Sales Practices,2018-05-15,DCC,DJ,,,,,,,,,,Communications,,,,,checked,1
+2785-2077,2785,2077,Sales Practices,2020-03-10,DCC,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,checked,,5
+2785-2111,2785,2111,Sales Practices,2020-06-24,DDC,DJ,,,,,,,,,,Management,,,,checked,,2
+2785-2317,2785,2317,Sales Practices,2021-01-28,DDC,DJ,,,,,,,,,,"Management,Communications",,,,checked,checked,3
+2773-31,2773,31,Antitrust,2017-05-15,LCK,DJ,checked,checked,,2,,,,,,"Management,LeadCounsel",,,,checked,,5
+2773-251,2773,251,Antitrust,2017-12-22,LHK,DJ,,,,,,,,,,"LeadCounsel,Management",,,,checked,,4
+2773-760,2773,760,Antitrust,2018-09-27,LHK,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,checked,,2
+2516-94,2516,94,Antitrust,2014-06-16,SRU,DJ,checked,checked,,3,,checked,,,,"Management,Communications,LeadCounsel",,,,checked,,12
+2516-95,2516,95,Antitrust,2014-06-16,SRU,DJ,checked,checked,,3,,,,,,"LeadCounsel,Communications,Management",,,,checked,,9
+2516-685,2516,685,Antitrust,2017-09-19,SRU,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Appoints the entire leadership team from #94 as class counsel for settlement ,checked,,12
+2516-766,2516,766,Antitrust,2018-03-06,SRU,DJ,,,,1,,,,,,ClassCounsel,,,Appoints the entire leadership slate from #95 as class counsel,,,9
+2472-85,2472,85,Antitrust,2014-02-14,WES,DJ,,,,3,,checked,,,,"Communications,LeadCounsel,Management",checked,,,checked,,16
+2472-1226,2472,1126,Antitrust,2019-09-17,WES,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,checked,,5
+2472-10,2472,10,Antitrust,2013-10-08,WES,DJ,,,,1,,,,,,ClassCounsel,,,,checked,,8
+2472-90,2472,90,Antitrust,2014-02-28,WES,DJ,,,,2,,checked,,,,"Communications,LeadCounsel",checked,,,checked,,5
+2472-1050,2472,1050,Antitrust,2019-07-02,WES,DJ,,,checked,1,,,,,,ClassCounsel,checked,,,checked,,4
+2472-1278,2472,1278,Antitrust,2018-10-31,WES,DJ,,,,2,,,,,,"LeadCounsel,ClassCounsel,Communications",checked,,Appoints counsel for settlement purposes,checked,,5
+2819-50,2819,50,Antitrust,2018-04-04,NG,DJ,checked,checked,,3,,checked,,,,"LeadCounsel,Management,ClassCounsel,Coordination",checked,,,checked,,11
+2819-51,2819,51,Antitrust,2018-04-04,NG,DJ,checked,checked,,3,,checked,,,,"LeadCounsel,Management,Coordination",checked,,,checked,,6
+2819-501,2819,501,Antitrust,2020-05-05,NG,DJ,,,checked,2,,,,,,"LeadCounsel,ClassCounsel,Coordination",checked,,,checked,,4
+2819-562,2819,562,Antitrust,2020-10-07,NG,DJ,,,checked,1,,,,,,"Settlement,LeadCounsel,ClassCounsel",checked,,,checked,,11
+2796-223,2796,223,Antitrust,2017-12-14,CRB,DJ,,checked,,2,,checked,,,,"LeadCounsel,Management",,,,checked,,11
+2801-385,2801,385,Antitrust,2018-11-14,JD,DJ,,,checked,1,,,,,,ClassCounsel,,,,checked,,1
+2801-1344,2801,1344,Antitrust,2020-07-17,JD,DJ,,,,1,,,,,,Settlement,checked,,,checked,,1
+2801-1551,2801,1551,Antitrust,2021-10-21,JD,DJ,,,,,,checked,,,,Settlement,,,,checked,,1
+2801-1665,2801,1665,Antitrust,2022-03-23,JD,DJ,,,,,,,,,,Settlement,checked,,,checked,,1
+2817-123,2817,123,Antitrust,2018-04-16,AJS,DJ,checked,checked,,4,,checked,,,,"LeadCounsel,Management,Communications,Coordination",checked,checked,,checked,,9
+2817-944,2817,944,Antitrust,2020-05-10,RMD,DJ,,,,,,,,,,"LeadCounsel,Management,Communications,Coordination",,,,checked,,9
+2817-333,2817,333,Antitrust,2018-08-16,RMD,DJ,,,,1,,,,,,"ClassCounsel,LeadCounsel",,,,checked,,1
+2817-644,2817,644,Antitrust,2019-04-24,RMD,DJ,,,,,,,,,,"LeadCounsel,Management,Communications,Coordination",,,,checked,,9
+2817-1285,2817,1285,Antitrust,2021-04-19,RMD,DJ,,,,,,,,,,"LeadCounsel,Management,Communications,Coordination",,,,checked,,9
+2817-1340,2817,1340,Antitrust,2022-04-07,RMD,DJ,,,,,,,,,,"LeadCounsel,Coordination",,,,checked,,2
+2817-1343,2817,1343,Antitrust,2022-04-12,RMD,DJ,,,,,,,,,,"LeadCounsel,Management,Communications,Coordination",,,,checked,,9
+2817-1379,2817,1379,Antitrust,2023-04-18,RMD,DJ,,,,,,,,,,"LeadCounsel,Management,Communications,Coordination",,,,checked,,9
+2406-199,2406,1999,Antitrust,2014-06-12,RDP,DJ,,,,,,,,,,Expert,,,,checked,,2
+2406-374,2406,374,Antitrust,2015-06-15,RDP,DJ,,,,,,,,,,Discovery,,,,,,1
+2406-2461,2406,2461,Antitrust,2020-11-30,RDP,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Class counsel appointed for settlement,checked,,3
+2406-2673,2406,2673,Antitrust,2021-01-25,RDP,DJ,,,,,,,,,,Management,,,,checked,,1
+2406-2931,2406,2931,Antitrust,2022-08-09,RDP,DJ,,,,1,,,,,,"ClassCounsel,Settlement",checked,,Appoints firms as class counsel despite appointing individuals in the preliminary approval,checked,,3
+2406-3011,2406,3011,Antitrust,2022-12-09,RDP,DJ,,,,1,,,,,,SettlementAdministration,,,Appoints a monitoring committee to ensure compliance with the settlement,checked,checked,8
+2296-2179,2296,2179,Miscellanous,2013-01-11,WHP,DJ,,,,,,,,,,Communications,,,,,checked,3
+2296-2445,2296,2445,Miscellanous,2013-04-10,RJS,DJ,,,,,,,,,,Management,,,,,checked,3
+2296-7566,2296,7566,Miscellanous,2018-06-28,RJS,DJ,,,,,,,,,,Management,,,,,checked,1
+2504-377,2504,377,Employment Practices ,2024-12-13,DJH,DJ,,,,,,,,,,ClassCounsel,checked,,Final approval of class settlement,checked,,5
+2599-4689,2599,4689,Products Liability,2023-08-23,FAM,DJ,,,checked,1,,,,,,ClassCounsel,checked,,Class counsel for case against GM,checked,,8
+2599-4856,2599,4856,Products Liability,2025-02-26,FAM,DJ,,,checked,1,,,,,,ClassCounsel,checked,,Class counsel for case against Mercedes-Benz,checked,,7

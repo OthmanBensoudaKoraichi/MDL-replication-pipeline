@@ -1,0 +1,67 @@
+﻿Name_A,Name_B,same,confidence,merged
+James C. Percy,Jamie Mauhay Powers,False,high,False
+Peter H. Burke,Peter W. Burg,False,high,False
+Frank Woodson,Frank Watson,False,high,False
+Tor Hoermann,Tor Hoerman,True,medium,True
+James D. Young,J. Rutledge Young III,False,high,False
+Steven R. Maher,Stephen B. Murray,False,high,False
+Stephen Maher,Stephen B. Murray,False,high,False
+J. Mark Moore,J. Andrew Meyer,False,high,False
+J. Mark Moore,Jennifer Moore,False,high,False
+J. Andrew Meyer,Jennifer Moore,False,high,False
+Mark C. Schultz,Marc M. Seltzer,False,high,False
+J. Michael Vaughan,John Vecchione,False,high,False
+J. Michael Vaughan,Jay Vaughn,False,high,False
+Camp Bailey,K. Camp Bailey,True,high,True
+Ben Barnow,Benjamin Brown,False,low,False
+Don Barrett,D. Dorian Britt,False,high,False
+Thomas Cartmell,Thomas R. Curtin,False,high,False
+Paul Sizemore,J. Paul Sizemore,True,medium,True
+Amy W. Schulman,"A. G. Solomons, III",False,high,False
+W. Roger Smith,William Smith,False,low,False
+Tobias L. Millrood,Tobias Milrood,True,medium,True
+D. Michael Campbell,Douglas Campbell,False,low,False
+James M. Evangelista,James Eubank,False,high,False
+J. Gerard Stranch IV,Gerard Stranch,True,high,True
+R. Laurence Macon,Rhett A. McSweeney,False,high,False
+R. Laurence Macon,Richard McCune,False,high,False
+A. James Andrews,Anne Andrews,False,medium,False
+William H. Anderson,William Andrichik,False,high,False
+Russel H. Beatie,Russell Budd,False,high,False
+Steven F. Cherry,Stephen A.Cor,False,high,False
+Steven F. Cherry,Stephen A. Corr,False,high,False
+Stephen A.Cor,Stephen A. Corr,True,medium,True
+Eric Quetglas,Eric M. Quetgla-Jordan,True,medium,True
+Eric M. Quetglas-Jordan,Eric M. Quetgla-Jordan,True,high,True
+Jeffrey C. Rickard,J. Douglas Richards,False,high,False
+J. Douglas Richards,Jason Richards,False,high,False
+J. Douglas Richards,Joyce Chambers Reichard,False,high,False
+Robert E. DeRose,R. Jackson Drake,False,high,False
+Michele Drake,Michelle Drake,True,medium,True
+Michele Dirke,Michelle Drake,False,low,False
+Adam Pulaski,Adam Polk,False,high,False
+Norman E. Siegel,Norman E. Seigel,True,medium,True
+Peter A. Muhic,Peter J. Mougey,False,high,False
+Andy Alonzo,Andy Alonso,True,high,True
+Steven Block,Steven Bloch,False,low,False
+Steven Block,Steve Bloch,False,high,False
+D. Aaron Rihn,Daniel Rihn,True,high,True
+A. J. De Bartolomeo,A.J. De Bartolomeo,True,high,True
+Bryan Clobes,Brian Clobes,True,medium,True
+Brent Wisner,Robert Brent Wisner,True,high,True
+R. Brent Wisner,Robert Brent Wisner,True,high,True
+C. Calvin Warriner,Calvin Warriner,True,high,True
+Douglass Kreiss,Douglass A. Kreis,True,high,True
+Douglass Kreiss,Douglas Kreis,True,medium,True
+Anne Callis,Ann Callis,True,high,True
+Christopher G. Hayes,C. Erik Hawes,False,high,False
+C. Erik Hawes,Connor Hayes,False,high,False
+Joseph B. Kenney,Joseph H. Kanee,False,high,False
+Jeffrey Cereghino,Jeffrey J. Corrigan,False,high,False
+David R. Dugas,David Eidson Dukes,False,high,False
+David C. O’Mara,David G. Omer,False,high,False
+David Steelman,David S. Stellings,False,high,False
+Pete Albanis,"Panagiotis “Pete” V. Albanis, Esq.",True,high,True
+R. Eric Kennedy,Robert E. (Eric) Kennedy,True,high,True
+Jon Conlin,Jan Conlin,False,high,False
+Patrick F. Madden,P. Graham Maiden,False,high,False

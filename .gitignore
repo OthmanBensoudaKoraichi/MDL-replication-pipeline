@@ -1,0 +1,37 @@
+# ============ SECRETS — never commit ============
+.env
+.env.*
+*.env
+*_api_key*
+
+# ============ raw document corpora + intermediates (huge; not distributed via git) ============
+/files/
+/filtered_files/
+/ocr/
+/orders/
+/drive-download-*/
+*.pdf
+
+# ============ large regenerable intermediates ============
+page_counts.csv
+type_labels.csv
+order_status.csv
+classify_error_sample.csv
+unclear_review.csv
+
+# ============ backups / scratch / logs ============
+*.bak*
+*.prebugfix
+*.pre_retry
+*.log
+scratchpad/
+
+# ============ python / venv ============
+__pycache__/
+*.pyc
+venv/
+.venv/
+*/venv/
+
+# ============ os ============
+.DS_Store

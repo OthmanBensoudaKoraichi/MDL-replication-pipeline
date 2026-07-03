@@ -1,0 +1,63 @@
+# ============================
+# Python cache / compiled files
+# ============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# ============================
+# Virtual environments
+# ============================
+venv/
+.env/
+.envrc/
+.venv/
+
+# ============================
+# Jupyter
+# ============================
+.ipynb_checkpoints/
+
+# ============================
+# Mac / Windows system files
+# ============================
+.DS_Store
+Thumbs.db
+
+# ============================
+# IDE files
+# ============================
+.vscode/
+.idea/
+
+# ============================
+# Logs
+# ============================
+*.log
+
+# ============================
+# Temporary files
+# ============================
+*.tmp
+*.swp
+
+# ============================
+# Build / distribution
+# ============================
+build/
+dist/
+*.egg-info/
+
+# ============================
+# Figures auto-generated (optional)
+# Uncomment if you regenerate them
+# ============================
+# output/figures/
+# output/tables/
+
+# ============================
+# IMPORTANT: DO NOT IGNORE CSV
+# ============================
+# We intentionally keep .csv files tracked

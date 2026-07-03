@@ -1,0 +1,40 @@
+MDL,appointee,gold_roles,our_roles,jaccard
+1869,cohen milstein hausfeld toll,"classcounsel,communications,leadcounsel","classcounsel,leadcounsel,motions",0.5
+1869,lovell stewart halebian,"classcounsel,communications,leadcounsel","classcounsel,leadcounsel",0.67
+1869,stamell schager,"classcounsel,communications,leadcounsel","classcounsel,leadcounsel",0.67
+1869,the mason law firm,"classcounsel,communications,leadcounsel","classcounsel,leadcounsel",0.67
+2262,baron budd p c,leadcounsel,classcounsel,0.0
+2262,block leviton,leadcounsel,classcounsel,0.0
+2262,edelman combs latturner goodwin,leadcounsel,classcounsel,0.0
+2262,hagens berman sobol shapiro,"classcounsel,settlement",classcounsel,0.5
+2262,kaplan fox kilsheimer,leadcounsel,classcounsel,0.0
+2262,kirby mcinerney,"classcounsel,settlement",classcounsel,0.5
+2262,lite depalma greenberg,"classcounsel,settlement",classcounsel,0.5
+2262,lovell stewart halebian jacobson,"classcounsel,settlement",classcounsel,0.5
+2262,morris and morris,"classcounsel,leadcounsel,settlement","classcounsel,leadcounsel",0.67
+2262,pomeranz,"classcounsel,leadcounsel,settlement",classcounsel,0.33
+2262,weinstein kitchenoff asher,"classcounsel,leadcounsel,settlement","classcounsel,leadcounsel",0.67
+2295,patric lester,leadcounsel,"communications,leadcounsel",0.5
+2420,berman devalerio,"classcounsel,settlement",classcounsel,0.5
+2420,berman tabacco,"classcounsel,settlement",classcounsel,0.5
+2420,cotchett pitre mccarthy,"classcounsel,leadcounsel,settlement","classcounsel,leadcounsel",0.67
+2420,hagens berman sobol shapiro,"classcounsel,leadcounsel,settlement","classcounsel,leadcounsel",0.67
+2420,lieff cabraser heimann bernstein,"classcounsel,leadcounsel,settlement","classcounsel,leadcounsel",0.67
+2420,pearson simon warshaw,"classcounsel,settlement",classcounsel,0.5
+2420,saveri saveri inc,"classcounsel,settlement",classcounsel,0.5
+2543,adam levitt,management,"classcounsel,management",0.5
+2543,david boies,management,"classcounsel,management",0.5
+2543,dawn barrios,"communications,coordination",coordination,0.5
+2543,elizabeth cabraser,leadcounsel,"classcounsel,leadcounsel",0.5
+2543,joseph rice,management,"classcounsel,management",0.5
+2543,marc seltzer,management,"classcounsel,management",0.5
+2543,peter prieto,management,"classcounsel,management",0.5
+2543,steve berman,leadcounsel,"classcounsel,leadcounsel",0.5
+2695,erika anderson,"coordination,localcounsel",localcounsel,0.5
+2695,john bienvenu,"coordination,localcounsel",localcounsel,0.5
+2695,mark donatelli,"coordination,localcounsel",localcounsel,0.5
+2695,nancy long,"communications,coordination,localcounsel","communications,localcounsel",0.67
+2695,nicholas koluncich,"coordination,localcounsel",localcounsel,0.5
+2740,daniel markoff,"management,settlement",management,0.5
+2850,dean harvey,"classcounsel,leadcounsel,settlement","classcounsel,leadcounsel",0.67
+2850,roberta liebenberg,"classcounsel,leadcounsel,settlement","classcounsel,leadcounsel",0.67

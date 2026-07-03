@@ -1,0 +1,371 @@
+{
+  "scope_mdls": [
+    "1431",
+    "1700",
+    "1871",
+    "2185",
+    "2187",
+    "2391",
+    "2440",
+    "2570",
+    "2592",
+    "2595",
+    "2666",
+    "2669",
+    "2741",
+    "2775",
+    "2801",
+    "2817",
+    "2820",
+    "2836",
+    "2859",
+    "2878"
+  ],
+  "tier1_appointments": {
+    "individuals": {
+      "gold": 432,
+      "ours": 424,
+      "matched": 392,
+      "recall": 0.907,
+      "recall_ci": [
+        87.6,
+        93.1
+      ],
+      "precision": 0.925,
+      "precision_ci": [
+        89.5,
+        94.6
+      ],
+      "f1": 0.916
+    },
+    "firms": {
+      "gold": 366,
+      "ours": 385,
+      "matched": 342,
+      "recall": 0.934,
+      "recall_ci": [
+        90.4,
+        95.6
+      ],
+      "precision": 0.888,
+      "precision_ci": [
+        85.3,
+        91.6
+      ],
+      "f1": 0.911
+    },
+    "combined": {
+      "gold": 798,
+      "ours": 809,
+      "matched": 734,
+      "recall": 0.92,
+      "recall_ci": [
+        89.9,
+        93.7
+      ],
+      "precision": 0.907,
+      "precision_ci": [
+        88.5,
+        92.5
+      ],
+      "f1": 0.914
+    },
+    "role_jaccard_mean": 0.941,
+    "role_jaccard_mean_reconciled": 0.927,
+    "side_agreement_pct": 98.7,
+    "soft_recall": 0.841,
+    "soft_precision": 0.857,
+    "soft_f1": 0.849,
+    "interim_agreement_pct": 96.7
+  },
+  "tier2_orders": {
+    "identity": {
+      "gold": 109,
+      "ours": 103,
+      "matched": 95,
+      "recall": 0.872,
+      "recall_ci": [
+        79.6,
+        92.2
+      ],
+      "precision": 0.922,
+      "precision_ci": [
+        85.4,
+        96.0
+      ],
+      "f1": 0.896
+    },
+    "field_agreement": {
+      "Contested": {
+        "agree": 86,
+        "total": 95,
+        "pct": 90.5,
+        "ci": [
+          83.0,
+          94.9
+        ]
+      },
+      "Date(meta)": {
+        "agree": 90,
+        "total": 95,
+        "pct": 94.7,
+        "ci": [
+          88.3,
+          97.7
+        ]
+      },
+      "IRPA_Duties_to_Clients": {
+        "agree": 87,
+        "total": 95,
+        "pct": 91.6,
+        "ci": [
+          84.3,
+          95.7
+        ]
+      },
+      "Judge(meta)": {
+        "agree": 73,
+        "total": 95,
+        "pct": 76.8,
+        "ci": [
+          67.4,
+          84.2
+        ]
+      },
+      "Limit_Nonleader_Practice": {
+        "agree": 80,
+        "total": 95,
+        "pct": 84.2,
+        "ci": [
+          75.6,
+          90.2
+        ]
+      },
+      "OU_Create": {
+        "agree": 69,
+        "total": 95,
+        "pct": 72.6,
+        "ci": [
+          62.9,
+          80.6
+        ]
+      },
+      "OU_Duties_to_Nonclients": {
+        "agree": 61,
+        "total": 95,
+        "pct": 64.2,
+        "ci": [
+          54.2,
+          73.1
+        ]
+      },
+      "OU_Functions": {
+        "agree": 77,
+        "total": 95,
+        "pct": 81.1,
+        "ci": [
+          72.0,
+          87.7
+        ]
+      },
+      "Order_Types(exact)": {
+        "agree": 63,
+        "total": 95,
+        "pct": 66.3,
+        "ci": [
+          56.3,
+          75.0
+        ]
+      },
+      "Rule_23": {
+        "agree": 91,
+        "total": 95,
+        "pct": 95.8,
+        "ci": [
+          89.7,
+          98.4
+        ]
+      }
+    },
+    "order_types_jaccard_mean": 0.798,
+    "order_types_jaccard_mean_reconciled": 0.769
+  },
+  "tier3_attorneys": {
+    "gold": 432,
+    "ours": 424,
+    "matched": 392,
+    "recall": 0.907,
+    "recall_ci": [
+      87.6,
+      93.1
+    ],
+    "precision": 0.925,
+    "precision_ci": [
+      89.5,
+      94.6
+    ],
+    "f1": 0.916
+  },
+  "per_mdl": [
+    {
+      "mdl": "1431",
+      "gold_appointees": 57,
+      "our_appointees": 56,
+      "matched": 54,
+      "gold_orders": 2,
+      "our_orders": 0
+    },
+    {
+      "mdl": "1700",
+      "gold_appointees": 13,
+      "our_appointees": 21,
+      "matched": 13,
+      "gold_orders": 3,
+      "our_orders": 2
+    },
+    {
+      "mdl": "1871",
+      "gold_appointees": 60,
+      "our_appointees": 54,
+      "matched": 46,
+      "gold_orders": 12,
+      "our_orders": 9
+    },
+    {
+      "mdl": "2185",
+      "gold_appointees": 13,
+      "our_appointees": 13,
+      "matched": 10,
+      "gold_orders": 4,
+      "our_orders": 4
+    },
+    {
+      "mdl": "2187",
+      "gold_appointees": 164,
+      "our_appointees": 159,
+      "matched": 157,
+      "gold_orders": 12,
+      "our_orders": 13
+    },
+    {
+      "mdl": "2391",
+      "gold_appointees": 80,
+      "our_appointees": 86,
+      "matched": 75,
+      "gold_orders": 10,
+      "our_orders": 12
+    },
+    {
+      "mdl": "2440",
+      "gold_appointees": 54,
+      "our_appointees": 50,
+      "matched": 49,
+      "gold_orders": 5,
+      "our_orders": 4
+    },
+    {
+      "mdl": "2570",
+      "gold_appointees": 69,
+      "our_appointees": 71,
+      "matched": 63,
+      "gold_orders": 10,
+      "our_orders": 8
+    },
+    {
+      "mdl": "2592",
+      "gold_appointees": 28,
+      "our_appointees": 31,
+      "matched": 26,
+      "gold_orders": 7,
+      "our_orders": 8
+    },
+    {
+      "mdl": "2595",
+      "gold_appointees": 24,
+      "our_appointees": 24,
+      "matched": 23,
+      "gold_orders": 4,
+      "our_orders": 4
+    },
+    {
+      "mdl": "2666",
+      "gold_appointees": 49,
+      "our_appointees": 47,
+      "matched": 46,
+      "gold_orders": 3,
+      "our_orders": 2
+    },
+    {
+      "mdl": "2669",
+      "gold_appointees": 20,
+      "our_appointees": 20,
+      "matched": 19,
+      "gold_orders": 2,
+      "our_orders": 2
+    },
+    {
+      "mdl": "2741",
+      "gold_appointees": 16,
+      "our_appointees": 22,
+      "matched": 16,
+      "gold_orders": 3,
+      "our_orders": 3
+    },
+    {
+      "mdl": "2775",
+      "gold_appointees": 59,
+      "our_appointees": 54,
+      "matched": 53,
+      "gold_orders": 7,
+      "our_orders": 8
+    },
+    {
+      "mdl": "2801",
+      "gold_appointees": 2,
+      "our_appointees": 2,
+      "matched": 2,
+      "gold_orders": 4,
+      "our_orders": 5
+    },
+    {
+      "mdl": "2817",
+      "gold_appointees": 15,
+      "our_appointees": 18,
+      "matched": 15,
+      "gold_orders": 8,
+      "our_orders": 6
+    },
+    {
+      "mdl": "2820",
+      "gold_appointees": 19,
+      "our_appointees": 20,
+      "matched": 17,
+      "gold_orders": 2,
+      "our_orders": 2
+    },
+    {
+      "mdl": "2836",
+      "gold_appointees": 26,
+      "our_appointees": 29,
+      "matched": 22,
+      "gold_orders": 4,
+      "our_orders": 4
+    },
+    {
+      "mdl": "2859",
+      "gold_appointees": 22,
+      "our_appointees": 24,
+      "matched": 20,
+      "gold_orders": 3,
+      "our_orders": 3
+    },
+    {
+      "mdl": "2878",
+      "gold_appointees": 8,
+      "our_appointees": 8,
+      "matched": 8,
+      "gold_orders": 4,
+      "our_orders": 4
+    }
+  ]
+}

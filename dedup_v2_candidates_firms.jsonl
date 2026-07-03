@@ -1,0 +1,7700 @@
+[
+{
+"pair_key": "firm|bethune davis jones|davis harrison jones morrison steakley",
+"i": 0,
+"j": 1966,
+"why": "tok:davis,jones"
+},
+{
+"pair_key": "firm|attorney clayton jones|clayton jones",
+"i": 1018,
+"j": 1033,
+"why": "tok:clayton,jones"
+},
+{
+"pair_key": "firm|coulthard jones kemp|harrison jones kemp",
+"i": 1454,
+"j": 1709,
+"why": "tok:jones,kemp"
+},
+{
+"pair_key": "firm|davis harrison jones morrison steakley|harrison jones kemp",
+"i": 1454,
+"j": 1966,
+"why": "tok:harrison,jones"
+},
+{
+"pair_key": "firm|jones plc ward|jones ward",
+"i": 1604,
+"j": 1610,
+"why": "tok:jones,ward"
+},
+{
+"pair_key": "firm|davis garrison heninger|davis garrison henninger",
+"i": 349,
+"j": 1905,
+"why": "tok:davis,garrison"
+},
+{
+"pair_key": "firm|calcagnie davis inc robinson robinson shapiro|calcagnie davis robinson robinson shapiro",
+"i": 832,
+"j": 1563,
+"why": "tok:calcagnie,davis,robinson,shapiro"
+},
+{
+"pair_key": "firm|davis harrison jones morrison steakley|davis harrison morrison steakley",
+"i": 1572,
+"j": 1966,
+"why": "tok:davis,harrison,morrison,steakley"
+},
+{
+"pair_key": "firm|davis sanger slack|davis slack",
+"i": 1751,
+"j": 1990,
+"why": "tok:davis,slack"
+},
+{
+"pair_key": "firm|cartmell wagstaff|wagstaff",
+"i": 1,
+"j": 1146,
+"why": "tok:wagstaff"
+},
+{
+"pair_key": "firm|andrus hood wagstaff|andrus wagstaff",
+"i": 794,
+"j": 1082,
+"why": "tok:andrus,wagstaff"
+},
+{
+"pair_key": "firm|andrus hood wagstaff|wagstaff",
+"i": 794,
+"j": 1146,
+"why": "tok:wagstaff"
+},
+{
+"pair_key": "firm|andrus wagstaff|wagstaff",
+"i": 1082,
+"j": 1146,
+"why": "tok:wagstaff"
+},
+{
+"pair_key": "firm|barroway kessler schiffrin topaz|barroway schiffrin",
+"i": 2,
+"j": 44,
+"why": "tok:barroway,schiffrin"
+},
+{
+"pair_key": "firm|barroway check kesser meltzer topaz|barroway kessler schiffrin topaz",
+"i": 44,
+"j": 63,
+"why": "tok:barroway,topaz"
+},
+{
+"pair_key": "firm|barroway check kessler meltzer topaz|barroway kessler schiffrin topaz",
+"i": 44,
+"j": 513,
+"why": "tok:barroway,kessler,topaz"
+},
+{
+"pair_key": "firm|barroway check kessler topaz|barroway kessler schiffrin topaz",
+"i": 44,
+"j": 576,
+"why": "tok:barroway,kessler,topaz"
+},
+{
+"pair_key": "firm|barroway check kesser meltzer topaz|barroway check kessler meltzer topaz",
+"i": 63,
+"j": 513,
+"why": "tok:barroway,check,meltzer,topaz"
+},
+{
+"pair_key": "firm|barroway check kesser meltzer topaz|barroway check kessler topaz",
+"i": 63,
+"j": 576,
+"why": "tok:barroway,check,topaz"
+},
+{
+"pair_key": "firm|barroway check kessler meltzer topaz|barroway check kessler topaz",
+"i": 513,
+"j": 576,
+"why": "tok:barroway,check,kessler,topaz"
+},
+{
+"pair_key": "firm|cohen hausfeld milstein toll|cohen milstein selers toll",
+"i": 3,
+"j": 62,
+"why": "tok:cohen,milstein,toll"
+},
+{
+"pair_key": "firm|cohen hausfeld milstein toll|cohen hausfield milstein toll",
+"i": 3,
+"j": 293,
+"why": "tok:cohen,milstein,toll"
+},
+{
+"pair_key": "firm|cohen hausfeld milstein toll|cohen hausfeld toll",
+"i": 3,
+"j": 352,
+"why": "tok:cohen,hausfeld,toll"
+},
+{
+"pair_key": "firm|cohen hausfeld milstein toll|cohen milstein sellers toll",
+"i": 3,
+"j": 353,
+"why": "tok:cohen,milstein,toll"
+},
+{
+"pair_key": "firm|cohen hausfeld milstein toll|cohen milstein pplc sellers toll",
+"i": 3,
+"j": 775,
+"why": "tok:cohen,milstein,toll"
+},
+{
+"pair_key": "firm|cohen hausfeld milstein toll|cohen millstein sellers toll",
+"i": 3,
+"j": 957,
+"why": "tok:cohen,toll"
+},
+{
+"pair_key": "firm|cohen haulsfeld milstein toll|cohen hausfeld milstein toll",
+"i": 3,
+"j": 1474,
+"why": "tok:cohen,milstein,toll"
+},
+{
+"pair_key": "firm|cohen hausfeld milstein toll|cohen milstein seller toll",
+"i": 3,
+"j": 1635,
+"why": "tok:cohen,milstein,toll"
+},
+{
+"pair_key": "firm|cohen hausfield milstein toll|cohen milstein selers toll",
+"i": 62,
+"j": 293,
+"why": "tok:cohen,milstein,toll"
+},
+{
+"pair_key": "firm|cohen hausfeld toll|cohen milstein selers toll",
+"i": 62,
+"j": 352,
+"why": "tok:cohen,toll"
+},
+{
+"pair_key": "firm|cohen milstein selers toll|cohen milstein sellers toll",
+"i": 62,
+"j": 353,
+"why": "tok:cohen,milstein,toll"
+},
+{
+"pair_key": "firm|cohen milstein pplc sellers toll|cohen milstein selers toll",
+"i": 62,
+"j": 775,
+"why": "tok:cohen,milstein,toll"
+},
+{
+"pair_key": "firm|cohen millstein sellers toll|cohen milstein selers toll",
+"i": 62,
+"j": 957,
+"why": "tok:cohen,toll"
+},
+{
+"pair_key": "firm|cohen haulsfeld milstein toll|cohen milstein selers toll",
+"i": 62,
+"j": 1474,
+"why": "tok:cohen,milstein,toll"
+},
+{
+"pair_key": "firm|cohen milstein selers toll|cohen milstein seller toll",
+"i": 62,
+"j": 1635,
+"why": "tok:cohen,milstein,toll"
+},
+{
+"pair_key": "firm|cohen hausfeld toll|cohen hausfield milstein toll",
+"i": 293,
+"j": 352,
+"why": "tok:cohen,toll"
+},
+{
+"pair_key": "firm|cohen hausfield milstein toll|cohen milstein sellers toll",
+"i": 293,
+"j": 353,
+"why": "tok:cohen,milstein,toll"
+},
+{
+"pair_key": "firm|cohen hausfield milstein toll|cohen milstein pplc sellers toll",
+"i": 293,
+"j": 775,
+"why": "tok:cohen,milstein,toll"
+},
+{
+"pair_key": "firm|cohen hausfield milstein toll|cohen millstein sellers toll",
+"i": 293,
+"j": 957,
+"why": "tok:cohen,toll"
+},
+{
+"pair_key": "firm|cohen haulsfeld milstein toll|cohen hausfield milstein toll",
+"i": 293,
+"j": 1474,
+"why": "tok:cohen,milstein,toll"
+},
+{
+"pair_key": "firm|cohen hausfield milstein toll|cohen milstein seller toll",
+"i": 293,
+"j": 1635,
+"why": "tok:cohen,milstein,toll"
+},
+{
+"pair_key": "firm|cohen hausfeld toll|cohen milstein sellers toll",
+"i": 352,
+"j": 353,
+"why": "tok:cohen,toll"
+},
+{
+"pair_key": "firm|cohen hausfeld toll|cohen milstein pplc sellers toll",
+"i": 352,
+"j": 775,
+"why": "tok:cohen,toll"
+},
+{
+"pair_key": "firm|cohen hausfeld toll|cohen millstein sellers toll",
+"i": 352,
+"j": 957,
+"why": "tok:cohen,toll"
+},
+{
+"pair_key": "firm|cohen haulsfeld milstein toll|cohen hausfeld toll",
+"i": 352,
+"j": 1474,
+"why": "tok:cohen,toll"
+},
+{
+"pair_key": "firm|cohen hausfeld toll|cohen milstein seller toll",
+"i": 352,
+"j": 1635,
+"why": "tok:cohen,toll"
+},
+{
+"pair_key": "firm|cohen milstein pplc sellers toll|cohen milstein sellers toll",
+"i": 353,
+"j": 775,
+"why": "tok:cohen,milstein,sellers,toll"
+},
+{
+"pair_key": "firm|cohen millstein sellers toll|cohen milstein sellers toll",
+"i": 353,
+"j": 957,
+"why": "tok:cohen,sellers,toll"
+},
+{
+"pair_key": "firm|cohen haulsfeld milstein toll|cohen milstein sellers toll",
+"i": 353,
+"j": 1474,
+"why": "tok:cohen,milstein,toll"
+},
+{
+"pair_key": "firm|cohen milstein seller toll|cohen milstein sellers toll",
+"i": 353,
+"j": 1635,
+"why": "tok:cohen,milstein,toll"
+},
+{
+"pair_key": "firm|cohen millstein sellers toll|cohen milstein pplc sellers toll",
+"i": 775,
+"j": 957,
+"why": "tok:cohen,sellers,toll"
+},
+{
+"pair_key": "firm|cohen haulsfeld milstein toll|cohen milstein pplc sellers toll",
+"i": 775,
+"j": 1474,
+"why": "tok:cohen,milstein,toll"
+},
+{
+"pair_key": "firm|cohen milstein pplc sellers toll|cohen milstein seller toll",
+"i": 775,
+"j": 1635,
+"why": "tok:cohen,milstein,toll"
+},
+{
+"pair_key": "firm|cohen haulsfeld milstein toll|cohen millstein sellers toll",
+"i": 957,
+"j": 1474,
+"why": "tok:cohen,toll"
+},
+{
+"pair_key": "firm|cohen millstein sellers toll|cohen milstein seller toll",
+"i": 957,
+"j": 1635,
+"why": "tok:cohen,toll"
+},
+{
+"pair_key": "firm|cohen haulsfeld milstein toll|cohen milstein seller toll",
+"i": 1474,
+"j": 1635,
+"why": "tok:cohen,milstein,toll"
+},
+{
+"pair_key": "firm|cohen hausfeld milstein toll|cohen milstein",
+"i": 3,
+"j": 623,
+"why": "tok:cohen,milstein"
+},
+{
+"pair_key": "firm|cohen|cohen hausfeld milstein toll",
+"i": 3,
+"j": 884,
+"why": "tok:cohen"
+},
+{
+"pair_key": "firm|cohen corporation placitella professional roth|cohen placitella roth",
+"i": 57,
+"j": 237,
+"why": "tok:cohen,placitella,roth"
+},
+{
+"pair_key": "firm|cohen|cohen placitella roth",
+"i": 57,
+"j": 884,
+"why": "tok:cohen"
+},
+{
+"pair_key": "firm|cohen grossman roth yaffa|cohen placitella roth",
+"i": 57,
+"j": 1111,
+"why": "tok:cohen,roth"
+},
+{
+"pair_key": "firm|cohen milstein|cohen milstein selers toll",
+"i": 62,
+"j": 623,
+"why": "tok:cohen,milstein"
+},
+{
+"pair_key": "firm|cohen|cohen milstein selers toll",
+"i": 62,
+"j": 884,
+"why": "tok:cohen"
+},
+{
+"pair_key": "firm|cohen|cohen malad",
+"i": 145,
+"j": 884,
+"why": "tok:cohen"
+},
+{
+"pair_key": "firm|cohen|cohen ervin jessup",
+"i": 169,
+"j": 884,
+"why": "tok:cohen"
+},
+{
+"pair_key": "firm|cohen|cohen corporation placitella professional roth",
+"i": 237,
+"j": 884,
+"why": "tok:cohen"
+},
+{
+"pair_key": "firm|cohen corporation placitella professional roth|cohen grossman roth yaffa",
+"i": 237,
+"j": 1111,
+"why": "tok:cohen,roth"
+},
+{
+"pair_key": "firm|cohen hausfield milstein toll|cohen milstein",
+"i": 293,
+"j": 623,
+"why": "tok:cohen,milstein"
+},
+{
+"pair_key": "firm|cohen|cohen hausfield milstein toll",
+"i": 293,
+"j": 884,
+"why": "tok:cohen"
+},
+{
+"pair_key": "firm|cohen|cohen hausfeld toll",
+"i": 352,
+"j": 884,
+"why": "tok:cohen"
+},
+{
+"pair_key": "firm|cohen milstein|cohen milstein sellers toll",
+"i": 353,
+"j": 623,
+"why": "tok:cohen,milstein"
+},
+{
+"pair_key": "firm|cohen|cohen milstein sellers toll",
+"i": 353,
+"j": 884,
+"why": "tok:cohen"
+},
+{
+"pair_key": "firm|cohen|cohen mcdonough zelle",
+"i": 575,
+"j": 884,
+"why": "tok:cohen"
+},
+{
+"pair_key": "firm|cohen milstein|cohen milstein pplc sellers toll",
+"i": 623,
+"j": 775,
+"why": "tok:cohen,milstein"
+},
+{
+"pair_key": "firm|cohen|cohen milstein",
+"i": 623,
+"j": 884,
+"why": "tok:cohen"
+},
+{
+"pair_key": "firm|cohen haulsfeld milstein toll|cohen milstein",
+"i": 623,
+"j": 1474,
+"why": "tok:cohen,milstein"
+},
+{
+"pair_key": "firm|cohen milstein|cohen milstein seller toll",
+"i": 623,
+"j": 1635,
+"why": "tok:cohen,milstein"
+},
+{
+"pair_key": "firm|cohen|cohen dannenberg hart lowey",
+"i": 709,
+"j": 884,
+"why": "tok:cohen"
+},
+{
+"pair_key": "firm|cohen|cohen milstein pplc sellers toll",
+"i": 775,
+"j": 884,
+"why": "tok:cohen"
+},
+{
+"pair_key": "firm|cohen|cohen millstein sellers toll",
+"i": 884,
+"j": 957,
+"why": "tok:cohen"
+},
+{
+"pair_key": "firm|cohen|cohen grossman roth yaffa",
+"i": 884,
+"j": 1111,
+"why": "tok:cohen"
+},
+{
+"pair_key": "firm|cohen|cohen haulsfeld milstein toll",
+"i": 884,
+"j": 1474,
+"why": "tok:cohen"
+},
+{
+"pair_key": "firm|cohen|cohen milstein seller toll",
+"i": 884,
+"j": 1635,
+"why": "tok:cohen"
+},
+{
+"pair_key": "firm|adelman fairchild jackson milstein wade|adelman milstein",
+"i": 673,
+"j": 1816,
+"why": "tok:adelman,milstein"
+},
+{
+"pair_key": "firm|adelman fairchild jackson milstein wade|fairchild jackson milstein wade",
+"i": 1816,
+"j": 1834,
+"why": "tok:fairchild,jackson,milstein,wade"
+},
+{
+"pair_key": "firm|cohen hausfeld milstein toll|hausfeld",
+"i": 3,
+"j": 75,
+"why": "tok:hausfeld"
+},
+{
+"pair_key": "firm|cohen hausfeld milstein toll|dc hausfeld",
+"i": 3,
+"j": 945,
+"why": "tok:hausfeld"
+},
+{
+"pair_key": "firm|cohen hausfeld toll|hausfeld",
+"i": 75,
+"j": 352,
+"why": "tok:hausfeld"
+},
+{
+"pair_key": "firm|dc hausfeld|hausfeld",
+"i": 75,
+"j": 945,
+"why": "tok:hausfeld"
+},
+{
+"pair_key": "firm|cohen hausfeld toll|dc hausfeld",
+"i": 352,
+"j": 945,
+"why": "tok:hausfeld"
+},
+{
+"pair_key": "firm|bershad milberg schulman weiss|bershad milberg weiss",
+"i": 4,
+"j": 65,
+"why": "tok:bershad,milberg,weiss"
+},
+{
+"pair_key": "firm|bershad milberg schulman weiss|milberg weiss",
+"i": 4,
+"j": 344,
+"why": "tok:milberg,weiss"
+},
+{
+"pair_key": "firm|anapol cohan feldman schwartz smalley weiss|anapol cohan felman schwartz smalley weiss",
+"i": 12,
+"j": 150,
+"why": "tok:anapol,cohan,schwartz,smalley,weiss"
+},
+{
+"pair_key": "firm|anapol cohan feldman schwartz smalley weiss|anapol cohan feldmen schwartz smalley weiss",
+"i": 12,
+"j": 236,
+"why": "tok:anapol,cohan,schwartz,smalley,weiss"
+},
+{
+"pair_key": "firm|anapol cohan feldman schwartz smalley weiss|anapol weiss",
+"i": 12,
+"j": 1037,
+"why": "tok:anapol,weiss"
+},
+{
+"pair_key": "firm|anapol cohan feldman schwartz smalley weiss|anapol cohon feldman schwartz smalley weiss",
+"i": 12,
+"j": 1577,
+"why": "tok:anapol,feldman,schwartz,smalley,weiss"
+},
+{
+"pair_key": "firm|bershad milberg weiss|milberg weiss",
+"i": 65,
+"j": 344,
+"why": "tok:milberg,weiss"
+},
+{
+"pair_key": "firm|anapol cohan feldmen schwartz smalley weiss|anapol cohan felman schwartz smalley weiss",
+"i": 150,
+"j": 236,
+"why": "tok:anapol,cohan,schwartz,smalley,weiss"
+},
+{
+"pair_key": "firm|anapol cohan felman schwartz smalley weiss|anapol weiss",
+"i": 150,
+"j": 1037,
+"why": "tok:anapol,weiss"
+},
+{
+"pair_key": "firm|anapol cohan felman schwartz smalley weiss|anapol cohon feldman schwartz smalley weiss",
+"i": 150,
+"j": 1577,
+"why": "tok:anapol,schwartz,smalley,weiss"
+},
+{
+"pair_key": "firm|anapol cohan feldmen schwartz smalley weiss|anapol weiss",
+"i": 236,
+"j": 1037,
+"why": "tok:anapol,weiss"
+},
+{
+"pair_key": "firm|anapol cohan feldmen schwartz smalley weiss|anapol cohon feldman schwartz smalley weiss",
+"i": 236,
+"j": 1577,
+"why": "tok:anapol,schwartz,smalley,weiss"
+},
+{
+"pair_key": "firm|garrison paul rifkind weiss|garrison paul rifkind weiss wharton",
+"i": 1008,
+"j": 1788,
+"why": "tok:garrison,paul,rifkind,weiss"
+},
+{
+"pair_key": "firm|anapol cohon feldman schwartz smalley weiss|anapol weiss",
+"i": 1037,
+"j": 1577,
+"why": "tok:anapol,weiss"
+},
+{
+"pair_key": "firm|bershad milberg schulman weiss|milberg",
+"i": 4,
+"j": 84,
+"why": "tok:milberg"
+},
+{
+"pair_key": "firm|bershad milberg weiss|milberg",
+"i": 65,
+"j": 84,
+"why": "tok:milberg"
+},
+{
+"pair_key": "firm|milberg|milberg weiss",
+"i": 84,
+"j": 344,
+"why": "tok:milberg"
+},
+{
+"pair_key": "firm|bryson coleman grossman milberg phillips|milberg",
+"i": 84,
+"j": 1026,
+"why": "tok:milberg"
+},
+{
+"pair_key": "firm|coleman cryson grossman milberg pccl phillips|milberg",
+"i": 84,
+"j": 1157,
+"why": "tok:milberg"
+},
+{
+"pair_key": "firm|bryson coleman grossman milberg|milberg",
+"i": 84,
+"j": 1404,
+"why": "tok:milberg"
+},
+{
+"pair_key": "firm|grossman milberg phillips tadler|milberg",
+"i": 84,
+"j": 1909,
+"why": "tok:milberg"
+},
+{
+"pair_key": "firm|bryson coleman grossman milberg phillips|coleman cryson grossman milberg pccl phillips",
+"i": 1026,
+"j": 1157,
+"why": "tok:coleman,grossman,milberg,phillips"
+},
+{
+"pair_key": "firm|bryson coleman grossman milberg|bryson coleman grossman milberg phillips",
+"i": 1026,
+"j": 1404,
+"why": "tok:bryson,coleman,grossman,milberg"
+},
+{
+"pair_key": "firm|bryson coleman grossman milberg phillips|grossman milberg phillips tadler",
+"i": 1026,
+"j": 1909,
+"why": "tok:grossman,milberg,phillips"
+},
+{
+"pair_key": "firm|bryson coleman grossman milberg|coleman cryson grossman milberg pccl phillips",
+"i": 1157,
+"j": 1404,
+"why": "tok:coleman,grossman,milberg"
+},
+{
+"pair_key": "firm|coleman cryson grossman milberg pccl phillips|grossman milberg phillips tadler",
+"i": 1157,
+"j": 1909,
+"why": "tok:grossman,milberg,phillips"
+},
+{
+"pair_key": "firm|bryson coleman grossman milberg|grossman milberg phillips tadler",
+"i": 1404,
+"j": 1909,
+"why": "tok:grossman,milberg"
+},
+{
+"pair_key": "firm|barrios casteix kindsdorf|barrios casteix kingsdorf",
+"i": 5,
+"j": 1510,
+"why": "tok:barrios,casteix"
+},
+{
+"pair_key": "firm|barrios casteix kingsdorf|barrios castiex kingsdorf",
+"i": 5,
+"j": 37,
+"why": "tok:barrios,kingsdorf"
+},
+{
+"pair_key": "firm|branch|branch civil department division federal justice programs",
+"i": 6,
+"j": 1787,
+"why": "tok:branch"
+},
+{
+"pair_key": "firm|branch|branch civil department division environmental justice states torts united",
+"i": 6,
+"j": 1978,
+"why": "tok:branch"
+},
+{
+"pair_key": "firm|branch civil department division environmental justice states torts united|branch civil department division federal justice programs",
+"i": 1787,
+"j": 1978,
+"why": "tok:branch,civil,department"
+},
+{
+"pair_key": "firm|burg eldredge hersh jardine simpson|burg simpson",
+"i": 7,
+"j": 1875,
+"why": "tok:burg,simpson"
+},
+{
+"pair_key": "firm|burg eldredge hersh jardine simpson|hersh hersh",
+"i": 7,
+"j": 1462,
+"why": "tok:hersh"
+},
+{
+"pair_key": "firm|hill toriseva williams|hill williams",
+"i": 9,
+"j": 416,
+"why": "tok:hill,williams"
+},
+{
+"pair_key": "firm|boundas hart kherker williams|boundas hart kherkher williams",
+"i": 348,
+"j": 633,
+"why": "tok:boundas,hart,williams"
+},
+{
+"pair_key": "firm|boundas hart kherkher williams|boundas hart williams",
+"i": 348,
+"j": 1334,
+"why": "tok:boundas,hart,williams"
+},
+{
+"pair_key": "firm|boundas hart kherkher williams|kherkher williams",
+"i": 348,
+"j": 1998,
+"why": "tok:kherkher,williams"
+},
+{
+"pair_key": "firm|boundas hart kherker williams|boundas hart williams",
+"i": 633,
+"j": 1334,
+"why": "tok:boundas,hart,williams"
+},
+{
+"pair_key": "firm|hill toriseva williams|toriseva",
+"i": 9,
+"j": 523,
+"why": "tok:toriseva"
+},
+{
+"pair_key": "firm|toriseva|toriseva wallace wexler",
+"i": 229,
+"j": 523,
+"why": "tok:toriseva"
+},
+{
+"pair_key": "firm|lanier|lanier mark",
+"i": 10,
+"j": 797,
+"why": "tok:lanier"
+},
+{
+"pair_key": "firm|schreiber singleton|singleton",
+"i": 11,
+"j": 1255,
+"why": "tok:singleton"
+},
+{
+"pair_key": "firm|anapol cohan feldman schwartz smalley weiss|anapol schwartz",
+"i": 12,
+"j": 451,
+"why": "tok:anapol,schwartz"
+},
+{
+"pair_key": "firm|anapol cohan felman schwartz smalley weiss|anapol schwartz",
+"i": 150,
+"j": 451,
+"why": "tok:anapol,schwartz"
+},
+{
+"pair_key": "firm|anapol cohan feldmen schwartz smalley weiss|anapol schwartz",
+"i": 236,
+"j": 451,
+"why": "tok:anapol,schwartz"
+},
+{
+"pair_key": "firm|anapol cohon feldman schwartz smalley weiss|anapol schwartz",
+"i": 451,
+"j": 1577,
+"why": "tok:anapol,schwartz"
+},
+{
+"pair_key": "firm|aylstock kreis overholtz witkin|aylstock plc sasser witkin",
+"i": 13,
+"j": 388,
+"why": "tok:aylstock,witkin"
+},
+{
+"pair_key": "firm|aylstock kreiss witkin|aylstock plc sasser witkin",
+"i": 13,
+"j": 548,
+"why": "tok:aylstock,witkin"
+},
+{
+"pair_key": "firm|aylstock kreios overholtz witkin|aylstock plc sasser witkin",
+"i": 13,
+"j": 799,
+"why": "tok:aylstock,witkin"
+},
+{
+"pair_key": "firm|aylstock kries overholtz witkin|aylstock plc sasser witkin",
+"i": 13,
+"j": 1346,
+"why": "tok:aylstock,witkin"
+},
+{
+"pair_key": "firm|aylstock kreis overholtz witkin|aylstock kreiss witkin",
+"i": 388,
+"j": 548,
+"why": "tok:aylstock,witkin"
+},
+{
+"pair_key": "firm|aylstock kreios overholtz witkin|aylstock kreis overholtz witkin",
+"i": 388,
+"j": 799,
+"why": "tok:aylstock,overholtz,witkin"
+},
+{
+"pair_key": "firm|aylstock kreis overholtz witkin|aylstock kries overholtz witkin",
+"i": 388,
+"j": 1346,
+"why": "tok:aylstock,overholtz,witkin"
+},
+{
+"pair_key": "firm|aylstock kreios overholtz witkin|aylstock kreiss witkin",
+"i": 548,
+"j": 799,
+"why": "tok:aylstock,witkin"
+},
+{
+"pair_key": "firm|aylstock kreiss witkin|aylstock kries overholtz witkin",
+"i": 548,
+"j": 1346,
+"why": "tok:aylstock,witkin"
+},
+{
+"pair_key": "firm|aylstock kreios overholtz witkin|aylstock kries overholtz witkin",
+"i": 799,
+"j": 1346,
+"why": "tok:aylstock,overholtz,witkin"
+},
+{
+"pair_key": "firm|alystock kreis overholtz witkin|aylstock kreis overholtz witkin",
+"i": 388,
+"j": 446,
+"why": "tok:kreis,overholtz,witkin"
+},
+{
+"pair_key": "firm|alystock kreis overholtz witkin|aylstock kreios overholtz witkin",
+"i": 446,
+"j": 799,
+"why": "tok:overholtz,witkin"
+},
+{
+"pair_key": "firm|alystock kreis overholtz witkin|aylstock kries overholtz witkin",
+"i": 446,
+"j": 1346,
+"why": "tok:overholtz,witkin"
+},
+{
+"pair_key": "firm|cotlar herman herman katz|herman herman katz",
+"i": 14,
+"j": 21,
+"why": "tok:herman,katz"
+},
+{
+"pair_key": "firm|barlet beck herman palenchar scott|bartlit beck herman palenchar scott",
+"i": 187,
+"j": 1457,
+"why": "tok:beck,herman,palenchar,scott"
+},
+{
+"pair_key": "firm|allen beasley|allen beasley crow methvin miles portis",
+"i": 15,
+"j": 45,
+"why": "tok:allen,beasley"
+},
+{
+"pair_key": "firm|al allen beasley et|allen beasley crow methvin miles portis",
+"i": 15,
+"j": 795,
+"why": "tok:allen,beasley"
+},
+{
+"pair_key": "firm|allen beasley crow mehtvin miles portis|allen beasley crow methvin miles portis",
+"i": 15,
+"j": 958,
+"why": "tok:allen,beasley,crow,miles,portis"
+},
+{
+"pair_key": "firm|allen beasley crow methvin miles partis|allen beasley crow methvin miles portis",
+"i": 15,
+"j": 1627,
+"why": "tok:allen,beasley,crow,methvin,miles"
+},
+{
+"pair_key": "firm|allen beasley crow methvin miles portis|beasley",
+"i": 15,
+"j": 1664,
+"why": "tok:beasley"
+},
+{
+"pair_key": "firm|al allen beasley et|allen beasley",
+"i": 45,
+"j": 795,
+"why": "tok:allen,beasley"
+},
+{
+"pair_key": "firm|allen beasley|allen beasley crow mehtvin miles portis",
+"i": 45,
+"j": 958,
+"why": "tok:allen,beasley"
+},
+{
+"pair_key": "firm|allen beasley|allen beasley crow methvin miles partis",
+"i": 45,
+"j": 1627,
+"why": "tok:allen,beasley"
+},
+{
+"pair_key": "firm|allen beasley|beasley",
+"i": 45,
+"j": 1664,
+"why": "tok:beasley"
+},
+{
+"pair_key": "firm|al allen beasley et|allen beasley crow mehtvin miles portis",
+"i": 795,
+"j": 958,
+"why": "tok:allen,beasley"
+},
+{
+"pair_key": "firm|al allen beasley et|allen beasley crow methvin miles partis",
+"i": 795,
+"j": 1627,
+"why": "tok:allen,beasley"
+},
+{
+"pair_key": "firm|al allen beasley et|beasley",
+"i": 795,
+"j": 1664,
+"why": "tok:beasley"
+},
+{
+"pair_key": "firm|allen beasley crow mehtvin miles portis|allen beasley crow methvin miles partis",
+"i": 958,
+"j": 1627,
+"why": "tok:allen,beasley,crow,miles"
+},
+{
+"pair_key": "firm|allen beasley crow mehtvin miles portis|beasley",
+"i": 958,
+"j": 1664,
+"why": "tok:beasley"
+},
+{
+"pair_key": "firm|beasley|beasley salim",
+"i": 1608,
+"j": 1664,
+"why": "tok:beasley"
+},
+{
+"pair_key": "firm|allen beasley crow methvin miles partis|beasley",
+"i": 1627,
+"j": 1664,
+"why": "tok:beasley"
+},
+{
+"pair_key": "firm|mccallum methvin terrell|methvin miller stephens terrell yancey",
+"i": 1407,
+"j": 1752,
+"why": "tok:methvin,terrell"
+},
+{
+"pair_key": "firm|devine salvas seeger|devine seeger",
+"i": 1423,
+"j": 1877,
+"why": "tok:devine,seeger"
+},
+{
+"pair_key": "firm|devine salvas seeger|salvas seeger",
+"i": 1546,
+"j": 1877,
+"why": "tok:salvas,seeger"
+},
+{
+"pair_key": "firm|blizzard mccarthy nabers|blizzard nabers",
+"i": 17,
+"j": 551,
+"why": "tok:blizzard,nabers"
+},
+{
+"pair_key": "firm|blizzard mccarthy nabers|nabers",
+"i": 17,
+"j": 2000,
+"why": "tok:nabers"
+},
+{
+"pair_key": "firm|blizzard nabers|nabers",
+"i": 551,
+"j": 2000,
+"why": "tok:nabers"
+},
+{
+"pair_key": "firm|cotchett mccarthy pitre|cotchett mccarthy pitre simon",
+"i": 234,
+"j": 253,
+"why": "tok:cotchett,mccarthy,pitre"
+},
+{
+"pair_key": "firm|cotchet mccarthy pitre|cotchett mccarthy pitre",
+"i": 234,
+"j": 511,
+"why": "tok:mccarthy,pitre"
+},
+{
+"pair_key": "firm|cotchet mccarthy pitre|cotchett mccarthy pitre simon",
+"i": 253,
+"j": 511,
+"why": "tok:mccarthy,pitre"
+},
+{
+"pair_key": "firm|bennan fishbein levin sedran|berman fishbein levin sedran",
+"i": 18,
+"j": 239,
+"why": "tok:fishbein,levin,sedran"
+},
+{
+"pair_key": "firm|berman fishbein levin sedran|fishbein levin",
+"i": 18,
+"j": 820,
+"why": "tok:fishbein,levin"
+},
+{
+"pair_key": "firm|berman fishbein levin sedran|berman levin sedran",
+"i": 18,
+"j": 1154,
+"why": "tok:berman,levin,sedran"
+},
+{
+"pair_key": "firm|berman fishbein levin sedran|levin",
+"i": 18,
+"j": 1189,
+"why": "tok:levin"
+},
+{
+"pair_key": "firm|echsner levin mitchell papantonio procter thomas|echsner levin mitchell papantonio proctor thomas",
+"i": 19,
+"j": 199,
+"why": "tok:echsner,levin,mitchell,papantonio,thomas"
+},
+{
+"pair_key": "firm|echsner levin mitchell papantonio proctor thomas|eschner levin mitchell papantonio proctor thomas",
+"i": 19,
+"j": 411,
+"why": "tok:levin,mitchell,papantonio,proctor,thomas"
+},
+{
+"pair_key": "firm|al et levin papantonio|echsner levin mitchell papantonio proctor thomas",
+"i": 19,
+"j": 488,
+"why": "tok:levin,papantonio"
+},
+{
+"pair_key": "firm|echsner levin mitchell papantonio proctor thomas|levin mitchell papantonio proctor rafferty thomas",
+"i": 19,
+"j": 836,
+"why": "tok:levin,mitchell,papantonio,proctor,thomas"
+},
+{
+"pair_key": "firm|barr buchanan levin mougey obrien papantonio proctor rafferty|echsner levin mitchell papantonio proctor thomas",
+"i": 19,
+"j": 1112,
+"why": "tok:levin,papantonio,proctor"
+},
+{
+"pair_key": "firm|echsner levin mitchell papantonio proctor thomas|levin",
+"i": 19,
+"j": 1189,
+"why": "tok:levin"
+},
+{
+"pair_key": "firm|barr buchanan levin mougey obrien papantonio proctor|echsner levin mitchell papantonio proctor thomas",
+"i": 19,
+"j": 1202,
+"why": "tok:levin,papantonio,proctor"
+},
+{
+"pair_key": "firm|barr brien buchanan levin mougey papantonio proctor rafferty|echsner levin mitchell papantonio proctor thomas",
+"i": 19,
+"j": 1221,
+"why": "tok:levin,papantonio,proctor"
+},
+{
+"pair_key": "firm|echsner levin mitchell papantonio proctor thomas|levin papantonio",
+"i": 19,
+"j": 1262,
+"why": "tok:levin,papantonio"
+},
+{
+"pair_key": "firm|echsner levin mitchell papantonio proctor thomas|eishner levin mitchell papantonio proctor rafferty thomas",
+"i": 19,
+"j": 1549,
+"why": "tok:levin,mitchell,papantonio,proctor,thomas"
+},
+{
+"pair_key": "firm|echsner levin mitchell papantonio proctor thomas|levin mitchell papantino proctor rafferty thomas",
+"i": 19,
+"j": 1950,
+"why": "tok:levin,mitchell,proctor,thomas"
+},
+{
+"pair_key": "firm|echsner levin mitchell papantonio procter thomas|eschner levin mitchell papantonio proctor thomas",
+"i": 199,
+"j": 411,
+"why": "tok:levin,mitchell,papantonio,thomas"
+},
+{
+"pair_key": "firm|al et levin papantonio|echsner levin mitchell papantonio procter thomas",
+"i": 199,
+"j": 488,
+"why": "tok:levin,papantonio"
+},
+{
+"pair_key": "firm|echsner levin mitchell papantonio procter thomas|levin mitchell papantonio proctor rafferty thomas",
+"i": 199,
+"j": 836,
+"why": "tok:levin,mitchell,papantonio,thomas"
+},
+{
+"pair_key": "firm|barr buchanan levin mougey obrien papantonio proctor rafferty|echsner levin mitchell papantonio procter thomas",
+"i": 199,
+"j": 1112,
+"why": "tok:levin,papantonio"
+},
+{
+"pair_key": "firm|echsner levin mitchell papantonio procter thomas|levin",
+"i": 199,
+"j": 1189,
+"why": "tok:levin"
+},
+{
+"pair_key": "firm|barr buchanan levin mougey obrien papantonio proctor|echsner levin mitchell papantonio procter thomas",
+"i": 199,
+"j": 1202,
+"why": "tok:levin,papantonio"
+},
+{
+"pair_key": "firm|barr brien buchanan levin mougey papantonio proctor rafferty|echsner levin mitchell papantonio procter thomas",
+"i": 199,
+"j": 1221,
+"why": "tok:levin,papantonio"
+},
+{
+"pair_key": "firm|echsner levin mitchell papantonio procter thomas|levin papantonio",
+"i": 199,
+"j": 1262,
+"why": "tok:levin,papantonio"
+},
+{
+"pair_key": "firm|echsner levin mitchell papantonio procter thomas|eishner levin mitchell papantonio proctor rafferty thomas",
+"i": 199,
+"j": 1549,
+"why": "tok:levin,mitchell,papantonio,thomas"
+},
+{
+"pair_key": "firm|echsner levin mitchell papantonio procter thomas|levin mitchell papantino proctor rafferty thomas",
+"i": 199,
+"j": 1950,
+"why": "tok:levin,mitchell,thomas"
+},
+{
+"pair_key": "firm|bennan fishbein levin sedran|fishbein levin",
+"i": 239,
+"j": 820,
+"why": "tok:fishbein,levin"
+},
+{
+"pair_key": "firm|bennan fishbein levin sedran|berman levin sedran",
+"i": 239,
+"j": 1154,
+"why": "tok:levin,sedran"
+},
+{
+"pair_key": "firm|bennan fishbein levin sedran|levin",
+"i": 239,
+"j": 1189,
+"why": "tok:levin"
+},
+{
+"pair_key": "firm|al et levin papantonio|eschner levin mitchell papantonio proctor thomas",
+"i": 411,
+"j": 488,
+"why": "tok:levin,papantonio"
+},
+{
+"pair_key": "firm|eschner levin mitchell papantonio proctor thomas|levin mitchell papantonio proctor rafferty thomas",
+"i": 411,
+"j": 836,
+"why": "tok:levin,mitchell,papantonio,proctor,thomas"
+},
+{
+"pair_key": "firm|barr buchanan levin mougey obrien papantonio proctor rafferty|eschner levin mitchell papantonio proctor thomas",
+"i": 411,
+"j": 1112,
+"why": "tok:levin,papantonio,proctor"
+},
+{
+"pair_key": "firm|eschner levin mitchell papantonio proctor thomas|levin",
+"i": 411,
+"j": 1189,
+"why": "tok:levin"
+},
+{
+"pair_key": "firm|barr buchanan levin mougey obrien papantonio proctor|eschner levin mitchell papantonio proctor thomas",
+"i": 411,
+"j": 1202,
+"why": "tok:levin,papantonio,proctor"
+},
+{
+"pair_key": "firm|barr brien buchanan levin mougey papantonio proctor rafferty|eschner levin mitchell papantonio proctor thomas",
+"i": 411,
+"j": 1221,
+"why": "tok:levin,papantonio,proctor"
+},
+{
+"pair_key": "firm|eschner levin mitchell papantonio proctor thomas|levin papantonio",
+"i": 411,
+"j": 1262,
+"why": "tok:levin,papantonio"
+},
+{
+"pair_key": "firm|eishner levin mitchell papantonio proctor rafferty thomas|eschner levin mitchell papantonio proctor thomas",
+"i": 411,
+"j": 1549,
+"why": "tok:levin,mitchell,papantonio,proctor,thomas"
+},
+{
+"pair_key": "firm|eschner levin mitchell papantonio proctor thomas|levin mitchell papantino proctor rafferty thomas",
+"i": 411,
+"j": 1950,
+"why": "tok:levin,mitchell,proctor,thomas"
+},
+{
+"pair_key": "firm|gornick kaiser levin simes|levin",
+"i": 420,
+"j": 1189,
+"why": "tok:levin"
+},
+{
+"pair_key": "firm|gornick kaiser levin simes|levin simes",
+"i": 420,
+"j": 1558,
+"why": "tok:levin,simes"
+},
+{
+"pair_key": "firm|al et levin papantonio|levin mitchell papantonio proctor rafferty thomas",
+"i": 488,
+"j": 836,
+"why": "tok:levin,papantonio"
+},
+{
+"pair_key": "firm|al et levin papantonio|barr buchanan levin mougey obrien papantonio proctor rafferty",
+"i": 488,
+"j": 1112,
+"why": "tok:levin,papantonio"
+},
+{
+"pair_key": "firm|al et levin papantonio|levin",
+"i": 488,
+"j": 1189,
+"why": "tok:levin"
+},
+{
+"pair_key": "firm|al et levin papantonio|barr buchanan levin mougey obrien papantonio proctor",
+"i": 488,
+"j": 1202,
+"why": "tok:levin,papantonio"
+},
+{
+"pair_key": "firm|al et levin papantonio|barr brien buchanan levin mougey papantonio proctor rafferty",
+"i": 488,
+"j": 1221,
+"why": "tok:levin,papantonio"
+},
+{
+"pair_key": "firm|al et levin papantonio|levin papantonio",
+"i": 488,
+"j": 1262,
+"why": "tok:levin,papantonio"
+},
+{
+"pair_key": "firm|al et levin papantonio|eishner levin mitchell papantonio proctor rafferty thomas",
+"i": 488,
+"j": 1549,
+"why": "tok:levin,papantonio"
+},
+{
+"pair_key": "firm|fishbein levin|levin",
+"i": 820,
+"j": 1189,
+"why": "tok:levin"
+},
+{
+"pair_key": "firm|barr buchanan levin mougey obrien papantonio proctor rafferty|levin mitchell papantonio proctor rafferty thomas",
+"i": 836,
+"j": 1112,
+"why": "tok:levin,papantonio,proctor,rafferty"
+},
+{
+"pair_key": "firm|levin|levin mitchell papantonio proctor rafferty thomas",
+"i": 836,
+"j": 1189,
+"why": "tok:levin"
+},
+{
+"pair_key": "firm|barr buchanan levin mougey obrien papantonio proctor|levin mitchell papantonio proctor rafferty thomas",
+"i": 836,
+"j": 1202,
+"why": "tok:levin,papantonio,proctor"
+},
+{
+"pair_key": "firm|barr brien buchanan levin mougey papantonio proctor rafferty|levin mitchell papantonio proctor rafferty thomas",
+"i": 836,
+"j": 1221,
+"why": "tok:levin,papantonio,proctor,rafferty"
+},
+{
+"pair_key": "firm|levin mitchell papantonio proctor rafferty thomas|levin papantonio",
+"i": 836,
+"j": 1262,
+"why": "tok:levin,papantonio"
+},
+{
+"pair_key": "firm|eishner levin mitchell papantonio proctor rafferty thomas|levin mitchell papantonio proctor rafferty thomas",
+"i": 836,
+"j": 1549,
+"why": "tok:levin,mitchell,papantonio,proctor,raffer"
+},
+{
+"pair_key": "firm|levin mitchell papantino proctor rafferty thomas|levin mitchell papantonio proctor rafferty thomas",
+"i": 836,
+"j": 1950,
+"why": "tok:levin,mitchell,proctor,rafferty,thomas"
+},
+{
+"pair_key": "firm|barr buchanan levin mougey obrien papantonio proctor rafferty|levin",
+"i": 1112,
+"j": 1189,
+"why": "tok:levin"
+},
+{
+"pair_key": "firm|barr buchanan levin mougey obrien papantonio proctor|barr buchanan levin mougey obrien papantonio proctor rafferty",
+"i": 1112,
+"j": 1202,
+"why": "tok:barr,buchanan,levin,mougey,obrien,papant"
+},
+{
+"pair_key": "firm|barr brien buchanan levin mougey papantonio proctor rafferty|barr buchanan levin mougey obrien papantonio proctor rafferty",
+"i": 1112,
+"j": 1221,
+"why": "tok:barr,buchanan,levin,mougey,papantonio,pr"
+},
+{
+"pair_key": "firm|barr buchanan levin mougey obrien papantonio proctor rafferty|levin papantonio",
+"i": 1112,
+"j": 1262,
+"why": "tok:levin,papantonio"
+},
+{
+"pair_key": "firm|barr buchanan levin mougey obrien papantonio proctor rafferty|eishner levin mitchell papantonio proctor rafferty thomas",
+"i": 1112,
+"j": 1549,
+"why": "tok:levin,papantonio,proctor,rafferty"
+},
+{
+"pair_key": "firm|barr buchanan levin mougey obrien papantonio proctor rafferty|levin mitchell papantino proctor rafferty thomas",
+"i": 1112,
+"j": 1950,
+"why": "tok:levin,proctor,rafferty"
+},
+{
+"pair_key": "firm|berman levin sedran|levin",
+"i": 1154,
+"j": 1189,
+"why": "tok:levin"
+},
+{
+"pair_key": "firm|barr buchanan levin mougey obrien papantonio proctor|levin",
+"i": 1189,
+"j": 1202,
+"why": "tok:levin"
+},
+{
+"pair_key": "firm|camassar levin reck rojas|levin",
+"i": 1189,
+"j": 1203,
+"why": "tok:levin"
+},
+{
+"pair_key": "firm|barr brien buchanan levin mougey papantonio proctor rafferty|levin",
+"i": 1189,
+"j": 1221,
+"why": "tok:levin"
+},
+{
+"pair_key": "firm|levin|levin papantonio",
+"i": 1189,
+"j": 1262,
+"why": "tok:levin"
+},
+{
+"pair_key": "firm|eishner levin mitchell papantonio proctor rafferty thomas|levin",
+"i": 1189,
+"j": 1549,
+"why": "tok:levin"
+},
+{
+"pair_key": "firm|levin|levin simes",
+"i": 1189,
+"j": 1558,
+"why": "tok:levin"
+},
+{
+"pair_key": "firm|levin|levin mitchell papantino proctor rafferty thomas",
+"i": 1189,
+"j": 1950,
+"why": "tok:levin"
+},
+{
+"pair_key": "firm|barr brien buchanan levin mougey papantonio proctor rafferty|barr buchanan levin mougey obrien papantonio proctor",
+"i": 1202,
+"j": 1221,
+"why": "tok:barr,buchanan,levin,mougey,papantonio,pr"
+},
+{
+"pair_key": "firm|barr buchanan levin mougey obrien papantonio proctor|levin papantonio",
+"i": 1202,
+"j": 1262,
+"why": "tok:levin,papantonio"
+},
+{
+"pair_key": "firm|barr buchanan levin mougey obrien papantonio proctor|eishner levin mitchell papantonio proctor rafferty thomas",
+"i": 1202,
+"j": 1549,
+"why": "tok:levin,papantonio,proctor"
+},
+{
+"pair_key": "firm|barr buchanan levin mougey obrien papantonio proctor|levin mitchell papantino proctor rafferty thomas",
+"i": 1202,
+"j": 1950,
+"why": "tok:levin,proctor"
+},
+{
+"pair_key": "firm|barr brien buchanan levin mougey papantonio proctor rafferty|levin papantonio",
+"i": 1221,
+"j": 1262,
+"why": "tok:levin,papantonio"
+},
+{
+"pair_key": "firm|barr brien buchanan levin mougey papantonio proctor rafferty|eishner levin mitchell papantonio proctor rafferty thomas",
+"i": 1221,
+"j": 1549,
+"why": "tok:levin,papantonio,proctor,rafferty"
+},
+{
+"pair_key": "firm|barr brien buchanan levin mougey papantonio proctor rafferty|levin mitchell papantino proctor rafferty thomas",
+"i": 1221,
+"j": 1950,
+"why": "tok:levin,proctor,rafferty"
+},
+{
+"pair_key": "firm|eishner levin mitchell papantonio proctor rafferty thomas|levin papantonio",
+"i": 1262,
+"j": 1549,
+"why": "tok:levin,papantonio"
+},
+{
+"pair_key": "firm|eishner levin mitchell papantonio proctor rafferty thomas|levin mitchell papantino proctor rafferty thomas",
+"i": 1549,
+"j": 1950,
+"why": "tok:levin,mitchell,proctor,rafferty,thomas"
+},
+{
+"pair_key": "firm|berman hagens|berman hagens shapiro sobol",
+"i": 23,
+"j": 579,
+"why": "tok:berman,hagens"
+},
+{
+"pair_key": "firm|berman hagens shapiro sobel|berman hagens shapiro sobol",
+"i": 23,
+"j": 620,
+"why": "tok:berman,hagens,shapiro"
+},
+{
+"pair_key": "firm|berman hagens ll shapiro sobol|berman hagens shapiro sobol",
+"i": 23,
+"j": 693,
+"why": "tok:berman,hagens,shapiro,sobol"
+},
+{
+"pair_key": "firm|berman hagens seattle shapiro sobol|berman hagens shapiro sobol",
+"i": 23,
+"j": 1696,
+"why": "tok:berman,hagens,shapiro,sobol"
+},
+{
+"pair_key": "firm|berman habens shapiro sobol|berman hagens shapiro sobol",
+"i": 23,
+"j": 1699,
+"why": "tok:berman,shapiro,sobol"
+},
+{
+"pair_key": "firm|berman burt devalerio pease pucillo tabacco|berman devalerio",
+"i": 69,
+"j": 304,
+"why": "tok:berman,devalerio"
+},
+{
+"pair_key": "firm|berman burt devalerio pease pucilllo tabacco|berman burt devalerio pease pucillo tabacco",
+"i": 69,
+"j": 381,
+"why": "tok:berman,burt,devalerio,pease,tabacco"
+},
+{
+"pair_key": "firm|berman burt devalerio pease pucillo tabacco|berman tabacco",
+"i": 69,
+"j": 1618,
+"why": "tok:berman,tabacco"
+},
+{
+"pair_key": "firm|berman burt devalerio pease pucilllo tabacco|berman devalerio",
+"i": 304,
+"j": 381,
+"why": "tok:berman,devalerio"
+},
+{
+"pair_key": "firm|berman burt devalerio pease pucilllo tabacco|berman tabacco",
+"i": 381,
+"j": 1618,
+"why": "tok:berman,tabacco"
+},
+{
+"pair_key": "firm|berman hagens|berman hagens shapiro sobel",
+"i": 579,
+"j": 620,
+"why": "tok:berman,hagens"
+},
+{
+"pair_key": "firm|berman hagens|berman hagens ll shapiro sobol",
+"i": 579,
+"j": 693,
+"why": "tok:berman,hagens"
+},
+{
+"pair_key": "firm|berman hagens|berman hagens seattle shapiro sobol",
+"i": 579,
+"j": 1696,
+"why": "tok:berman,hagens"
+},
+{
+"pair_key": "firm|berman hagens ll shapiro sobol|berman hagens shapiro sobel",
+"i": 620,
+"j": 693,
+"why": "tok:berman,hagens,shapiro"
+},
+{
+"pair_key": "firm|berman hagens seattle shapiro sobol|berman hagens shapiro sobel",
+"i": 620,
+"j": 1696,
+"why": "tok:berman,hagens,shapiro"
+},
+{
+"pair_key": "firm|berman habens shapiro sobol|berman hagens shapiro sobel",
+"i": 620,
+"j": 1699,
+"why": "tok:berman,shapiro"
+},
+{
+"pair_key": "firm|berman hagens ll shapiro sobol|berman hagens seattle shapiro sobol",
+"i": 693,
+"j": 1696,
+"why": "tok:berman,hagens,shapiro,sobol"
+},
+{
+"pair_key": "firm|berman habens shapiro sobol|berman hagens ll shapiro sobol",
+"i": 693,
+"j": 1699,
+"why": "tok:berman,shapiro,sobol"
+},
+{
+"pair_key": "firm|berman habens shapiro sobol|berman hagens seattle shapiro sobol",
+"i": 1696,
+"j": 1699,
+"why": "tok:berman,shapiro,sobol"
+},
+{
+"pair_key": "firm|berman fink hom van|berman fink horn van",
+"i": 1907,
+"j": 2005,
+"why": "tok:berman,fink,van"
+},
+{
+"pair_key": "firm|echsner levin mitchell papantonio proctor thomas|thomas",
+"i": 19,
+"j": 1766,
+"why": "tok:thomas"
+},
+{
+"pair_key": "firm|echsner levin mitchell papantonio procter thomas|thomas",
+"i": 199,
+"j": 1766,
+"why": "tok:thomas"
+},
+{
+"pair_key": "firm|eschner levin mitchell papantonio proctor thomas|thomas",
+"i": 411,
+"j": 1766,
+"why": "tok:thomas"
+},
+{
+"pair_key": "firm|brill thomas|thomas",
+"i": 814,
+"j": 1766,
+"why": "tok:thomas"
+},
+{
+"pair_key": "firm|levin mitchell papantonio proctor rafferty thomas|thomas",
+"i": 836,
+"j": 1766,
+"why": "tok:thomas"
+},
+{
+"pair_key": "firm|eishner levin mitchell papantonio proctor rafferty thomas|thomas",
+"i": 1549,
+"j": 1766,
+"why": "tok:thomas"
+},
+{
+"pair_key": "firm|guthrie thomas|thomas",
+"i": 1594,
+"j": 1766,
+"why": "tok:thomas"
+},
+{
+"pair_key": "firm|combs spann thomas|thomas",
+"i": 1603,
+"j": 1766,
+"why": "tok:thomas"
+},
+{
+"pair_key": "firm|levin mitchell papantino proctor rafferty thomas|thomas",
+"i": 1766,
+"j": 1950,
+"why": "tok:thomas"
+},
+{
+"pair_key": "firm|libowitz thomas|thomas",
+"i": 1766,
+"j": 2004,
+"why": "tok:thomas"
+},
+{
+"pair_key": "firm|luxenberg ny weitz|luxenberg weitz",
+"i": 20,
+"j": 801,
+"why": "tok:luxenberg,weitz"
+},
+{
+"pair_key": "firm|frank murray sailer|murray",
+"i": 22,
+"j": 161,
+"why": "tok:murray"
+},
+{
+"pair_key": "firm|murray|murray murray plumb",
+"i": 22,
+"j": 483,
+"why": "tok:murray"
+},
+{
+"pair_key": "firm|frank murray|murray",
+"i": 22,
+"j": 683,
+"why": "tok:murray"
+},
+{
+"pair_key": "firm|glancy murray prongay|murray",
+"i": 22,
+"j": 684,
+"why": "tok:murray"
+},
+{
+"pair_key": "firm|basil moul murphy murray|murray",
+"i": 22,
+"j": 840,
+"why": "tok:murray"
+},
+{
+"pair_key": "firm|glancy murray prognay|murray",
+"i": 22,
+"j": 971,
+"why": "tok:murray"
+},
+{
+"pair_key": "firm|frank murray|frank murray sailer",
+"i": 161,
+"j": 683,
+"why": "tok:frank,murray"
+},
+{
+"pair_key": "firm|glancy murray prognay|glancy murray prongay",
+"i": 684,
+"j": 971,
+"why": "tok:glancy,murray"
+},
+{
+"pair_key": "firm|berman hagens shapiro sobol|hagens herman shapiro sobol",
+"i": 23,
+"j": 1941,
+"why": "tok:hagens,shapiro,sobol"
+},
+{
+"pair_key": "firm|berman hagens shapiro sobel|hagens herman shapiro sobol",
+"i": 620,
+"j": 1941,
+"why": "tok:hagens,shapiro"
+},
+{
+"pair_key": "firm|berman hagens ll shapiro sobol|hagens herman shapiro sobol",
+"i": 693,
+"j": 1941,
+"why": "tok:hagens,shapiro,sobol"
+},
+{
+"pair_key": "firm|berman hagens seattle shapiro sobol|hagens herman shapiro sobol",
+"i": 1696,
+"j": 1941,
+"why": "tok:hagens,shapiro,sobol"
+},
+{
+"pair_key": "firm|berman habens shapiro sobol|hagens herman shapiro sobol",
+"i": 1699,
+"j": 1941,
+"why": "tok:shapiro,sobol"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lieff|bernstein cabraser heinmann lieff",
+"i": 24,
+"j": 286,
+"why": "tok:bernstein,cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lieff|bernstein cabraser heimann lieff new york",
+"i": 24,
+"j": 559,
+"why": "tok:bernstein,cabraser,heimann,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lieff|bernstein cabraser heimann lieff nashville",
+"i": 24,
+"j": 560,
+"why": "tok:bernstein,cabraser,heimann,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lieff|bernstein cabrasher heimann lieff",
+"i": 24,
+"j": 1243,
+"why": "tok:bernstein,heimann,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lieff|bernstein cabraser heimmann lieff",
+"i": 24,
+"j": 1290,
+"why": "tok:bernstein,cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lieff|cabraser lieff",
+"i": 24,
+"j": 1429,
+"why": "tok:cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lieff|bernstein cabraser hermann lieff",
+"i": 24,
+"j": 1754,
+"why": "tok:bernstein,cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heiman lieff|bernstein cabraser heimann lieff",
+"i": 24,
+"j": 1812,
+"why": "tok:bernstein,cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lieff|berstein cabraser heinman lieff",
+"i": 24,
+"j": 1994,
+"why": "tok:cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lieff new york|bernstein cabraser heinmann lieff",
+"i": 286,
+"j": 559,
+"why": "tok:bernstein,cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lieff nashville|bernstein cabraser heinmann lieff",
+"i": 286,
+"j": 560,
+"why": "tok:bernstein,cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heinmann lieff|bernstein cabrasher heimann lieff",
+"i": 286,
+"j": 1243,
+"why": "tok:bernstein,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimmann lieff|bernstein cabraser heinmann lieff",
+"i": 286,
+"j": 1290,
+"why": "tok:bernstein,cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heinmann lieff|cabraser lieff",
+"i": 286,
+"j": 1429,
+"why": "tok:cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heinmann lieff|bernstein cabraser hermann lieff",
+"i": 286,
+"j": 1754,
+"why": "tok:bernstein,cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heiman lieff|bernstein cabraser heinmann lieff",
+"i": 286,
+"j": 1812,
+"why": "tok:bernstein,cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heinmann lieff|berstein cabraser heinman lieff",
+"i": 286,
+"j": 1994,
+"why": "tok:cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lieff nashville|bernstein cabraser heimann lieff new york",
+"i": 559,
+"j": 560,
+"why": "tok:bernstein,cabraser,heimann,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lieff new york|bernstein cabrasher heimann lieff",
+"i": 559,
+"j": 1243,
+"why": "tok:bernstein,heimann,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lieff new york|bernstein cabraser heimmann lieff",
+"i": 559,
+"j": 1290,
+"why": "tok:bernstein,cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lieff new york|cabraser lieff",
+"i": 559,
+"j": 1429,
+"why": "tok:cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lieff new york|bernstein cabraser hermann lieff",
+"i": 559,
+"j": 1754,
+"why": "tok:bernstein,cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heiman lieff|bernstein cabraser heimann lieff new york",
+"i": 559,
+"j": 1812,
+"why": "tok:bernstein,cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lieff new york|berstein cabraser heinman lieff",
+"i": 559,
+"j": 1994,
+"why": "tok:cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lieff nashville|bernstein cabrasher heimann lieff",
+"i": 560,
+"j": 1243,
+"why": "tok:bernstein,heimann,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lieff nashville|bernstein cabraser heimmann lieff",
+"i": 560,
+"j": 1290,
+"why": "tok:bernstein,cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lieff nashville|cabraser lieff",
+"i": 560,
+"j": 1429,
+"why": "tok:cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lieff nashville|bernstein cabraser hermann lieff",
+"i": 560,
+"j": 1754,
+"why": "tok:bernstein,cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heiman lieff|bernstein cabraser heimann lieff nashville",
+"i": 560,
+"j": 1812,
+"why": "tok:bernstein,cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lieff nashville|berstein cabraser heinman lieff",
+"i": 560,
+"j": 1994,
+"why": "tok:cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimmann lieff|bernstein cabrasher heimann lieff",
+"i": 1243,
+"j": 1290,
+"why": "tok:bernstein,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser hermann lieff|bernstein cabrasher heimann lieff",
+"i": 1243,
+"j": 1754,
+"why": "tok:bernstein,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heiman lieff|bernstein cabrasher heimann lieff",
+"i": 1243,
+"j": 1812,
+"why": "tok:bernstein,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimmann lieff|cabraser lieff",
+"i": 1290,
+"j": 1429,
+"why": "tok:cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimmann lieff|bernstein cabraser hermann lieff",
+"i": 1290,
+"j": 1754,
+"why": "tok:bernstein,cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heiman lieff|bernstein cabraser heimmann lieff",
+"i": 1290,
+"j": 1812,
+"why": "tok:bernstein,cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimmann lieff|berstein cabraser heinman lieff",
+"i": 1290,
+"j": 1994,
+"why": "tok:cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser hermann lieff|cabraser lieff",
+"i": 1429,
+"j": 1754,
+"why": "tok:cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heiman lieff|cabraser lieff",
+"i": 1429,
+"j": 1812,
+"why": "tok:cabraser,lieff"
+},
+{
+"pair_key": "firm|berstein cabraser heinman lieff|cabraser lieff",
+"i": 1429,
+"j": 1994,
+"why": "tok:cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heiman lieff|bernstein cabraser hermann lieff",
+"i": 1754,
+"j": 1812,
+"why": "tok:bernstein,cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser hermann lieff|berstein cabraser heinman lieff",
+"i": 1754,
+"j": 1994,
+"why": "tok:cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heiman lieff|berstein cabraser heinman lieff",
+"i": 1812,
+"j": 1994,
+"why": "tok:cabraser,lieff"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann leiff|bernstein cabraser heimann lieff",
+"i": 24,
+"j": 552,
+"why": "tok:bernstein,cabraser,heimann"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lief|bernstein cabraser heimann lieff",
+"i": 24,
+"j": 1447,
+"why": "tok:bernstein,cabraser,heimann"
+},
+{
+"pair_key": "firm|berger bernstein grossman litowitz|berger bernstein grossmann litowitz",
+"i": 67,
+"j": 156,
+"why": "tok:berger,bernstein,litowitz"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann leiff|bernstein cabraser heinmann lieff",
+"i": 286,
+"j": 552,
+"why": "tok:bernstein,cabraser"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lief|bernstein cabraser heinmann lieff",
+"i": 286,
+"j": 1447,
+"why": "tok:bernstein,cabraser"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann leiff|bernstein cabraser heimann lieff new york",
+"i": 552,
+"j": 559,
+"why": "tok:bernstein,cabraser,heimann"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann leiff|bernstein cabraser heimann lieff nashville",
+"i": 552,
+"j": 560,
+"why": "tok:bernstein,cabraser,heimann"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann leiff|bernstein cabrasher heimann lieff",
+"i": 552,
+"j": 1243,
+"why": "tok:bernstein,heimann"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann leiff|bernstein cabraser heimmann lieff",
+"i": 552,
+"j": 1290,
+"why": "tok:bernstein,cabraser"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann leiff|bernstein cabraser heimann lief",
+"i": 552,
+"j": 1447,
+"why": "tok:bernstein,cabraser,heimann"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann leiff|bernstein cabraser hermann lieff",
+"i": 552,
+"j": 1754,
+"why": "tok:bernstein,cabraser"
+},
+{
+"pair_key": "firm|bernstein cabraser heiman lieff|bernstein cabraser heimann leiff",
+"i": 552,
+"j": 1812,
+"why": "tok:bernstein,cabraser"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lief|bernstein cabraser heimann lieff new york",
+"i": 559,
+"j": 1447,
+"why": "tok:bernstein,cabraser,heimann"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lief|bernstein cabraser heimann lieff nashville",
+"i": 560,
+"j": 1447,
+"why": "tok:bernstein,cabraser,heimann"
+},
+{
+"pair_key": "firm|bernstein liebhard|bernstein liebhard lifshitz",
+"i": 600,
+"j": 1498,
+"why": "tok:bernstein,liebhard"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lief|bernstein cabrasher heimann lieff",
+"i": 1243,
+"j": 1447,
+"why": "tok:bernstein,heimann"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lief|bernstein cabraser heimmann lieff",
+"i": 1290,
+"j": 1447,
+"why": "tok:bernstein,cabraser"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lief|bernstein cabraser hermann lieff",
+"i": 1447,
+"j": 1754,
+"why": "tok:bernstein,cabraser"
+},
+{
+"pair_key": "firm|bernstein cabraser heiman lieff|bernstein cabraser heimann lief",
+"i": 1447,
+"j": 1812,
+"why": "tok:bernstein,cabraser"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lieff|bernstien cabraser heimann leif",
+"i": 24,
+"j": 1357,
+"why": "tok:cabraser,heimann"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lief|cabraser lief",
+"i": 462,
+"j": 1447,
+"why": "tok:cabraser,lief"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann leiff|bernstien cabraser heimann leif",
+"i": 552,
+"j": 1357,
+"why": "tok:cabraser,heimann"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lieff new york|bernstien cabraser heimann leif",
+"i": 559,
+"j": 1357,
+"why": "tok:cabraser,heimann"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lieff nashville|bernstien cabraser heimann leif",
+"i": 560,
+"j": 1357,
+"why": "tok:cabraser,heimann"
+},
+{
+"pair_key": "firm|bernstein cabraser heimann lief|bernstien cabraser heimann leif",
+"i": 1357,
+"j": 1447,
+"why": "tok:cabraser,heimann"
+},
+{
+"pair_key": "firm|cafferty faucher|cafferty faucher miller",
+"i": 29,
+"j": 134,
+"why": "tok:cafferty,faucher"
+},
+{
+"pair_key": "firm|cafferty clobes il meriwether sprengel|cafferty clobes meriwether sprengel",
+"i": 1076,
+"j": 1397,
+"why": "tok:cafferty,clobes,meriwether,sprengel"
+},
+{
+"pair_key": "firm|labaton rudoff sucharow|labaton sucharow",
+"i": 30,
+"j": 160,
+"why": "tok:labaton,sucharow"
+},
+{
+"pair_key": "firm|scott scott|scott yung",
+"i": 32,
+"j": 128,
+"why": "tok:scott"
+},
+{
+"pair_key": "firm|ball scott|scott scott",
+"i": 82,
+"j": 128,
+"why": "tok:scott"
+},
+{
+"pair_key": "firm|esq fegley scott|scott scott",
+"i": 112,
+"j": 128,
+"why": "tok:scott"
+},
+{
+"pair_key": "firm|bartlit beck herman palenchar scott|scott scott",
+"i": 128,
+"j": 187,
+"why": "tok:scott"
+},
+{
+"pair_key": "firm|fegan scott|scott scott",
+"i": 128,
+"j": 1032,
+"why": "tok:scott"
+},
+{
+"pair_key": "firm|fisher lowe scott|scott scott",
+"i": 128,
+"j": 1364,
+"why": "tok:scott"
+},
+{
+"pair_key": "firm|barlet beck herman palenchar scott|scott scott",
+"i": 128,
+"j": 1457,
+"why": "tok:scott"
+},
+{
+"pair_key": "firm|mitchell nowak phillips scott smith|scott scott",
+"i": 128,
+"j": 1651,
+"why": "tok:scott"
+},
+{
+"pair_key": "firm|owens scott|scott scott",
+"i": 128,
+"j": 1735,
+"why": "tok:scott"
+},
+{
+"pair_key": "firm|cole scott|scott scott",
+"i": 128,
+"j": 1959,
+"why": "tok:scott"
+},
+{
+"pair_key": "firm|toriseva wallace wexler|wallace wexler",
+"i": 229,
+"j": 315,
+"why": "tok:wallace,wexler"
+},
+{
+"pair_key": "firm|cottrell konecky schneider wallace|cottrell konecky schneider wallace wotkyns",
+"i": 606,
+"j": 1795,
+"why": "tok:cottrell,konecky,schneider,wallace"
+},
+{
+"pair_key": "firm|berris kennedy weisman|kennedy weisman",
+"i": 1142,
+"j": 1261,
+"why": "tok:kennedy,weisman"
+},
+{
+"pair_key": "firm|berris kennedy lpa weisman|berris kennedy weisman",
+"i": 1142,
+"j": 1328,
+"why": "tok:berris,kennedy,weisman"
+},
+{
+"pair_key": "firm|berris kennedy lpa weisman|kennedy weisman",
+"i": 1261,
+"j": 1328,
+"why": "tok:kennedy,weisman"
+},
+{
+"pair_key": "firm|pllp reed zimmerman|reed zimmerman",
+"i": 117,
+"j": 385,
+"why": "tok:reed,zimmerman"
+},
+{
+"pair_key": "firm|gray mcgraw reed|looper mcgraw reed",
+"i": 309,
+"j": 1738,
+"why": "tok:mcgraw,reed"
+},
+{
+"pair_key": "firm|flowers foote meyers mielke|flowers meyers",
+"i": 356,
+"j": 1139,
+"why": "tok:flowers,meyers"
+},
+{
+"pair_key": "firm|alford reuter ross stanley thornton|flanagan reuter stanley",
+"i": 42,
+"j": 1501,
+"why": "tok:reuter,stanley"
+},
+{
+"pair_key": "firm|barroway kessler schiffrin topaz|check kessler meltzer topaz",
+"i": 44,
+"j": 500,
+"why": "tok:kessler,topaz"
+},
+{
+"pair_key": "firm|barrow check kessler topaz|barroway kessler schiffrin topaz",
+"i": 44,
+"j": 578,
+"why": "tok:kessler,topaz"
+},
+{
+"pair_key": "firm|barroway kessler schiffrin topaz|kessler topaz",
+"i": 44,
+"j": 1926,
+"why": "tok:kessler,topaz"
+},
+{
+"pair_key": "firm|barroway kessler schiffrin topaz|check kessler metzler topaz",
+"i": 44,
+"j": 1954,
+"why": "tok:kessler,topaz"
+},
+{
+"pair_key": "firm|barroway check kessler meltzer topaz|check kessler meltzer topaz",
+"i": 500,
+"j": 513,
+"why": "tok:check,kessler,meltzer,topaz"
+},
+{
+"pair_key": "firm|barroway check kessler topaz|check kessler meltzer topaz",
+"i": 500,
+"j": 576,
+"why": "tok:check,kessler,topaz"
+},
+{
+"pair_key": "firm|barrow check kessler topaz|check kessler meltzer topaz",
+"i": 500,
+"j": 578,
+"why": "tok:check,kessler,topaz"
+},
+{
+"pair_key": "firm|check kessler meltzer topaz|kessler topaz",
+"i": 500,
+"j": 1926,
+"why": "tok:kessler,topaz"
+},
+{
+"pair_key": "firm|check kessler meltzer topaz|check kessler metzler topaz",
+"i": 500,
+"j": 1954,
+"why": "tok:check,kessler,topaz"
+},
+{
+"pair_key": "firm|barrow check kessler topaz|barroway check kessler meltzer topaz",
+"i": 513,
+"j": 578,
+"why": "tok:check,kessler,topaz"
+},
+{
+"pair_key": "firm|barroway check kessler meltzer topaz|kessler topaz",
+"i": 513,
+"j": 1926,
+"why": "tok:kessler,topaz"
+},
+{
+"pair_key": "firm|barroway check kessler meltzer topaz|check kessler metzler topaz",
+"i": 513,
+"j": 1954,
+"why": "tok:check,kessler,topaz"
+},
+{
+"pair_key": "firm|barrow check kessler topaz|barroway check kessler topaz",
+"i": 576,
+"j": 578,
+"why": "tok:check,kessler,topaz"
+},
+{
+"pair_key": "firm|barroway check kessler topaz|kessler topaz",
+"i": 576,
+"j": 1926,
+"why": "tok:kessler,topaz"
+},
+{
+"pair_key": "firm|barroway check kessler topaz|check kessler metzler topaz",
+"i": 576,
+"j": 1954,
+"why": "tok:check,kessler,topaz"
+},
+{
+"pair_key": "firm|barrow check kessler topaz|kessler topaz",
+"i": 578,
+"j": 1926,
+"why": "tok:kessler,topaz"
+},
+{
+"pair_key": "firm|barrow check kessler topaz|check kessler metzler topaz",
+"i": 578,
+"j": 1954,
+"why": "tok:check,kessler,topaz"
+},
+{
+"pair_key": "firm|check kessler metzler topaz|kessler topaz",
+"i": 1926,
+"j": 1954,
+"why": "tok:kessler,topaz"
+},
+{
+"pair_key": "firm|barroway check kesser meltzer topaz|check kessler meltzer topaz",
+"i": 63,
+"j": 500,
+"why": "tok:check,meltzer,topaz"
+},
+{
+"pair_key": "firm|barrow check kessler topaz|barroway check kesser meltzer topaz",
+"i": 63,
+"j": 578,
+"why": "tok:check,topaz"
+},
+{
+"pair_key": "firm|barroway check kesser meltzer topaz|check kessler metzler topaz",
+"i": 63,
+"j": 1954,
+"why": "tok:check,topaz"
+},
+{
+"pair_key": "firm|aplc dugan|dugan",
+"i": 46,
+"j": 931,
+"why": "tok:dugan"
+},
+{
+"pair_key": "firm|mcintyre tate|tate",
+"i": 47,
+"j": 1408,
+"why": "tok:tate"
+},
+{
+"pair_key": "firm|klafter lesser|klafter lesser olsen",
+"i": 52,
+"j": 1105,
+"why": "tok:klafter,lesser"
+},
+{
+"pair_key": "firm|city department new york|delaware department justice",
+"i": 53,
+"j": 877,
+"why": "tok:department"
+},
+{
+"pair_key": "firm|city department new york|department justice",
+"i": 53,
+"j": 1528,
+"why": "tok:department"
+},
+{
+"pair_key": "firm|branch civil department division federal justice programs|city department new york",
+"i": 53,
+"j": 1787,
+"why": "tok:department"
+},
+{
+"pair_key": "firm|city department new york|department justice states united",
+"i": 53,
+"j": 1800,
+"why": "tok:department"
+},
+{
+"pair_key": "firm|city department new york|department division enforcement environment environmental justice natural resour",
+"i": 53,
+"j": 1888,
+"why": "tok:department"
+},
+{
+"pair_key": "firm|branch civil department division environmental justice states torts united|city department new york",
+"i": 53,
+"j": 1978,
+"why": "tok:department"
+},
+{
+"pair_key": "firm|delaware department justice|department justice",
+"i": 877,
+"j": 1528,
+"why": "tok:department"
+},
+{
+"pair_key": "firm|branch civil department division federal justice programs|delaware department justice",
+"i": 877,
+"j": 1787,
+"why": "tok:department"
+},
+{
+"pair_key": "firm|delaware department justice|department justice states united",
+"i": 877,
+"j": 1800,
+"why": "tok:department"
+},
+{
+"pair_key": "firm|delaware department justice|department division enforcement environment environmental justice natural resour",
+"i": 877,
+"j": 1888,
+"why": "tok:department"
+},
+{
+"pair_key": "firm|branch civil department division environmental justice states torts united|delaware department justice",
+"i": 877,
+"j": 1978,
+"why": "tok:department"
+},
+{
+"pair_key": "firm|branch civil department division federal justice programs|department justice",
+"i": 1528,
+"j": 1787,
+"why": "tok:department"
+},
+{
+"pair_key": "firm|department justice|department justice states united",
+"i": 1528,
+"j": 1800,
+"why": "tok:department"
+},
+{
+"pair_key": "firm|department division enforcement environment environmental justice natural resour|department justice",
+"i": 1528,
+"j": 1888,
+"why": "tok:department"
+},
+{
+"pair_key": "firm|branch civil department division environmental justice states torts united|department justice",
+"i": 1528,
+"j": 1978,
+"why": "tok:department"
+},
+{
+"pair_key": "firm|branch civil department division federal justice programs|department justice states united",
+"i": 1787,
+"j": 1800,
+"why": "tok:department"
+},
+{
+"pair_key": "firm|department division enforcement environment environmental justice natural resour|department justice states united",
+"i": 1800,
+"j": 1888,
+"why": "tok:department"
+},
+{
+"pair_key": "firm|branch civil department division environmental justice states torts united|department justice states united",
+"i": 1800,
+"j": 1978,
+"why": "tok:department"
+},
+{
+"pair_key": "firm|branch civil department division environmental justice states torts united|department division enforcement environment environmental justice natural resour",
+"i": 1888,
+"j": 1978,
+"why": "tok:department,environmental"
+},
+{
+"pair_key": "firm|bryson coleman grossman milberg phillips|grossman phillips sanders",
+"i": 1026,
+"j": 1116,
+"why": "tok:grossman,phillips"
+},
+{
+"pair_key": "firm|bryson coleman grossman milberg phillips|grossman phillips",
+"i": 1026,
+"j": 1666,
+"why": "tok:grossman,phillips"
+},
+{
+"pair_key": "firm|coleman cryson grossman milberg pccl phillips|grossman phillips sanders",
+"i": 1116,
+"j": 1157,
+"why": "tok:grossman,phillips"
+},
+{
+"pair_key": "firm|grossman phillips|grossman phillips sanders",
+"i": 1116,
+"j": 1666,
+"why": "tok:grossman,phillips"
+},
+{
+"pair_key": "firm|grossman milberg phillips tadler|grossman phillips sanders",
+"i": 1116,
+"j": 1909,
+"why": "tok:grossman,phillips"
+},
+{
+"pair_key": "firm|coleman cryson grossman milberg pccl phillips|grossman phillips",
+"i": 1157,
+"j": 1666,
+"why": "tok:grossman,phillips"
+},
+{
+"pair_key": "firm|grossman milberg phillips tadler|grossman phillips",
+"i": 1666,
+"j": 1909,
+"why": "tok:grossman,phillips"
+},
+{
+"pair_key": "firm|cohen placitella roth|cohn placitella roth",
+"i": 57,
+"j": 1481,
+"why": "tok:placitella,roth"
+},
+{
+"pair_key": "firm|cohen corporation placitella professional roth|cohn placitella roth",
+"i": 237,
+"j": 1481,
+"why": "tok:placitella,roth"
+},
+{
+"pair_key": "firm|cohen grossman roth yaffa|grossman roth",
+"i": 1111,
+"j": 1494,
+"why": "tok:grossman,roth"
+},
+{
+"pair_key": "firm|ca keller rohrback|keller rohrback",
+"i": 61,
+"j": 1399,
+"why": "tok:keller,rohrback"
+},
+{
+"pair_key": "firm|lc richards rodriguez trujillo|richards rodriguez trujillo",
+"i": 64,
+"j": 129,
+"why": "tok:richards,rodriguez,trujillo"
+},
+{
+"pair_key": "firm|agnello brody byrne carella cecchi|agnello brody byrne carella cecchi olstein",
+"i": 856,
+"j": 1056,
+"why": "tok:agnello,brody,byrne,carella,cecchi"
+},
+{
+"pair_key": "firm|arnold clayeo corp professional|arnold clayeo corporation professional",
+"i": 1107,
+"j": 1276,
+"why": "tok:arnold,clayeo,professional"
+},
+{
+"pair_key": "firm|finkelstein loughran thompson|finkelstein thompson",
+"i": 70,
+"j": 171,
+"why": "tok:finkelstein,thompson"
+},
+{
+"pair_key": "firm|blankenship finkelstein frei garber pearson|blankinship finkelstein frei garber pearson",
+"i": 835,
+"j": 1801,
+"why": "tok:finkelstein,frei,garber,pearson"
+},
+{
+"pair_key": "firm|kirby mcinerney|kirby mcinerney squire",
+"i": 71,
+"j": 435,
+"why": "tok:kirby,mcinerney"
+},
+{
+"pair_key": "firm|bragar eagel squire|brager eagel squire",
+"i": 1891,
+"j": 1961,
+"why": "tok:eagel,squire"
+},
+{
+"pair_key": "firm|block gross grossman haudek pomerantz|gross grossman haudek pomerantz",
+"i": 72,
+"j": 624,
+"why": "tok:gross,grossman,haudek,pomerantz"
+},
+{
+"pair_key": "firm|block gross grossman haudek pomerantz|dahlstrom gross grossman hufford pomerantz",
+"i": 72,
+"j": 882,
+"why": "tok:gross,grossman,pomerantz"
+},
+{
+"pair_key": "firm|dahlstrom gross grossman hufford pomerantz|gross grossman haudek pomerantz",
+"i": 624,
+"j": 882,
+"why": "tok:gross,grossman,pomerantz"
+},
+{
+"pair_key": "firm|grossman phillips sanders|grossman sanders viener",
+"i": 1116,
+"j": 1464,
+"why": "tok:grossman,sanders"
+},
+{
+"pair_key": "firm|grossman phillips sanders|grossman sanders wiener",
+"i": 1116,
+"j": 1553,
+"why": "tok:grossman,sanders"
+},
+{
+"pair_key": "firm|grossman sanders viener|grossman sanders wiener",
+"i": 1464,
+"j": 1553,
+"why": "tok:grossman,sanders"
+},
+{
+"pair_key": "firm|block gross grossman haudek pomerantz|pomerantz",
+"i": 72,
+"j": 753,
+"why": "tok:pomerantz"
+},
+{
+"pair_key": "firm|gross grossman haudek pomerantz|pomerantz",
+"i": 624,
+"j": 753,
+"why": "tok:pomerantz"
+},
+{
+"pair_key": "firm|dahlstrom gross grossman hufford pomerantz|pomerantz",
+"i": 753,
+"j": 882,
+"why": "tok:pomerantz"
+},
+{
+"pair_key": "firm|ament denenberg freed much rubenstein shelist|ament denenberg freed much rubinstein shelist",
+"i": 74,
+"j": 88,
+"why": "tok:ament,denenberg,freed,much,shelist"
+},
+{
+"pair_key": "firm|ament denenberg freed much rubenstein shelist|rubenstein",
+"i": 74,
+"j": 1176,
+"why": "tok:rubenstein"
+},
+{
+"pair_key": "firm|carlson carpenter kilpela lynch sweet|carlson lynch",
+"i": 76,
+"j": 79,
+"why": "tok:carlson,lynch"
+},
+{
+"pair_key": "firm|carlson kilpela lynch sweet|carlson lynch",
+"i": 76,
+"j": 944,
+"why": "tok:carlson,lynch"
+},
+{
+"pair_key": "firm|carlson|carlson lynch",
+"i": 76,
+"j": 1088,
+"why": "tok:carlson"
+},
+{
+"pair_key": "firm|carlson carpenter kilpela lynch sweet|carlson kilpela lynch sweet",
+"i": 79,
+"j": 944,
+"why": "tok:carlson,kilpela,lynch,sweet"
+},
+{
+"pair_key": "firm|carlson|carlson carpenter kilpela lynch sweet",
+"i": 79,
+"j": 1088,
+"why": "tok:carlson"
+},
+{
+"pair_key": "firm|carlson|carlson kilpela lynch sweet",
+"i": 944,
+"j": 1088,
+"why": "tok:carlson"
+},
+{
+"pair_key": "firm|carlson carpenter kilpela lynch sweet|carpenter lynch",
+"i": 79,
+"j": 1065,
+"why": "tok:carpenter,lynch"
+},
+{
+"pair_key": "firm|brickman patrick richardson westbook|brickman patrick richardson westbrook",
+"i": 77,
+"j": 1970,
+"why": "tok:brickman,patrick,richardson"
+},
+{
+"pair_key": "firm|brickman patrick richardson westbrook|brickman patrick rogers westbook",
+"i": 77,
+"j": 1979,
+"why": "tok:brickman,patrick"
+},
+{
+"pair_key": "firm|brickman patrick richardson westbook|brickman patrick rogers westbook",
+"i": 1970,
+"j": 1979,
+"why": "tok:brickman,patrick,westbook"
+},
+{
+"pair_key": "firm|bender strohbehn vaughan walters|bender strohbehn vaughn walters",
+"i": 78,
+"j": 271,
+"why": "tok:bender,strohbehn,walters"
+},
+{
+"pair_key": "firm|coughlin geller lerach robbins rudman stoia|coughlin geller robbins rudman stoia",
+"i": 80,
+"j": 96,
+"why": "tok:coughlin,geller,robbins,rudman,stoia"
+},
+{
+"pair_key": "firm|coughlin geller robbins rudman stoia|dowd geller robbins rudman",
+"i": 80,
+"j": 106,
+"why": "tok:geller,robbins,rudman"
+},
+{
+"pair_key": "firm|br dowd fl geller robbins rudman|coughlin geller robbins rudman stoia",
+"i": 80,
+"j": 1398,
+"why": "tok:geller,robbins,rudman"
+},
+{
+"pair_key": "firm|coughlin geller robbins rudman stoia|david geller robbins rudman",
+"i": 80,
+"j": 1929,
+"why": "tok:geller,robbins,rudman"
+},
+{
+"pair_key": "firm|coughlin geller lerach robbins rudman stoia|dowd geller robbins rudman",
+"i": 96,
+"j": 106,
+"why": "tok:geller,robbins,rudman"
+},
+{
+"pair_key": "firm|br dowd fl geller robbins rudman|coughlin geller lerach robbins rudman stoia",
+"i": 96,
+"j": 1398,
+"why": "tok:geller,robbins,rudman"
+},
+{
+"pair_key": "firm|coughlin geller lerach robbins rudman stoia|david geller robbins rudman",
+"i": 96,
+"j": 1929,
+"why": "tok:geller,robbins,rudman"
+},
+{
+"pair_key": "firm|br dowd fl geller robbins rudman|dowd geller robbins rudman",
+"i": 106,
+"j": 1398,
+"why": "tok:dowd,geller,robbins,rudman"
+},
+{
+"pair_key": "firm|david geller robbins rudman|dowd geller robbins rudman",
+"i": 106,
+"j": 1929,
+"why": "tok:geller,robbins,rudman"
+},
+{
+"pair_key": "firm|br dowd fl geller robbins rudman|david geller robbins rudman",
+"i": 1398,
+"j": 1929,
+"why": "tok:geller,robbins,rudman"
+},
+{
+"pair_key": "firm|fink robbins umeda|robbins umeda",
+"i": 94,
+"j": 841,
+"why": "tok:robbins,umeda"
+},
+{
+"pair_key": "firm|francis mailman|francis mailman soumilas",
+"i": 875,
+"j": 1011,
+"why": "tok:francis,mailman"
+},
+{
+"pair_key": "firm|fox kaplan kilsheimer|fox kaplan klischeimer",
+"i": 87,
+"j": 842,
+"why": "tok:fox,kaplan"
+},
+{
+"pair_key": "firm|fox kaplan kilsheimer|kaplan",
+"i": 87,
+"j": 1375,
+"why": "tok:kaplan"
+},
+{
+"pair_key": "firm|berlin kaplan kluger peretz|kaplan",
+"i": 168,
+"j": 1375,
+"why": "tok:kaplan"
+},
+{
+"pair_key": "firm|blumenfeld kaplan sandweiss|kaplan",
+"i": 177,
+"j": 1375,
+"why": "tok:kaplan"
+},
+{
+"pair_key": "firm|ciresi kaplan miller robins|cirisi kaplan miller robins",
+"i": 238,
+"j": 240,
+"why": "tok:kaplan,miller,robins"
+},
+{
+"pair_key": "firm|ciresi kaplan miller robins|kaplan robins",
+"i": 238,
+"j": 241,
+"why": "tok:kaplan,robins"
+},
+{
+"pair_key": "firm|ciresi kaplan miller robins|kaplan",
+"i": 238,
+"j": 1375,
+"why": "tok:kaplan"
+},
+{
+"pair_key": "firm|ceresi kaplan miller robins|ciresi kaplan miller robins",
+"i": 238,
+"j": 1557,
+"why": "tok:kaplan,miller,robins"
+},
+{
+"pair_key": "firm|cirisi kaplan miller robins|kaplan robins",
+"i": 240,
+"j": 241,
+"why": "tok:kaplan,robins"
+},
+{
+"pair_key": "firm|cirisi kaplan miller robins|kaplan",
+"i": 240,
+"j": 1375,
+"why": "tok:kaplan"
+},
+{
+"pair_key": "firm|ceresi kaplan miller robins|cirisi kaplan miller robins",
+"i": 240,
+"j": 1557,
+"why": "tok:kaplan,miller,robins"
+},
+{
+"pair_key": "firm|kaplan|kaplan robins",
+"i": 241,
+"j": 1375,
+"why": "tok:kaplan"
+},
+{
+"pair_key": "firm|ceresi kaplan miller robins|kaplan robins",
+"i": 241,
+"j": 1557,
+"why": "tok:kaplan,robins"
+},
+{
+"pair_key": "firm|black fine kaplan|kaplan",
+"i": 482,
+"j": 1375,
+"why": "tok:kaplan"
+},
+{
+"pair_key": "firm|fox kaplan klischeimer|kaplan",
+"i": 842,
+"j": 1375,
+"why": "tok:kaplan"
+},
+{
+"pair_key": "firm|gore kaplan|kaplan",
+"i": 1342,
+"j": 1375,
+"why": "tok:kaplan"
+},
+{
+"pair_key": "firm|ceresi kaplan miller robins|kaplan",
+"i": 1375,
+"j": 1557,
+"why": "tok:kaplan"
+},
+{
+"pair_key": "firm|adelman friedman kaplan seiler|kaplan",
+"i": 1375,
+"j": 1636,
+"why": "tok:kaplan"
+},
+{
+"pair_key": "firm|howard rubinstein|howard rubinstein weil",
+"i": 631,
+"j": 1845,
+"why": "tok:howard,rubinstein"
+},
+{
+"pair_key": "firm|becnel daniel|becnel daniel jr",
+"i": 141,
+"j": 717,
+"why": "tok:becnel,daniel"
+},
+{
+"pair_key": "firm|fulda myers perkins whetstone|myers perkins whetstone young",
+"i": 270,
+"j": 603,
+"why": "tok:myers,perkins,whetstone"
+},
+{
+"pair_key": "firm|farrell legg white|legg",
+"i": 91,
+"j": 1595,
+"why": "tok:legg"
+},
+{
+"pair_key": "firm|eisenhofer grant|grant",
+"i": 93,
+"j": 770,
+"why": "tok:grant"
+},
+{
+"pair_key": "firm|formerly furth furth grant lehmann|furth grant lehmann",
+"i": 242,
+"j": 244,
+"why": "tok:furth,grant,lehmann"
+},
+{
+"pair_key": "firm|furth grant lehmann|grant",
+"i": 242,
+"j": 770,
+"why": "tok:grant"
+},
+{
+"pair_key": "firm|formerly furth furth grant lehmann|grant",
+"i": 244,
+"j": 770,
+"why": "tok:grant"
+},
+{
+"pair_key": "firm|grant|grant harrison konvalinka",
+"i": 770,
+"j": 916,
+"why": "tok:grant"
+},
+{
+"pair_key": "firm|fink|fink robbins umeda",
+"i": 94,
+"j": 596,
+"why": "tok:fink"
+},
+{
+"pair_key": "firm|berman fink horn van|fink",
+"i": 596,
+"j": 1907,
+"why": "tok:fink"
+},
+{
+"pair_key": "firm|berman fink hom van|fink",
+"i": 596,
+"j": 2005,
+"why": "tok:fink"
+},
+{
+"pair_key": "firm|drake kallas whatley|drake whatley",
+"i": 95,
+"j": 257,
+"why": "tok:drake,whatley"
+},
+{
+"pair_key": "firm|drake kailas whatley|drake whatley",
+"i": 95,
+"j": 275,
+"why": "tok:drake,whatley"
+},
+{
+"pair_key": "firm|drake kailas whatley|drake kallas whatley",
+"i": 257,
+"j": 275,
+"why": "tok:drake,whatley"
+},
+{
+"pair_key": "firm|drake kallas whatley|kallas whatley",
+"i": 257,
+"j": 380,
+"why": "tok:kallas,whatley"
+},
+{
+"pair_key": "firm|fisher garwin gerstain|fisher garwin gerstein",
+"i": 98,
+"j": 374,
+"why": "tok:fisher,garwin"
+},
+{
+"pair_key": "firm|boyd brown fisher huguenard|boyd fisher huguenard johnson",
+"i": 1568,
+"j": 1614,
+"why": "tok:boyd,fisher,huguenard"
+},
+{
+"pair_key": "firm|boyd brown fisher huguenard|boyd fisher huguernard johnson",
+"i": 1568,
+"j": 1633,
+"why": "tok:boyd,fisher"
+},
+{
+"pair_key": "firm|boyd fisher huguenard johnson|boyd fisher huguernard johnson",
+"i": 1614,
+"j": 1633,
+"why": "tok:boyd,fisher,johnson"
+},
+{
+"pair_key": "firm|cohn herrmann knopf lifland peariman|cohn herrmann knopf lifland pearlman",
+"i": 99,
+"j": 165,
+"why": "tok:cohn,herrmann,knopf,lifland"
+},
+{
+"pair_key": "firm|halleland johnson lewis nilan|johnson lewis nilan",
+"i": 460,
+"j": 475,
+"why": "tok:johnson,lewis,nilan"
+},
+{
+"pair_key": "firm|halleland johnson lewis nilan|halleland johnson lewis nilan sipkins",
+"i": 460,
+"j": 1460,
+"why": "tok:halleland,johnson,lewis,nilan"
+},
+{
+"pair_key": "firm|halleland johnson lewis nilan sipkins|johnson lewis nilan",
+"i": 475,
+"j": 1460,
+"why": "tok:johnson,lewis,nilan"
+},
+{
+"pair_key": "firm|bennett cera gold sidener|cera",
+"i": 102,
+"j": 925,
+"why": "tok:cera"
+},
+{
+"pair_key": "firm|dowd dowd|dowd geller robbins rudman",
+"i": 106,
+"j": 1160,
+"why": "tok:dowd"
+},
+{
+"pair_key": "firm|br dowd fl geller robbins rudman|dowd dowd",
+"i": 1160,
+"j": 1398,
+"why": "tok:dowd"
+},
+{
+"pair_key": "firm|arps flom meagher skadden slate|skadden",
+"i": 108,
+"j": 1097,
+"why": "tok:skadden"
+},
+{
+"pair_key": "firm|cherin eckert mellott seamans|eckert seamans",
+"i": 109,
+"j": 1281,
+"why": "tok:eckert,seamans"
+},
+{
+"pair_key": "firm|campbell|campbell detweiler swartz",
+"i": 113,
+"j": 861,
+"why": "tok:campbell"
+},
+{
+"pair_key": "firm|al campbell et krupnick malone|campbell",
+"i": 246,
+"j": 861,
+"why": "tok:campbell"
+},
+{
+"pair_key": "firm|campbell|campbell levine",
+"i": 861,
+"j": 1181,
+"why": "tok:campbell"
+},
+{
+"pair_key": "firm|reed zimmerman|zimmerman",
+"i": 117,
+"j": 885,
+"why": "tok:zimmerman"
+},
+{
+"pair_key": "firm|pllp reed zimmerman|zimmerman",
+"i": 385,
+"j": 885,
+"why": "tok:zimmerman"
+},
+{
+"pair_key": "firm|furth|furth grant lehmann",
+"i": 120,
+"j": 242,
+"why": "tok:furth"
+},
+{
+"pair_key": "firm|formerly furth furth grant lehmann|furth",
+"i": 120,
+"j": 244,
+"why": "tok:furth"
+},
+{
+"pair_key": "firm|furth|furth lehmann",
+"i": 120,
+"j": 314,
+"why": "tok:furth"
+},
+{
+"pair_key": "firm|furth|furth li mason salem",
+"i": 120,
+"j": 1814,
+"why": "tok:furth"
+},
+{
+"pair_key": "firm|furth grant lehmann|furth lehmann",
+"i": 242,
+"j": 314,
+"why": "tok:furth,lehmann"
+},
+{
+"pair_key": "firm|formerly furth furth grant lehmann|furth lehmann",
+"i": 244,
+"j": 314,
+"why": "tok:furth,lehmann"
+},
+{
+"pair_key": "firm|inc joseph saveri|inc saveri saveri",
+"i": 121,
+"j": 930,
+"why": "tok:saveri"
+},
+{
+"pair_key": "firm|inc saveri saveri|joseph saveri",
+"i": 121,
+"j": 1108,
+"why": "tok:saveri"
+},
+{
+"pair_key": "firm|inc saveri saveri|saveri saveri",
+"i": 121,
+"j": 1484,
+"why": "tok:saveri"
+},
+{
+"pair_key": "firm|inc joseph saveri|joseph saveri",
+"i": 930,
+"j": 1108,
+"why": "tok:joseph,saveri"
+},
+{
+"pair_key": "firm|inc joseph saveri|saveri saveri",
+"i": 930,
+"j": 1484,
+"why": "tok:saveri"
+},
+{
+"pair_key": "firm|joseph saveri|saveri saveri",
+"i": 1108,
+"j": 1484,
+"why": "tok:saveri"
+},
+{
+"pair_key": "firm|depalma greenberg lite|depalma greenberg lite rivas",
+"i": 125,
+"j": 581,
+"why": "tok:depalma,greenberg,lite"
+},
+{
+"pair_key": "firm|afanador depalma greenberg lite|depalma greenberg lite rivas",
+"i": 125,
+"j": 976,
+"why": "tok:depalma,greenberg,lite"
+},
+{
+"pair_key": "firm|afanador depalma greenberg lite|depalma greenberg lite",
+"i": 581,
+"j": 976,
+"why": "tok:depalma,greenberg,lite"
+},
+{
+"pair_key": "firm|grindal lockridge nauen|grindal lockridge nauen pllp",
+"i": 126,
+"j": 233,
+"why": "tok:grindal,lockridge,nauen"
+},
+{
+"pair_key": "firm|johnson|johnson perkinson",
+"i": 127,
+"j": 1022,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|hill johnson winter|johnson",
+"i": 186,
+"j": 1022,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|felder hood johnson mcgowan|johnson",
+"i": 265,
+"j": 1022,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|johnson|johnson lyons rotherberger",
+"i": 336,
+"j": 1022,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|goldenberg johnson|johnson",
+"i": 387,
+"j": 1022,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|breskin johnson townsend|johnson",
+"i": 399,
+"j": 1022,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|bottini johnson|johnson",
+"i": 439,
+"j": 1022,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|babbitt johnson leclainche osborne|johnson",
+"i": 443,
+"j": 1022,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|babbitt clainche johnson le osborne|babbitt johnson leclainche osborne",
+"i": 443,
+"j": 1565,
+"why": "tok:babbitt,johnson,osborne"
+},
+{
+"pair_key": "firm|babbit johnson leclainche osborne|babbitt johnson leclainche osborne",
+"i": 443,
+"j": 1583,
+"why": "tok:johnson,leclainche,osborne"
+},
+{
+"pair_key": "firm|babbitt johnson laclainche osborne|babbitt johnson leclainche osborne",
+"i": 443,
+"j": 1711,
+"why": "tok:babbitt,johnson,osborne"
+},
+{
+"pair_key": "firm|babbitt johnson|babbitt johnson leclainche osborne",
+"i": 443,
+"j": 1771,
+"why": "tok:babbitt,johnson"
+},
+{
+"pair_key": "firm|halleland johnson lewis nilan|johnson",
+"i": 460,
+"j": 1022,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|johnson|johnson lewis nilan",
+"i": 475,
+"j": 1022,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|hendy johnson psc schachter|johnson",
+"i": 782,
+"j": 1022,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|becker johnson|johnson",
+"i": 920,
+"j": 1022,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|deakle johnson|johnson",
+"i": 1022,
+"j": 1185,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|hellmuth johnson pll|johnson",
+"i": 1022,
+"j": 1293,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|hellmuth johnson|johnson",
+"i": 1022,
+"j": 1294,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|halleland johnson lewis nilan sipkins|johnson",
+"i": 1022,
+"j": 1460,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|burr galloway johnson smith tompkins|johnson",
+"i": 1022,
+"j": 1504,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|hainkel johnson porteous|johnson",
+"i": 1022,
+"j": 1518,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|goodman johnson lindsey mcguffey|johnson",
+"i": 1022,
+"j": 1519,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|barrios johnson johnson yacoubian|johnson",
+"i": 1022,
+"j": 1520,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|babbitt clainche johnson le osborne|johnson",
+"i": 1022,
+"j": 1565,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|babbit johnson leclainche osborne|johnson",
+"i": 1022,
+"j": 1583,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|boyd fisher huguenard johnson|johnson",
+"i": 1022,
+"j": 1614,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|boyd fisher huguernard johnson|johnson",
+"i": 1022,
+"j": 1633,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|johnson|johnson steptoe",
+"i": 1022,
+"j": 1639,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|babbitt johnson laclainche osborne|johnson",
+"i": 1022,
+"j": 1711,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|babbitt johnson|johnson",
+"i": 1022,
+"j": 1771,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|fistel johnson|johnson",
+"i": 1022,
+"j": 1902,
+"why": "tok:johnson"
+},
+{
+"pair_key": "firm|hellmuth johnson|hellmuth johnson pll",
+"i": 1293,
+"j": 1294,
+"why": "tok:hellmuth,johnson"
+},
+{
+"pair_key": "firm|babbit johnson leclainche osborne|babbitt clainche johnson le osborne",
+"i": 1565,
+"j": 1583,
+"why": "tok:johnson,osborne"
+},
+{
+"pair_key": "firm|babbitt clainche johnson le osborne|babbitt johnson laclainche osborne",
+"i": 1565,
+"j": 1711,
+"why": "tok:babbitt,johnson,osborne"
+},
+{
+"pair_key": "firm|babbitt clainche johnson le osborne|babbitt johnson",
+"i": 1565,
+"j": 1771,
+"why": "tok:babbitt,johnson"
+},
+{
+"pair_key": "firm|babbit johnson leclainche osborne|babbitt johnson laclainche osborne",
+"i": 1583,
+"j": 1711,
+"why": "tok:johnson,osborne"
+},
+{
+"pair_key": "firm|babbitt johnson|babbitt johnson laclainche osborne",
+"i": 1711,
+"j": 1771,
+"why": "tok:babbitt,johnson"
+},
+{
+"pair_key": "firm|as be costello january kavanagh klein klein renamed roddy ryan to|klein roddy ryan",
+"i": 131,
+"j": 761,
+"why": "tok:klein,roddy,ryan"
+},
+{
+"pair_key": "firm|as be costello january kavanagh klein klein renamed roddy ryan to|costello kavanagh klein",
+"i": 726,
+"j": 761,
+"why": "tok:costello,kavanagh,klein"
+},
+{
+"pair_key": "firm|hoyer james newcomer smiljanich|hoyer james newcomer smiljanich yanchunis",
+"i": 132,
+"j": 695,
+"why": "tok:hoyer,james,newcomer,smiljanich"
+},
+{
+"pair_key": "firm|hoyer james newcomber smiljanich|hoyer james newcomer smiljanich",
+"i": 132,
+"j": 133,
+"why": "tok:hoyer,james,smiljanich"
+},
+{
+"pair_key": "firm|hoyer james newcomber smiljanich|hoyer james newcomer smiljanich yanchunis",
+"i": 133,
+"j": 695,
+"why": "tok:hoyer,james,smiljanich"
+},
+{
+"pair_key": "firm|cafferty faucher miller|miller",
+"i": 134,
+"j": 366,
+"why": "tok:miller"
+},
+{
+"pair_key": "firm|ann miller|miller",
+"i": 164,
+"j": 366,
+"why": "tok:miller"
+},
+{
+"pair_key": "firm|mcgehee miller palmer pitt rivers|miller",
+"i": 176,
+"j": 366,
+"why": "tok:miller"
+},
+{
+"pair_key": "firm|ciresi kaplan miller robins|miller",
+"i": 238,
+"j": 366,
+"why": "tok:miller"
+},
+{
+"pair_key": "firm|cirisi kaplan miller robins|miller",
+"i": 240,
+"j": 366,
+"why": "tok:miller"
+},
+{
+"pair_key": "firm|finkelman miller shah shepherd|miller",
+"i": 366,
+"j": 394,
+"why": "tok:miller"
+},
+{
+"pair_key": "firm|finkelman media miller shah shepherd|miller",
+"i": 366,
+"j": 562,
+"why": "tok:miller"
+},
+{
+"pair_key": "firm|chester finkelman miller shah shepherd|miller",
+"i": 366,
+"j": 563,
+"why": "tok:miller"
+},
+{
+"pair_key": "firm|diego finkelman miller san shah shepherd|miller",
+"i": 366,
+"j": 564,
+"why": "tok:miller"
+},
+{
+"pair_key": "firm|ice miller|miller",
+"i": 366,
+"j": 737,
+"why": "tok:miller"
+},
+{
+"pair_key": "firm|baillon jozwiak miller thume wanta|miller",
+"i": 366,
+"j": 862,
+"why": "tok:miller"
+},
+{
+"pair_key": "firm|martin miller|miller",
+"i": 366,
+"j": 913,
+"why": "tok:miller"
+},
+{
+"pair_key": "firm|miller|miller schirger",
+"i": 366,
+"j": 1095,
+"why": "tok:miller"
+},
+{
+"pair_key": "firm|chambers miller monkman sachse sonosky|miller",
+"i": 366,
+"j": 1130,
+"why": "tok:miller"
+},
+{
+"pair_key": "firm|miller|miller wallace",
+"i": 366,
+"j": 1301,
+"why": "tok:miller"
+},
+{
+"pair_key": "firm|meyerson miller|miller",
+"i": 366,
+"j": 1395,
+"why": "tok:miller"
+},
+{
+"pair_key": "firm|methvin miller stephens terrell yancey|miller",
+"i": 366,
+"j": 1407,
+"why": "tok:miller"
+},
+{
+"pair_key": "firm|ceresi kaplan miller robins|miller",
+"i": 366,
+"j": 1557,
+"why": "tok:miller"
+},
+{
+"pair_key": "firm|heins miller olson plc|miller",
+"i": 366,
+"j": 1671,
+"why": "tok:miller"
+},
+{
+"pair_key": "firm|canfield miller paddock stone|miller",
+"i": 366,
+"j": 1743,
+"why": "tok:miller"
+},
+{
+"pair_key": "firm|alhadeff miller sitterson stearns weaver weissler|miller",
+"i": 366,
+"j": 1806,
+"why": "tok:miller"
+},
+{
+"pair_key": "firm|miller|miller shah",
+"i": 366,
+"j": 1825,
+"why": "tok:miller"
+},
+{
+"pair_key": "firm|dellafera miller plc|miller",
+"i": 366,
+"j": 1857,
+"why": "tok:miller"
+},
+{
+"pair_key": "firm|miller|miller weisbrod",
+"i": 366,
+"j": 1869,
+"why": "tok:miller"
+},
+{
+"pair_key": "firm|finkelman media miller shah shepherd|finkelman miller shah shepherd",
+"i": 394,
+"j": 562,
+"why": "tok:finkelman,miller,shah,shepherd"
+},
+{
+"pair_key": "firm|chester finkelman miller shah shepherd|finkelman miller shah shepherd",
+"i": 394,
+"j": 563,
+"why": "tok:finkelman,miller,shah,shepherd"
+},
+{
+"pair_key": "firm|diego finkelman miller san shah shepherd|finkelman miller shah shepherd",
+"i": 394,
+"j": 564,
+"why": "tok:finkelman,miller,shah,shepherd"
+},
+{
+"pair_key": "firm|finkelman miller shah shepherd|miller shah",
+"i": 394,
+"j": 1825,
+"why": "tok:miller,shah"
+},
+{
+"pair_key": "firm|chester finkelman miller shah shepherd|finkelman media miller shah shepherd",
+"i": 562,
+"j": 563,
+"why": "tok:finkelman,miller,shah,shepherd"
+},
+{
+"pair_key": "firm|diego finkelman miller san shah shepherd|finkelman media miller shah shepherd",
+"i": 562,
+"j": 564,
+"why": "tok:finkelman,miller,shah,shepherd"
+},
+{
+"pair_key": "firm|finkelman media miller shah shepherd|miller shah",
+"i": 562,
+"j": 1825,
+"why": "tok:miller,shah"
+},
+{
+"pair_key": "firm|chester finkelman miller shah shepherd|diego finkelman miller san shah shepherd",
+"i": 563,
+"j": 564,
+"why": "tok:finkelman,miller,shah,shepherd"
+},
+{
+"pair_key": "firm|chester finkelman miller shah shepherd|miller shah",
+"i": 563,
+"j": 1825,
+"why": "tok:miller,shah"
+},
+{
+"pair_key": "firm|diego finkelman miller san shah shepherd|miller shah",
+"i": 564,
+"j": 1825,
+"why": "tok:miller,shah"
+},
+{
+"pair_key": "firm|meyers morgan plc|morgan morgan",
+"i": 139,
+"j": 363,
+"why": "tok:morgan"
+},
+{
+"pair_key": "firm|complex litigation morgan morgan|meyers morgan plc",
+"i": 139,
+"j": 936,
+"why": "tok:morgan"
+},
+{
+"pair_key": "firm|meyers morgan plc|morgan",
+"i": 139,
+"j": 1804,
+"why": "tok:morgan"
+},
+{
+"pair_key": "firm|complex litigation morgan morgan|morgan morgan",
+"i": 363,
+"j": 936,
+"why": "tok:morgan"
+},
+{
+"pair_key": "firm|bockius lewis morgan|morgan morgan",
+"i": 363,
+"j": 1155,
+"why": "tok:morgan"
+},
+{
+"pair_key": "firm|dept mass morgan morgan tort|morgan morgan",
+"i": 363,
+"j": 1166,
+"why": "tok:morgan"
+},
+{
+"pair_key": "firm|morgan|morgan morgan",
+"i": 363,
+"j": 1804,
+"why": "tok:morgan"
+},
+{
+"pair_key": "firm|bockius lewis morgan|complex litigation morgan morgan",
+"i": 936,
+"j": 1155,
+"why": "tok:morgan"
+},
+{
+"pair_key": "firm|complex litigation morgan morgan|dept mass morgan morgan tort",
+"i": 936,
+"j": 1166,
+"why": "tok:morgan"
+},
+{
+"pair_key": "firm|complex litigation morgan morgan|morgan",
+"i": 936,
+"j": 1804,
+"why": "tok:morgan"
+},
+{
+"pair_key": "firm|bockius lewis morgan|morgan",
+"i": 1155,
+"j": 1804,
+"why": "tok:morgan"
+},
+{
+"pair_key": "firm|dept mass morgan morgan tort|morgan",
+"i": 1166,
+"j": 1804,
+"why": "tok:morgan"
+},
+{
+"pair_key": "firm|alexander audet hawes|audet partners",
+"i": 140,
+"j": 311,
+"why": "tok:audet"
+},
+{
+"pair_key": "firm|becnel|becnel daniel jr",
+"i": 141,
+"j": 256,
+"why": "tok:becnel"
+},
+{
+"pair_key": "firm|becnel|becnel daniel",
+"i": 256,
+"j": 717,
+"why": "tok:becnel"
+},
+{
+"pair_key": "firm|climaco garofoli lefkowitz lpa peca wilxcox|climaco garofoli lefkowitz peca wilcox",
+"i": 142,
+"j": 520,
+"why": "tok:climaco,garofoli,lefkowitz,peca"
+},
+{
+"pair_key": "firm|climaco garofoli lefkowitz lpa peca wilcox|climaco garofoli lefkowitz peca wilcox",
+"i": 142,
+"j": 618,
+"why": "tok:climaco,garofoli,lefkowitz,peca,wilcox"
+},
+{
+"pair_key": "firm|climaco garofoli lefkowitz peca wilcox|climaco garofoli peca tarantino wilcox",
+"i": 142,
+"j": 700,
+"why": "tok:climaco,garofoli,peca,wilcox"
+},
+{
+"pair_key": "firm|climaco garofoli lefkowitz peca wilcox|climaco garofoli lpa peca tarantino wilcox",
+"i": 142,
+"j": 713,
+"why": "tok:climaco,garofoli,peca,wilcox"
+},
+{
+"pair_key": "firm|climaco garofoli lefkowitz lpa peca wilcox|climaco garofoli lefkowitz lpa peca wilxcox",
+"i": 520,
+"j": 618,
+"why": "tok:climaco,garofoli,lefkowitz,peca"
+},
+{
+"pair_key": "firm|climaco garofoli lefkowitz lpa peca wilxcox|climaco garofoli peca tarantino wilcox",
+"i": 520,
+"j": 700,
+"why": "tok:climaco,garofoli,peca"
+},
+{
+"pair_key": "firm|climaco garofoli lefkowitz lpa peca wilxcox|climaco garofoli lpa peca tarantino wilcox",
+"i": 520,
+"j": 713,
+"why": "tok:climaco,garofoli,peca"
+},
+{
+"pair_key": "firm|climaco garofoli lefkowitz lpa peca wilcox|climaco garofoli peca tarantino wilcox",
+"i": 618,
+"j": 700,
+"why": "tok:climaco,garofoli,peca,wilcox"
+},
+{
+"pair_key": "firm|climaco garofoli lefkowitz lpa peca wilcox|climaco garofoli lpa peca tarantino wilcox",
+"i": 618,
+"j": 713,
+"why": "tok:climaco,garofoli,peca,wilcox"
+},
+{
+"pair_key": "firm|climaco garofoli lpa peca tarantino wilcox|climaco garofoli peca tarantino wilcox",
+"i": 700,
+"j": 713,
+"why": "tok:climaco,garofoli,peca,tarantino,wilcox"
+},
+{
+"pair_key": "firm|cutter|cutter kershaw ratinoff",
+"i": 143,
+"j": 1402,
+"why": "tok:cutter"
+},
+{
+"pair_key": "firm|barlow kershaw talley|cook kershaw talley",
+"i": 1295,
+"j": 1879,
+"why": "tok:kershaw,talley"
+},
+{
+"pair_key": "firm|bushman clasby harke|clasby harke",
+"i": 144,
+"j": 694,
+"why": "tok:clasby,harke"
+},
+{
+"pair_key": "firm|crawford joseph millican skikos skikos|crawford joseph skikos skikos",
+"i": 412,
+"j": 1544,
+"why": "tok:crawford,joseph,skikos"
+},
+{
+"pair_key": "firm|hodes lopez milman restaino skikos|restaino",
+"i": 146,
+"j": 1534,
+"why": "tok:restaino"
+},
+{
+"pair_key": "firm|restaino|restaino siler",
+"i": 924,
+"j": 1534,
+"why": "tok:restaino"
+},
+{
+"pair_key": "firm|heins mills olson|heins mills olson plc",
+"i": 147,
+"j": 474,
+"why": "tok:heins,mills,olson"
+},
+{
+"pair_key": "firm|heins mills|heins mills olson plc",
+"i": 147,
+"j": 566,
+"why": "tok:heins,mills"
+},
+{
+"pair_key": "firm|heins miller olson plc|heins mills olson plc",
+"i": 147,
+"j": 1671,
+"why": "tok:heins,olson"
+},
+{
+"pair_key": "firm|heins mills|heins mills olson",
+"i": 474,
+"j": 566,
+"why": "tok:heins,mills"
+},
+{
+"pair_key": "firm|heins miller olson plc|heins mills olson",
+"i": 474,
+"j": 1671,
+"why": "tok:heins,olson"
+},
+{
+"pair_key": "firm|heins mills olson plc|hems mills olson",
+"i": 147,
+"j": 1622,
+"why": "tok:mills,olson"
+},
+{
+"pair_key": "firm|heins mills olson|hems mills olson",
+"i": 474,
+"j": 1622,
+"why": "tok:mills,olson"
+},
+{
+"pair_key": "firm|levy olson ram|olson ram",
+"i": 663,
+"j": 665,
+"why": "tok:olson,ram"
+},
+{
+"pair_key": "firm|heins mills olson plc|mills",
+"i": 147,
+"j": 159,
+"why": "tok:mills"
+},
+{
+"pair_key": "firm|heins mills olson|mills",
+"i": 159,
+"j": 474,
+"why": "tok:mills"
+},
+{
+"pair_key": "firm|heins mills|mills",
+"i": 159,
+"j": 566,
+"why": "tok:mills"
+},
+{
+"pair_key": "firm|hems mills olson|mills",
+"i": 159,
+"j": 1622,
+"why": "tok:mills"
+},
+{
+"pair_key": "firm|bern napoli ripka shkolnik|napoli shkolnik",
+"i": 863,
+"j": 1113,
+"why": "tok:napoli,shkolnik"
+},
+{
+"pair_key": "firm|evans figel hansen huber kellogg todd|figel frederick hansen kellogg todd",
+"i": 149,
+"j": 1388,
+"why": "tok:figel,hansen,kellogg,todd"
+},
+{
+"pair_key": "firm|evans figel hansen huber kellogg todd|hansen kellogg",
+"i": 149,
+"j": 1426,
+"why": "tok:hansen,kellogg"
+},
+{
+"pair_key": "firm|figel frederick hansen kellogg todd|hansen kellogg",
+"i": 1388,
+"j": 1426,
+"why": "tok:hansen,kellogg"
+},
+{
+"pair_key": "firm|evans|evans figel hansen huber kellogg todd",
+"i": 149,
+"j": 890,
+"why": "tok:evans"
+},
+{
+"pair_key": "firm|evans|evans manogue specter specter",
+"i": 455,
+"j": 890,
+"why": "tok:evans"
+},
+{
+"pair_key": "firm|goldhammer graifman|goldhammer graifman kantrowitz",
+"i": 151,
+"j": 1070,
+"why": "tok:goldhammer,graifman"
+},
+{
+"pair_key": "firm|goldhamer graifman kantrowitz|goldhammer graifman kantrowitz",
+"i": 950,
+"j": 1070,
+"why": "tok:graifman,kantrowitz"
+},
+{
+"pair_key": "firm|connors granito krause nolan speiser vilardo|nolan",
+"i": 152,
+"j": 654,
+"why": "tok:nolan"
+},
+{
+"pair_key": "firm|granito krause nolan speiser|nolan",
+"i": 152,
+"j": 1477,
+"why": "tok:nolan"
+},
+{
+"pair_key": "firm|nolan|nolan stephen",
+"i": 152,
+"j": 1819,
+"why": "tok:nolan"
+},
+{
+"pair_key": "firm|connors granito krause nolan speiser vilardo|granito krause nolan speiser",
+"i": 654,
+"j": 1477,
+"why": "tok:granito,krause,nolan,speiser"
+},
+{
+"pair_key": "firm|abbey abrams paradis rodd spanier|abbey abrams rodd spanier",
+"i": 157,
+"j": 682,
+"why": "tok:abbey,abrams,rodd,spanier"
+},
+{
+"pair_key": "firm|bonsignore|bonsignore brewer",
+"i": 158,
+"j": 909,
+"why": "tok:bonsignore"
+},
+{
+"pair_key": "firm|bonsignore brewer|bonsignore lawyers trial",
+"i": 158,
+"j": 1850,
+"why": "tok:bonsignore"
+},
+{
+"pair_key": "firm|bonsignore|bonsignore lawyers trial",
+"i": 909,
+"j": 1850,
+"why": "tok:bonsignore"
+},
+{
+"pair_key": "firm|chavez foote mielke neil|flowers foote meyers mielke",
+"i": 356,
+"j": 1704,
+"why": "tok:foote,mielke"
+},
+{
+"pair_key": "firm|cooper greenberger krauss schwartz|cooper partners",
+"i": 173,
+"j": 1352,
+"why": "tok:cooper"
+},
+{
+"pair_key": "firm|alcorn cooper tyler|cooper partners",
+"i": 341,
+"j": 1352,
+"why": "tok:cooper"
+},
+{
+"pair_key": "firm|cooper partners|cooper simmons",
+"i": 421,
+"j": 1352,
+"why": "tok:cooper"
+},
+{
+"pair_key": "firm|cooper deal holton|cooper partners",
+"i": 613,
+"j": 1352,
+"why": "tok:cooper"
+},
+{
+"pair_key": "firm|cooper gale maynard|cooper partners",
+"i": 915,
+"j": 1352,
+"why": "tok:cooper"
+},
+{
+"pair_key": "firm|cohn cooper flint miracle thompson|cooper flint",
+"i": 1345,
+"j": 1348,
+"why": "tok:cooper,flint"
+},
+{
+"pair_key": "firm|cohn cooper flint miracle thompson|cooper partners",
+"i": 1345,
+"j": 1352,
+"why": "tok:cooper"
+},
+{
+"pair_key": "firm|cooper flint|cooper partners",
+"i": 1348,
+"j": 1352,
+"why": "tok:cooper"
+},
+{
+"pair_key": "firm|cooper kirkham|cooper partners",
+"i": 1352,
+"j": 1482,
+"why": "tok:cooper"
+},
+{
+"pair_key": "firm|cooper kirk|cooper partners",
+"i": 1352,
+"j": 1785,
+"why": "tok:cooper"
+},
+{
+"pair_key": "firm|haber|haber shapiro urmy",
+"i": 175,
+"j": 1344,
+"why": "tok:haber"
+},
+{
+"pair_key": "firm|curtis|curtis trinko",
+"i": 179,
+"j": 1717,
+"why": "tok:curtis"
+},
+{
+"pair_key": "firm|behele bezek curtis foley|behle bezek curtis foley",
+"i": 574,
+"j": 577,
+"why": "tok:bezek,curtis,foley"
+},
+{
+"pair_key": "firm|behle bezek curtis foley|curtis",
+"i": 574,
+"j": 1717,
+"why": "tok:curtis"
+},
+{
+"pair_key": "firm|behele bezek curtis foley|curtis",
+"i": 577,
+"j": 1717,
+"why": "tok:curtis"
+},
+{
+"pair_key": "firm|curtis|curtis derby",
+"i": 960,
+"j": 1717,
+"why": "tok:curtis"
+},
+{
+"pair_key": "firm|graham graham lpa|graham gray ritter",
+"i": 181,
+"j": 307,
+"why": "tok:graham"
+},
+{
+"pair_key": "firm|curtin graham|graham graham lpa",
+"i": 181,
+"j": 425,
+"why": "tok:graham"
+},
+{
+"pair_key": "firm|graham graham lpa|graham kramon",
+"i": 181,
+"j": 509,
+"why": "tok:graham"
+},
+{
+"pair_key": "firm|buckley carr graham white|graham graham lpa",
+"i": 181,
+"j": 1017,
+"why": "tok:graham"
+},
+{
+"pair_key": "firm|ellis tucker|ellis tucker west",
+"i": 204,
+"j": 1615,
+"why": "tok:ellis,tucker"
+},
+{
+"pair_key": "firm|bee carper deitzler hill peterson|peterson",
+"i": 185,
+"j": 519,
+"why": "tok:peterson"
+},
+{
+"pair_key": "firm|leary onder peterson shelton|peterson",
+"i": 519,
+"j": 589,
+"why": "tok:peterson"
+},
+{
+"pair_key": "firm|bartlit beck|bartlit beck herman palenchar scott",
+"i": 187,
+"j": 760,
+"why": "tok:bartlit,beck"
+},
+{
+"pair_key": "firm|bryson mason whitfield|bryson whitfield",
+"i": 494,
+"j": 1035,
+"why": "tok:bryson,whitfield"
+},
+{
+"pair_key": "firm|bryon mason whitfield|bryson mason whitfield",
+"i": 494,
+"j": 1784,
+"why": "tok:mason,whitfield"
+},
+{
+"pair_key": "firm|kilpatrick stockton|kilpatrick stockton townsend",
+"i": 189,
+"j": 702,
+"why": "tok:kilpatrick,stockton"
+},
+{
+"pair_key": "firm|nast|nast roda",
+"i": 190,
+"j": 923,
+"why": "tok:nast"
+},
+{
+"pair_key": "firm|nast|nast tisdale",
+"i": 923,
+"j": 1219,
+"why": "tok:nast"
+},
+{
+"pair_key": "firm|toriseva wallace wexler|wexler",
+"i": 192,
+"j": 229,
+"why": "tok:wexler"
+},
+{
+"pair_key": "firm|wallace wexler|wexler",
+"i": 192,
+"j": 315,
+"why": "tok:wexler"
+},
+{
+"pair_key": "firm|lpa strauss troy|strauss troy",
+"i": 547,
+"j": 1215,
+"why": "tok:strauss,troy"
+},
+{
+"pair_key": "firm|alonso parker waichman|parker waichman",
+"i": 195,
+"j": 350,
+"why": "tok:parker,waichman"
+},
+{
+"pair_key": "firm|fl parker waichman|parker waichman",
+"i": 195,
+"j": 800,
+"why": "tok:parker,waichman"
+},
+{
+"pair_key": "firm|alonso parker waichman|fl parker waichman",
+"i": 350,
+"j": 800,
+"why": "tok:parker,waichman"
+},
+{
+"pair_key": "firm|behnke botros schulte|behnke martin schulte",
+"i": 200,
+"j": 727,
+"why": "tok:behnke,schulte"
+},
+{
+"pair_key": "firm|bogard denton schlichter|bogart denton schlichter",
+"i": 202,
+"j": 415,
+"why": "tok:denton,schlichter"
+},
+{
+"pair_key": "firm|bogard denton schlichter|bogard denton schlicter",
+"i": 202,
+"j": 1349,
+"why": "tok:bogard,denton"
+},
+{
+"pair_key": "firm|bogard denton schlichter|denton",
+"i": 202,
+"j": 1943,
+"why": "tok:denton"
+},
+{
+"pair_key": "firm|bogart denton schlichter|denton",
+"i": 415,
+"j": 1943,
+"why": "tok:denton"
+},
+{
+"pair_key": "firm|board denton schlicter|bogard denton schlicter",
+"i": 1090,
+"j": 1349,
+"why": "tok:denton,schlicter"
+},
+{
+"pair_key": "firm|board denton schlicter|denton",
+"i": 1090,
+"j": 1943,
+"why": "tok:denton"
+},
+{
+"pair_key": "firm|bogard denton schlicter|denton",
+"i": 1349,
+"j": 1943,
+"why": "tok:denton"
+},
+{
+"pair_key": "firm|bogard denton schlicter|bogard schlicter",
+"i": 1210,
+"j": 1349,
+"why": "tok:bogard,schlicter"
+},
+{
+"pair_key": "firm|dunner farabow finnegan garrett henderson|garrett",
+"i": 203,
+"j": 706,
+"why": "tok:garrett"
+},
+{
+"pair_key": "firm|adler freeman haldenstein herz wolf|haldenstein wolf",
+"i": 210,
+"j": 465,
+"why": "tok:haldenstein,wolf"
+},
+{
+"pair_key": "firm|adler freeman haldenstein herz wolf|adler freeman haldenstine herz wolf",
+"i": 210,
+"j": 580,
+"why": "tok:adler,freeman,herz,wolf"
+},
+{
+"pair_key": "firm|adler freeman haldenstein herz wolf|alder freeman haldenstein herz wolf",
+"i": 210,
+"j": 595,
+"why": "tok:freeman,haldenstein,herz,wolf"
+},
+{
+"pair_key": "firm|alder freeman haldenstein herz wolf|haldenstein wolf",
+"i": 465,
+"j": 595,
+"why": "tok:haldenstein,wolf"
+},
+{
+"pair_key": "firm|adler freeman haldenstine herz wolf|alder freeman haldenstein herz wolf",
+"i": 580,
+"j": 595,
+"why": "tok:freeman,herz,wolf"
+},
+{
+"pair_key": "firm|carr conway kane peiffer wise wolf|peiffer wolf",
+"i": 1205,
+"j": 1324,
+"why": "tok:peiffer,wolf"
+},
+{
+"pair_key": "firm|abdullah aplc carr kane peiffer rosca wolf|carr conway kane peiffer wise wolf",
+"i": 1205,
+"j": 1935,
+"why": "tok:carr,kane,peiffer,wolf"
+},
+{
+"pair_key": "firm|abdullah aplc carr kane peiffer rosca wolf|peiffer wolf",
+"i": 1324,
+"j": 1935,
+"why": "tok:peiffer,wolf"
+},
+{
+"pair_key": "firm|barrett|barrett bendesky mongeluzzi saltz",
+"i": 212,
+"j": 590,
+"why": "tok:barrett"
+},
+{
+"pair_key": "firm|barrett|barrett richard",
+"i": 212,
+"j": 723,
+"why": "tok:barrett"
+},
+{
+"pair_key": "firm|barrett|barrett yarbrough",
+"i": 212,
+"j": 1434,
+"why": "tok:barrett"
+},
+{
+"pair_key": "firm|binkow glancey goldberg|binkow glancy goldberg",
+"i": 215,
+"j": 686,
+"why": "tok:binkow,goldberg"
+},
+{
+"pair_key": "firm|cuneo gilbert laduca|gilbert",
+"i": 220,
+"j": 674,
+"why": "tok:gilbert"
+},
+{
+"pair_key": "firm|ferguson gilbert kopelowitz ostrow weiselberg|gilbert",
+"i": 674,
+"j": 1038,
+"why": "tok:gilbert"
+},
+{
+"pair_key": "firm|friedman gerhardstein gilbert|gilbert",
+"i": 674,
+"j": 1335,
+"why": "tok:gilbert"
+},
+{
+"pair_key": "firm|allman kelly kelly|kelly",
+"i": 223,
+"j": 587,
+"why": "tok:kelly"
+},
+{
+"pair_key": "firm|corporation kelly melodia professional schoenberger walkup|kelly",
+"i": 587,
+"j": 933,
+"why": "tok:kelly"
+},
+{
+"pair_key": "firm|brier kelly myers|kelly",
+"i": 587,
+"j": 934,
+"why": "tok:kelly"
+},
+{
+"pair_key": "firm|guzzo kelly plc|kelly",
+"i": 587,
+"j": 1010,
+"why": "tok:kelly"
+},
+{
+"pair_key": "firm|kelly|kelly melodia schoenberger walkup",
+"i": 587,
+"j": 1138,
+"why": "tok:kelly"
+},
+{
+"pair_key": "firm|kelly|kelly melodia schonenberger walkup",
+"i": 587,
+"j": 1545,
+"why": "tok:kelly"
+},
+{
+"pair_key": "firm|bernheim dolinsky kelly|kelly",
+"i": 587,
+"j": 1656,
+"why": "tok:kelly"
+},
+{
+"pair_key": "firm|corporation kelly melodia professional schoenberger walkup|kelly melodia schoenberger walkup",
+"i": 933,
+"j": 1138,
+"why": "tok:kelly,melodia,schoenberger,walkup"
+},
+{
+"pair_key": "firm|corporation kelly melodia professional schoenberger walkup|kelly melodia schonenberger walkup",
+"i": 933,
+"j": 1545,
+"why": "tok:kelly,melodia,walkup"
+},
+{
+"pair_key": "firm|kelly melodia schoenberger walkup|kelly melodia schonenberger walkup",
+"i": 1138,
+"j": 1545,
+"why": "tok:kelly,melodia,walkup"
+},
+{
+"pair_key": "firm|dutton hellums kirby pittman|dutton hellums pittman",
+"i": 526,
+"j": 991,
+"why": "tok:dutton,hellums,pittman"
+},
+{
+"pair_key": "firm|bradley dutton hellums mann pittman|dutton hellums kirby pittman",
+"i": 526,
+"j": 1421,
+"why": "tok:dutton,hellums,pittman"
+},
+{
+"pair_key": "firm|bradley dutton hellums mann pittman|dutton hellums pittman",
+"i": 991,
+"j": 1421,
+"why": "tok:dutton,hellums,pittman"
+},
+{
+"pair_key": "firm|germany pittman roberts welsh|roberts us",
+"i": 224,
+"j": 1306,
+"why": "tok:roberts"
+},
+{
+"pair_key": "firm|germany pittman roberts welsh|roberts",
+"i": 224,
+"j": 1367,
+"why": "tok:roberts"
+},
+{
+"pair_key": "firm|capshaw mcwilliams patton roberts|roberts us",
+"i": 324,
+"j": 1306,
+"why": "tok:roberts"
+},
+{
+"pair_key": "firm|capshaw mcwilliams patton roberts|roberts",
+"i": 324,
+"j": 1367,
+"why": "tok:roberts"
+},
+{
+"pair_key": "firm|butsch roberts|roberts us",
+"i": 929,
+"j": 1306,
+"why": "tok:roberts"
+},
+{
+"pair_key": "firm|butsch roberts|roberts",
+"i": 929,
+"j": 1367,
+"why": "tok:roberts"
+},
+{
+"pair_key": "firm|roberts|roberts us",
+"i": 1306,
+"j": 1367,
+"why": "tok:roberts"
+},
+{
+"pair_key": "firm|lewis roberts|roberts us",
+"i": 1306,
+"j": 1567,
+"why": "tok:roberts"
+},
+{
+"pair_key": "firm|crumley roberts|roberts us",
+"i": 1306,
+"j": 1880,
+"why": "tok:roberts"
+},
+{
+"pair_key": "firm|lewis roberts|roberts",
+"i": 1367,
+"j": 1567,
+"why": "tok:roberts"
+},
+{
+"pair_key": "firm|crumley roberts|roberts",
+"i": 1367,
+"j": 1880,
+"why": "tok:roberts"
+},
+{
+"pair_key": "firm|hollingsworth|hollingsworth spriggs",
+"i": 227,
+"j": 1149,
+"why": "tok:hollingsworth"
+},
+{
+"pair_key": "firm|kodroff roseman spector|kodroff roseman spector willis",
+"i": 230,
+"j": 621,
+"why": "tok:kodroff,roseman,spector"
+},
+{
+"pair_key": "firm|halebian lovell steward|halebian lovell stewart",
+"i": 232,
+"j": 301,
+"why": "tok:halebian,lovell"
+},
+{
+"pair_key": "firm|halebian jacobson lovell stewart|halebian lovell stewart",
+"i": 232,
+"j": 431,
+"why": "tok:halebian,lovell,stewart"
+},
+{
+"pair_key": "firm|halebian jacobson lovell stewart|halebian lovell steward",
+"i": 301,
+"j": 431,
+"why": "tok:halebian,lovell"
+},
+{
+"pair_key": "firm|black cloud heard robins|cloud heard robins",
+"i": 1469,
+"j": 1764,
+"why": "tok:cloud,heard,robins"
+},
+{
+"pair_key": "firm|gette hofmann mason voelbel zelle|hofmann mason voelbel zelle",
+"i": 243,
+"j": 305,
+"why": "tok:hofmann,mason,voelbel,zelle"
+},
+{
+"pair_key": "firm|gette hofmann mason voelbel zelle|hoffman mason voelbel zelle",
+"i": 243,
+"j": 327,
+"why": "tok:mason,voelbel,zelle"
+},
+{
+"pair_key": "firm|gette hoffman mason mn voelbel zelle|gette hofmann mason voelbel zelle",
+"i": 243,
+"j": 473,
+"why": "tok:gette,mason,voelbel,zelle"
+},
+{
+"pair_key": "firm|hoffman mason voelbel zelle|hofmann mason voelbel zelle",
+"i": 305,
+"j": 327,
+"why": "tok:mason,voelbel,zelle"
+},
+{
+"pair_key": "firm|gette hoffman mason mn voelbel zelle|hofmann mason voelbel zelle",
+"i": 305,
+"j": 473,
+"why": "tok:mason,voelbel,zelle"
+},
+{
+"pair_key": "firm|gette hoffman mason mn voelbel zelle|hoffman mason voelbel zelle",
+"i": 327,
+"j": 473,
+"why": "tok:hoffman,mason,voelbel,zelle"
+},
+{
+"pair_key": "firm|gette hofmann mason voelbel zelle|mason",
+"i": 243,
+"j": 291,
+"why": "tok:mason"
+},
+{
+"pair_key": "firm|hofmann mason voelbel zelle|mason",
+"i": 291,
+"j": 305,
+"why": "tok:mason"
+},
+{
+"pair_key": "firm|hoffman mason voelbel zelle|mason",
+"i": 291,
+"j": 327,
+"why": "tok:mason"
+},
+{
+"pair_key": "firm|gette hoffman mason mn voelbel zelle|mason",
+"i": 291,
+"j": 473,
+"why": "tok:mason"
+},
+{
+"pair_key": "firm|bryson mason whitfield|mason",
+"i": 291,
+"j": 494,
+"why": "tok:mason"
+},
+{
+"pair_key": "firm|bryon mason whitfield|mason",
+"i": 291,
+"j": 1784,
+"why": "tok:mason"
+},
+{
+"pair_key": "firm|furth li mason salem|mason",
+"i": 291,
+"j": 1814,
+"why": "tok:mason"
+},
+{
+"pair_key": "firm|gette hofmann mason voelbel zelle|zelle",
+"i": 243,
+"j": 995,
+"why": "tok:zelle"
+},
+{
+"pair_key": "firm|hofmann mason voelbel zelle|zelle",
+"i": 305,
+"j": 995,
+"why": "tok:zelle"
+},
+{
+"pair_key": "firm|hoffman mason voelbel zelle|zelle",
+"i": 327,
+"j": 995,
+"why": "tok:zelle"
+},
+{
+"pair_key": "firm|gette hoffman mason mn voelbel zelle|zelle",
+"i": 473,
+"j": 995,
+"why": "tok:zelle"
+},
+{
+"pair_key": "firm|cohen mcdonough zelle|zelle",
+"i": 575,
+"j": 995,
+"why": "tok:zelle"
+},
+{
+"pair_key": "firm|al campbell et krupnick malone|al et levin papantonio",
+"i": 246,
+"j": 488,
+"why": "tok:al,et"
+},
+{
+"pair_key": "firm|al allen beasley et|al campbell et krupnick malone",
+"i": 246,
+"j": 795,
+"why": "tok:al,et"
+},
+{
+"pair_key": "firm|al campbell et krupnick malone|al conroy et hanly",
+"i": 246,
+"j": 796,
+"why": "tok:al,et"
+},
+{
+"pair_key": "firm|al campbell et krupnick malone|al et morrow morrow",
+"i": 246,
+"j": 798,
+"why": "tok:al,et"
+},
+{
+"pair_key": "firm|al calcagnie et robinson|al campbell et krupnick malone",
+"i": 246,
+"j": 802,
+"why": "tok:al,et"
+},
+{
+"pair_key": "firm|al allen beasley et|al et levin papantonio",
+"i": 488,
+"j": 795,
+"why": "tok:al,et"
+},
+{
+"pair_key": "firm|al conroy et hanly|al et levin papantonio",
+"i": 488,
+"j": 796,
+"why": "tok:al,et"
+},
+{
+"pair_key": "firm|al et levin papantonio|al et morrow morrow",
+"i": 488,
+"j": 798,
+"why": "tok:al,et"
+},
+{
+"pair_key": "firm|al calcagnie et robinson|al et levin papantonio",
+"i": 488,
+"j": 802,
+"why": "tok:al,et"
+},
+{
+"pair_key": "firm|al allen beasley et|al conroy et hanly",
+"i": 795,
+"j": 796,
+"why": "tok:al,et"
+},
+{
+"pair_key": "firm|al allen beasley et|al et morrow morrow",
+"i": 795,
+"j": 798,
+"why": "tok:al,et"
+},
+{
+"pair_key": "firm|al allen beasley et|al calcagnie et robinson",
+"i": 795,
+"j": 802,
+"why": "tok:al,et"
+},
+{
+"pair_key": "firm|al conroy et hanly|al et morrow morrow",
+"i": 796,
+"j": 798,
+"why": "tok:al,et"
+},
+{
+"pair_key": "firm|al calcagnie et robinson|al conroy et hanly",
+"i": 796,
+"j": 802,
+"why": "tok:al,et"
+},
+{
+"pair_key": "firm|al calcagnie et robinson|al et morrow morrow",
+"i": 798,
+"j": 802,
+"why": "tok:al,et"
+},
+{
+"pair_key": "firm|hanson siegel stueve|hanson siegel stueve woody",
+"i": 247,
+"j": 252,
+"why": "tok:hanson,siegel,stueve"
+},
+{
+"pair_key": "firm|hanson kcmo siegel stueve|hanson siegel stueve woody",
+"i": 247,
+"j": 1162,
+"why": "tok:hanson,siegel,stueve"
+},
+{
+"pair_key": "firm|hanson siegel stueve woody|siegel stueve",
+"i": 247,
+"j": 1691,
+"why": "tok:siegel,stueve"
+},
+{
+"pair_key": "firm|hanson kcmo siegel stueve|hanson siegel stueve",
+"i": 252,
+"j": 1162,
+"why": "tok:hanson,siegel,stueve"
+},
+{
+"pair_key": "firm|hanson siegel stueve|siegel stueve",
+"i": 252,
+"j": 1691,
+"why": "tok:siegel,stueve"
+},
+{
+"pair_key": "firm|hanson kcmo siegel stueve|siegel stueve",
+"i": 1162,
+"j": 1691,
+"why": "tok:siegel,stueve"
+},
+{
+"pair_key": "firm|bartolomeo de gibbs girard|gibbs girard",
+"i": 248,
+"j": 572,
+"why": "tok:gibbs,girard"
+},
+{
+"pair_key": "firm|gibbs|gibbs girard",
+"i": 248,
+"j": 961,
+"why": "tok:gibbs"
+},
+{
+"pair_key": "firm|bartolomeo de gibbs girard|gibbs",
+"i": 572,
+"j": 961,
+"why": "tok:gibbs"
+},
+{
+"pair_key": "firm|cotchett mccarthy pitre simon|simon",
+"i": 253,
+"j": 937,
+"why": "tok:simon"
+},
+{
+"pair_key": "firm|pearson penny simon soter warshaw|pearson penny simon warshaw",
+"i": 316,
+"j": 320,
+"why": "tok:pearson,penny,simon,warshaw"
+},
+{
+"pair_key": "firm|pearson penny simon warshaw|pearson simon",
+"i": 316,
+"j": 818,
+"why": "tok:pearson,simon"
+},
+{
+"pair_key": "firm|pearson penny simon warshaw|pearson simon warshaw",
+"i": 316,
+"j": 822,
+"why": "tok:pearson,simon,warshaw"
+},
+{
+"pair_key": "firm|pearson penny simon warshaw|simon",
+"i": 316,
+"j": 937,
+"why": "tok:simon"
+},
+{
+"pair_key": "firm|pearson penny simon soter warshaw|pearson simon",
+"i": 320,
+"j": 818,
+"why": "tok:pearson,simon"
+},
+{
+"pair_key": "firm|pearson penny simon soter warshaw|pearson simon warshaw",
+"i": 320,
+"j": 822,
+"why": "tok:pearson,simon,warshaw"
+},
+{
+"pair_key": "firm|pearson penny simon soter warshaw|simon",
+"i": 320,
+"j": 937,
+"why": "tok:simon"
+},
+{
+"pair_key": "firm|anetakis colantonio frankovitch simon|simon",
+"i": 516,
+"j": 937,
+"why": "tok:simon"
+},
+{
+"pair_key": "firm|pearson simon|pearson simon warshaw",
+"i": 818,
+"j": 822,
+"why": "tok:pearson,simon"
+},
+{
+"pair_key": "firm|pearson simon|simon",
+"i": 818,
+"j": 937,
+"why": "tok:simon"
+},
+{
+"pair_key": "firm|pearson simon warshaw|simon",
+"i": 822,
+"j": 937,
+"why": "tok:simon"
+},
+{
+"pair_key": "firm|corey crowder degaris watson|cory crowder degaris watson",
+"i": 258,
+"j": 392,
+"why": "tok:crowder,degaris,watson"
+},
+{
+"pair_key": "firm|cory crowder degaris watson|degaris",
+"i": 258,
+"j": 1781,
+"why": "tok:degaris"
+},
+{
+"pair_key": "firm|corey crowder degaris watson|degaris",
+"i": 392,
+"j": 1781,
+"why": "tok:degaris"
+},
+{
+"pair_key": "firm|degaris|degaris rogers",
+"i": 1655,
+"j": 1781,
+"why": "tok:degaris"
+},
+{
+"pair_key": "firm|cory crowder degaris watson|cory watson",
+"i": 258,
+"j": 990,
+"why": "tok:cory,watson"
+},
+{
+"pair_key": "firm|alters morelli ratner|morelli ratner",
+"i": 259,
+"j": 873,
+"why": "tok:morelli,ratner"
+},
+{
+"pair_key": "firm|morelli|morelli ratner",
+"i": 259,
+"j": 966,
+"why": "tok:morelli"
+},
+{
+"pair_key": "firm|alters morelli ratner|morelli",
+"i": 873,
+"j": 966,
+"why": "tok:morelli"
+},
+{
+"pair_key": "firm|langston|langston lott",
+"i": 260,
+"j": 922,
+"why": "tok:langston"
+},
+{
+"pair_key": "firm|archie kirk lamb quetglas wood|quetglas",
+"i": 263,
+"j": 484,
+"why": "tok:quetglas"
+},
+{
+"pair_key": "firm|felder hood johnson mcgowan|felder hood mcgowan phillips",
+"i": 265,
+"j": 1381,
+"why": "tok:felder,hood,mcgowan"
+},
+{
+"pair_key": "firm|felder hood johnson mcgowan|felder hood mcgowan",
+"i": 265,
+"j": 1916,
+"why": "tok:felder,hood,mcgowan"
+},
+{
+"pair_key": "firm|felder hood mcgowan|felder hood mcgowan phillips",
+"i": 1381,
+"j": 1916,
+"why": "tok:felder,hood,mcgowan"
+},
+{
+"pair_key": "firm|felder hood johnson mcgowan|hood",
+"i": 265,
+"j": 1860,
+"why": "tok:hood"
+},
+{
+"pair_key": "firm|andrus hood wagstaff|hood",
+"i": 794,
+"j": 1860,
+"why": "tok:hood"
+},
+{
+"pair_key": "firm|felder hood mcgowan phillips|hood",
+"i": 1381,
+"j": 1860,
+"why": "tok:hood"
+},
+{
+"pair_key": "firm|felder hood mcgowan|hood",
+"i": 1860,
+"j": 1916,
+"why": "tok:hood"
+},
+{
+"pair_key": "firm|goldman karon penny scarlato|goldman karon scarlato",
+"i": 267,
+"j": 881,
+"why": "tok:goldman,karon,scarlato"
+},
+{
+"pair_key": "firm|goldman karon scarlato|goldman penny scarlato",
+"i": 267,
+"j": 1732,
+"why": "tok:goldman,scarlato"
+},
+{
+"pair_key": "firm|aristei baum goldman hedlund|baum brennan goldman ismail tomaselli",
+"i": 485,
+"j": 1240,
+"why": "tok:baum,goldman"
+},
+{
+"pair_key": "firm|goldman karon penny scarlato|goldman penny scarlato",
+"i": 881,
+"j": 1732,
+"why": "tok:goldman,penny,scarlato"
+},
+{
+"pair_key": "firm|goldman karon scarlato|karon",
+"i": 267,
+"j": 1227,
+"why": "tok:karon"
+},
+{
+"pair_key": "firm|goldman karon penny scarlato|karon",
+"i": 881,
+"j": 1227,
+"why": "tok:karon"
+},
+{
+"pair_key": "firm|dalimonte karon|karon",
+"i": 1227,
+"j": 1710,
+"why": "tok:karon"
+},
+{
+"pair_key": "firm|baker daniels|baker daniels faegre",
+"i": 940,
+"j": 1473,
+"why": "tok:baker,daniels"
+},
+{
+"pair_key": "firm|andrus boudreaux lemoine tonore|andrus boudreaux plc",
+"i": 272,
+"j": 644,
+"why": "tok:andrus,boudreaux"
+},
+{
+"pair_key": "firm|anderson andrus|anderson andrus liberty",
+"i": 429,
+"j": 1634,
+"why": "tok:anderson,andrus"
+},
+{
+"pair_key": "firm|avin hawkins irpino|irpino",
+"i": 273,
+"j": 1213,
+"why": "tok:irpino"
+},
+{
+"pair_key": "firm|brown mayer|mayer",
+"i": 288,
+"j": 432,
+"why": "tok:mayer"
+},
+{
+"pair_key": "firm|brown mayer ny|mayer",
+"i": 288,
+"j": 1061,
+"why": "tok:mayer"
+},
+{
+"pair_key": "firm|brown mayer|brown mayer ny",
+"i": 432,
+"j": 1061,
+"why": "tok:brown,mayer"
+},
+{
+"pair_key": "firm|goldenberg groh lpa murdock schneider|goldenberg lpa schneider",
+"i": 294,
+"j": 791,
+"why": "tok:goldenberg,schneider"
+},
+{
+"pair_key": "firm|goldenberg|goldenberg groh lpa murdock schneider",
+"i": 294,
+"j": 1772,
+"why": "tok:goldenberg"
+},
+{
+"pair_key": "firm|goldenberg|goldenberg johnson",
+"i": 387,
+"j": 1772,
+"why": "tok:goldenberg"
+},
+{
+"pair_key": "firm|goldenberg|goldenberg lpa schneider",
+"i": 791,
+"j": 1772,
+"why": "tok:goldenberg"
+},
+{
+"pair_key": "firm|goldenberg|goldenberg lauricella",
+"i": 1211,
+"j": 1772,
+"why": "tok:goldenberg"
+},
+{
+"pair_key": "firm|goldenberg|goldenberg nigh raso vaughn",
+"i": 1229,
+"j": 1772,
+"why": "tok:goldenberg"
+},
+{
+"pair_key": "firm|deakins nash ogletree smoak stewart|deakins ogletree",
+"i": 295,
+"j": 1050,
+"why": "tok:deakins,ogletree"
+},
+{
+"pair_key": "firm|clapp coveney dostart gordon|gordon",
+"i": 298,
+"j": 710,
+"why": "tok:gordon"
+},
+{
+"pair_key": "firm|gordon|gordon shaheen",
+"i": 710,
+"j": 809,
+"why": "tok:gordon"
+},
+{
+"pair_key": "firm|ball gordon|gordon",
+"i": 710,
+"j": 848,
+"why": "tok:gordon"
+},
+{
+"pair_key": "firm|gordon|gordon rees",
+"i": 710,
+"j": 901,
+"why": "tok:gordon"
+},
+{
+"pair_key": "firm|alfano bosick gordon pietragallo raspanti|gordon",
+"i": 710,
+"j": 1175,
+"why": "tok:gordon"
+},
+{
+"pair_key": "firm|gordon|gordon mansukhani rees scully",
+"i": 710,
+"j": 1363,
+"why": "tok:gordon"
+},
+{
+"pair_key": "firm|gordon mansukhani rees scully|gordon rees",
+"i": 901,
+"j": 1363,
+"why": "tok:gordon,rees"
+},
+{
+"pair_key": "firm|halebian lovell steward|steward",
+"i": 301,
+"j": 900,
+"why": "tok:steward"
+},
+{
+"pair_key": "firm|blackwell martin peper sanders|blackwell sanders",
+"i": 306,
+"j": 351,
+"why": "tok:blackwell,sanders"
+},
+{
+"pair_key": "firm|blackwell martin peper sanders|sanders",
+"i": 306,
+"j": 1571,
+"why": "tok:sanders"
+},
+{
+"pair_key": "firm|blackwell sanders|sanders",
+"i": 351,
+"j": 1571,
+"why": "tok:sanders"
+},
+{
+"pair_key": "firm|dempsey sanders squire|sanders",
+"i": 410,
+"j": 1571,
+"why": "tok:sanders"
+},
+{
+"pair_key": "firm|hamilton pepper sanders troutman|sanders troutman",
+"i": 557,
+"j": 1071,
+"why": "tok:sanders,troutman"
+},
+{
+"pair_key": "firm|sanders|sanders troutman",
+"i": 557,
+"j": 1571,
+"why": "tok:sanders"
+},
+{
+"pair_key": "firm|hamilton pepper sanders troutman|sanders",
+"i": 1071,
+"j": 1571,
+"why": "tok:sanders"
+},
+{
+"pair_key": "firm|grossman phillips sanders|sanders",
+"i": 1116,
+"j": 1571,
+"why": "tok:sanders"
+},
+{
+"pair_key": "firm|grossman sanders viener|sanders",
+"i": 1464,
+"j": 1571,
+"why": "tok:sanders"
+},
+{
+"pair_key": "firm|grossman sanders wiener|sanders",
+"i": 1553,
+"j": 1571,
+"why": "tok:sanders"
+},
+{
+"pair_key": "firm|franklin gray white|gray white",
+"i": 528,
+"j": 899,
+"why": "tok:gray,white"
+},
+{
+"pair_key": "firm|emerson poynter|poynter",
+"i": 308,
+"j": 1405,
+"why": "tok:poynter"
+},
+{
+"pair_key": "firm|emerson|emerson poynter",
+"i": 308,
+"j": 1020,
+"why": "tok:emerson"
+},
+{
+"pair_key": "firm|pearson penny simon warshaw|pearson warshaw",
+"i": 316,
+"j": 1378,
+"why": "tok:pearson,warshaw"
+},
+{
+"pair_key": "firm|pearson penny simon soter warshaw|pearson warshaw",
+"i": 320,
+"j": 1378,
+"why": "tok:pearson,warshaw"
+},
+{
+"pair_key": "firm|pearson simon warshaw|pearson warshaw",
+"i": 822,
+"j": 1378,
+"why": "tok:pearson,warshaw"
+},
+{
+"pair_key": "firm|balint bonnett fairbourn fricdman|balint bonnett fairbourn friedman",
+"i": 317,
+"j": 640,
+"why": "tok:balint,bonnett,fairbourn"
+},
+{
+"pair_key": "firm|balint bonnett fairbourn friedman|friedman",
+"i": 317,
+"j": 510,
+"why": "tok:friedman"
+},
+{
+"pair_key": "firm|friedman|friedman todd",
+"i": 510,
+"j": 887,
+"why": "tok:friedman"
+},
+{
+"pair_key": "firm|friedman|friedman gerhardstein gilbert",
+"i": 510,
+"j": 1335,
+"why": "tok:friedman"
+},
+{
+"pair_key": "firm|adelman friedman kaplan seiler|friedman",
+"i": 510,
+"j": 1636,
+"why": "tok:friedman"
+},
+{
+"pair_key": "firm|bowling dazzio friedman zulanas|friedman",
+"i": 510,
+"j": 1750,
+"why": "tok:friedman"
+},
+{
+"pair_key": "firm|boggs patton|boggs patton squire us",
+"i": 540,
+"j": 1895,
+"why": "tok:boggs,patton"
+},
+{
+"pair_key": "firm|alioto|alioto prescott trump trump",
+"i": 328,
+"j": 472,
+"why": "tok:alioto"
+},
+{
+"pair_key": "firm|kraus paul waters|kraus waters",
+"i": 330,
+"j": 1725,
+"why": "tok:kraus,waters"
+},
+{
+"pair_key": "firm|edelson|edelson mcguire",
+"i": 335,
+"j": 668,
+"why": "tok:edelson"
+},
+{
+"pair_key": "firm|edelson|edelson lechtzin",
+"i": 335,
+"j": 1292,
+"why": "tok:edelson"
+},
+{
+"pair_key": "firm|edelson|edelson hoffman",
+"i": 335,
+"j": 1445,
+"why": "tok:edelson"
+},
+{
+"pair_key": "firm|anderson hudson mallaney shindler|hudson mallaney shindler",
+"i": 337,
+"j": 765,
+"why": "tok:hudson,mallaney,shindler"
+},
+{
+"pair_key": "firm|anderson goplerud shindler weese|anderson hudson mallaney shindler",
+"i": 765,
+"j": 989,
+"why": "tok:anderson,shindler"
+},
+{
+"pair_key": "firm|alward bandy horn|aylward bandy horn",
+"i": 339,
+"j": 1016,
+"why": "tok:bandy,horn"
+},
+{
+"pair_key": "firm|archie kirk lamb quetglas wood|lamb",
+"i": 342,
+"j": 484,
+"why": "tok:lamb"
+},
+{
+"pair_key": "firm|alvarez|alvarez boodrookas lowenthal smith steyer",
+"i": 346,
+"j": 689,
+"why": "tok:alvarez"
+},
+{
+"pair_key": "firm|esq mark zamora|mark zamora",
+"i": 645,
+"j": 1863,
+"why": "tok:mark,zamora"
+},
+{
+"pair_key": "firm|emanuel quinn|emanuel quinn sullivan urquhart",
+"i": 464,
+"j": 696,
+"why": "tok:emanuel,quinn"
+},
+{
+"pair_key": "firm|emanuel hedges oliver quinn urquhart|emanuel quinn",
+"i": 464,
+"j": 1461,
+"why": "tok:emanuel,quinn"
+},
+{
+"pair_key": "firm|emanuel hedges oliver quinn urquhart|emanuel quinn sullivan urquhart",
+"i": 696,
+"j": 1461,
+"why": "tok:emanuel,quinn,urquhart"
+},
+{
+"pair_key": "firm|childs fisher goldfarb pantazis wiggins|childs pantazis quinn wiggins",
+"i": 360,
+"j": 1999,
+"why": "tok:childs,pantazis,wiggins"
+},
+{
+"pair_key": "firm|barakan handelman meizlish neff|barkan handelman meizlish neff",
+"i": 361,
+"j": 584,
+"why": "tok:handelman,meizlish,neff"
+},
+{
+"pair_key": "firm|cochran|cochran gresham steckler",
+"i": 362,
+"j": 1027,
+"why": "tok:cochran"
+},
+{
+"pair_key": "firm|cochran|cochran dallas",
+"i": 362,
+"j": 1313,
+"why": "tok:cochran"
+},
+{
+"pair_key": "firm|benjamin david gainsburgh meunier warshauer|benjamin gainsburgh",
+"i": 368,
+"j": 824,
+"why": "tok:benjamin,gainsburgh"
+},
+{
+"pair_key": "firm|egleston gainey mckenna|gainey mckenna",
+"i": 372,
+"j": 2002,
+"why": "tok:gainey,mckenna"
+},
+{
+"pair_key": "firm|beliveau flaherty pachios preti|flaherty preti",
+"i": 373,
+"j": 1995,
+"why": "tok:flaherty,preti"
+},
+{
+"pair_key": "firm|bonasso flaherty sensabaugh|bonasso flaherty sensbaugh",
+"i": 1541,
+"j": 1593,
+"why": "tok:bonasso,flaherty"
+},
+{
+"pair_key": "firm|craft guerra watts|guerra watts",
+"i": 375,
+"j": 1044,
+"why": "tok:guerra,watts"
+},
+{
+"pair_key": "firm|craft guerra watts|watts",
+"i": 375,
+"j": 1206,
+"why": "tok:watts"
+},
+{
+"pair_key": "firm|guerra watts|watts",
+"i": 1044,
+"j": 1206,
+"why": "tok:watts"
+},
+{
+"pair_key": "firm|devine fitzgerald goodman rasco watts|watts",
+"i": 1134,
+"j": 1206,
+"why": "tok:watts"
+},
+{
+"pair_key": "firm|canfield devine doffermyre knowles shields|canfield doffermyre knowles shields",
+"i": 376,
+"j": 943,
+"why": "tok:canfield,doffermyre,knowles,shields"
+},
+{
+"pair_key": "firm|drubner hartley hellman|hartley",
+"i": 379,
+"j": 1226,
+"why": "tok:hartley"
+},
+{
+"pair_key": "firm|hartley|hartley metcalf wilner",
+"i": 1226,
+"j": 1540,
+"why": "tok:hartley"
+},
+{
+"pair_key": "firm|aplc drakulich|drakulich",
+"i": 386,
+"j": 1086,
+"why": "tok:drakulich"
+},
+{
+"pair_key": "firm|calcagnie inc robinson robinson|calcagnie robinson robinson",
+"i": 389,
+"j": 417,
+"why": "tok:calcagnie,robinson"
+},
+{
+"pair_key": "firm|al calcagnie et robinson|calcagnie robinson robinson",
+"i": 389,
+"j": 802,
+"why": "tok:calcagnie,robinson"
+},
+{
+"pair_key": "firm|calcagnie davis inc robinson robinson shapiro|calcagnie robinson robinson",
+"i": 389,
+"j": 832,
+"why": "tok:calcagnie,robinson"
+},
+{
+"pair_key": "firm|calcagnie robinson|calcagnie robinson robinson",
+"i": 389,
+"j": 1359,
+"why": "tok:calcagnie,robinson"
+},
+{
+"pair_key": "firm|calcagnie davis robinson robinson shapiro|calcagnie robinson robinson",
+"i": 389,
+"j": 1563,
+"why": "tok:calcagnie,robinson"
+},
+{
+"pair_key": "firm|calcagnie inc robinson|calcagnie robinson robinson",
+"i": 389,
+"j": 1824,
+"why": "tok:calcagnie,robinson"
+},
+{
+"pair_key": "firm|al calcagnie et robinson|calcagnie inc robinson robinson",
+"i": 417,
+"j": 802,
+"why": "tok:calcagnie,robinson"
+},
+{
+"pair_key": "firm|calcagnie davis inc robinson robinson shapiro|calcagnie inc robinson robinson",
+"i": 417,
+"j": 832,
+"why": "tok:calcagnie,robinson"
+},
+{
+"pair_key": "firm|calcagnie inc robinson robinson|calcagnie robinson",
+"i": 417,
+"j": 1359,
+"why": "tok:calcagnie,robinson"
+},
+{
+"pair_key": "firm|calcagnie davis robinson robinson shapiro|calcagnie inc robinson robinson",
+"i": 417,
+"j": 1563,
+"why": "tok:calcagnie,robinson"
+},
+{
+"pair_key": "firm|calcagnie inc robinson|calcagnie inc robinson robinson",
+"i": 417,
+"j": 1824,
+"why": "tok:calcagnie,robinson"
+},
+{
+"pair_key": "firm|al calcagnie et robinson|calcagnie davis inc robinson robinson shapiro",
+"i": 802,
+"j": 832,
+"why": "tok:calcagnie,robinson"
+},
+{
+"pair_key": "firm|al calcagnie et robinson|calcagnie robinson",
+"i": 802,
+"j": 1359,
+"why": "tok:calcagnie,robinson"
+},
+{
+"pair_key": "firm|al calcagnie et robinson|calcagnie davis robinson robinson shapiro",
+"i": 802,
+"j": 1563,
+"why": "tok:calcagnie,robinson"
+},
+{
+"pair_key": "firm|al calcagnie et robinson|calcagnie inc robinson",
+"i": 802,
+"j": 1824,
+"why": "tok:calcagnie,robinson"
+},
+{
+"pair_key": "firm|calcagnie davis inc robinson robinson shapiro|calcagnie robinson",
+"i": 832,
+"j": 1359,
+"why": "tok:calcagnie,robinson"
+},
+{
+"pair_key": "firm|calcagnie davis inc robinson robinson shapiro|calcagnie inc robinson",
+"i": 832,
+"j": 1824,
+"why": "tok:calcagnie,robinson"
+},
+{
+"pair_key": "firm|calcagnie davis robinson robinson shapiro|calcagnie robinson",
+"i": 1359,
+"j": 1563,
+"why": "tok:calcagnie,robinson"
+},
+{
+"pair_key": "firm|calcagnie inc robinson|calcagnie robinson",
+"i": 1359,
+"j": 1824,
+"why": "tok:calcagnie,robinson"
+},
+{
+"pair_key": "firm|calcagnie davis robinson robinson shapiro|calcagnie inc robinson",
+"i": 1563,
+"j": 1824,
+"why": "tok:calcagnie,robinson"
+},
+{
+"pair_key": "firm|finkelman miler shah shepherd|finkelman miller shah shepherd",
+"i": 394,
+"j": 1694,
+"why": "tok:finkelman,shah,shepherd"
+},
+{
+"pair_key": "firm|finkelman media miller shah shepherd|finkelman miler shah shepherd",
+"i": 562,
+"j": 1694,
+"why": "tok:finkelman,shah,shepherd"
+},
+{
+"pair_key": "firm|chester finkelman miller shah shepherd|finkelman miler shah shepherd",
+"i": 563,
+"j": 1694,
+"why": "tok:finkelman,shah,shepherd"
+},
+{
+"pair_key": "firm|diego finkelman miller san shah shepherd|finkelman miler shah shepherd",
+"i": 564,
+"j": 1694,
+"why": "tok:finkelman,shah,shepherd"
+},
+{
+"pair_key": "firm|bryan marsh richard|bryan marsh rickard",
+"i": 529,
+"j": 1887,
+"why": "tok:bryan,marsh"
+},
+{
+"pair_key": "firm|bartimus frickleton gorny roberson|bartimus frickleton gorny robertson",
+"i": 404,
+"j": 692,
+"why": "tok:bartimus,frickleton,gorny"
+},
+{
+"pair_key": "firm|bartimus frickleton gorny roberston|bartimus frickleton gorny robertson",
+"i": 404,
+"j": 810,
+"why": "tok:bartimus,frickleton,gorny"
+},
+{
+"pair_key": "firm|bartimus frickleton gorny roberson|bartimus frickleton gorny roberston",
+"i": 692,
+"j": 810,
+"why": "tok:bartimus,frickleton,gorny"
+},
+{
+"pair_key": "firm|bartimus frickleton gorny robertson|bartimus frickleton goza robertson",
+"i": 404,
+"j": 786,
+"why": "tok:bartimus,frickleton,robertson"
+},
+{
+"pair_key": "firm|bartimus frickleton gorny robertson|bartimus frickleton rader robertson",
+"i": 404,
+"j": 806,
+"why": "tok:bartimus,frickleton,robertson"
+},
+{
+"pair_key": "firm|bartimus frickleton gorny robertson|bartimus frickleton robertson",
+"i": 404,
+"j": 855,
+"why": "tok:bartimus,frickleton,robertson"
+},
+{
+"pair_key": "firm|bartimus frickleton gorny roberson|bartimus frickleton goza robertson",
+"i": 692,
+"j": 786,
+"why": "tok:bartimus,frickleton"
+},
+{
+"pair_key": "firm|bartimus frickleton gorny roberson|bartimus frickleton rader robertson",
+"i": 692,
+"j": 806,
+"why": "tok:bartimus,frickleton"
+},
+{
+"pair_key": "firm|bartimus frickleton gorny roberson|bartimus frickleton robertson",
+"i": 692,
+"j": 855,
+"why": "tok:bartimus,frickleton"
+},
+{
+"pair_key": "firm|bartimus frickleton goza robertson|bartimus frickleton rader robertson",
+"i": 786,
+"j": 806,
+"why": "tok:bartimus,frickleton,robertson"
+},
+{
+"pair_key": "firm|bartimus frickleton gorny roberston|bartimus frickleton goza robertson",
+"i": 786,
+"j": 810,
+"why": "tok:bartimus,frickleton"
+},
+{
+"pair_key": "firm|bartimus frickleton goza robertson|bartimus frickleton robertson",
+"i": 786,
+"j": 855,
+"why": "tok:bartimus,frickleton,robertson"
+},
+{
+"pair_key": "firm|bartimus frickleton gorny roberston|bartimus frickleton rader robertson",
+"i": 806,
+"j": 810,
+"why": "tok:bartimus,frickleton"
+},
+{
+"pair_key": "firm|bartimus frickleton rader robertson|bartimus frickleton robertson",
+"i": 806,
+"j": 855,
+"why": "tok:bartimus,frickleton,robertson"
+},
+{
+"pair_key": "firm|bartimus frickleton gorny roberston|bartimus frickleton robertson",
+"i": 810,
+"j": 855,
+"why": "tok:bartimus,frickleton"
+},
+{
+"pair_key": "firm|bartimus frickleton gorny robertson|robertson",
+"i": 404,
+"j": 1763,
+"why": "tok:robertson"
+},
+{
+"pair_key": "firm|bartimus frickleton goza robertson|robertson",
+"i": 786,
+"j": 1763,
+"why": "tok:robertson"
+},
+{
+"pair_key": "firm|bartimus frickleton rader robertson|robertson",
+"i": 806,
+"j": 1763,
+"why": "tok:robertson"
+},
+{
+"pair_key": "firm|bartimus frickleton robertson|robertson",
+"i": 855,
+"j": 1763,
+"why": "tok:robertson"
+},
+{
+"pair_key": "firm|koyzak throckmorton tropin|kozyak throckmorton tropin",
+"i": 406,
+"j": 1283,
+"why": "tok:throckmorton,tropin"
+},
+{
+"pair_key": "firm|dla piper us|piper",
+"i": 407,
+"j": 734,
+"why": "tok:piper"
+},
+{
+"pair_key": "firm|dla piper|dla piper us",
+"i": 407,
+"j": 1014,
+"why": "tok:dla,piper"
+},
+{
+"pair_key": "firm|dla piper|piper",
+"i": 734,
+"j": 1014,
+"why": "tok:piper"
+},
+{
+"pair_key": "firm|kennedy trigg wheeler|odonnell trigg wheeler",
+"i": 409,
+"j": 1831,
+"why": "tok:trigg,wheeler"
+},
+{
+"pair_key": "firm|howard nations|nations",
+"i": 413,
+"j": 1322,
+"why": "tok:nations"
+},
+{
+"pair_key": "firm|briggs copeland fibich leebron|fibich garth hampton leebron",
+"i": 414,
+"j": 1347,
+"why": "tok:fibich,leebron"
+},
+{
+"pair_key": "firm|briggs fibich hampton josephson leebron|fibich garth hampton leebron",
+"i": 414,
+"j": 1561,
+"why": "tok:fibich,hampton,leebron"
+},
+{
+"pair_key": "firm|briggs copeland fibich leebron|briggs fibich hampton josephson leebron",
+"i": 1347,
+"j": 1561,
+"why": "tok:briggs,fibich,leebron"
+},
+{
+"pair_key": "firm|bierstein conroy fisher hanly hayes sheridan|conroy hanly simmons",
+"i": 418,
+"j": 790,
+"why": "tok:conroy,hanly"
+},
+{
+"pair_key": "firm|al conroy et hanly|bierstein conroy fisher hanly hayes sheridan",
+"i": 418,
+"j": 796,
+"why": "tok:conroy,hanly"
+},
+{
+"pair_key": "firm|bierstein conroy fisher hanly hayes sheridan|bierstein conroy hanly sheridan",
+"i": 418,
+"j": 1476,
+"why": "tok:bierstein,conroy,hanly,sheridan"
+},
+{
+"pair_key": "firm|al conroy et hanly|conroy hanly simmons",
+"i": 790,
+"j": 796,
+"why": "tok:conroy,hanly"
+},
+{
+"pair_key": "firm|bierstein conroy hanly sheridan|conroy hanly simmons",
+"i": 790,
+"j": 1476,
+"why": "tok:conroy,hanly"
+},
+{
+"pair_key": "firm|al conroy et hanly|bierstein conroy hanly sheridan",
+"i": 796,
+"j": 1476,
+"why": "tok:conroy,hanly"
+},
+{
+"pair_key": "firm|conroy hanly simmons|hanly simmons",
+"i": 790,
+"j": 1428,
+"why": "tok:hanly,simmons"
+},
+{
+"pair_key": "firm|gornick kaiser|gornick kaiser levin simes",
+"i": 420,
+"j": 1547,
+"why": "tok:gornick,kaiser"
+},
+{
+"pair_key": "firm|cooper simmons|simmons",
+"i": 421,
+"j": 730,
+"why": "tok:simmons"
+},
+{
+"pair_key": "firm|conroy hanly simmons|simmons",
+"i": 730,
+"j": 790,
+"why": "tok:simmons"
+},
+{
+"pair_key": "firm|angelides barnerd browder gianaris simmons|simmons",
+"i": 730,
+"j": 845,
+"why": "tok:simmons"
+},
+{
+"pair_key": "firm|hanly simmons|simmons",
+"i": 730,
+"j": 1428,
+"why": "tok:simmons"
+},
+{
+"pair_key": "firm|browder simmons|simmons",
+"i": 730,
+"j": 1556,
+"why": "tok:simmons"
+},
+{
+"pair_key": "firm|angelides barner browder gianaris simmons|simmons",
+"i": 730,
+"j": 1596,
+"why": "tok:simmons"
+},
+{
+"pair_key": "firm|angelides barnerd browder gianaris simmons|browder simmons",
+"i": 845,
+"j": 1556,
+"why": "tok:browder,simmons"
+},
+{
+"pair_key": "firm|angelides barner browder gianaris simmons|angelides barnerd browder gianaris simmons",
+"i": 845,
+"j": 1596,
+"why": "tok:angelides,browder,gianaris,simmons"
+},
+{
+"pair_key": "firm|angelides barner browder gianaris simmons|browder simmons",
+"i": 1556,
+"j": 1596,
+"why": "tok:browder,simmons"
+},
+{
+"pair_key": "firm|bain byrne carella cecchi gilfillan olstein stewart|byrne carella",
+"i": 424,
+"j": 441,
+"why": "tok:byrne,carella"
+},
+{
+"pair_key": "firm|agnello brody byrne carella cecchi olstein|bain byrne carella cecchi gilfillan olstein stewart",
+"i": 424,
+"j": 856,
+"why": "tok:byrne,carella,cecchi,olstein"
+},
+{
+"pair_key": "firm|agnello brody byrne carella cecchi|bain byrne carella cecchi gilfillan olstein stewart",
+"i": 424,
+"j": 1056,
+"why": "tok:byrne,carella,cecchi"
+},
+{
+"pair_key": "firm|agnello brody byrne carella cecchi olstein|byrne carella",
+"i": 441,
+"j": 856,
+"why": "tok:byrne,carella"
+},
+{
+"pair_key": "firm|agnello brody byrne carella cecchi|byrne carella",
+"i": 441,
+"j": 1056,
+"why": "tok:byrne,carella"
+},
+{
+"pair_key": "firm|byrne furst maderal|byrne maderal",
+"i": 1085,
+"j": 1749,
+"why": "tok:byrne,maderal"
+},
+{
+"pair_key": "firm|branstetter jennings stranch|garvey jennings stranch",
+"i": 428,
+"j": 1237,
+"why": "tok:jennings,stranch"
+},
+{
+"pair_key": "firm|branstetter jennings stranch|jennings stranch",
+"i": 428,
+"j": 1427,
+"why": "tok:jennings,stranch"
+},
+{
+"pair_key": "firm|garvey jennings stranch|jennings stranch",
+"i": 1237,
+"j": 1427,
+"why": "tok:jennings,stranch"
+},
+{
+"pair_key": "firm|branstetter jennings stranch|jennings",
+"i": 428,
+"j": 1029,
+"why": "tok:jennings"
+},
+{
+"pair_key": "firm|garvey jennings stranch|jennings",
+"i": 1029,
+"j": 1237,
+"why": "tok:jennings"
+},
+{
+"pair_key": "firm|jennings|jennings stranch",
+"i": 1029,
+"j": 1427,
+"why": "tok:jennings"
+},
+{
+"pair_key": "firm|anderson|anderson andrus liberty",
+"i": 429,
+"j": 1559,
+"why": "tok:anderson"
+},
+{
+"pair_key": "firm|anderson|anderson hudson mallaney shindler",
+"i": 765,
+"j": 1559,
+"why": "tok:anderson"
+},
+{
+"pair_key": "firm|anderson|anderson goplerud shindler weese",
+"i": 989,
+"j": 1559,
+"why": "tok:anderson"
+},
+{
+"pair_key": "firm|anderson|anderson dickey",
+"i": 1317,
+"j": 1559,
+"why": "tok:anderson"
+},
+{
+"pair_key": "firm|anderson|anderson andrus",
+"i": 1559,
+"j": 1634,
+"why": "tok:anderson"
+},
+{
+"pair_key": "firm|foti kahn swick|gauthier kahn swick",
+"i": 430,
+"j": 619,
+"why": "tok:kahn,swick"
+},
+{
+"pair_key": "firm|hicks javerbaum kahn sinins wikstrom wurgaft|hicks javerbaum kahn sinins wurgaft",
+"i": 1310,
+"j": 1389,
+"why": "tok:hicks,javerbaum,kahn,sinins,wurgaft"
+},
+{
+"pair_key": "firm|brown|brown mayer",
+"i": 432,
+"j": 679,
+"why": "tok:brown"
+},
+{
+"pair_key": "firm|blau brown leonard|brown",
+"i": 514,
+"j": 679,
+"why": "tok:brown"
+},
+{
+"pair_key": "firm|brown|brown mayer ny",
+"i": 679,
+"j": 1061,
+"why": "tok:brown"
+},
+{
+"pair_key": "firm|brown|brown robert",
+"i": 679,
+"j": 1318,
+"why": "tok:brown"
+},
+{
+"pair_key": "firm|austin brown sidley wood|brown",
+"i": 679,
+"j": 1459,
+"why": "tok:brown"
+},
+{
+"pair_key": "firm|alters boldt brown culmo rash|brown",
+"i": 679,
+"j": 1503,
+"why": "tok:brown"
+},
+{
+"pair_key": "firm|boyd brown fisher huguenard|brown",
+"i": 679,
+"j": 1568,
+"why": "tok:brown"
+},
+{
+"pair_key": "firm|brown|brown rudnick",
+"i": 679,
+"j": 1708,
+"why": "tok:brown"
+},
+{
+"pair_key": "firm|brown|brown hargrove pierson",
+"i": 679,
+"j": 1756,
+"why": "tok:brown"
+},
+{
+"pair_key": "firm|deutsch maher wollmuth|maher",
+"i": 433,
+"j": 1002,
+"why": "tok:maher"
+},
+{
+"pair_key": "firm|bottini bottini inc|bottini johnson",
+"i": 439,
+"j": 1062,
+"why": "tok:bottini"
+},
+{
+"pair_key": "firm|fleming|fleming jez nolen",
+"i": 442,
+"j": 1220,
+"why": "tok:fleming"
+},
+{
+"pair_key": "firm|fleming|fleming jez noal",
+"i": 442,
+"j": 1949,
+"why": "tok:fleming"
+},
+{
+"pair_key": "firm|fleming jez noal|fleming jez nolen",
+"i": 1220,
+"j": 1949,
+"why": "tok:fleming,jez"
+},
+{
+"pair_key": "firm|babbitt johnson leclainche osborne|osborne",
+"i": 443,
+"j": 1773,
+"why": "tok:osborne"
+},
+{
+"pair_key": "firm|francis osborne|osborne",
+"i": 1236,
+"j": 1773,
+"why": "tok:osborne"
+},
+{
+"pair_key": "firm|babbitt clainche johnson le osborne|osborne",
+"i": 1565,
+"j": 1773,
+"why": "tok:osborne"
+},
+{
+"pair_key": "firm|babbit johnson leclainche osborne|osborne",
+"i": 1583,
+"j": 1773,
+"why": "tok:osborne"
+},
+{
+"pair_key": "firm|babbitt johnson laclainche osborne|osborne",
+"i": 1711,
+"j": 1773,
+"why": "tok:osborne"
+},
+{
+"pair_key": "firm|bern napoli ripka|bern napoli ripka shkolnik",
+"i": 445,
+"j": 863,
+"why": "tok:bern,napoli,ripka"
+},
+{
+"pair_key": "firm|bern napoli|bern napoli ripka",
+"i": 445,
+"j": 1539,
+"why": "tok:bern,napoli"
+},
+{
+"pair_key": "firm|bern napoli ripka|bern napoli ripka shkolnick",
+"i": 445,
+"j": 1584,
+"why": "tok:bern,napoli,ripka"
+},
+{
+"pair_key": "firm|bern napoli|bern napoli ripka shkolnik",
+"i": 863,
+"j": 1539,
+"why": "tok:bern,napoli"
+},
+{
+"pair_key": "firm|bern napoli ripka shkolnick|bern napoli ripka shkolnik",
+"i": 863,
+"j": 1584,
+"why": "tok:bern,napoli,ripka"
+},
+{
+"pair_key": "firm|bern napoli|bern napoli ripka shkolnick",
+"i": 1539,
+"j": 1584,
+"why": "tok:bern,napoli"
+},
+{
+"pair_key": "firm|carey danis|carey danis lowe",
+"i": 447,
+"j": 553,
+"why": "tok:carey,danis"
+},
+{
+"pair_key": "firm|david matthews|matthews",
+"i": 448,
+"j": 1465,
+"why": "tok:matthews"
+},
+{
+"pair_key": "firm|austin chicago sidley|austin sidley",
+"i": 450,
+"j": 778,
+"why": "tok:austin,sidley"
+},
+{
+"pair_key": "firm|austin brown sidley wood|austin sidley",
+"i": 450,
+"j": 1459,
+"why": "tok:austin,sidley"
+},
+{
+"pair_key": "firm|austin brown sidley wood|austin chicago sidley",
+"i": 778,
+"j": 1459,
+"why": "tok:austin,sidley"
+},
+{
+"pair_key": "firm|max wild|wild",
+"i": 452,
+"j": 470,
+"why": "tok:wild"
+},
+{
+"pair_key": "firm|counselors morris morris|duane morris",
+"i": 453,
+"j": 853,
+"why": "tok:morris"
+},
+{
+"pair_key": "firm|counselors morris morris|hodge king morris",
+"i": 453,
+"j": 1384,
+"why": "tok:morris"
+},
+{
+"pair_key": "firm|bart morris|counselors morris morris",
+"i": 453,
+"j": 1843,
+"why": "tok:morris"
+},
+{
+"pair_key": "firm|crutchlow eichen mcelroy zaslow|crutchlow eichen zaslow",
+"i": 804,
+"j": 895,
+"why": "tok:crutchlow,eichen,zaslow"
+},
+{
+"pair_key": "firm|dicello gutzler levitt|dicello levitt",
+"i": 788,
+"j": 977,
+"why": "tok:dicello,levitt"
+},
+{
+"pair_key": "firm|casey dicello levitt|dicello gutzler levitt",
+"i": 788,
+"j": 1878,
+"why": "tok:dicello,levitt"
+},
+{
+"pair_key": "firm|casey dicello levitt|dicello levitt",
+"i": 977,
+"j": 1878,
+"why": "tok:dicello,levitt"
+},
+{
+"pair_key": "firm|bailey bailey perrin|perrin",
+"i": 471,
+"j": 518,
+"why": "tok:perrin"
+},
+{
+"pair_key": "firm|gary mccallister|mccallister",
+"i": 478,
+"j": 1442,
+"why": "tok:mccallister"
+},
+{
+"pair_key": "firm|arnold kaye porter scholer|arnold porter",
+"i": 480,
+"j": 998,
+"why": "tok:arnold,porter"
+},
+{
+"pair_key": "firm|arnold kaye porter scholler|arnold porter",
+"i": 480,
+"j": 1808,
+"why": "tok:arnold,porter"
+},
+{
+"pair_key": "firm|arnold kaye porter scholer|arnold kaye porter scholler",
+"i": 998,
+"j": 1808,
+"why": "tok:arnold,kaye,porter"
+},
+{
+"pair_key": "firm|arnold|arnold porter",
+"i": 480,
+"j": 614,
+"why": "tok:arnold"
+},
+{
+"pair_key": "firm|arnold|arnold itkin",
+"i": 491,
+"j": 614,
+"why": "tok:arnold"
+},
+{
+"pair_key": "firm|arnold|arnold kaye porter scholer",
+"i": 614,
+"j": 998,
+"why": "tok:arnold"
+},
+{
+"pair_key": "firm|arnold|arnold clayeo corp professional",
+"i": 614,
+"j": 1107,
+"why": "tok:arnold"
+},
+{
+"pair_key": "firm|arnold|arnold clayeo corporation profession",
+"i": 614,
+"j": 1274,
+"why": "tok:arnold"
+},
+{
+"pair_key": "firm|arnold|arnold clayeo corporation professional",
+"i": 614,
+"j": 1276,
+"why": "tok:arnold"
+},
+{
+"pair_key": "firm|arnold|arnold clayeo",
+"i": 614,
+"j": 1277,
+"why": "tok:arnold"
+},
+{
+"pair_key": "firm|arnold|arnold kaye porter scholler",
+"i": 614,
+"j": 1808,
+"why": "tok:arnold"
+},
+{
+"pair_key": "firm|arnold clayeo corp professional|arnold clayeo corporation profession",
+"i": 1107,
+"j": 1274,
+"why": "tok:arnold,clayeo"
+},
+{
+"pair_key": "firm|arnold clayeo|arnold clayeo corp professional",
+"i": 1107,
+"j": 1277,
+"why": "tok:arnold,clayeo"
+},
+{
+"pair_key": "firm|arnold clayeo corporation profession|arnold clayeo corporation professional",
+"i": 1274,
+"j": 1276,
+"why": "tok:arnold,clayeo"
+},
+{
+"pair_key": "firm|arnold clayeo|arnold clayeo corporation profession",
+"i": 1274,
+"j": 1277,
+"why": "tok:arnold,clayeo"
+},
+{
+"pair_key": "firm|arnold clayeo|arnold clayeo corporation professional",
+"i": 1276,
+"j": 1277,
+"why": "tok:arnold,clayeo"
+},
+{
+"pair_key": "firm|borgess kranz zoll|kranz zoll",
+"i": 481,
+"j": 1379,
+"why": "tok:kranz,zoll"
+},
+{
+"pair_key": "firm|archie kirk lamb quetglas wood|wood",
+"i": 484,
+"j": 524,
+"why": "tok:wood"
+},
+{
+"pair_key": "firm|austin brown sidley wood|wood",
+"i": 524,
+"j": 1459,
+"why": "tok:wood"
+},
+{
+"pair_key": "firm|king|king larson",
+"i": 492,
+"j": 1231,
+"why": "tok:king"
+},
+{
+"pair_key": "firm|daniel king|king",
+"i": 712,
+"j": 1231,
+"why": "tok:king"
+},
+{
+"pair_key": "firm|king|king spalding",
+"i": 994,
+"j": 1231,
+"why": "tok:king"
+},
+{
+"pair_key": "firm|hodge king morris|king",
+"i": 1231,
+"j": 1384,
+"why": "tok:king"
+},
+{
+"pair_key": "firm|deering futscher parry sparks|futscher",
+"i": 508,
+"j": 1818,
+"why": "tok:futscher"
+},
+{
+"pair_key": "firm|crutcher dunn gibson|curtcher dunn gibson",
+"i": 512,
+"j": 1224,
+"why": "tok:dunn,gibson"
+},
+{
+"pair_key": "firm|consumer gibson|curtcher dunn gibson",
+"i": 512,
+"j": 1058,
+"why": "tok:gibson"
+},
+{
+"pair_key": "firm|consumer gibson|gibson lindh robb",
+"i": 1058,
+"j": 1199,
+"why": "tok:gibson"
+},
+{
+"pair_key": "firm|consumer gibson|crutcher dunn gibson",
+"i": 1058,
+"j": 1224,
+"why": "tok:gibson"
+},
+{
+"pair_key": "firm|bands bell|bell",
+"i": 517,
+"j": 1488,
+"why": "tok:bell"
+},
+{
+"pair_key": "firm|bands bell|bell legal",
+"i": 517,
+"j": 1964,
+"why": "tok:bell"
+},
+{
+"pair_key": "firm|bell|bell legal",
+"i": 1488,
+"j": 1964,
+"why": "tok:bell"
+},
+{
+"pair_key": "firm|bailey cowan heckaman|bailey cowan heckman",
+"i": 1336,
+"j": 1986,
+"why": "tok:bailey,cowan"
+},
+{
+"pair_key": "firm|burnett|burnett jr riley",
+"i": 550,
+"j": 1560,
+"why": "tok:burnett"
+},
+{
+"pair_key": "firm|mellon shelley webster|mellon shelly webster",
+"i": 556,
+"j": 1467,
+"why": "tok:mellon,webster"
+},
+{
+"pair_key": "firm|mellon shelly webster|webster",
+"i": 556,
+"j": 1873,
+"why": "tok:webster"
+},
+{
+"pair_key": "firm|mellon shelley webster|webster",
+"i": 1467,
+"j": 1873,
+"why": "tok:webster"
+},
+{
+"pair_key": "firm|frank piscitelli|piscitelli",
+"i": 571,
+"j": 716,
+"why": "tok:piscitelli"
+},
+{
+"pair_key": "firm|berger gottlieb|gottlieb",
+"i": 583,
+"j": 1760,
+"why": "tok:gottlieb"
+},
+{
+"pair_key": "firm|leary onder peterson shelton|onder",
+"i": 589,
+"j": 1182,
+"why": "tok:onder"
+},
+{
+"pair_key": "firm|barrett bendesky mongeluzzi saltz|bendesky mongeluzzi saltz",
+"i": 590,
+"j": 1967,
+"why": "tok:bendesky,mongeluzzi,saltz"
+},
+{
+"pair_key": "firm|boucher kiesel larson|kiesel",
+"i": 625,
+"j": 792,
+"why": "tok:kiesel"
+},
+{
+"pair_key": "firm|boucher kiesel|boucher kiesel larson",
+"i": 625,
+"j": 821,
+"why": "tok:boucher,kiesel"
+},
+{
+"pair_key": "firm|boucher kiesel|kiesel",
+"i": 792,
+"j": 821,
+"why": "tok:kiesel"
+},
+{
+"pair_key": "firm|boucher|boucher kiesel larson",
+"i": 625,
+"j": 1794,
+"why": "tok:boucher"
+},
+{
+"pair_key": "firm|boucher|boucher kiesel",
+"i": 821,
+"j": 1794,
+"why": "tok:boucher"
+},
+{
+"pair_key": "firm|burke|burke frankowski harvey",
+"i": 627,
+"j": 1562,
+"why": "tok:burke"
+},
+{
+"pair_key": "firm|blackwell burke|burke",
+"i": 627,
+"j": 1783,
+"why": "tok:burke"
+},
+{
+"pair_key": "firm|barnes|barnes ben",
+"i": 628,
+"j": 793,
+"why": "tok:barnes"
+},
+{
+"pair_key": "firm|barnes|barnes thornburg",
+"i": 699,
+"j": 793,
+"why": "tok:barnes"
+},
+{
+"pair_key": "firm|marian rosen|rosen",
+"i": 630,
+"j": 748,
+"why": "tok:rosen"
+},
+{
+"pair_key": "firm|coffin lambert|lambert plc",
+"i": 635,
+"j": 1826,
+"why": "tok:lambert"
+},
+{
+"pair_key": "firm|blood hurst oreardon|blood hurst reardon",
+"i": 638,
+"j": 639,
+"why": "tok:blood,hurst"
+},
+{
+"pair_key": "firm|blatt casey fancavilla gerry penfield schenk|blatt casey francavilla gerry penfield schenk",
+"i": 641,
+"j": 1122,
+"why": "tok:blatt,casey,gerry,penfield,schenk"
+},
+{
+"pair_key": "firm|blatt casey franca gerry penfield schenk villa|blatt casey francavilla gerry penfield schenk",
+"i": 641,
+"j": 1663,
+"why": "tok:blatt,casey,gerry,penfield,schenk"
+},
+{
+"pair_key": "firm|blatt casey francavilla gerry penfield schenk|blatt francavilla gerry penfield schenk",
+"i": 641,
+"j": 1899,
+"why": "tok:blatt,francavilla,gerry,penfield,schenk"
+},
+{
+"pair_key": "firm|blatt casey fancavilla gerry penfield schenk|blatt casey franca gerry penfield schenk villa",
+"i": 1122,
+"j": 1663,
+"why": "tok:blatt,casey,gerry,penfield,schenk"
+},
+{
+"pair_key": "firm|blatt casey fancavilla gerry penfield schenk|blatt francavilla gerry penfield schenk",
+"i": 1122,
+"j": 1899,
+"why": "tok:blatt,gerry,penfield,schenk"
+},
+{
+"pair_key": "firm|blatt casey franca gerry penfield schenk villa|blatt francavilla gerry penfield schenk",
+"i": 1663,
+"j": 1899,
+"why": "tok:blatt,gerry,penfield,schenk"
+},
+{
+"pair_key": "firm|blatt casey francavilla gerry|blatt casey francavilla gerry penfield schenk",
+"i": 641,
+"j": 1409,
+"why": "tok:blatt,casey,francavilla,gerry"
+},
+{
+"pair_key": "firm|blatt casey francavilla gerry|blatt francavilla gerry penfield schenk",
+"i": 1409,
+"j": 1899,
+"why": "tok:blatt,francavilla,gerry"
+},
+{
+"pair_key": "firm|blatt casey fancavilla gerry penfield schenk|blatt casey francavilla gerry",
+"i": 1122,
+"j": 1409,
+"why": "tok:blatt,casey,gerry"
+},
+{
+"pair_key": "firm|blatt casey franca gerry penfield schenk villa|blatt casey francavilla gerry",
+"i": 1409,
+"j": 1663,
+"why": "tok:blatt,casey,gerry"
+},
+{
+"pair_key": "firm|blatt casey francavilla gerry penfield schenk|casey",
+"i": 641,
+"j": 1837,
+"why": "tok:casey"
+},
+{
+"pair_key": "firm|blatt casey fancavilla gerry penfield schenk|casey",
+"i": 1122,
+"j": 1837,
+"why": "tok:casey"
+},
+{
+"pair_key": "firm|blatt casey francavilla gerry|casey",
+"i": 1409,
+"j": 1837,
+"why": "tok:casey"
+},
+{
+"pair_key": "firm|blatt casey franca gerry penfield schenk villa|casey",
+"i": 1663,
+"j": 1837,
+"why": "tok:casey"
+},
+{
+"pair_key": "firm|casey|casey feller ross",
+"i": 1703,
+"j": 1837,
+"why": "tok:casey"
+},
+{
+"pair_key": "firm|casey|casey dicello levitt",
+"i": 1837,
+"j": 1878,
+"why": "tok:casey"
+},
+{
+"pair_key": "firm|andrews higgins razmara thornton|andrews thornton",
+"i": 642,
+"j": 1827,
+"why": "tok:andrews,thornton"
+},
+{
+"pair_key": "firm|mark zamora|zamora",
+"i": 645,
+"j": 1621,
+"why": "tok:zamora"
+},
+{
+"pair_key": "firm|bunch james zamora|zamora",
+"i": 735,
+"j": 1621,
+"why": "tok:zamora"
+},
+{
+"pair_key": "firm|esq mark zamora|zamora",
+"i": 1621,
+"j": 1863,
+"why": "tok:zamora"
+},
+{
+"pair_key": "firm|conley griggs|conley griggs partin",
+"i": 650,
+"j": 954,
+"why": "tok:conley,griggs"
+},
+{
+"pair_key": "firm|cambria green kreindler kreindler lipsitz scime|kreindler kreindler",
+"i": 652,
+"j": 1441,
+"why": "tok:kreindler"
+},
+{
+"pair_key": "firm|clifford|clifford colucci gallaher",
+"i": 653,
+"j": 951,
+"why": "tok:clifford"
+},
+{
+"pair_key": "firm|connors|connors granito krause nolan speiser vilardo",
+"i": 654,
+"j": 985,
+"why": "tok:connors"
+},
+{
+"pair_key": "firm|beltz paul william|paul",
+"i": 656,
+"j": 1168,
+"why": "tok:paul"
+},
+{
+"pair_key": "firm|garrison paul rifkind weiss wharton|paul",
+"i": 1008,
+"j": 1168,
+"why": "tok:paul"
+},
+{
+"pair_key": "firm|kraus paul waters|paul",
+"i": 1168,
+"j": 1725,
+"why": "tok:paul"
+},
+{
+"pair_key": "firm|mcinnes paul|paul",
+"i": 1168,
+"j": 1739,
+"why": "tok:paul"
+},
+{
+"pair_key": "firm|garrison paul rifkind weiss|paul",
+"i": 1168,
+"j": 1788,
+"why": "tok:paul"
+},
+{
+"pair_key": "firm|byrd paul|paul",
+"i": 1168,
+"j": 1934,
+"why": "tok:paul"
+},
+{
+"pair_key": "firm|attorney paul rothstein|paul",
+"i": 1168,
+"j": 1965,
+"why": "tok:paul"
+},
+{
+"pair_key": "firm|edelson mcguire|mcguire",
+"i": 668,
+"j": 1993,
+"why": "tok:mcguire"
+},
+{
+"pair_key": "firm|mcguire|mcguire woods",
+"i": 1844,
+"j": 1993,
+"why": "tok:mcguire"
+},
+{
+"pair_key": "firm|golomb honik|honik",
+"i": 672,
+"j": 1263,
+"why": "tok:honik"
+},
+{
+"pair_key": "firm|golumb honik|honik",
+"i": 1263,
+"j": 1497,
+"why": "tok:honik"
+},
+{
+"pair_key": "firm|cohen millstein sellers toll|millstein",
+"i": 675,
+"j": 957,
+"why": "tok:millstein"
+},
+{
+"pair_key": "firm|alvarez boodrookas lowenthal smith steyer|lowenthal steyer",
+"i": 689,
+"j": 1125,
+"why": "tok:lowenthal,steyer"
+},
+{
+"pair_key": "firm|geragos|geragos geragos",
+"i": 701,
+"j": 1527,
+"why": "tok:geragos"
+},
+{
+"pair_key": "firm|cohen dannenberg hart lowey|dannenberg lowey",
+"i": 709,
+"j": 1164,
+"why": "tok:dannenberg,lowey"
+},
+{
+"pair_key": "firm|klein solomon|solomon",
+"i": 715,
+"j": 1972,
+"why": "tok:solomon"
+},
+{
+"pair_key": "firm|daudt marshall terrell willie|marshall terrell",
+"i": 870,
+"j": 1672,
+"why": "tok:marshall,terrell"
+},
+{
+"pair_key": "firm|burkholder isaac teeter wiles|burkholder isaac teetor wiles",
+"i": 725,
+"j": 952,
+"why": "tok:burkholder,isaac,wiles"
+},
+{
+"pair_key": "firm|brant isaac ledman teetor|burkholder isaac teetor wiles",
+"i": 725,
+"j": 739,
+"why": "tok:isaac,teetor"
+},
+{
+"pair_key": "firm|medley sill|sill",
+"i": 728,
+"j": 776,
+"why": "tok:sill"
+},
+{
+"pair_key": "firm|fulmer sill|sill",
+"i": 776,
+"j": 1204,
+"why": "tok:sill"
+},
+{
+"pair_key": "firm|lovins troclair wilson|wilson",
+"i": 742,
+"j": 2011,
+"why": "tok:wilson"
+},
+{
+"pair_key": "firm|lpa meyer wilson|meyer wilson",
+"i": 879,
+"j": 1279,
+"why": "tok:meyer,wilson"
+},
+{
+"pair_key": "firm|lpa meyer wilson|wilson",
+"i": 879,
+"j": 2011,
+"why": "tok:wilson"
+},
+{
+"pair_key": "firm|goodrich rosati sonsini wilson|wilson",
+"i": 1063,
+"j": 2011,
+"why": "tok:wilson"
+},
+{
+"pair_key": "firm|meyer wilson|wilson",
+"i": 1279,
+"j": 2011,
+"why": "tok:wilson"
+},
+{
+"pair_key": "firm|dicker edelman elser moskowitz wilson|wilson",
+"i": 1508,
+"j": 2011,
+"why": "tok:wilson"
+},
+{
+"pair_key": "firm|cox keogh wilson|wilson",
+"i": 1830,
+"j": 2011,
+"why": "tok:wilson"
+},
+{
+"pair_key": "firm|kilpatrick mcglamry morrison norwood pope|mcglamry pope",
+"i": 1039,
+"j": 1592,
+"why": "tok:mcglamry,pope"
+},
+{
+"pair_key": "firm|groves holland schneller stolze|holland",
+"i": 764,
+"j": 893,
+"why": "tok:holland"
+},
+{
+"pair_key": "firm|holland|holland knight",
+"i": 893,
+"j": 996,
+"why": "tok:holland"
+},
+{
+"pair_key": "firm|janet jenner suggs|jenner",
+"i": 783,
+"j": 1864,
+"why": "tok:jenner"
+},
+{
+"pair_key": "firm|block jenner|jenner",
+"i": 1275,
+"j": 1864,
+"why": "tok:jenner"
+},
+{
+"pair_key": "firm|stewarts|stewarts us",
+"i": 784,
+"j": 844,
+"why": "tok:stewarts"
+},
+{
+"pair_key": "firm|sianni straite|straite",
+"i": 787,
+"j": 811,
+"why": "tok:straite"
+},
+{
+"pair_key": "firm|dicello gutzler levit|dicello gutzler levitt",
+"i": 788,
+"j": 993,
+"why": "tok:dicello,gutzler"
+},
+{
+"pair_key": "firm|dicello|dicello gutzler levitt",
+"i": 788,
+"j": 1599,
+"why": "tok:dicello"
+},
+{
+"pair_key": "firm|dicello|dicello levitt",
+"i": 977,
+"j": 1599,
+"why": "tok:dicello"
+},
+{
+"pair_key": "firm|dicello|dicello gutzler levit",
+"i": 993,
+"j": 1599,
+"why": "tok:dicello"
+},
+{
+"pair_key": "firm|casey dicello levitt|dicello",
+"i": 1599,
+"j": 1878,
+"why": "tok:dicello"
+},
+{
+"pair_key": "firm|mcqueen sharp|sharp",
+"i": 815,
+"j": 1171,
+"why": "tok:sharp"
+},
+{
+"pair_key": "firm|girard sharp|sharp",
+"i": 1074,
+"j": 1171,
+"why": "tok:sharp"
+},
+{
+"pair_key": "firm|brady|brady mcshane",
+"i": 816,
+"j": 1124,
+"why": "tok:brady"
+},
+{
+"pair_key": "firm|brady|brady lynch michael",
+"i": 816,
+"j": 1803,
+"why": "tok:brady"
+},
+{
+"pair_key": "firm|adams reese|reese",
+"i": 823,
+"j": 869,
+"why": "tok:reese"
+},
+{
+"pair_key": "firm|reese|reese richman",
+"i": 857,
+"j": 869,
+"why": "tok:reese"
+},
+{
+"pair_key": "firm|reese|reese wagner",
+"i": 869,
+"j": 1996,
+"why": "tok:reese"
+},
+{
+"pair_key": "firm|justin lucey otoole|lucey",
+"i": 825,
+"j": 829,
+"why": "tok:lucey"
+},
+{
+"pair_key": "firm|emanuel hedges oliver quinn urquhart|oliver",
+"i": 830,
+"j": 1461,
+"why": "tok:oliver"
+},
+{
+"pair_key": "firm|kresch oliver|oliver",
+"i": 830,
+"j": 1585,
+"why": "tok:oliver"
+},
+{
+"pair_key": "firm|berkowitz oliver|oliver",
+"i": 830,
+"j": 1737,
+"why": "tok:oliver"
+},
+{
+"pair_key": "firm|fox tracey|tracey",
+"i": 846,
+"j": 2009,
+"why": "tok:tracey"
+},
+{
+"pair_key": "firm|connelly pozner reilly|pozner reilly",
+"i": 847,
+"j": 1466,
+"why": "tok:pozner,reilly"
+},
+{
+"pair_key": "firm|butler cannada mara snow stevens|butler snow",
+"i": 1094,
+"j": 1601,
+"why": "tok:butler,snow"
+},
+{
+"pair_key": "firm|baillon jozwiak miller thume wanta|baillon jozwiak thome wanta",
+"i": 862,
+"j": 928,
+"why": "tok:baillon,jozwiak,wanta"
+},
+{
+"pair_key": "firm|cox keogh wilson|keogh",
+"i": 871,
+"j": 1830,
+"why": "tok:keogh"
+},
+{
+"pair_key": "firm|alters|alters morelli ratner",
+"i": 873,
+"j": 1493,
+"why": "tok:alters"
+},
+{
+"pair_key": "firm|alters|alters boldt brown culmo rash",
+"i": 1493,
+"j": 1503,
+"why": "tok:alters"
+},
+{
+"pair_key": "firm|hilliard|hilliard shadowen",
+"i": 880,
+"j": 1425,
+"why": "tok:hilliard"
+},
+{
+"pair_key": "firm|gonzales hilliard martinez|hilliard",
+"i": 1087,
+"j": 1425,
+"why": "tok:hilliard"
+},
+{
+"pair_key": "firm|denittis osefchen|denittis osefchen prince",
+"i": 886,
+"j": 983,
+"why": "tok:denittis,osefchen"
+},
+{
+"pair_key": "firm|ademi|ademi oreilly",
+"i": 889,
+"j": 1836,
+"why": "tok:ademi"
+},
+{
+"pair_key": "firm|hyde swigart|swigart",
+"i": 903,
+"j": 1101,
+"why": "tok:swigart"
+},
+{
+"pair_key": "firm|harrison lewis schnader segal|harrison schnader",
+"i": 1679,
+"j": 1813,
+"why": "tok:harrison,schnader"
+},
+{
+"pair_key": "firm|baker daniels faegre|daniels",
+"i": 940,
+"j": 1823,
+"why": "tok:daniels"
+},
+{
+"pair_key": "firm|baker daniels|daniels",
+"i": 1473,
+"j": 1823,
+"why": "tok:daniels"
+},
+{
+"pair_key": "firm|eisenberg eisenberg jeck rothweiler winkler|eisenberg macdonald rothweiler",
+"i": 962,
+"j": 1702,
+"why": "tok:eisenberg,rothweiler"
+},
+{
+"pair_key": "firm|hogan lovells|hogan lovells us",
+"i": 968,
+"j": 1285,
+"why": "tok:hogan,lovells"
+},
+{
+"pair_key": "firm|crueger dickinson|crueger dickinson hansen reynolds",
+"i": 972,
+"j": 1976,
+"why": "tok:crueger,dickinson"
+},
+{
+"pair_key": "firm|levine pritzker|pritzker",
+"i": 981,
+"j": 1625,
+"why": "tok:pritzker"
+},
+{
+"pair_key": "firm|olsen pritzker|pritzker",
+"i": 1625,
+"j": 1779,
+"why": "tok:pritzker"
+},
+{
+"pair_key": "firm|levine|levine pritzker",
+"i": 981,
+"j": 1733,
+"why": "tok:levine"
+},
+{
+"pair_key": "firm|glass levine rappaport zullo|levine",
+"i": 1089,
+"j": 1733,
+"why": "tok:levine"
+},
+{
+"pair_key": "firm|campbell levine|levine",
+"i": 1181,
+"j": 1733,
+"why": "tok:levine"
+},
+{
+"pair_key": "firm|dann devries goodell leech|devries goodell",
+"i": 997,
+"j": 1013,
+"why": "tok:devries,goodell"
+},
+{
+"pair_key": "firm|arnold kaye porter scholer|kaye scholer",
+"i": 998,
+"j": 1590,
+"why": "tok:kaye,scholer"
+},
+{
+"pair_key": "firm|dann|dann devries goodell leech",
+"i": 1013,
+"j": 1278,
+"why": "tok:dann"
+},
+{
+"pair_key": "firm|bryant center|bryant center psc",
+"i": 1021,
+"j": 1131,
+"why": "tok:bryant"
+},
+{
+"pair_key": "firm|holtum malters shepher von|holtum malters shepherd von",
+"i": 1024,
+"j": 1030,
+"why": "tok:holtum,malters,von"
+},
+{
+"pair_key": "firm|cochran gresham steckler|steckler",
+"i": 1027,
+"j": 1648,
+"why": "tok:steckler"
+},
+{
+"pair_key": "firm|ferguson gilbert kopelowitz ostrow weiselberg|kopelowitz ostrow",
+"i": 1038,
+"j": 1127,
+"why": "tok:kopelowitz,ostrow"
+},
+{
+"pair_key": "firm|kherkher pulaski|pulaski",
+"i": 1040,
+"j": 1856,
+"why": "tok:pulaski"
+},
+{
+"pair_key": "firm|harding martin mazzotti|harding mazzotti",
+"i": 1041,
+"j": 1230,
+"why": "tok:harding,mazzotti"
+},
+{
+"pair_key": "firm|goodrich|goodrich rosati sonsini wilson",
+"i": 1063,
+"j": 1068,
+"why": "tok:goodrich"
+},
+{
+"pair_key": "firm|dicker edelman elser moskowitz wilson|moskowitz",
+"i": 1066,
+"j": 1508,
+"why": "tok:moskowitz"
+},
+{
+"pair_key": "firm|hamilton|hamilton pepper sanders troutman",
+"i": 1071,
+"j": 1470,
+"why": "tok:hamilton"
+},
+{
+"pair_key": "firm|hamilton pepper|hamilton pepper sanders troutman",
+"i": 1071,
+"j": 1483,
+"why": "tok:hamilton,pepper"
+},
+{
+"pair_key": "firm|hamilton llo pepper|hamilton pepper sanders troutman",
+"i": 1071,
+"j": 2008,
+"why": "tok:hamilton,pepper"
+},
+{
+"pair_key": "firm|hamilton|hamilton pepper",
+"i": 1470,
+"j": 1483,
+"why": "tok:hamilton"
+},
+{
+"pair_key": "firm|hamilton|hamilton llo pepper",
+"i": 1470,
+"j": 2008,
+"why": "tok:hamilton"
+},
+{
+"pair_key": "firm|hamilton llo pepper|hamilton pepper",
+"i": 1483,
+"j": 2008,
+"why": "tok:hamilton,pepper"
+},
+{
+"pair_key": "firm|anastopoulo|anastopoulo poulin willey",
+"i": 1103,
+"j": 1216,
+"why": "tok:anastopoulo"
+},
+{
+"pair_key": "firm|ferraro|ferraro kelley",
+"i": 1109,
+"j": 1173,
+"why": "tok:ferraro"
+},
+{
+"pair_key": "firm|colson edison hicks|colson eidson hicks",
+"i": 1115,
+"j": 1133,
+"why": "tok:colson,hicks"
+},
+{
+"pair_key": "firm|plc walsh|walsh",
+"i": 1119,
+"j": 1153,
+"why": "tok:walsh"
+},
+{
+"pair_key": "firm|alex walsh|walsh",
+"i": 1119,
+"j": 1366,
+"why": "tok:walsh"
+},
+{
+"pair_key": "firm|alex walsh|plc walsh",
+"i": 1153,
+"j": 1366,
+"why": "tok:walsh"
+},
+{
+"pair_key": "firm|brain stephens tousley|brian stephens tousley",
+"i": 1126,
+"j": 1165,
+"why": "tok:stephens,tousley"
+},
+{
+"pair_key": "firm|devine fitzgerald goodman rasco watts|fitzgerald",
+"i": 1134,
+"j": 1945,
+"why": "tok:fitzgerald"
+},
+{
+"pair_key": "firm|dow fitzgerald konopka mrachek rose|fitzgerald",
+"i": 1515,
+"j": 1945,
+"why": "tok:fitzgerald"
+},
+{
+"pair_key": "firm|fitzgerald|fitzgerald ingaldson",
+"i": 1945,
+"j": 1947,
+"why": "tok:fitzgerald"
+},
+{
+"pair_key": "firm|cates|cates mahoney",
+"i": 1140,
+"j": 1145,
+"why": "tok:cates"
+},
+{
+"pair_key": "firm|grossman milberg phillips tadler|tadler",
+"i": 1161,
+"j": 1909,
+"why": "tok:tadler"
+},
+{
+"pair_key": "firm|battista bernheim bliss kelley|bernheim dolinsky kelley",
+"i": 1222,
+"j": 1777,
+"why": "tok:bernheim,kelley"
+},
+{
+"pair_key": "firm|gastel herzfeld leniski suetholz wall|gastel herzfeld liniski suetholz wall",
+"i": 1207,
+"j": 1289,
+"why": "tok:gastel,herzfeld,suetholz,wall"
+},
+{
+"pair_key": "firm|daniel feller ferrer poirot|feller ferrer poirot",
+"i": 1212,
+"j": 1358,
+"why": "tok:feller,ferrer,poirot"
+},
+{
+"pair_key": "firm|bernheim dolinsky kelley|bernheim dolinsky kelly",
+"i": 1656,
+"j": 1777,
+"why": "tok:bernheim,dolinsky"
+},
+{
+"pair_key": "firm|dalimonte litigation rueb|dalimonte rueb",
+"i": 1862,
+"j": 1944,
+"why": "tok:dalimonte,rueb"
+},
+{
+"pair_key": "firm|arevalo mccune wright|mccune wright",
+"i": 1280,
+"j": 1755,
+"why": "tok:mccune,wright"
+},
+{
+"pair_key": "firm|colomb domengeaux edwards roy wright|domengeaux edwards roy wright",
+"i": 1529,
+"j": 1701,
+"why": "tok:domengeaux,edwards,roy,wright"
+},
+{
+"pair_key": "firm|lee segui|segui",
+"i": 1297,
+"j": 2006,
+"why": "tok:segui"
+},
+{
+"pair_key": "firm|lee lee lee|lee segui",
+"i": 1297,
+"j": 1479,
+"why": "tok:lee"
+},
+{
+"pair_key": "firm|gori|gori julian",
+"i": 1323,
+"j": 1861,
+"why": "tok:gori"
+},
+{
+"pair_key": "firm|department division enforcement environment environmental justice natural resour|environmental litigation",
+"i": 1327,
+"j": 1888,
+"why": "tok:environmental"
+},
+{
+"pair_key": "firm|environmental litigation|environmental sl",
+"i": 1327,
+"j": 1952,
+"why": "tok:environmental"
+},
+{
+"pair_key": "firm|branch civil department division environmental justice states torts united|environmental litigation",
+"i": 1327,
+"j": 1978,
+"why": "tok:environmental"
+},
+{
+"pair_key": "firm|hammers|hammers schneider",
+"i": 1351,
+"j": 1724,
+"why": "tok:hammers"
+},
+{
+"pair_key": "firm|jones plc ward|ward",
+"i": 1386,
+"j": 1604,
+"why": "tok:ward"
+},
+{
+"pair_key": "firm|jones ward|ward",
+"i": 1386,
+"j": 1610,
+"why": "tok:ward"
+},
+{
+"pair_key": "firm|allen overy shearman sterling us|shearman sterling",
+"i": 1390,
+"j": 1810,
+"why": "tok:shearman,sterling"
+},
+{
+"pair_key": "firm|arnall golden gregory|golden",
+"i": 1392,
+"j": 1918,
+"why": "tok:golden"
+},
+{
+"pair_key": "firm|critchley kinum|critchley kinum luria",
+"i": 1393,
+"j": 1400,
+"why": "tok:critchley,kinum"
+},
+{
+"pair_key": "firm|critchley denoia kinum|critchley kinum",
+"i": 1393,
+"j": 1811,
+"why": "tok:critchley,kinum"
+},
+{
+"pair_key": "firm|critchley denoia kinum|critchley kinum luria",
+"i": 1400,
+"j": 1811,
+"why": "tok:critchley,kinum"
+},
+{
+"pair_key": "firm|borchardt mcgartland|mcgartland",
+"i": 1432,
+"j": 1658,
+"why": "tok:mcgartland"
+},
+{
+"pair_key": "firm|clark|clark partington",
+"i": 1435,
+"j": 1822,
+"why": "tok:clark"
+},
+{
+"pair_key": "firm|clark gp hutson love|clark hutson love",
+"i": 1537,
+"j": 1552,
+"why": "tok:clark,hutson,love"
+},
+{
+"pair_key": "firm|clark|clark gp hutson love",
+"i": 1537,
+"j": 1822,
+"why": "tok:clark"
+},
+{
+"pair_key": "firm|clark|clark hutson love",
+"i": 1552,
+"j": 1822,
+"why": "tok:clark"
+},
+{
+"pair_key": "firm|boyle panish ravipudi shea|boyle panish shea",
+"i": 1437,
+"j": 1548,
+"why": "tok:boyle,panish,shea"
+},
+{
+"pair_key": "firm|downey gallagher kim lewis|gallagher",
+"i": 1450,
+"j": 1774,
+"why": "tok:gallagher"
+},
+{
+"pair_key": "firm|gallagher|gallagher kennedy",
+"i": 1721,
+"j": 1774,
+"why": "tok:gallagher"
+},
+{
+"pair_key": "firm|black cloud heard robins|heard",
+"i": 1469,
+"j": 1727,
+"why": "tok:heard"
+},
+{
+"pair_key": "firm|cloud heard robins|heard",
+"i": 1727,
+"j": 1764,
+"why": "tok:heard"
+},
+{
+"pair_key": "firm|bailey glasser|glasser glasser plc",
+"i": 1487,
+"j": 1942,
+"why": "tok:glasser"
+},
+{
+"pair_key": "firm|inc moody|moody",
+"i": 1535,
+"j": 1722,
+"why": "tok:moody"
+},
+{
+"pair_key": "firm|barnhard denney scarola searcy shipley|barnhart denney scarola searcy shipley",
+"i": 1578,
+"j": 1946,
+"why": "tok:denney,scarola,searcy,shipley"
+},
+{
+"pair_key": "firm|honigman mantese|honigman mantese rossman williamson",
+"i": 1587,
+"j": 1848,
+"why": "tok:honigman,mantese"
+},
+{
+"pair_key": "firm|curran keuhn ladue|curran kuehn ladue",
+"i": 1605,
+"j": 1607,
+"why": "tok:curran,ladue"
+},
+{
+"pair_key": "firm|derriel mccorvey|mccorvey",
+"i": 1624,
+"j": 1897,
+"why": "tok:mccorvey"
+},
+{
+"pair_key": "firm|gomez lawyers trial|gomez trial",
+"i": 1629,
+"j": 1765,
+"why": "tok:gomez"
+},
+{
+"pair_key": "firm|gomez|gomez trial",
+"i": 1629,
+"j": 1872,
+"why": "tok:gomez"
+},
+{
+"pair_key": "firm|gomez|gomez lawyers trial",
+"i": 1765,
+"j": 1872,
+"why": "tok:gomez"
+},
+{
+"pair_key": "firm|hamner|hamner pac",
+"i": 1683,
+"j": 1688,
+"why": "tok:hamner"
+},
+{
+"pair_key": "firm|arthur eaves john|eaves",
+"i": 1700,
+"j": 1789,
+"why": "tok:eaves"
+},
+{
+"pair_key": "firm|atlas consumer sulaiman|sulaiman",
+"i": 1938,
+"j": 1960,
+"why": "tok:sulaiman"
+},
+{
+"pair_key": "firm|caplin chartered drysdale|caplin drysdale",
+"i": 1948,
+"j": 1953,
+"why": "tok:caplin,drysdale"
+}
+]

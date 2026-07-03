@@ -1,0 +1,16 @@
+MDL,appointee,gold_roles,our_roles,jaccard
+2067,thomas sobol,"leadcounsel,management",management,0.5
+2327,bryan aylstock,"coordination,leadcounsel,management","leadcounsel,management",0.67
+2327,christy jones,communications,leadcounsel,0.0
+2327,fred thompson,"coordination,leadcounsel,management","leadcounsel,management",0.67
+2327,henry garrard,"coordination,fees,leadcounsel,management","fees,leadcounsel,management",0.75
+2327,thomas cartmell,"fees,management","fees,leadcounsel,management",0.67
+2327,william mckee,fees,communications,0.0
+2357,ben barnow,"leadcounsel,management","classcounsel,leadcounsel,management",0.67
+2357,jeremiah freipearson,"leadcounsel,management","classcounsel,leadcounsel,management",0.67
+2357,mark godino,"leadcounsel,management","classcounsel,leadcounsel,management",0.67
+2357,richard coffman,"leadcounsel,management","classcounsel,leadcounsel,management",0.67
+2419,elizabeth cabraser,coordination,"coordination,management",0.5
+2419,kristen parker,leadcounsel,"leadcounsel,management",0.5
+2445,jeffrey kodroff,communications,"classcounsel,communications",0.5
+2704,daniel brockett,leadcounsel,"communications,leadcounsel",0.5

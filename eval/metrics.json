@@ -1,0 +1,323 @@
+{
+  "scope_mdls": [
+    "2263",
+    "2428",
+    "2504",
+    "2570",
+    "2664",
+    "2687",
+    "2741",
+    "2818",
+    "2873",
+    "2878"
+  ],
+  "orders": {
+    "gold": 47,
+    "ours": 51,
+    "matched": 45,
+    "missing": 2,
+    "extra": 6,
+    "extra_empty": 0,
+    "extra_substantive": 6,
+    "recall": 0.957,
+    "precision": 0.882,
+    "precision_adjusted": 0.882,
+    "f1": 0.918
+  },
+  "appointments_people_pooled": {
+    "gold": 179,
+    "ours": 185,
+    "matched": 172,
+    "recall": 0.961,
+    "precision": 0.93,
+    "f1": 0.945
+  },
+  "appointments_firms_pooled": {
+    "gold": 9,
+    "ours": 12,
+    "matched": 9
+  },
+  "order_similarity": {
+    "matched_orders": 45,
+    "rosters_identical": 20,
+    "rosters_partial": 18,
+    "rosters_divergent": 7,
+    "pct_identical": 44.4,
+    "appointee_set_jaccard_mean": 0.787
+  },
+  "appt_field_accuracy": {
+    "Plaintiff/Defendant": {
+      "agree": 471,
+      "total": 471,
+      "pct": 100.0
+    },
+    "appoint": {
+      "agree": 470,
+      "total": 471,
+      "pct": 99.8
+    },
+    "interim": {
+      "agree": 420,
+      "total": 471,
+      "pct": 89.2
+    },
+    "remove": {
+      "agree": 471,
+      "total": 471,
+      "pct": 100.0
+    },
+    "roles (exact set)": {
+      "agree": 357,
+      "total": 471,
+      "pct": 75.8
+    }
+  },
+  "appt_role_jaccard_mean": 0.792,
+  "order_field_accuracy": {
+    "Contested": {
+      "agree": 40,
+      "total": 45,
+      "pct": 88.9
+    },
+    "Date": {
+      "agree": 42,
+      "total": 45,
+      "pct": 93.3
+    },
+    "Judge": {
+      "agree": 45,
+      "total": 45,
+      "pct": 100.0
+    },
+    "Judge_Type": {
+      "agree": 45,
+      "total": 45,
+      "pct": 100.0
+    },
+    "OU_Create": {
+      "agree": 36,
+      "total": 45,
+      "pct": 80.0
+    },
+    "Order_Types (exact set)": {
+      "agree": 23,
+      "total": 45,
+      "pct": 51.1
+    },
+    "Rule_23": {
+      "agree": 43,
+      "total": 45,
+      "pct": 95.6
+    }
+  },
+  "order_types_jaccard_mean": 0.752,
+  "adjudicated_field_accuracy": {
+    "note": "Coordination<->Management counted as ours-correct (Defense Coordination Committee). Other differences (e.g. our extra LeadCounsel tag) still count as errors.",
+    "roles_exact_set_raw_pct": 75.8,
+    "roles_exact_set_adjudicated_pct": 93.2,
+    "roles_jaccard_raw": 0.792,
+    "roles_jaccard_adjudicated": 0.955,
+    "order_types_exact_set_raw_pct": 51.1,
+    "order_types_exact_set_adjudicated_pct": 64.4,
+    "order_types_jaccard_raw": 0.752,
+    "order_types_jaccard_adjudicated": 0.819
+  },
+  "top_role_disagreement_clusters": [
+    {
+      "gold": "coordination",
+      "ours": "management",
+      "count": 67,
+      "mdls": {
+        "2873": 67
+      }
+    },
+    {
+      "gold": "management",
+      "ours": "leadcounsel,management",
+      "count": 9,
+      "mdls": {
+        "2428": 8,
+        "2570": 1
+      }
+    },
+    {
+      "gold": "communications,coordination",
+      "ours": "communications,management",
+      "count": 8,
+      "mdls": {
+        "2873": 8
+      }
+    },
+    {
+      "gold": "coordination,leadcounsel",
+      "ours": "leadcounsel,management",
+      "count": 7,
+      "mdls": {
+        "2873": 7
+      }
+    },
+    {
+      "gold": "management",
+      "ours": "coordination",
+      "count": 6,
+      "mdls": {
+        "2873": 6
+      }
+    },
+    {
+      "gold": "coordination",
+      "ours": "communications,coordination",
+      "count": 5,
+      "mdls": {
+        "2570": 5
+      }
+    },
+    {
+      "gold": "classcounsel",
+      "ours": "classcounsel,leadcounsel",
+      "count": 4,
+      "mdls": {
+        "2664": 1,
+        "2878": 3
+      }
+    },
+    {
+      "gold": "coordination",
+      "ours": "leadcounsel,management",
+      "count": 3,
+      "mdls": {
+        "2873": 3
+      }
+    },
+    {
+      "gold": "communications,management",
+      "ours": "communications,leadcounsel,management",
+      "count": 2,
+      "mdls": {
+        "2428": 2
+      }
+    },
+    {
+      "gold": "coordination",
+      "ours": "communications,management",
+      "count": 2,
+      "mdls": {
+        "2873": 2
+      }
+    },
+    {
+      "gold": "leadcounsel",
+      "ours": "leadcounsel,management",
+      "count": 1,
+      "mdls": {
+        "2687": 1
+      }
+    }
+  ],
+  "per_mdl_counts": [
+    {
+      "mdl": "2263",
+      "gold_orders": 1,
+      "our_orders": 1,
+      "gold_people": 11,
+      "our_people": 11,
+      "gold_firms": 0,
+      "our_firms": 0
+    },
+    {
+      "mdl": "2428",
+      "gold_orders": 2,
+      "our_orders": 2,
+      "gold_people": 19,
+      "our_people": 21,
+      "gold_firms": 0,
+      "our_firms": 0
+    },
+    {
+      "mdl": "2504",
+      "gold_orders": 3,
+      "our_orders": 4,
+      "gold_people": 0,
+      "our_people": 0,
+      "gold_firms": 5,
+      "our_firms": 8
+    },
+    {
+      "mdl": "2570",
+      "gold_orders": 10,
+      "our_orders": 8,
+      "gold_people": 41,
+      "our_people": 39,
+      "gold_firms": 0,
+      "our_firms": 0
+    },
+    {
+      "mdl": "2664",
+      "gold_orders": 1,
+      "our_orders": 2,
+      "gold_people": 5,
+      "our_people": 8,
+      "gold_firms": 0,
+      "our_firms": 0
+    },
+    {
+      "mdl": "2687",
+      "gold_orders": 8,
+      "our_orders": 8,
+      "gold_people": 16,
+      "our_people": 16,
+      "gold_firms": 0,
+      "our_firms": 0
+    },
+    {
+      "mdl": "2741",
+      "gold_orders": 3,
+      "our_orders": 3,
+      "gold_people": 9,
+      "our_people": 12,
+      "gold_firms": 0,
+      "our_firms": 0
+    },
+    {
+      "mdl": "2818",
+      "gold_orders": 1,
+      "our_orders": 1,
+      "gold_people": 4,
+      "our_people": 4,
+      "gold_firms": 0,
+      "our_firms": 0
+    },
+    {
+      "mdl": "2873",
+      "gold_orders": 14,
+      "our_orders": 18,
+      "gold_people": 71,
+      "our_people": 71,
+      "gold_firms": 0,
+      "our_firms": 0
+    },
+    {
+      "mdl": "2878",
+      "gold_orders": 4,
+      "our_orders": 4,
+      "gold_people": 3,
+      "our_people": 3,
+      "gold_firms": 4,
+      "our_firms": 4
+    }
+  ],
+  "llm_judge": true,
+  "adjudicated": {
+    "order_precision_raw": 0.882,
+    "order_precision_adjudicated": 0.961,
+    "order_recall_raw": 0.957,
+    "order_recall_adjudicated": 1.0,
+    "extras_that_were_human_misses": 4,
+    "extras_genuine_overinclude": 2,
+    "extras_unresolved": 0,
+    "misses_genuine_ours": 0,
+    "misses_were_gold_overinclude": 2,
+    "misses_unresolved": 0,
+    "note": "unresolved (neither / both_defensible / no-text) excluded from the adjudicated denominators; the judge is an LLM, so treat as adjudication evidence not ground truth"
+  }
+}

@@ -1,0 +1,26 @@
+MDL,appointee,gold_roles,our_roles,jaccard
+1431,adam hoeflich,localcounsel,communications,0.0
+1431,charles zimmerman,leadcounsel,"leadcounsel,management",0.5
+1431,hope freiwald,"leadcounsel,localcounsel","communications,leadcounsel",0.33
+1431,peter sipkins,localcounsel,"communications,localcounsel",0.5
+1431,richard lockridge,leadcounsel,"leadcounsel,management",0.5
+1431,robert limbacher,"leadcounsel,localcounsel","communications,leadcounsel",0.33
+1431,scott smith,"leadcounsel,localcounsel","communications,leadcounsel",0.33
+1431,susan weber,localcounsel,communications,0.0
+1431,tracy vansteenburgh,"leadcounsel,localcounsel","communications,leadcounsel",0.33
+2493,beth terrell,leadcounsel,"classcounsel,leadcounsel",0.5
+2493,jeffrey holmstrand,communications,"communications,leadcounsel",0.5
+2493,john barrett,leadcounsel,"classcounsel,leadcounsel",0.5
+2493,jonathan marshall,communications,"classcounsel,communications",0.5
+2744,daniel gustafson,"classcounsel,management",management,0.5
+2744,david honigman,communications,"communications,coordination",0.5
+2744,gregory coleman,"classcounsel,management",management,0.5
+2744,joseph meltzer,"classcounsel,management",management,0.5
+2744,robert shelquist,"classcounsel,management",management,0.5
+2744,steve berman,"classcounsel,management",management,0.5
+2887,jeffrey goldenberg,leadcounsel,"classcounsel,management",0.0
+2887,melissa emert,"leadcounsel,management","classcounsel,management",0.33
+2887,michael reese,leadcounsel,"classcounsel,leadcounsel",0.5
+2887,rachel schwartz,"communications,leadcounsel","classcounsel,communications,leadcounsel",0.67
+2887,rosemary rivas,"leadcounsel,management","classcounsel,management",0.33
+2887,scott kamber,leadcounsel,"classcounsel,leadcounsel",0.5

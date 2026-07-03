@@ -1,0 +1,157 @@
+MDL,appointee,gold_roles,our_roles,jaccard
+1566,barry law offices,"classcounsel,settlement",classcounsel,0.5
+1566,blake harper,leadcounsel,"communications,leadcounsel",0.5
+1566,boni zack,"classcounsel,settlement",classcounsel,0.5
+1566,glancy binkow goldberg,"classcounsel,settlement",classcounsel,0.5
+1566,kohner mann kailas s c,"classcounsel,settlement",classcounsel,0.5
+1566,marc edelson,leadcounsel,"communications,leadcounsel",0.5
+1566,mccallister law group,"classcounsel,settlement",classcounsel,0.5
+1566,michael boni,leadcounsel,"communications,leadcounsel",0.5
+1566,polsinelli,"classcounsel,settlement",classcounsel,0.5
+1566,zelle hofmann voelbel mason gette,"classcounsel,settlement",classcounsel,0.5
+2151,benjamin bailey,management,"leadcounsel,management",0.5
+2151,brian panish,management,communications,0.0
+2151,dawn barrios,"coordination,management","communications,coordination",0.33
+2151,donald slavik,management,communications,0.0
+2151,elizabeth cabraser,"discovery,fees,leadcounsel","communications,discovery,leadcounsel",0.5
+2151,eric snyder,management,communications,0.0
+2151,frank pitre,"discovery,leadcounsel","discovery,leadcounsel,management",0.67
+2151,gretchen nelson,coordination,"communications,coordination",0.5
+2151,hunter shkolnik,management,communications,0.0
+2151,jayne conroy,management,"leadcounsel,management",0.5
+2151,joel smith,leadcounsel,"communications,leadcounsel",0.5
+2151,lewis eidson,management,communications,0.0
+2151,marc seltzer,"discovery,leadcounsel","discovery,leadcounsel,management",0.67
+2151,mark robinson,"discovery,fees,leadcounsel","communications,discovery,leadcounsel",0.5
+2151,michael kelly,"classcounsel,management,motions","leadcounsel,management,motions",0.5
+2151,richard arsenault,management,"leadcounsel,management",0.5
+2151,richard mccune,management,communications,0.0
+2151,s west,management,communications,0.0
+2151,steve berman,"discovery,leadcounsel","discovery,leadcounsel,management",0.67
+2151,vince galvin,"coordination,leadcounsel","communications,coordination,leadcounsel",0.67
+2151,w lanier,management,communications,0.0
+2151,w miles,management,communications,0.0
+2151,wylie aitken,coordination,"communications,coordination",0.5
+2406,aaron podhurst,"management,settlement",management,0.5
+2406,allen schreiber,motions,trial,0.0
+2406,annesley degaris,coordination,communications,0.0
+2406,augusta dowd,motions,trial,0.0
+2406,ben sweet,motions,trial,0.0
+2406,benjamin gordon,coordination,communications,0.0
+2406,brent hazzard,motions,trial,0.0
+2406,bryan clobes,motions,trial,0.0
+2406,casey lott,coordination,communications,0.0
+2406,charles caliendo,motions,classcounsel,0.0
+2406,christopher coffin,"coordination,expert","communications,expert",0.33
+2406,christopher cowan,motions,,0.0
+2406,christopher hellums,"coordination,settlement","localcounsel,management,settlement",0.25
+2406,craig hoover,settlementadministration,"leadcounsel,settlementadministration",0.5
+2406,daniel gustafson,motions,trial,0.0
+2406,daniel hedlund,motions,,0.0
+2406,david boies,"classcounsel,leadcounsel,settlement,settlementadministration","classcounsel,leadcounsel,settlementadministration",0.75
+2406,debra hayes,"management,settlement",management,0.5
+2406,dennis pantazis,"management,settlement",management,0.5
+2406,dennis reich,motions,,0.0
+2406,dianne nast,motions,classcounsel,0.0
+2406,douglass dellaccio,motions,trial,0.0
+2406,edith kallas,"leadcounsel,settlement","classcounsel,leadcounsel",0.33
+2406,eric belin,motions,,0.0
+2406,gary mason,motions,classcounsel,0.0
+2406,harley tropin,motions,,0.0
+2406,herman watson,coordination,communications,0.0
+2406,james terrell,motions,classcounsel,0.0
+2406,jason thompson,motions,,0.0
+2406,jim warren,coordination,communications,0.0
+2406,joe whatley,"leadcounsel,settlement","classcounsel,leadcounsel",0.33
+2406,joey james,motions,trial,0.0
+2406,john saxon,motions,trial,0.0
+2406,karen dyer,motions,expert,0.0
+2406,larence jones,motions,,0.0
+2406,larry mcdevitt,motions,classcounsel,0.0
+2406,lewis gillis,motions,trial,0.0
+2406,mark white,motions,trial,0.0
+2406,michael hausfeld,"classcounsel,leadcounsel,settlement","classcounsel,leadcounsel",0.67
+2406,michael mcgartland,motions,classcounsel,0.0
+2406,patrick pendley,motions,,0.0
+2406,pete strom,motions,trial,0.0
+2406,peter burke,motions,classcounsel,0.0
+2406,robert foote,motions,,0.0
+2406,robert rodin,motions,trial,0.0
+2406,stephen hanson,motions,classcounsel,0.0
+2406,tammy stokes,motions,,0.0
+2406,trish murphy,coordination,communications,0.0
+2406,uw clemson,"management,settlement",management,0.5
+2406,van bunch,motions,classcounsel,0.0
+2406,virginia buchanan,motions,classcounsel,0.0
+2406,warren burns,"classcounsel,settlement",classcounsel,0.5
+2406,wes pittman,settlement,management,0.0
+2434,diogenes kekatos,"communications,leadcounsel",communications,0.5
+2434,fred thompson,"communications,leadcounsel",leadcounsel,0.5
+2434,james ronca,"communications,leadcounsel",leadcounsel,0.5
+2434,matthew mccauley,"communications,leadcounsel",leadcounsel,0.5
+2567,hagens berman sobol shapiro,"classcounsel,settlement",classcounsel,0.5
+2567,paynter law firm,"classcounsel,settlement",classcounsel,0.5
+2567,stueve siegel hanson,"classcounsel,settlement",classcounsel,0.5
+2670,cuneo gilbert laduca,"classcounsel,leadcounsel,settlement","classcounsel,leadcounsel",0.67
+2670,del mar law group,coordination,communications,0.0
+2670,hausfeld,"classcounsel,leadcounsel,settlement","classcounsel,leadcounsel",0.67
+2670,wolf haldenstein adler freeman herz,"classcounsel,leadcounsel,settlement","classcounsel,leadcounsel",0.67
+2672,abraham fruchter twersky,"classcounsel,leadcounsel",leadcounsel,0.5
+2672,adam levitt,"classcounsel,management,settlementadministration",management,0.33
+2672,bass sox mercer,"classcounsel,settlementadministration","classcounsel,settlement",0.33
+2672,benjamin bailey,"classcounsel,management,settlementadministration",management,0.33
+2672,bernstein litowitz berger grossman,"classcounsel,leadcounsel",leadcounsel,0.5
+2672,boucher,"classcounsel,leadcounsel",leadcounsel,0.5
+2672,bradley grombacher,"classcounsel,leadcounsel",leadcounsel,0.5
+2672,christopher seeger,"classcounsel,coordination,management,settlementadministration","coordination,management",0.5
+2672,david boies,"classcounsel,management,settlementadministration",management,0.33
+2672,david casey,"classcounsel,management,settlementadministration",management,0.33
+2672,elizabeth cabraser,"classcounsel,leadcounsel,management,settlementadministration","classcounsel,leadcounsel,management",0.75
+2672,frank pitre,"classcounsel,management,settlementadministration",management,0.33
+2672,hagens berman,"classcounsel,settlementadministration","classcounsel,settlement",0.33
+2672,j stranch,"classcounsel,management,settlementadministration",management,0.33
+2672,james cecchi,"classcounsel,management,settlementadministration",management,0.33
+2672,jayne conroy,"classcounsel,management,settlementadministration",management,0.33
+2672,joseph rice,"classcounsel,management,settlementadministration",management,0.33
+2672,law offices of sahag majarian ii,"classcounsel,leadcounsel",leadcounsel,0.5
+2672,lesley weaver,"classcounsel,management,settlementadministration",management,0.33
+2672,lynn sarko,"classcounsel,management,settlementadministration",management,0.33
+2672,michael hausfeld,"classcounsel,management,settlementadministration",management,0.33
+2672,michael heygood,"classcounsel,coordination,management,settlementadministration","coordination,management",0.5
+2672,paul geller,"classcounsel,management,settlementadministration",management,0.33
+2672,robin greenwald,"classcounsel,management,settlementadministration",management,0.33
+2672,roland tellis,"classcounsel,management,settlementadministration",management,0.33
+2672,rosemary rivas,"classcounsel,management,settlementadministration",management,0.33
+2672,roxanne conlin,"classcounsel,management,settlementadministration",management,0.33
+2672,schneider wallace cottrell konecky wotkyns,"classcounsel,leadcounsel",leadcounsel,0.5
+2672,steve berman,"classcounsel,management,settlementadministration",management,0.33
+2672,w miles,"classcounsel,management,settlementadministration",management,0.33
+2773,joseph cotchett,"classcounsel,leadcounsel,management","classcounsel,management",0.67
+2773,steven williams,"leadcounsel,management","classcounsel,leadcounsel,management",0.67
+2795,anne regan,,management,0.0
+2795,benjamin meiselas,,leadcounsel,0.0
+2795,brian gunmundson,,"communications,leadcounsel",0.0
+2795,carolyn anderson,,"communications,leadcounsel",0.0
+2795,daniel hedlund,,management,0.0
+2795,franois blaudeau,,management,0.0
+2795,hart robinovitch,,"communications,leadcounsel",0.0
+2795,hynes hernandez,"communications,management","coordination,management",0.33
+2795,james mcdonough,,management,0.0
+2795,lori feldman,,leadcounsel,0.0
+2795,mark geragos,,leadcounsel,0.0
+2795,omara mark,,leadcounsel,0.0
+2795,richard hagstrom,,management,0.0
+2795,roxanne conlin,,management,0.0
+2800,craig gillen,coordination,communications,0.0
+2800,david worley,"classcounsel,coordination","classcounsel,communications",0.33
+2800,marybeth gibson,coordination,communications,0.0
+2800,ranse partin,coordination,communications,0.0
+2800,roy barnes,"classcounsel,coordination","classcounsel,communications",0.33
+2817,peggy wedgworth,leadcounsel,"classcounsel,leadcounsel",0.5
+2817,samuel issacharoff,coordination,"coordination,management",0.5
+2836,furniss davis rashkind and saunders,coordination,communications,0.0
+2836,hagens berman sobol shapiro,"leadcounsel,management","classcounsel,leadcounsel",0.33
+2836,kristen johnson,"classcounsel,leadcounsel,management,settlement","classcounsel,leadcounsel",0.5
+2836,thomas sobol,"classcounsel,leadcounsel,management,settlement","classcounsel,leadcounsel",0.5
+2836,william monroe,"localcounsel,management",localcounsel,0.5
+2848,dino sangiamo,coordination,communications,0.0

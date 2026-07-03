@@ -1,0 +1,1254 @@
+﻿Firm_ID,Canonical_Firm,AKA_1,AKA_2,AKA_3,Variants_Merged,N_MDLs,N_Mentions,MDLs
+F0001,Cohen Milstein Sellers & Toll PLLC,"Cohen, Milstein, Hausfeld & Toll, P.L.L.C.","Cohen, Milstein, Hausfeld & Toll P.L.L.C.","COHEN, MILSTEIN, HAUSFELD & TOLL, P.L.L.C.",8,36,88,"623, 1656, 1658, 1682, 1684, 1717, 1768, 1775, 1793, 1826, 1854, 1862, 1895, 1933, 1935, 1942, 1950, 2017, 2063, 2109, 2213, 2293, 2409, 2471, 2508, 2521, 2540, 2583, 2617, 2668, 2972, 3062, 3083, 3113, 3144, 3148"
+F0002,"Lieff Cabraser Heimann & Bernstein, LLP","Lieff, Cabraser, Heimann & Bernstein, LLP","LIEFF CABRASER HEIMANN & BERNSTEIN, LLP","Lieff, Cabraser, Heimann & Bernstein",7,33,72,"1657, 1708, 1715, 1742, 1785, 1791, 1827, 1905, 1914, 2001, 2143, 2223, 2269, 2284, 2299, 2302, 2335, 2416, 2481, 2617, 2905, 2938, 2996, 3014, 3026, 3035, 3051, 3071, 3078, 3084, 3089, 3108, 65000"
+F0003,"Schiffrin Barroway Topaz & Kessler, LLP","Barroway Topaz Kessler Meltzer & Check, LLP",Barroway Topaz Kessler Meltzer & Check LLP,"Schiffrin & Barroway, LLP",6,11,22,"1656, 1658, 1708, 1725, 1807, 1963, 1989, 2003, 2025, 2027, 2058"
+F0004,"Bartimus, Frickleton, Robertson & Gorny, P.C.","Bartimus, Frickleton, Robertson & Gorny P.C.","Bartimus Frickleton Robertson & Gorny, P.C.","BARTIMUS, FRICKLETON, ROBERTSON & GORNY, P.C.",6,5,12,"1907, 2147, 2314, 2358, 2443"
+F0005,Anapol Weiss,"Anapol, Schwartz, Weiss, Cohan, Feldman and Smalley, P.C.",Anapol Schwartz Weiss Cohan Feldman & Smalley P.C.,"Anapol, Schwartz, Weiss, Cohan, Feldman & Smalley, P.C.",5,9,12,"1657, 1708, 1763, 1842, 1928, 2924, 2973, 3026, 3140"
+F0006,"Climaco, Wilcox, Peca, Tarantino & Garofoli Co., L.P.A.","Climaco, Wilcox, Peca, Tarantino & Garofoli Co., LPA","Climaco, Lefkowitz, Peca, Wilcox & Garofoli Co., L.P.A.","Climaco, Lefkowitz, Peca, Wilxcox & Garofoli Co., LPA",5,8,8,"1708, 1968, 2066, 2199, 2220, 2223, 2299, 2333"
+F0007,"Schlicter Board & Denton, LLP",Schlicter Bogard & Denton,"Schlichter, Bogard & Denton",Schlichter Bogart & Denton,5,5,8,"1742, 1909, 2973, 3026, 3092"
+F0008,"Pearson, Simon & Warshaw, LLP","Pearson, Simon, Warshaw & Penny, LLP","Pearson, Simon, Soter, Warshaw & Penny, LLP","Pearson Warshaw, LLP",5,18,56,"1822, 1827, 1972, 1996, 2143, 2186, 2196, 2330, 2476, 2719, 2909, 2972, 2985, 2998, 3001, 3031, 3107, 3108"
+F0009,Hagens Berman Sobol Shapiro LLP,HAGENS BERMAN SOBOL SHAPIRO LLP,"Hagens Berman Sobol Shapiro, LLP",Hagens Berman,4,48,112,"1657, 1708, 1717, 1730, 1745, 1825, 1850, 1907, 1919, 1934, 1938, 1972, 1977, 2011, 2023, 2052, 2058, 2075, 2086, 2143, 2193, 2242, 2293, 2330, 2343, 2405, 2409, 2424, 2455, 2519, 2521, 2619, 2938, 2946, 2966, 2981, 2998, 3014, 3019, 3031, 3040, 3052, 3071, 3073, 3080, 3083, 3113, 3149"
+F0010,"OFFICE OF THE ATTORNEY GENERAL, STATE OF FLORIDA",Attorney General of the State of Texas,Attorney General of the State of Connecticut,Attorney General of the State of Ohio,4,2,8,"1657, 2293"
+F0011,"Aylstock, Witkin, Kreis & Overholtz","Aylstock, Witkin, Kreis & Overholtz, PLLC","Aylstock, Witkin, Kreis & Overholtz PLLC","Aylstock Witkin Kreis & Overholtz, PLLC",4,14,24,"1905, 1928, 1998, 2299, 2342, 2458, 2973, 3015, 3025, 3079, 3080, 3089, 3094, 3140"
+F0012,"Robinson, Calcagnie & Robinson","Robinson Calcagnie Robinson Shapiro Davis, Inc.",Robinson Calcagnie,Robinson Calcagnie & Robinson Inc.,4,7,11,"1905, 1909, 1953, 2342, 2458, 3094, 3140"
+F0013,"Clayeo C. Arnold, A Professional Law Corp.","Clayeo C. Arnold, A Profession Corporation",Clayeo C. Arnold A Professional Corporation,"Clayeo C. Arnold, APC",4,2,4,"2994, 3056"
+F0014,"Beasley, Allen, Crow, Methvin, Portis & Miles, P.C.","Beasley, Allen, Crow, Methvin, Portis & Miles, PC",Beasley Allen,"BEASLEY, ALLEN, CROW, METHVIN, PORTIS & MILES, P.C.",3,15,31,"1657, 1789, 2223, 2342, 2502, 2583, 2903, 2905, 2924, 3004, 3015, 3051, 3094, 3114, 3140"
+F0015,"Levin, Fishbein, Sedran & Berman",Levin Sedran & Berman LLP,Levin Fishbein Sedran & Berman,Levin Sedran & Berman,3,19,66,"1657, 1763, 1775, 1817, 2000, 2223, 2274, 2290, 2342, 2359, 2514, 3014, 3050, 3056, 3083, 3089, 3094, 3108, 3114"
+F0016,"Levin, Papantonio, Thomas, Mitchell, Echsner & Proctor, P.A.","LEVIN, PAPANTONIO, THOMAS, MITCHELL, ECHSNER & PROCTOR, PA","Levin, Papantonio, Thomas, Mitchell, Echsner & Procter, PA","Levin Papantonio Thomas Mitchell Eschner & Proctor, P.A.",3,7,9,"1657, 1708, 1742, 1789, 1909, 1928, 1968"
+F0017,Berman DeValerio,Berman DeValerio Pease Tabacco Burt & Pucillo,Berman DeValerio LLP,BERMAN DEVALERIO,3,8,16,"1671, 1819, 1889, 1898, 1963, 2143, 2242, 2409"
+F0018,"Carlson Lynch, LLP","Carlson Lynch Sweet Kilpela & Carpenter, LLP",Carlson Lynch LTD.,Carlson Lynch,3,7,16,"1674, 2583, 2948, 2968, 2969, 2972, 2984"
+F0019,Robbins Geller Rudman & Dowd LLP,Coughlin Stoia Geller Rudman & Robbins LLP,Lerach Coughlin Stoia Geller Rudman & Robbins LLP,Coughlin Stoia Geller Rudman & Robbins,3,32,61,"1658, 1675, 1704, 1706, 1780, 1791, 1820, 1825, 1850, 1895, 1897, 1940, 2007, 2052, 2075, 2082, 2186, 2188, 2199, 2238, 2254, 2258, 2481, 2521, 2905, 2921, 2924, 2972, 2996, 3080, 3089, 3096"
+F0020,Whatley Drake & Kallas,"Whatley Drake, LLC",Whatley Drake & Kallas LLC,"Whatley Drake & Kallas, LLC",3,16,23,"1658, 1780, 1785, 1811, 1838, 1865, 1897, 1905, 1907, 1928, 1934, 1967, 1997, 2068, 2074, 2199"
+F0021,"James, Hoyer, Newcomer & Smiljanich","James Hoyer Newcomer & Smiljanich, P.A.","James, Hoyer, Newcomber & Smiljanich, P.A.","James, Hoyer, Newcomer, Smiljanich & Yanchunis, P.A.",3,3,4,"1715, 1825, 2173"
+F0022,"Heins Mills & Olson, P.L.C.","Heins, Mills & Olson, PLC",Heins Mills & Olson PLC,"Heins, Mills & Olson, P.L.C.",3,8,17,"1708, 1957, 1999, 2481, 2514, 2521, 2583, 2619"
+F0023,"Kantrowitz, Goldhamer & Graifman, P.C.","Kantrowitz, Goldhammer & Graifman, PC",Goldhammer & Graifman,"KANTROWITZ, GOLDHAMER & GRAIFMAN, P.C.",3,6,7,"1725, 2583, 2903, 2972, 3078, 3115"
+F0024,Wolf Haldenstein Adler Freeman & Herz LLP,Wolf Haldenstein Adler Freeman & Herz LLC,"Wolf Haldenstein Adler Freeman & Herz, LLC","WOLF HALDENSTEIN ADLER FREEMAN & HERZ, LLC",3,15,26,"1751, 1807, 1811, 1907, 1990, 1997, 2031, 2052, 2070, 2233, 2258, 2284, 2903, 3009, 3107"
+F0025,Lovell Stewart Halebian Jacobson LLP,Lovell Stewart Halebian LLP,Lovell Stewart & Halebian LLP,"Lovell, Stewart Halebian, LLP",3,12,28,"1775, 1780, 1807, 1935, 1946, 1957, 1996, 1997, 2031, 2213, 2389, 2481"
+F0026,"Cotchett, Pitre & McCarthy","Cotchett, Pitre & McCarthy, LLP",Cotchett Pitre & McCarthy,"Cotchett, Pitre, & McCarthy, LLP",3,26,44,"1775, 1780, 1793, 1807, 1819, 1968, 1972, 1987, 2017, 2109, 2143, 2145, 2233, 2335, 2451, 2471, 2992, 2993, 3031, 3040, 3051, 3089, 3107, 3114, 3115, 3119"
+F0027,Stueve Siegel Hanson LLP,Stueve Siegel Hanson Woody LLP,Stueve Siegel Hanson LLP - KCMO,STUEVE SIEGEL HANSON LLP,3,13,31,"1786, 2086, 2138, 2361, 2583, 2915, 2955, 2975, 3019, 3073, 3098, 3108, 3115"
+F0028,"Cory, Watson, Crowder & DeGaris","Cory Watson, P.C.","Cory, Watson, Crowder & DeGaris, P.C.","Corey, Watson, Crowder & DeGaris, P.C.",3,12,19,"1785, 1789, 1842, 1905, 1928, 2087, 2502, 2903, 2924, 2973, 3081, 3125"
+F0029,"Williams, Kherkher, Hart & Boundas LLP","Williams Kherkher Hart Boundas, LLP","Williams Kherkher Hart Boundas, LLC","Williams, Kherker, Hart, Boundas, LLP",3,5,6,"1842, 1905, 1928, 2068, 3084"
+F0030,"Casey Gerry Schenk Francavilla Blatt & Penfield, LLP",Casey Gerry Francavilla Blatt LLP,Casey Gerry Schenk Francavilla Blatt & Penfield,"Casey, Gerry Schenk Francavilla Blatt & Penfield, LLP",3,8,13,"2087, 2258, 2905, 2992, 3040, 3098, 3115, 3149"
+F0031,DiCello Levitt Gutzler LLC,DiCello Levitt,DiCello Levitt LLP,Dicello Levitt Gutzler,3,16,29,"2314, 2904, 2905, 2909, 2972, 3004, 3019, 3026, 3060, 3079, 3087, 3089, 3094, 3107, 3115, 3148"
+F0032,Tennessee Attorney General's Office,Colorado Attorney General's Office,California Attorney General's Office,,3,2,3,"2446, 3047"
+F0033,Milberg Weiss & Bershad LLP,Milberg Weiss Bershad & Schulman LLP,"Milberg Weiss Bershad & Schulman, LLP",,2,3,7,"1656, 1658, 1671"
+F0034,"BARRIOS, KINGSDORF & CASTIEX, LLP","Barrios, Kingsdorf & Casteix, LLP",Barrios Kingsdorf & Casteix,,2,2,7,"1657, 2299"
+F0035,"Hill Toriseva & Williams, PLLC",Hill Williams,,,2,3,4,"1657, 1708, 1909"
+F0036,"Herman, Herman & Katz, LLC","HERMAN, HERMAN, KATZ & COTLAR, L.L.P.","Herman, Herman, Katz & Cotlar, L.L.P.","Herman, Herman, Katz & Cotlar, LLP",2,2,20,"1657, 2328"
+F0037,"BLIZZARD, MCCARTHY & NABERS, L.L.P.","Blizzard, McCarthy & Nabers","Blizzard, McCarthy & Nabers LLC",Blizzard & Nabers,2,5,6,"1657, 1968, 2004, 2342, 2458"
+F0038,"Weitz & Luxenberg, P.C.",Weitz & Luxenberg,WEITZ & LUXENBERG,"Weitz & Luxenberg, PC",2,9,13,"1657, 1708, 1742, 2087, 2299, 2973, 3014, 3080, 3140"
+F0039,CAFFERTY FAUCHER LLP,"Cafferty Faucher, LLP",Cafferty Faucher LLP,Miller Faucher and Cafferty,2,5,6,"1657, 1715, 1997, 2334, 2373"
+F0040,Labaton Sucharow LLP,LABATON SUCHAROW LLP,Labaton Sucharow,"Labaton Sucharow, LLP",2,19,73,"1657, 1745, 1749, 1775, 1888, 1935, 1942, 1957, 1963, 2007, 2027, 2186, 2196, 2213, 2284, 2328, 2389, 2966, 2993"
+F0041,KLAFTER OLSEN & LESSER LLP,Klafter Lesser LLP,,,2,3,6,"1657, 2025, 2989"
+F0042,"COHEN, PLACITELLA & ROTH","Cohen, Placitella & Roth","Cohen, Placitella & Roth, A Professional Corporation",,2,3,5,"1657, 1763, 1817"
+F0043,Bernstein Litowitz Berger & Grossmann LLP,Bernstein Litowitz Berger & Grossman LLP,"Bernstein, Litowitz, Berger & Grossmann, LLP","Bernstein, Litowitz, Berger & Grossmann LLP",2,13,27,"1658, 1725, 1741, 1777, 1898, 1919, 1933, 2011, 2017, 2027, 2058, 2335, 2389"
+F0044,Finkelstein Thompson LLP,Finkelstein Thompson law firm,"Finkelstein, Thompson & Loughran",Finkelstein Thompson & Loughran,2,11,16,"1671, 1733, 1780, 1940, 1998, 2046, 2226, 2274, 2330, 2389, 2481"
+F0045,Kirby McInerney LLP,Kirby McInerney & Squire LLP,KIRBY McINERNEY LLP,Kirby McInerney,2,8,12,"1671, 1741, 1935, 1946, 1957, 2968, 3031, 3119"
+F0046,"Much Shelist Freed Denenberg Ament & Rubenstein, P.C.","Much, Shelist, Freed, Denenberg, Ament & Rubenstein, P.C.","Much Shelist Freed Denenberg Ament & Rubenstein, PC","MUCH SHELIST FREED DENENBERG AMENT & RUBENSTEIN, P.C.",2,2,6,"1682, 1768"
+F0047,"Walters Bender Strohbehn & Vaughan, P.C.","Walters Bender Strohbehn Vaughn, PC",Walters Bender Strohbehn & Vaughan,"WALTERS BENDER STROHBEHN & VAUGHAN, P.C.",2,4,10,"1674, 1785, 1840, 1967"
+F0048,Kaplan Fox & Kilsheimer LLP,"Kaplan, Fox & Kilsheimer, LLP",Kaplan Fox and Kilsheimer LLP,"Kaplan Fox & Kilsheimer, LLP",2,21,73,"1682, 1684, 1775, 1895, 1912, 1933, 1940, 1972, 1997, 2058, 2086, 2143, 2275, 2314, 2328, 2358, 2471, 2508, 2583, 2931, 3097"
+F0049,Garwin Gerstein & Fisher LLP,GARWIN GERSTEIN & FISHER LLP,"Garwin Gerstein & Fisher, LLP","Garwin, Gerstein & Fisher LLP",2,6,14,"1658, 1730, 1888, 2242, 2409, 2521"
+F0050,Cohn Lifland Pearlman Herrmann & Knopf LLP,COHN LIFLAND PEARLMAN HERRMANN & KNOPF LLP,"Cohn, Lifland, Pearlman, Herrmann & Knopf LLP",Cohn Lifland Peariman Herrmann & Knopf LLP,2,4,7,"1658, 1730, 2471, 3080"
+F0051,"Saveri & Saveri, Inc","Joseph Saveri Law Firm, Inc.","Saveri & Saveri, Inc.","The Joseph Saveri Law Firm, Inc.",2,4,6,"1717, 2143, 2521, 2966"
+F0052,"Lite DePalma Greenberg & Rivas, LLC","Lite DePalma and Greenberg, LLC","Lite DePalma & Greenberg, LLC","Lite DePalma Greenberg, LLC",2,7,10,"1658, 1763, 2025, 2290, 2564, 2602, 2904"
+F0053,Lockridge Grindal Nauen PLLP,Lockridge Grindal Nauen P.L.L.P.,"Lockridge Grindal Nauen, PLLP",LOCKRIDGE GRINDAL NAUEN PLLP,2,34,71,"1658, 1708, 1775, 1817, 1905, 1942, 1943, 1958, 1990, 1996, 2000, 2098, 2223, 2247, 2264, 2274, 2290, 2359, 2583, 2903, 2915, 2948, 2993, 2998, 3031, 3074, 3079, 3083, 3097, 3107, 3108, 3110, 3113, 3148"
+F0054,National Consumer Law Center,The National Consumer Law Center,"Chicago Consumer Law Center, P.C.",,2,4,4,"1715, 2274, 2290, 2948"
+F0055,"Law Offices of Daniel E. Becnel, Jr.",Daniel Becnel Law Office,,,2,3,3,"1708, 1742, 2220"
+F0056,ABBEY SPANIER RODD ABRAMS & PARADIS LLP,"ABBEY SPANIER RODD ABRAMS & PARADIS, LLP","Abbey Spanier Rodd & Abrams, LLP",,2,3,3,"1730, 1737, 2167"
+F0057,"Murray, Frank & Sailer, L.L.P.","Murray Frank, LLP",,,2,2,2,"1749, 2167"
+F0058,Bartlit Beck Herman Palenchar & Scott LLP,"Bartlit Beck Herman Palenchar & Scott, LLP",Bartlit Beck,,2,5,9,"1733, 1909, 1928, 2023, 2284"
+F0059,Kilpatrick Stockton LLP,KILPATRICK TOWNSEND & STOCKTON LLP,,,2,2,2,"1733, 2200"
+F0060,"Botros, Behnke & Schulte","Behnke, Martin & Schulte, LLC",,,2,2,2,"1742, 2226"
+F0061,Glancy Binkow & Goldberg LLP,Glancy Binkow and Goldberg LLP,"Glancy Binkow & Goldberg, LLP",Glancy Binkow & Goldberg,2,6,10,"1739, 1891, 2173, 2186, 2269, 2357"
+F0062,"Spector Roseman Kodroff & Willis, P.C.","Spector Roseman & Kodroff, P.C.","Spector, Roseman & Kodroff, PC","SPECTOR ROSEMAN & KODROFF, P.C.",2,8,22,"1745, 2081, 2186, 2931, 2966, 2993, 3107, 3113"
+F0063,"Robins, Kaplan, Miller & Ciresi L.L.P.","Robins, Kaplan, Miller & Ciresi LLP","ROBINS, KAPLAN, MILLER & CIRESI L.L.P.","Robins, Kaplan, Miller & Cirisi LLP",2,5,13,"1775, 1935, 2196, 2213, 2471"
+F0064,"Furth Lehmann & Grant, LLP",Furth Lehmann LLP,,,2,2,2,"1775, 1826"
+F0065,"Zelle Hofmann Voelbel Mason & Gette, LLP","Zelle, Hoffman, Voelbel, Mason & Gette-MN","Zelle, Hofmann, Voelbel, Mason & Gette LLP",,2,5,6,"1775, 1819, 1826, 1827, 1957"
+F0066,"McGowan, Hood, Felder & Johnson","McGowan, Hood, Felder & Phillips, LLC",,,2,2,4,"1785, 3107"
+F0067,Goldman Scarlato & Karon,"Goldman, Scarlato, Karon & Penny, PC",,,2,2,3,"1785, 2409"
+F0068,"Murdock, Goldenberg, Schneider & Groh, LPA","Goldenberg Schneider, LPA",,,2,2,6,"1796, 2316"
+F0069,"Ogletree, Deakins, Nash, Smoak & Stewart, P.C",Ogletree Deakins,,,2,2,5,"1796, 2945"
+F0070,Zelle Hofmann Voelbel & Mason LLP,Zelle Hoffman Voelbel & Mason LLP,,,2,3,4,"1819, 1827, 2029"
+F0071,Blackwell Sanders Peper Martin LLP,"Blackwell Sanders, LLP",,,2,2,2,"1811, 1840"
+F0072,"Bonnett, Fairbourn, Friedman & Balint, P.C.","Bonnett, Fairbourn, Friedman, & Balint, P.C.","Bonnett, Fairbourn, Friedman & Balint, PC","BONNETT FAIRBOURN FRIEDMAN & BALINT, P.C.",2,7,14,"1825, 1974, 2074, 2087, 2238, 2324, 2994"
+F0073,"Horn Aylward & Bandy, LLC","HORN AYLWARD & BANDY, LLC","Horn Alward & Bandy, LLC","Horn, Aylward & Bandy, LLC",2,2,14,"1840, 2936"
+F0074,Parker Waichman Alonso LLP,"Parker, Waichman, Alonso LLP","Parker Waichman & Alonso, LLP","Parker, Waichman & Alonso, LLP",2,9,9,"1842, 1909, 1968, 2023, 2051, 2068, 2220, 2223, 2299"
+F0075,"Foote, Meyers, Mielke & Flowers, LLC","Meyers & Flowers, LLC","Foote, Meyers, Mielke & Flowers, L.L.C.",,2,4,5,"1865, 1997, 2023, 3004"
+F0076,"Barkan Neff Handelman Meizlish, LLP",Barakan Neff Handelman Meizlish LLP,,,2,2,2,"1854, 2025"
+F0077,"Gainsburgh, Benjamin, David, Meunier & Warshauer, L.L.C.","Gainsburgh, Benjamin","Gainsburgh, Benjamin, David, Meunier & Warshauer, LLC","Gainsburgh, Benjamin, David, Meunier & Warshauer, L.L.C",2,3,12,"1873, 2328, 3014"
+F0078,"Doffermyre Shields Canfield & Knowles, LLC",Doffermyre Shields Canfield Knowles & Devine,,,2,2,3,"1895, 2583"
+F0079,"Shepherd, Finkelman, Miller & Shah, LLP","Shepherd Finkelman Miller & Shah, LLC","SHEPHERD FINKELMAN MILLER & SHAH, LLP","SHEPHERD, FINKELMAN, MILLER & SHAH, LLP",2,10,18,"1911, 1920, 1995, 2001, 2316, 2333, 2407, 2409, 2540, 2688"
+F0080,Kozyak Tropin & Throckmorton LLP,Koyzak Tropin & Throckmorton LLP,Kozyak Tropin & Throckmorton,"Kozyak Tropin & Throckmorton, LLP",2,4,6,"1907, 2619, 3071, 3080"
+F0081,DLA PIPER LLP,DLA Piper US LLP,DLA PIPER LLP (US),,2,2,6,"1909, 2924"
+F0082,"BRANSTETTER, STRANCH & JENNINGS, PLLC","Branstetter, Stranch & Jennings, PLLC","Stranch, Jennings & Garvey, PLLC","Branstetter, Stranch & Jennings PLLC",2,7,17,"1928, 2242, 2343, 2903, 3032, 3035, 3127"
+F0083,"Kahn Swick & Foti, LLC","Kahn, Gauthier, Swick, LLC",,,2,2,5,"1931, 2058"
+F0084,Mayer Brown LLP,Mayer Brown LLP (NY),,,2,3,5,"1905, 2968, 3071"
+F0085,"Napoli, Bern, Ripka, LLP","NAPOLI BERN RIPKA, LLP",Napoli Bern Ripka Shkolnik LLP,,2,2,3,"1928, 2385"
+F0086,"Carey, Danis & Lowe",Carey Danis & Lowe,"Carey & Danis, L.L.C.","Carey and Danis, LLC",2,7,14,"1928, 1943, 2001, 2269, 2290, 3004, 3078"
+F0087,Sidley Austin LLP,Sidley Austin (Chicago),,,2,2,2,"1928, 2299"
+F0088,"Quinn Emanuel Urquhart & Sullivan, LLP",Quinn Emanuel Urquhart & Sullivan LLP,Quinn Emanuel,"Quinn, Emanuel, Urquhart & Sullivan, LLP",2,10,28,"1938, 2196, 2342, 2476, 2502, 2577, 2925, 2931, 3062, 3103"
+F0089,ARNOLD & PORTER KAYE SCHOLER LLP,Arnold & Porter LLP,"Arnold & Porter, LLP",Arnold & Porter,2,3,8,"1953, 2068, 2924"
+F0090,Whitfield Bryson & Mason LLP,"Whitfield Bryson & Mason, LLP","Whitfield, Bryson & Mason, LLP","WHITFIELD BRYSON & MASON, LLP",2,9,24,"1958, 2000, 2333, 2514, 2577, 2688, 2938, 2972, 3021"
+F0091,"Gibson, Dunn & Crutcher LLP","Gibson, Dunn & Curtcher LLP","Gibson, Dunn & Crutcher LLC",,2,3,9,"1972, 3032, 3071"
+F0092,"Pittman, Dutton, Kirby & Hellums, P.C.","Pittman, Dutton, Kirby & Hellums","Pittman, Dutton & Hellums, P.C.",,2,3,4,"1985, 2087, 2903"
+F0093,Shepherd Finkelman Miller & Shah - Chester,Shepherd Finkelman Miller & Shah - San Diego,,,2,1,2,2001
+F0094,"Foley, Bezek, Behle & Curtis","Foley, Bezek, Behle & Curtis, LLP",Foley Bezek Behle & Curtis,"Foley, Bezek, Behele & Curtis",2,3,4,"2028, 2054, 2141"
+F0095,Kiesel Boucher Larson LLP,"Kiesel, Boucher & Larson, LLP",Kiesel Boucher law firm,,2,3,4,"2074, 2314, 2330"
+F0096,Conley Griggs LLP,Conley Griggs Partin LLP,,,2,2,3,"2089, 2583"
+F0097,"Glancy Prongay & Murray, LLP",Glancy Prongay & Murray LLP,"Glancy, Prognay & Murray LLP",,2,3,6,"2186, 2357, 2668"
+F0098,"Isaac Wiles Burkholder & Teetor, LLC","Isaac, Wiles, Burkholder & Teeter, LLC",,,2,2,5,"2233, 2661"
+F0099,Attorneys General of the State of Texas,Attorneys General of the State of Ohio,,,2,1,2,2293
+F0100,"Andrus & Wagstaff, P.C.","Andrus, Hood & Wagstaff, PC",,,2,2,3,"2299, 2973"
+F0101,Eichen Crutchlow Zaslow LLP,"Eichen, Crutchlow, Zaslow and McElroy LLP",,,2,2,2,"2314, 2443"
+F0102,Levin Papantonio,"Levin, Papantonio, Thomas, Mitchell, Rafferty & Proctor, P.A.","LEVIN, PAPANTONIO, THOMAS, MITCHELL, RAFFERTY & PROCTOR, P.A.",,2,4,7,"2357, 2924, 3044, 3140"
+F0103,"Carella, Byrne, Cecchi, Olstein, Brody & Agnello, P.C.","Carella Byrne Cecchi Olstein Brody & Agnello, P.C.","Carella, Byrne, Cecchi, Brody & Agnello, P.C.","CARELLA, BYRNE, CECCHI, OLSTEIN, BRODY & AGNELLO, P.C.",2,19,35,"2361, 2415, 2471, 2506, 2514, 2540, 2577, 2904, 2948, 2973, 3051, 3073, 3080, 3089, 3090, 3108, 3113, 3114, 3149"
+F0104,Morgan & Morgan Complex Litigation Group,Complex Litigation Group LLC,"Complex Litigation Group, LLC",Morgan and Morgan Complex Litigation Group,2,8,14,"2361, 2415, 2506, 2577, 2583, 2915, 3014, 3115"
+F0105,Baillon Thume Jozwiak Miller & Wanta LLP,Baillon Thome Jozwiak & Wanta LLP,BAILLON THOME JOZWIAK & WANTA LLP,,2,2,3,"2359, 2564"
+F0106,Francis Mailman Soumilas P.C.,"Francis & Mailman, P.C.",,,2,2,8,"2426, 2933"
+F0107,"DeNittis Osefchen, P.C.","Denittis Osefchen Prince, P.C.",,,2,3,3,"2439, 2588, 2903"
+F0108,"Gordon & Rees, LLP","Gordon Rees Scully Mansukhani, LLP",,,2,2,4,"2478, 3090"
+F0109,Hogan Lovells US LLP,"Hogan Lovells, LLP",,,2,3,14,"2617, 3071, 3108"
+F0110,"Bryant Law Center, P.S.C.","BRYANT LAW CENTER, P.S.C.","Bryant Law Center, PSC",,2,2,8,"2936, 2996"
+F0111,"Malters, Shepher & Von Holtum","Malters, Shepherd & Von Holtum",,,2,1,5,2936
+F0112,"Milberg Coleman Bryson Phillips Grossman, PLLC",Milberg Coleman Bryson Phillips Grossman PLLC,Milberg Coleman Bryson Phillips Grossman,"MILBERG COLEMAN BRYSON PHILLIPS GROSSMAN, PLLC",2,13,23,"2938, 2988, 3009, 3025, 3032, 3035, 3056, 3059, 3078, 3096, 3108, 3127, 3149"
+F0113,"MARTIN, HARDING & MAZZOTTI","Harding Mazzotti, LLP",Harding Mazzotti,,2,3,3,"2924, 3029, 3140"
+F0114,Cafferty Clobes Meriwether & Sprengel LLP,Cafferty Clobes Meriwether & Sprengel LLP-IL,,,2,4,8,"2968, 3031, 3071, 3115"
+F0115,"Levin, Papantonio, Rafferty, Proctor, Buchanan, O’Brien, Barr & Mougey, P.A.","Levin Papantonio Rafferty Proctor Buchanan O’Brien Barr Mougey, P.A.","LEVIN, PAPANTONIO, RAFFERTY, PROCTOR, BUCHANAN, O’BRIEN, BARR & MOUGEY, P.A.","Levin, Papantonio, Proctor, Buchanan, O’Brien, Barr & Mougey, P.A.",2,11,18,"2973, 3004, 3014, 3026, 3029, 3051, 3079, 3080, 3089, 3092, 3094"
+F0116,Colson Hicks Edison,Colson Hicks Eidson,,,2,2,2,"2973, 2994"
+F0117,Tousley Brain and Stephens,Tousley Brain Stephens PLLC,Tousley Brian Stephens PLLC,,2,5,7,"2985, 3001, 3019, 3073, 3114"
+F0118,"Weisman, Kennedy & Berris Co., L.P.A.","Weisman, Kennedy & Berris",Weisman Kennedy & Berris Co. LPA,,2,3,4,"3004, 3080, 3140"
+F0119,"Herzfeld, Suetholz, Gastel, Leniski and Wall, PLLC","HERZFELD, SUETHOLZ, GASTEL, LENISKI, AND WALL, PLLC","Herzfeld, Suetholz, Gastel, Leniski, and Wall, PLLC","Herzfeld Suetholz Gastel Liniski & Wall, PLLC",2,4,7,"3026, 3071, 3079, 3092"
+F0120,Hellmuth & Johnson PLL C,Hellmuth & Johnson PLLC,,,2,1,4,2993
+F0121,Javerbaum Wurgaft Hicks Kahn Wikstrom & Sinins PC,"JAVERBAUM WURGAFT HICKS KAHN WIKSTROM & SININS, P.C.","Javerbaum Wurgaft Hicks Kahn & Sinins, P.C.",,2,2,5,"3081, 3113"
+F0122,Critchley & Kinum,"CRITCHLEY, KINUM & LURIA, LLC",,,2,1,2,3113
+F0123,"DAVIS, BETHUNE & JONES, LLC",,,,1,1,2,1657
+F0124,Wagstaff & Cartmell,"Wagstaff & Cartmell, LLP",WAGSTAFF & CARTMELL LLP,Wagstaff & Cartmell LLP,1,11,15,"1657, 2342, 2458, 2936, 3026, 3073, 3080, 3081, 3089, 3094, 3140"
+F0125,Branch Law Firm,,,,1,2,3,"1657, 2502"
+F0126,Burg Simpson Eldredge Hersh & Jardine,"Burg Simpson Eldredge Hersh & Jardine, P.C.","Burg, Simpson, Eldredge, Hersh & Jardine","Burg Simpson Eldredge Hersh Jardine, P.C.",1,6,11,"1657, 1742, 1909, 1953, 2100, 2973"
+F0127,Girardi and Keese,Girardi | Keese,GIRARDI & KEESE,Girardi & Keese,1,4,11,"1657, 1807, 2186, 2404"
+F0128,Lanier Law Firm,The Lanier Law Firm,THE LANIER LAW FIRM,"Lanier Law Firm, P.C.",1,8,15,"1657, 1953, 2502, 2973, 3036, 3080, 3081, 3114"
+F0129,Singleton Law Firm,The Singleton Law Firm,,,1,2,4,"1657, 2299"
+F0130,"Aylstock, Witkin & Sasser, PLC",,,,1,2,3,"1657, 1708"
+F0131,Seeger Weiss LLP,Seeger Weiss,"Seeger Weiss, LLP",SEEGER WEISS,1,31,56,"1657, 1708, 1742, 1789, 1811, 1817, 1842, 1862, 1909, 1938, 2001, 2074, 2087, 2196, 2299, 2333, 2342, 2361, 2415, 2506, 2514, 2973, 3014, 3080, 3089, 3094, 3108, 3113, 3114, 3121, 3140"
+F0132,Murray Law Firm,MURRAY LAW FIRM,the Murray Law Firm,,1,7,12,"1657, 1789, 2068, 2299, 2583, 2668, 3108"
+F0133,"FREESE & GOSS, PLLC",,,,1,1,2,1657
+F0134,"SADIN LAW FIRM, P.C.",,,,1,1,2,1657
+F0135,"PRICE WAICUKAUSKI & RILEY, LLC",,,,1,1,2,1657
+F0136,SOMMERS SCHWARTZ,,,,1,1,2,1657
+F0137,KENNEY EGAN MCCAFFERTY & YOUNG,,,,1,1,2,1657
+F0138,SCOTT YUNG LLP,,,,1,1,2,1657
+F0139,THE IVEY LAW FIRM,,,,1,1,2,1657
+F0140,"BOSSIER & ASSOCIATES, PLLC","Bossier & Associates, PLLC",,,1,2,5,"1657, 3029"
+F0141,"WALLACE, JORDAN, RATLIFF & BRANDT, LLC",,,,1,1,2,1657
+F0142,"SLATE KENNEDY, LLC",,,,1,1,2,1657
+F0143,"Johnston, Hoefer, Holwadel & Eldridge",,,,1,1,1,1657
+F0144,WILLIAMS & CONNOLLY LLP,Williams & Connolly,"Williams & Connolly, LLP",Williams & Connolly LLP,1,4,13,"1657, 2924, 3103, 3140"
+F0145,Hughes Hubbard & Reed LLP,,,,1,1,2,1657
+F0146,O’Melveny & Meyers LLP,,,,1,1,2,1657
+F0147,"Stanley, Flanagan & Reuter, LLC",,,,1,1,2,1657
+F0148,Stone Pigman Walther Wittmann LLC,"Stone Pigman Walther Wittmann, LLC",,,1,1,4,1657
+F0149,DUGAN LAW FIRM,"The Dugan Law Firm, LLC",Dugan Law Firm,THE DUGAN LAW FIRM,1,7,11,"1657, 1938, 2242, 2409, 2996, 3080, 3140"
+F0150,"Tate Law Group, LLC",,,,1,2,2,"1657, 2000"
+F0151,"OFFICE OF ANDREW M. CUOMO, NEW YORK STATE ATTORNEY GENERAL",,,,1,1,2,1657
+F0152,"FOSLER LAW GROUP, INC.",,,,1,1,2,1657
+F0153,"LAW OFFICES OF STUART A. KRITZER, P.C.",,,,1,1,2,1657
+F0154,NEW YORK CITY LAW DEPARTMENT,,,,1,1,2,1657
+F0155,"ASHCRAFT & GEREL, LLP",Ashcraft & Gerel,"Ashcraft & Gerel, LLP",,1,4,5,"1657, 1742, 1789, 1909"
+F0156,"LEVY PHILLIPS & KONINGSBERG, LLP",,,,1,1,2,1657
+F0157,"ROSSBACH HART, PC",,,,1,1,2,1657
+F0158,"STEELE & BIGGS, LLC",,,,1,1,2,1657
+F0159,Tulane Civil Litigation Clinic,,,,1,1,1,1657
+F0160,Zzard Nobel LL,,,,1,1,1,1658
+F0161,Keller Rohrback L.L.P.,Keller Rohrback LLP,"Keller Rohrback, L.L.P.","Keller Rohrback, LLP",1,20,34,"623, 1658, 1725, 1735, 1919, 1933, 1963, 2290, 2905, 2938, 2972, 3019, 3052, 3073, 3080, 3089, 3098, 3107, 3144, 3148"
+F0162,"Trujillo Rodriguez & Richards, LC",,,,1,1,1,1658
+F0163,"Stull, Stull & Brody",Stull Stull & Brody,"Stull, Stull, & Brody",,1,8,14,"422, 1658, 1725, 1889, 2003, 2583, 2903, 2972"
+F0164,"Brower Piven, A Professional Corporation","Brower Piven, a Professional Corporation",,,1,4,6,"1658, 1933, 1961, 1963"
+F0165,Pomerantz Haudek Block Grossman & Gross LLP,,,,1,1,3,1671
+F0166,Freed Kanner London & Millen LLC,FREED KANNER LONDON & MILLEN LLC,"Freed Kanner London & Millen, LLC",Freed Kanner London & Millen,1,15,30,"1682, 1768, 1942, 1946, 1957, 2186, 2471, 2719, 2948, 3025, 3031, 3107, 3110, 3113, 3114"
+F0167,Hausfeld LLP,"Hausfeld, LLP",HAUSFELD LLP,"HAUSFELD, LLP",1,33,86,"1682, 1768, 1775, 1912, 1935, 1942, 1950, 1982, 2007, 2143, 2186, 2196, 2213, 2335, 2583, 2668, 2904, 2925, 2948, 2977, 2981, 3019, 3031, 3056, 3071, 3073, 3074, 3096, 3097, 3108, 3113, 3127, 3149"
+F0168,"Richardson, Patrick, Westbrook & Brickman, LLC","Richardson, Patrick, Westbrook & Brickman LLC","Richardson, Patrick, Westbrook & Brickman, L.L.C.","Richardson, Patrick, Westbrook and Brickman, LLC",1,9,21,"1674, 1742, 1785, 1865, 1895, 1953, 2089, 2333, 2502"
+F0169,Law Offices of Francis O. Scarpulla,,,,1,1,2,1682
+F0170,Ball & Scott,Ball & Scott Law Offices,BALL & SCOTT,Ball & Scott Law Office,1,6,10,"1682, 1730, 1768, 1785, 1899, 2343"
+F0171,"Parish & Small, PC",,,,1,1,2,1682
+F0172,Milberg LLP,"Milberg, LLP",,,1,12,20,"1658, 1891, 1956, 2063, 2145, 2186, 2199, 2264, 2274, 2308, 2413, 2619"
+F0173,"Berger & Montague, P.C.",Berger Montague PC,Berger Montague,"Berger Montague, PC",1,35,101,"1695, 1730, 1735, 1768, 1780, 1782, 1790, 1838, 1850, 1933, 1935, 1961, 1992, 1998, 2000, 2063, 2270, 2274, 2359, 2409, 2474, 2521, 2933, 2977, 3014, 3071, 3081, 3083, 3097, 3108, 3113, 3119, 3121, 3128, 3149"
+F0174,"Bolognese & Associates, LLC",Bolognese & Associates LLC,BOLOGNESE & ASSOCIATES LLC,,1,2,6,"1682, 1768"
+F0175,Grand & Eisenhofer,,,,1,1,1,1688
+F0176,The Law Offices of Daniel O. Myers,,,,1,1,1,1674
+F0177,Legg Law Firm,,,,1,1,1,1674
+F0178,Law Offices of Franklin Nix,,,,1,1,1,1674
+F0179,"Grant & Eisenhofer, P.A.",Grant & Eisenhofer P.A.,Grant & Eisenhofer,Grant and Eisenhofer P.A.,1,15,23,"1688, 1725, 1749, 1938, 2027, 2058, 2196, 2233, 2258, 2284, 2415, 2481, 2521, 2973, 3140"
+F0180,"Robbins Umeda & Fink, LLP",,,,1,3,6,"1658, 1714, 1963"
+F0181,The Lemmon Law Firm,"Lemmon Law Firm, LLC",,,1,2,2,"1658, 2514"
+F0182,Goforth Lewis Sanford,"Goforth Lewis Sanford, LLP",,,1,2,2,"1699, 1789"
+F0183,"Kohn, Swift & Graf, P.C.",,,,1,6,13,"1684, 1912, 1952, 2233, 2506, 2688"
+F0184,Gold Bennett Cera & Sidener LLP,"Gold Bennett Cera & Sidener, LLP",,,1,6,9,"422, 1684, 1889, 1912, 2481, 2508"
+F0185,"Weiner, Brodsky, Sidman & Kider",,,,1,1,1,1677
+F0186,"Chitwood, Harley & Harnes, LLP",,,,1,1,1,1677
+F0187,"Barnow and Associates, P.C.","Barnow & Associates, P.C.",,,1,11,18,"1704, 1838, 1940, 1998, 2046, 2068, 2173, 2258, 2357, 2474, 3056"
+F0188,Jorden Burt LLP,,,,1,1,1,1712
+F0189,"Skadden, Arps, Slate, Meagher & Flom LLP","Skadden, Arps, Slate, Meagher & Flom, LLP","Skadden, Arps, Slate, Meagher & Flom, LLP & Associates",,1,5,5,"1712, 2068, 2226, 2941, 3071"
+F0190,"Eckert Seamans Cherin & Mellott, LLC",,,,1,2,2,"1712, 1928"
+F0191,"Archer & Greiner, PC",,,,1,1,1,1712
+F0192,Margolis Edelstein,,,,1,1,1,1712
+F0193,"Scott I. Fegley, Esq. Law Offices",,,,1,1,1,1712
+F0194,Swartz Campbell & Detweiler,,,,1,1,1,1712
+F0195,"Christie Pabarue Mortensen & Young, PC",,,,1,1,1,1712
+F0196,"Neblett, Beard & Arsenault","NEBLETT, BEARD & ARSENAULT","Neblett, Beard & Arsenault, LLP",Neblett Beard & Arsenault,1,11,16,"1708, 1742, 1811, 1905, 2199, 2220, 2223, 2284, 2299, 2333, 2514"
+F0197,"Locks Law Firm, LLC","LOCKS LAW FIRM, PLLC","Locks Law Firm, PLLC",Locks Law Firm,1,4,7,"1708, 1739, 1968, 2025"
+F0198,Zimmerman Reed,Zimmerman Reed LLP,"Zimmerman Reed, LLP",ZIMMERMAN REED,1,13,22,"1708, 1943, 1968, 2583, 2639, 2968, 2993, 2998, 3009, 3019, 3107, 3108, 3110"
+F0199,SHOOK HARDY & BACON LLP,"Shook, Hardy & Bacon LLP","Shook, Hardy & Bacon, LLP","Shook Hardy & Bacon, LLP",1,6,10,"1708, 1733, 1785, 1909, 2924, 3074"
+F0200,FAEGRE & BENSON,,,,1,1,2,1708
+F0201,The Furth Firm LLP,Furth Firm LLP,the Furth Firm LLP,,1,3,5,"1717, 1775, 1826"
+F0202,"Prickett, Jones & Elliott",,,,1,1,1,1717
+F0203,Law Offices of Mallison & Martinez,,,,1,1,1,1714
+F0204,Schatz & Nobel P.C.,,,,1,1,1,1658
+F0205,Johnson & Perkinson,,,,1,1,1,1658
+F0206,Scott+Scott Attorneys at Law LLP,Scott + Scott Attorneys at Law LLP,Scott+Scott LLP,Scott & Scott,1,24,37,"1658, 1992, 2074, 2086, 2208, 2361, 2409, 2415, 2583, 2619, 2948, 2968, 3031, 3050, 3056, 3071, 3074, 3080, 3081, 3108, 3114, 3115, 3119, 3140"
+F0207,"Trujillo Rodriguez & Richards, LLC","Trujillo, Rodriguez & Richards, LLC",,,1,4,4,"1658, 1777, 1782, 1914"
+F0208,Brickfield & Donahue,,,,1,1,1,1658
+F0209,Roddy Klein & Ryan,RODDY KLEIN & RYAN,,,1,5,6,"1715, 1974, 2193, 2233, 2290"
+F0210,Consumer Law Group,,,,1,1,1,1715
+F0211,"Edelman, Combs, Latturner & Goodwin, LLC","Edelman, Combs, Latturner & Goodwin",,,1,4,7,"1715, 1767, 2223, 2439"
+F0212,"Nix, Patterson & Roach, LLP","Nix, Patterson & Roach, L.L.P.","NIX, PATTERSON & ROACH, L.L.P.",,1,3,6,"1725, 2335, 2502"
+F0213,"Morgan & Meyers, PLC",,,,1,1,1,1725
+F0214,"Alexander, Hawes & Audet, LLP",,,,1,1,1,1708
+F0215,"Kershaw, Cutter & Ratinoff, LLP","Kershaw, Cutter & Ratinoff LLP",,,1,3,4,"1708, 1905, 1968"
+F0216,Harke & Clasby LLP,Harke & Clasby,"Harke & Clasby, LLP",,1,6,8,"1708, 1739, 1745, 1785, 1998, 2046"
+F0217,Cohen & Malad LLP,"Cohen & Malad, LLP",,,1,2,3,"1708, 3127"
+F0218,"Lopez, Hodes, Restaino, Milman & Skikos",,,,1,2,4,"1708, 1742"
+F0219,"Rheingold, Valet, Rheingold, Shkolnik & McCartney LLP","Rheingold, Valet, Rheingold, Shkolnik & Mccartney LLP","Rheingold,Valet, Rheingold, Shkolnik & McCartney, LLP",,1,5,6,"1708, 1905, 2066, 2199, 2220"
+F0220,"Kellogg, Huber, Hansen, Todd, Evans & Figel, PLLC","Kellogg, Huber, Hansen, Todd, Evans & Figel, P.L.L.C.","Kellogg, Huber, Hansen, Todd, Evans & Figel P.L.L.C.","KELLOGG, HUBER, HANSEN, TODD, EVANS & FIGEL, P.L.L.C.",1,2,4,"1708, 1935"
+F0221,Nolan Law Group,,,,1,2,4,"1721, 1953"
+F0222,Stinson Morrison Hecker L.L.P.,,,,1,1,2,1721
+F0223,"Hawley, Troxell, Ennis, & Hawley L.L.P.",,,,1,1,2,1721
+F0224,Dykema Gossett PLLC,,,,1,2,4,"1718, 1928"
+F0225,BONSIGNORE & BREWER,,,,1,1,1,1735
+F0226,THE MILLS LAW FIRM,,,,1,1,1,1735
+F0227,"ODOM & DES ROCHES, L.L.P.",Odom & Des Roches LLP,,,1,2,6,"1730, 2521"
+F0228,"PERCY, SMITH & FOOTE",,,,1,1,2,1730
+F0229,"ANN MILLER, LLC",,,,1,1,1,1735
+F0230,Smith Segura & Raphael LLP,"Smith Segura & Raphael, LLP",,,1,2,2,"1730, 2521"
+F0231,"RodaNast, P.C.","Rodanast, P.C.",RodaNast PC.,"RODANAST, P.C.",1,9,11,"1730, 1935, 1953, 1968, 1997, 2068, 2226, 2299, 2342"
+F0232,"Kluger, Peretz, Kaplan & Berlin, P.L.",,,,1,1,2,1733
+F0233,"Ervin Cohen & Jessup, LLP",,,,1,1,1,1733
+F0234,"Brownstein, Hyatt & Farber",,,,1,1,1,1733
+F0235,"Oppenheim, Pilelsky, PA",,,,1,1,1,1733
+F0236,"Schwartz, Cooper, Greenberger & Krauss",,,,1,1,1,1733
+F0237,"Wandro, Baer & Appel, P.C.",,,,1,1,1,1733
+F0238,Shapiro Haber & Urmy LLP,SHAPIRO HABER & URMY LLP,"Shapiro, Haber, & Urmy LLP","Shapiro Haber & Urmy, LLP",1,6,7,"1733, 1790, 1838, 2109, 2409, 2938"
+F0239,"Pitt, McGehee, Miller Palmer & Rivers, P.C.",,,,1,1,1,1733
+F0240,"Blumenfeld Kaplan & Sandweiss, P.C.",,,,1,1,1,1733
+F0241,"Klehr, Harison, Harvey, Branzburg & Ellers, LLP",,,,1,1,1,1733
+F0242,"Law Offices of Curtis V. Trinko, LLP",,,,1,1,1,1733
+F0243,"Spangenberg, Shibley& Liber, LLP","Spangenberg, Shibley & Liber","Spangenberg, Shibley & Liber, LLP",,1,2,3,"1733, 1909"
+F0244,Graham & Graham Co. LPA,,,,1,1,1,1733
+F0245,"Taft, Stettinius & Hollister LLP",,,,1,1,1,1733
+F0246,"Ellis, Lawhorne & Sims, P.A.",,,,1,1,1,1733
+F0247,Gary Polland & Associates,,,,1,1,1,1733
+F0248,"Hill, Peterson, Carper, Bee & Deitzler, PLLC",,,,1,1,1,1733
+F0249,Winter Johnson & Hill PLLC,,,,1,1,1,1733
+F0250,Whitfield & Eddy,,,,1,1,1,1733
+F0251,"Roda Nast, P.C.",RODA & NAST PC,,,1,2,3,"1730, 1905"
+F0252,STERN & KILCULLEN,,,,1,1,1,1730
+F0253,THE WEXLER LAW FIRM LLP,,,,1,1,1,1730
+F0254,AKIN GUMP STRAUSS HAUER & FELD LLP,"Akin, Gump, Strauss, Hauer & Feld LLP","Akin Gump Strauss Hauer & Feld, LLP",,1,3,3,"1730, 1894, 1899"
+F0255,"LAW OFFICES OF JAMES V. PASHIAN, P.C.",,,,1,1,1,1730
+F0256,"Parker Waichman, LLP",Parker Waichman LLP,"Parker & Waichman, LLP",PARKER WAICHMAN LLP,1,8,10,"1742, 2000, 2333, 2514, 2924, 2973, 3006, 3089"
+F0257,"McGinnis, Lochridge & Kilgore LLP",,,,1,1,1,1742
+F0258,Douglas & London,"Douglas & London, P.C.",Douglas and London,Douglas & London P.C.,1,13,20,"1742, 1842, 1953, 2023, 2051, 2068, 2100, 2299, 2342, 2973, 3080, 3089, 3140"
+F0259,"Lundy & Davis, LLP",,,,1,1,1,1742
+F0260,Cuddy & Lanham,,,,1,1,1,1742
+F0261,"Garrett Law Office, P.C.",,,,1,1,1,1742
+F0262,Tucker Ellis & West LLP,Tucker Ellis and West LLP,Tucker Ellis & West,,1,2,5,"1742, 1968"
+F0263,"Drinker, Biddle and Reath",Drinker Biddle & Reath LLP,"Drinker, Biddle, and Reath","Drinker, Biddle & Reath",1,3,6,"1742, 1943, 2081"
+F0264,"Pogust Braslow & Millrood, LLC","Pogust, Braslow & Millrood",,,1,3,4,"1736, 1909, 2506"
+F0265,"Vickery, Perdue, Kidd & Vickery",,,,1,1,1,1736
+F0266,"Pendley, Baudin & Coffin, LLP","Pendley, Baudin & Coffin, L.L.P.","Pendley, Baudin & Coffin",,1,10,11,"1736, 1958, 2000, 2223, 2247, 2342, 2458, 2502, 3014, 3036"
+F0267,"Callahan, Thompson, Sherman & Caudill, LLP",,,,1,1,1,1751
+F0268,"Squitieri & Fearon, LLP",,,,1,3,3,"1745, 1751, 2058"
+F0269,"Barrett Law Group, P.A.","Barrett Law Office, P.A.",The Barrett Law Group,"Barrett Law Group, PA",1,9,15,"1751, 2068, 2471, 2508, 2993, 2998, 3031, 3032, 3080"
+F0270,"Bromberg Law Offices, P.C.",,,,1,1,1,1739
+F0271,"Burstein Law Firm, P.C.",,,,1,1,1,1739
+F0272,Nestor & Constance,,,,1,1,1,1739
+F0273,Reinhardt Wendorf & Blanchfield,,,,1,4,7,"1739, 2993, 3107, 3113"
+F0274,WILLIAMS CUKER BEREZOFSKY,Williams Cuker & Berezofsky,,,1,2,3,"1739, 1955"
+F0275,Law Office of Krishna B. Narine,LAW OFFICE OF KRISHNA B. NARINE,,,1,1,2,1768
+F0276,"Cuneo Gilbert & LaDuca, LLP","Cuneo, Gilbert & LaDuca, LLP","Cuneo Gilbert & Laduca, LLP","Cuneo, Gilbert & Laduca, LLP",1,24,40,"1763, 1817, 1958, 2000, 2098, 2238, 2247, 2254, 2274, 2290, 2359, 2451, 2471, 2481, 2588, 2903, 2918, 2998, 3031, 3032, 3097, 3107, 3108, 3110"
+F0277,Motley Rice LLC,Motley Rice,"Motley Rice, LLC","MOTLEY RICE, LLC",1,23,32,"1763, 1791, 1842, 1905, 1928, 1968, 2083, 2087, 2342, 2502, 2521, 2921, 2924, 2966, 2972, 2973, 2996, 3014, 3051, 3094, 3115, 3140, 3148"
+F0278,BEATIE AND OSBORN LLP,Beatie & Osborn LLP,,,1,2,3,"1760, 1789"
+F0279,"KELLY, KELLY & ALLMAN",,,,1,1,1,1760
+F0280,"PITTMAN, GERMANY, ROBERTS & WELSH, L.L.P.","Pittman, Germany, Roberts & Welsh, LLP",,,1,2,2,"1760, 1789"
+F0281,"THE LAW FIRM OF BART T. VALAD, PLLC",,,,1,1,2,1760
+F0282,"FLYNN AND RADFORD ATTORNEYS, P.C.",,,,1,1,1,1760
+F0283,Spriggs & Hollingsworth,,,,1,1,2,1760
+F0284,DECHERT LLP,Dechert LLP,Dechert,,1,3,13,"1769, 1899, 2924"
+F0285,Wexler Toriseva Wallace LLP,"Wexler, Toriseva Wallace LLP",,,1,5,7,"1745, 1820, 1842, 1850, 1905"
+F0286,Chimicles & Tikellis LLP,"Chimicles & Tikellis, LLP",CHIMICLES & TIKELLIS LLP,Chimicles & Tikellis,1,5,9,"1745, 1817, 2001, 2577, 3014"
+F0287,Gustafson Gluek PLLC,,,,1,9,20,"1775, 1905, 2993, 2998, 3031, 3097, 3107, 3108, 3110"
+F0288,Robins Kaplan LLP,Robins Kaplan,,,1,9,22,"1775, 2668, 2905, 2918, 3031, 3071, 3107, 3110, 3140"
+F0289,The Furth Firm LLP (formerly Furth Lehmann & Grant LLP),,,,1,1,1,1775
+F0290,Gancedo & Nieves,Gancedo & Nieves LLP,,,1,2,4,"1789, 1905"
+F0291,"Krupnick, Campbell, Malone, et al","Krupnick, Campbell, Malone, et al.",,,1,1,3,1789
+F0292,Girard Gibbs LLP,Girard Gibbs,"Girard Gibbs, LLP",Girard & Gibbs,1,20,34,"1786, 1827, 1914, 1982, 1998, 2014, 2017, 2030, 2063, 2086, 2121, 2145, 2299, 2409, 2450, 2481, 2521, 2583, 2617, 2619"
+F0293,Lowenstein Sandler PC,,,,1,1,1,1777
+F0294,"Faruqi & Faruqi, LLP",Faruqi & Faruqi LLP,,,1,7,11,"1777, 1919, 2317, 2361, 2438, 2521, 2984"
+F0295,Wechsler Harwood LLP,,,,1,1,1,1777
+F0296,O’Melveny & Myers LLP,"O'Melveny & Myers, LLP","O’Melveny & Myers, LLP",,1,2,4,"1785, 2639"
+F0297,Nelson Mullins Riley & Scarborough,Nelson Mullins Riley & Scarborough LLP,,,1,4,5,"1785, 2502, 2514, 3036"
+F0298,"Becnel Law Firm, LLC",Becnel Law Offices,"Becnel Law Firm, L.L.C.",Becnel Law Firm,1,8,11,"1785, 1953, 1997, 2023, 2051, 2068, 2223, 2226"
+F0299,Morelli Ratner PC,,,,1,1,1,1785
+F0300,Langston Law Firm,,,,1,1,2,1785
+F0301,Law Offices of Gary K. Smith,,,,1,1,2,1785
+F0302,Law Offices of John E. Mudd,,,,1,1,2,1785
+F0303,Quetglas Law Offices,,,,1,2,4,"1785, 1905"
+F0304,Federman & Sherwood,,,,1,6,9,"1785, 1961, 2102, 2583, 2994, 3108"
+F0305,"Wasserman, Comden & Casselman LLP","Wasserman, Comden & Casselman, L.L.P.",,,1,2,3,"1785, 1822"
+F0306,"Keegan, Macaluso & Baker",,,,1,1,2,1785
+F0307,Keller Grover LLP,,,,1,1,2,1785
+F0308,Whetstone Myers Perkins & Young,,,,1,1,2,1785
+F0309,"Andrus, Boudreaux, Lemoine & Tonore","Andrus, Boudreaux, Lemoine & Tonore, P.L.C.",,,1,2,2,"1789, 1842"
+F0310,Irpino Law Firm,,,,1,1,1,1789
+F0311,"Cravath, Swaine & Moore LLP",,,,1,2,3,"1794, 3110"
+F0312,Hulett Harper Stewart LLP,,,,1,2,2,"1780, 2093"
+F0313,"SANFORD WITTELS & HEISLER, LLP",,,,1,1,4,1794
+F0314,"Zwerling, Schachter & Zwerling, LLP","Zwerling, Schachter & Zwerling",,,1,3,3,"1799, 2145, 3107"
+F0315,Keefe Bartels,"Keefe Bartels, LLC","KEEFE BARTELS, LLC",,1,3,3,"1799, 2314, 2358"
+F0316,"IRWIN & BOESEN, P.C.",,,,1,1,2,1790
+F0317,MCNULTY LAW FIRM,,,,1,1,1,1790
+F0318,"SHB Bausch & Lomb, Inc.",,,,1,1,1,1785
+F0319,Electronic Frontier Foundation (EFF),,,,1,1,2,1791
+F0320,American Civil Liberties Union of Illinois (ACLU-IL),,,,1,1,2,1791
+F0321,"Liska, Exnicios & Nungesser",,,,1,1,2,1791
+F0322,the Mayer Law Group,Mayer Law Group,,,1,1,2,1791
+F0323,"Krislov & Associates, Ltd","Krislov & Associates, Ltd.",,,1,2,3,"1791, 1919"
+F0324,Law Offices of Steven E Schwarz,,,,1,1,2,1791
+F0325,Mason Law Firm,"The Mason Law Firm, L.L.P.","Mason, LLP","The Mason Law Firm, P.C.",1,5,8,"1791, 1796, 1817, 2025, 3021"
+F0326,George & Brothers,,,,1,1,2,1791
+F0327,Weiss & Lurie,,,,1,1,2,1796
+F0328,Howrey firm,Howrey LLP,,,1,2,2,"1816, 1895"
+F0329,"Dostart Clapp Gordon & Coveney, LLP",,,,1,1,3,1807
+F0330,Wynne Law Firm,the Wynne Law Firm,,,1,1,3,1807
+F0331,"Futterman Howard Watkins Wylie & Ashley, Chtd.",,,,1,2,3,"1807, 1946"
+F0332,the John M. Kelson Law Office,John M. Kelson Law Office,,,1,1,2,1807
+F0333,Knapp Petersen & Clarke,,,,1,1,1,1807
+F0334,Gray Ritter Graham,"Gray Ritter & Graham, P.C.","Gray, Ritter, Graham","Gray, Ritter & Graham, P.C.",1,4,11,"1811, 1907, 2562, 2936"
+F0335,Emerson Poynter LLP,"Emerson Poynter, LLP",,,1,3,4,"1811, 1982, 2481"
+F0336,"Looper, Reed & McGraw, P.C.",,,,1,1,1,1811
+F0337,Chapman Lewis & Swan,,,,1,1,1,1811
+F0338,"Audet & Partners, LLP",Audet & Partners LLP,,,1,13,18,"1817, 1850, 1953, 1958, 2000, 2098, 2238, 2247, 2264, 2270, 2359, 2602, 3014"
+F0339,Crowell & Moring LLP,,,,1,1,1,1827
+F0340,"Boies, Schiller & Flexner LLP",Boies Schiller Flexner LLP,"Boies, Schiller & Flexner L.L.P.",,1,5,12,"1826, 1950, 2196, 2905, 3076"
+F0341,Wexler Wallace LLP,,,,1,7,9,"1820, 1850, 1946, 2409, 2688, 2966, 3031"
+F0342,FINKELSTEIN & KRINSK LLP,Finkelstein & Krinsk,Finkelstein & Krinsk LLP,,1,2,3,"1825, 3009"
+F0343,"RENNE SLOAN HOLTZMAN & SAKAL, LLP",,,,1,1,1,1825
+F0344,The Garcia Law Firm,,,,1,1,1,1822
+F0345,"Segal, McCambridge, Singer & Mahoney",Segal McCambridge Singer & Mahoney,"Segal McCambridge Singer & Mahoney, Ltd.",,1,2,4,"1822, 1996"
+F0346,McHugh Fuller Law Group,,,,1,1,1,1822
+F0347,Patton Roberts McWilliams & Capshaw,,,,1,1,1,1822
+F0348,Kirtland & Packard LLP,KIRTLAND & PACKARD LLP,"Kirtland & Packard, LLP",Kirtland & Packard,1,4,13,"1822, 2188, 2199, 2317"
+F0349,"Kirkland & Ellis, LLP",,,,1,2,2,"1822, 1953"
+F0350,Alioto Law Firm,The Alioto Law Firm,,,1,2,8,"1827, 1957"
+F0351,"Barrack, Rodos & Bacine",Barrack Rodos & Bacine,"BARRACK, RODOS & BACINE",BARRACK RODOS & BACINE,1,8,18,"1825, 1912, 1933, 2936, 2938, 2948, 3040, 3078"
+F0352,Waters & Kraus LLP,,,,1,1,1,1825
+F0353,Wilmer Cutler Pickering Hale and Dorr LLP,,,,1,1,1,1827
+F0354,Minami,,,,1,1,1,1827
+F0355,Pillsbury,,,,1,1,1,1827
+F0356,Halunen & Associates,Halunen Law,,,1,4,4,"1817, 2000, 2359, 2688"
+F0357,Edelson PC,"Edelson & Associates, LLC",,,1,6,18,"1817, 2514, 2985, 3001, 3121, 3148"
+F0358,Rotherberger Johnson & Lyons,,,,1,1,1,1817
+F0359,"Hudson Mallaney & Shindler, P.C.",,,,1,1,1,1817
+F0360,Kramer Rayson,,,,1,1,1,1817
+F0361,"Law Offices of George A. Barton, P.C.",,,,1,1,1,1840
+F0362,"Tyler Cooper & Alcorn, LLP",,,,1,1,1,1838
+F0363,"The Lamb Firm, LLC",,,,1,2,2,"1838, 1985"
+F0364,Wolf Popper LLP,,,,1,3,6,"1838, 1968, 3111"
+F0365,Milberg Weiss,Milberg Weiss LLP,,,1,2,2,"1842, 1891"
+F0366,"Stern Shapiro Weissberg & Varin, LLP",,,,1,1,1,1838
+F0367,The Alvarez Law Firm,Alvarez Law Firm,,,1,3,3,"1842, 2051, 3140"
+F0368,Reich & Binstock,"Reich & Binstock, LLP",,,1,4,6,"1842, 1943, 1968, 2000"
+F0369,"Heninger, Garrison & Davis","Heninger Garrison Davis, LLC","Heninger, Garrison & Davis, LLC",Heninger Garrison Davis,1,5,9,"1842, 1943, 2023, 2502, 3004"
+F0370,"Mark C. Tanenbaum, P.A.",,,,1,2,3,"1865, 2502"
+F0371,Law Offices of Howard Siegel,,,,1,1,1,1865
+F0372,"Strom Law Firm, L.L.C.",,,,1,1,1,1865
+F0373,"KamberEdelson, LLC",KamberEdelson LLC,,,1,1,2,1850
+F0374,Maniklal & Dennis LLP,,,,1,1,1,1854
+F0375,"Wiggins, Childs, Quinn & Pantazis LLC",,,,1,1,2,1854
+F0376,The Cochran Firm,,,,1,2,2,"1854, 3094"
+F0377,Morgan & Morgan,"Morgan & Morgan, P.A.","Morgan and Morgan, P.A.","Morgan & Morgan, PA",1,21,31,"1854, 1953, 1968, 1985, 2023, 2051, 2481, 2502, 2514, 2688, 2973, 2994, 3019, 3036, 3079, 3080, 3087, 3090, 3094, 3096, 3108"
+F0378,"Metcalf, Kaspari, Howard, Engdahl & Lazarus, P.A.",,,,1,1,1,1854
+F0379,Public Justice Center,,,,1,1,1,1854
+F0380,Miller Law LLC,"The Miller Law Firm, P.C.",The Miller Law Firm,The Miller Firm LLC,1,12,18,"1867, 1946, 1968, 1996, 1997, 2042, 2196, 2521, 2901, 3040, 3096, 3115"
+F0381,McGuireWoods LLP,MCGUIREWOODS LLP,,,1,4,12,"1845, 1960, 2196, 3111"
+F0382,"Duplass, Zwain, Bourgeois, Morton, Pfister & Weinstock, APLC",,,,1,1,1,1873
+F0383,Liner Grode Stein Yankelevitz Sunshine Regenstreif & Taylor LLP,,,,1,1,1,1875
+F0384,"Squitieri & Fearson, LLP",,,,1,1,1,1875
+F0385,Gainey & McKenna,,,,1,1,1,1875
+F0386,"Preti, Flaherty, Beliveau & Pachios, LLP","Preti Flaherty, Beliveau & Pachios LLP","PRETI, FLAHERTY, BELIVEAU, & PACHIOS, LLP",,1,4,7,"1888, 1935, 2931, 3113"
+F0387,Watts Guerra Craft,,,,1,1,1,1873
+F0388,Susman Godfrey LLP,Susman Godfrey L.L.P.,Susman Godfrey,SUSMAN GODFREY LLP,1,12,35,"1891, 1950, 1957, 2058, 2471, 2668, 2948, 2972, 3113, 3121, 3143, 3148"
+F0389,Hunton & Williams LLP,,,,1,1,1,1894
+F0390,"Drubner, Hartley & Hellman LLC",,,,1,1,1,1894
+F0391,Whatley Kallas LLP,"Whatley Kallas, LLP",Whatley Kallas LLC,,1,3,3,"1894, 2048, 2415"
+F0392,Abraham Fruchter & Twersky LLP,"Abraham, Fruchter & Twersky, LLP",,,1,3,3,"422, 1889, 3096"
+F0393,Westerman Law Corp.,,,,1,2,2,"1891, 2145"
+F0394,Berman De Valerio,,,,1,2,2,"1898, 1963"
+F0395,Zimmerman Reed PLLP,"Zimmerman Reed, PLLP",,,1,8,15,"1905, 1943, 1958, 1990, 2000, 2247, 2474, 2564"
+F0396,The Drakulich Firm,Drakulich Firm,,,1,3,4,"1905, 2299, 2359"
+F0397,"Goldenberg & Johnson, PLLC",,,,1,1,2,1905
+F0398,"Salas & Co., L.C.",Salas & Co.,,,1,3,6,"1905, 1953, 2328"
+F0399,"Sanford, Stevenson Riff LLP",Sanford Stevenson Riff LLP,,,1,1,2,1905
+F0400,Bowman & Brooke LLP,,,,1,1,6,1905
+F0401,Bryan Cave LLP,,,,1,2,2,"1911, 1914"
+F0402,Ungaretti & Harris LLP,,,,1,1,1,1911
+F0403,Byrnes & Keller LLP,,,,1,1,1,1919
+F0404,"Law Offices Bernard M. Gross, P.C.","Law Offices of Bernard M. Gross, P.C.",,,1,2,3,"1912, 1919"
+F0405,Breskin Johnson & Townsend,,,,1,1,1,1919
+F0406,Zwerling Schacter & Zwerling LLP,,,,1,1,1,1919
+F0407,"Car & Reinbrecht, PC",,,,1,1,1,1920
+F0408,"Horwitz, Horwitz & Paradis, Attorneys at Law",,,,1,1,1,1920
+F0409,Latham & Watkins LLP,,,,1,2,4,"1907, 3110"
+F0410,"Bramson, Plutzik, Mahler & Birkhaeuser, LLP",,,,1,1,1,1907
+F0411,"Baker, Sterchi, Cowden & Rice L.L.C.",,,,1,1,1,1909
+F0412,"Wheeler, Trigg & Kennedy",,,,1,1,1,1909
+F0413,"Squire, Sanders & Dempsey LLP","Squire, Sanders & Dempsey L.L.P.",,,1,2,2,"1909, 1928"
+F0414,"Skikos, Crawford, Skikos, Joseph & Millican LLP",,,,1,1,1,1909
+F0415,Law Offices of Howard Nations,,,,1,1,1,1909
+F0416,"Fibich, Hampton, Leebron & Garth",,,,1,1,1,1909
+F0417,Hanly Conroy Bierstein Sheridan Fisher & Hayes LLP,"Hanly, Conroy, Bierstein, Sheridan, Fisher & Hayes, LLP",,,1,3,3,"1909, 2342, 2502"
+F0418,Lopez McHugh LLP,"Lopez McHugh, LLP",,,1,2,2,"1909, 2502"
+F0419,Levin Simes Kaiser & Gornick LLP,,,,1,1,1,1909
+F0420,Simmons Cooper LLC,,,,1,1,1,1909
+F0421,Jessee & Jessee,,,,1,1,1,1899
+F0422,Howery LLP,,,,1,1,1,1899
+F0423,"Carella, Byrne, Bain, Gilfillan, Cecchi, Stewart & Olstein","Carella, Byrne, Bain, Gilfillan, Cecchi, Stewart & Olstein, P.C.",,,1,5,6,"1914, 1931, 1938, 1956, 2228"
+F0424,"Graham Curtin, P.A.",,,,1,1,1,1914
+F0425,Law Office of Stephen Woodfin,,,,1,1,1,1921
+F0426,The Coffman Law Firm,THE COFFMAN LAW FIRM,,,1,2,6,"1921, 2357"
+F0427,Andrus Liberty & Anderson LLP,,,,1,1,1,1911
+F0428,The Maher Law Firm,THE MAHER LAW FIRM,Maher Law Firm,,1,2,4,"1935, 1938"
+F0429,"OBERMAYER, REBMANN, MAXWELL, & HIPPEL, LLP",,,,1,1,1,1935
+F0430,DILWORTH PAXSON LLP,Dilworth Paxson LLP,,,1,2,2,"1935, 3094"
+F0431,"McCARTHY WEISBERG CUMMINGS, P.C.",,,,1,1,1,1935
+F0432,HANGLEY ARONCHICK SEGAL & PUDLIN,,,,1,1,1,1935
+F0433,Johnson Bottini LLP,,,,1,1,1,1933
+F0434,Saxena White P.A.,Saxena White LLP,,,1,2,5,"1933, 2058"
+F0435,Carella Byrne,,,,1,2,3,"1938, 2415"
+F0436,"Fleming & Associates, LLP","Fleming & Associates, L.L.P.",,,1,1,2,1928
+F0437,"Babbitt, Johnson, Osborne & LeClainche, P.A.","Babbitt, Johnson, Osborne & LeClainche",,,1,1,4,1928
+F0438,Monsour Law Firm,The Monsour Law Firm,MONSOUR LAW FIRM,,1,3,7,"1928, 3081, 3140"
+F0439,Matthews & Associates,MATTHEWS & ASSOCIATES,,,1,3,6,"1928, 3026, 3092"
+F0440,"Ury & Moskow, LLC","URY & MOSKOW, L.L.C.",,,1,1,2,1928
+F0441,Wild Law Group PLLC,,,,1,1,4,1952
+F0442,Morris and Morris LLC Counselors At Law,,,,1,1,1,1946
+F0443,Weinstein Kitchenoff & Asher LLC,"Weinstein, Kitchenoff & Asher","Weinstein, Kitchenoff & Asher LLC",,1,5,8,"1946, 2186, 2196, 2284, 2668"
+F0444,"Specter Specter Evans & Manogue, P.C.","SPECTER SPECTER EVANS & MANOGUE, P.C.","Specter Specter Evans & Manogue, PC",,1,2,5,"1942, 1953"
+F0445,"Gurewitz & Raben, PLLC",,,,1,1,5,1952
+F0446,Lewis Saul & Associates,"Lewis Saul & Associates, P.C.",Lewis Saul & Associates P.C.,,1,3,7,"1943, 1954, 2426"
+F0447,The Giatras Law Firm,,,,1,1,3,1943
+F0448,"Sheller, P.C.",,,,1,1,3,1943
+F0449,Halleland Lewis Nilan & Johnson,,,,1,1,2,1943
+F0450,"Irwin, Fritchie, Urquhart & Moore, LLC",Irwin Fritchie Urquhart & Moore LLC,"Irwin Fritchie Urquhart & Moore, LLC",,1,2,5,"1943, 3023"
+F0451,Lief Cabraser,,,,1,1,1,1938
+F0452,Weitz & Luxemberg,,,,1,2,2,"1938, 2342"
+F0453,Wolf Haldenstein,,,,1,2,2,"1938, 1997"
+F0454,"Whateley Drake, LLP",,,,1,1,1,1938
+F0455,"Eichen, Levinson",,,,1,1,1,1938
+F0456,Leclair Ryan,LeClair Ryan,,,1,1,2,1943
+F0457,Levitt & Kaizer,,,,1,1,2,1952
+F0458,the Law Offices of Max Wild,Law Offices of Max Wild,,,1,1,2,1952
+F0459,the Perrin Law Firm,The Perrin Law Firm,,,1,1,2,1952
+F0460,"Trump, Alioto, Trump & Prescott, LLP","Trump, Alioto, Trump & Prescott LLP",,,1,1,4,1957
+F0461,Nilan Johnson Lewis PA,,,,1,1,2,1943
+F0462,"Bleau Fox, A.P.L.C.","BLEAU FOX, A P.L.C.",,,1,1,5,1957
+F0463,"Gray, Plant, Mooty, Mooty & Bennett P.A.","Gray, Plant, Mooty, Mooty& Bennett, P.A.","Gray, Plant, Mooty, Mooty & Bennett, PA",,1,1,5,1957
+F0464,"Gary D. McCallister & Associates, LLC","Gary D. McCallister and Associates, LLC",,,1,1,5,1957
+F0465,"LAW OFFICES OF KEVIN M. COSTELLO, P.C.",,,,1,1,2,1955
+F0466,"Zoll, Kranz & Borgess",,,,1,1,5,1953
+F0467,"FINE KAPLAN & BLACK, R.P.C.","Fine, Kaplan and Black, R.P.C.","Fine, Kaplan and Black R.P.C.","Fine Kaplan and Black, R.P.C.",1,4,12,"1957, 3014, 3094, 3107"
+F0468,"Murray, Plumb & Murray",,,,1,1,1,1954
+F0469,Quetglas/Archie Lamb/Kirk Wood,,,,1,1,3,1953
+F0470,"Baum Hedlund, Aristei & Goldman, PC",Baum Hedlund Aristei & Goldman,"Baum, Hedlund, Aristei & Goldman, P.C.","BAUM HEDLUND ARISTEI & GOLDMAN, P.C.",1,5,8,"1953, 2085, 2654, 2924, 3036"
+F0471,Parker & Wachman,,,,1,1,3,1953
+F0472,"Wilentz, Goldman & Spitzer",,,,1,1,3,1953
+F0473,"Levin, Papantonio, et al.",Levin Papantonio et al,,,1,2,4,"1953, 2299"
+F0474,"Woloshin & Killino, P.C.",,,,1,1,3,1953
+F0475,"Sussman, Godfrey LLP",,,,1,1,1,1957
+F0476,Arnold & Itkin LLP,,,,1,1,2,1953
+F0477,"Larson • King, LLP","Larson · King, LLP","Larson King, LLP",Larson King LLP,1,9,15,"1958, 2000, 2247, 2471, 2918, 2998, 3031, 3108, 3110"
+F0478,Perkins Coie LLP,,,,1,2,2,"1958, 2247"
+F0479,"Rhine Law Firm, P.C.",,,,1,1,1,1958
+F0480,"Straus & Boies, LLP",,,,1,1,1,1958
+F0481,McSweeney/Langevin,,,,1,1,1,1958
+F0482,"Hissey Keintz, L.L.P.",,,,1,1,1,1968
+F0483,"Hissey Kientz, L.L.P.","Hissey Kientz, L.L.P",,,1,1,2,1968
+F0484,"Kessler Topaz Meltzer & Check, LLP",Kessler Topaz Meltzer & Check LLP,Kessler Topaz Meltzer and Check LLP,KESSLER TOPAZ MELTZER & CHECK LLP,1,15,26,"1963, 2004, 2013, 2017, 2056, 2058, 2335, 2481, 2508, 2905, 2948, 3080, 3089, 3107, 3149"
+F0485,"Dealy & Silberstein, LLP",,,,1,1,3,1963
+F0486,"Getman & Sweeney, PLLC",,,,1,1,1,1984
+F0487,Langendorf Law Office,,,,1,1,1,1984
+F0488,Spiro Moore LLP,,,,1,1,1,1980
+F0489,Bock & Hatch LLC,,,,1,1,1,1980
+F0490,Chant & Company A Professional Law Corporation,,,,1,1,1,1980
+F0491,the Linde Law Firm,,,,1,1,1,1980
+F0492,"PARRY DEERING FUTSCHER & SPARKS, P.S.C.",,,,1,1,1,1974
+F0493,Kramon & Graham PA,,,,1,1,2,1982
+F0494,Friedman Law Group LLP,,,,1,1,2,1982
+F0495,"Blau, Brown & Leonard, LLC",,,,1,1,1,1981
+F0496,Lexington Law Group LLP,"Lexington Law Group, LLP",,,1,2,3,"1992, 2074"
+F0497,"Frankovitch, Anetakis, Colantonio & Simon",,,,1,1,1,1968
+F0498,Bell & Bands PLLC,,,,1,1,1,1968
+F0499,Bailey Perrin Bailey,,,,1,2,2,"1968, 2233"
+F0500,"Peterson & Associates, P.C.",,,,1,1,1,1968
+F0501,Sanford Pinedo LLP,,,,1,1,1,1968
+F0502,Giardi Keese,,,,1,1,1,1968
+F0503,Toriseva Law,,,,1,1,1,1968
+F0504,"Wood Law Firm, LLC",Wood Law Firm LLC,,,1,2,2,"1985, 1998"
+F0505,"Christian & Small, LLP",,,,1,1,1,1985
+F0506,"Pittman & Perry, PA",,,,1,1,1,1985
+F0507,"Franklin, Gray & White",Franklin Gray & White,,,1,2,3,"1985, 1998"
+F0508,"Marsh, Rickard & Bryan, PC",,,,1,1,1,1985
+F0509,The Law Offices of Greg L. Davis,,,,1,1,1,1985
+F0510,"Bahe, Cook, Cantley & Jones, PLC",,,,1,1,1,1985
+F0511,Law Offices of John C. Davis,,,,1,1,1,1985
+F0512,Law Offices of Michael Brehne,,,,1,1,1,1985
+F0513,"deBeaubien, Knight",,,,1,1,1,1985
+F0514,O’NEILL & BORGES,,,,1,1,1,1960
+F0515,FOLEY & LARDNER LLP,,,,1,1,1,1960
+F0516,"McCONNELL VALDES, LLC",,,,1,1,1,1960
+F0517,GARVEY SCHUBERT & BARER,,,,1,1,1,1960
+F0518,"GOLDMAN, ANTONETTI & CORDOVA, PSC",,,,1,1,1,1960
+F0519,PATTON BOGGS LLP,,,,1,1,1,1960
+F0520,"JIMENEZ, GRAFFAM & LAUSELL",,,,1,1,1,1960
+F0521,Winston & Strawn LLP,,,,1,1,1,1997
+F0522,Schiff Hardin LLP,,,,1,1,1,1997
+F0523,"Morrison, Fenske & Sund P.A.","Morrison Fenske & Sund, PA",,,1,1,5,1999
+F0524,"Hale & Wagner, S.C.",,,,1,1,1,1999
+F0525,Entwistle & Cappucci LLP,,,,1,3,5,"2003, 2052, 2389"
+F0526,Strauss & Troy,,,,1,1,1,2003
+F0527,"Aylstock, Witkin, Kreiss",,,,1,1,1,2004
+F0528,"Laminack, Pirtle & Martines",Laminack Pirtle & Martines,"Laminack, Pirtle & Martines, LLP",LAMINACK PIRTLE & MARTINES,1,4,8,"2004, 3081, 3092, 3140"
+F0529,Burnett Law Firm,,,,1,2,2,"2004, 2511"
+F0530,HARWOOD FEFFER LLP,Harwood Feffer LLP,,,1,4,5,"1995, 2013, 2058, 2335"
+F0531,Edgar Law Firm LLC,EDGAR LAW FIRM LLC,,,1,2,5,"1995, 2328"
+F0532,"MELLON, WEBSTER & SHELLY",,,,1,1,2,1995
+F0533,Troutman Sanders LLP,"Troutman Sanders, LLP",,,1,2,3,"2007, 2915"
+F0534,"Schoengold Sporn Laitman & Lometti, P.C.","Schoengold, Sporn, Laitman & Lometti, P.C.",,,1,2,2,"2011, 2017"
+F0535,Freed & Weiss,,,,1,1,2,2001
+F0536,Arbogast & Berns LLP,,,,1,1,2,2015
+F0537,Morrison & Foerster LLP,Morrison Foerster,,,1,3,4,"1999, 2949, 3071"
+F0538,"Larry D. Drury, Ltd.",,,,1,1,1,1998
+F0539,"Ralph K. Phalen, Attorney at Law",,,,1,1,1,1998
+F0540,"Turner & Maasch, Inc.",,,,1,1,1,1998
+F0541,"Frank Piscitelli Co., L.P.A.",,,,1,1,1,1998
+F0542,"Girard, Gibbs & De Bartolomeo, LLP",,,,1,1,1,2017
+F0543,Hollister & Brace,,,,1,2,3,"2028, 2054"
+F0544,"Zelle, McDonough and Cohen",,,,1,1,2,2028
+F0545,Fugazy & Rooney LLP,,,,1,1,2,2025
+F0546,Berger & Gottlieb,,,,1,1,1,2025
+F0547,The Consumer Advocacy Center P.C.,,,,1,1,3,2025
+F0548,Law Office of Michael J. San Souci,,,,1,1,1,2025
+F0549,Kelly Law Office,,,,1,1,1,2025
+F0550,"Meiselman, Denlea, Packman, Carton & Eberz P.C.",,,,1,1,1,2023
+F0551,"Onder, Shelton, O'Leary & Peterson, LLC",,,,1,1,1,2023
+F0552,"Saltz, Mongeluzzi, Barrett & Bendesky, P.C.","Saltz Mongeluzzi Barrett & Bendesky, P.C.",,,1,2,3,"2023, 2654"
+F0553,Law Offices of Alexander M. Schack,,,,1,1,1,2023
+F0554,The Mogin Law Firm P.C.,"the Mogin Law Firm, P.C.",,,1,2,2,"2023, 2668"
+F0555,"Heidell, Pittoni, Murphy & Back, LLP",,,,1,1,1,2023
+F0556,"Weinner & Gould, P.C.",,,,1,1,1,2042
+F0557,Fink + Associates Law,,,,1,1,1,2042
+F0558,Fulbright & Jaworski L.L.P.,Fulbright & Jaworski,,,1,2,3,"2050, 2051"
+F0559,"Williams, Williams, Rattner & Plunkett, P.C.",,,,1,1,2,2042
+F0560,"Wienner & Gould, P.C.",,,,1,1,1,2042
+F0561,Bernstein Liebhard LLP,BERNSTEIN LIEBHARD LLP,,,1,5,10,"2051, 2052, 2186, 2196, 2328"
+F0562,"Shavitz Law Group, PA",,,,1,2,2,"2004, 2056"
+F0563,"Schreiber & Petro, P.C.",,,,1,2,2,"2004, 2056"
+F0564,"Whetstone Myers Perkins & Fulda, LLC",,,,1,1,1,2054
+F0565,"The Gilreath Law Firm, P.A.",,,,1,1,1,2054
+F0566,"Kanner & Whiteley, L.L.C.","Kanner & Whiteley, LLC","KANNER & WHITELEY, L.L.C.",,1,3,4,"2048, 2107, 2924"
+F0567,SCHNEIDER WALLACE COTTRELL KONECKY LLP,Schneider Wallace Cottrell Konecky LLP,"Schneider Wallace Cottrell & Konecky, LLP",,1,3,9,"2048, 3004, 3113"
+F0568,"Michael J. Blaschke, P.C.",,,,1,1,1,2048
+F0569,"Rachel Lawrence Mor, P.C.",,,,1,1,1,2048
+F0570,"Wisener Nunnally Gold, L.L.P.",,,,1,1,1,2046
+F0571,Sparer Law Group,The Sparer Law Group,,,1,1,2,2063
+F0572,"Shiner and Sosin, PA",,,,1,1,1,2051
+F0573,"Hill & Robbins, P.C.",,,,1,1,1,2051
+F0574,"Deal, Cooper & Holton, PLLC",,,,1,1,1,2051
+F0575,Arnold Law Firm,ARNOLD LAW FIRM,,,1,2,2,"2051, 3149"
+F0576,Dinsmore & Shohl LLP,,,,1,1,1,2051
+F0577,"Carlton Fields, P.A.",,,,1,1,1,2051
+F0578,Foley & Mansfield PLLP,,,,1,1,1,2066
+F0579,The Shuman Law Firm,the Shuman Law Firm,,,1,1,2,2063
+F0580,Pomerantz Haudek Grossman & Gross LLP,,,,1,2,3,"2074, 2173"
+F0581,"Haviland Hughes, LLC",,,,1,1,2,2074
+F0582,Burke LLP,Burke PLLC,"Burke Law Offices, LLC",,1,4,6,"2083, 2416, 3071, 3119"
+F0583,Ben Barnes Group,,,,1,1,1,2068
+F0584,"Lanham Blackwell, P.A.",,,,1,1,1,2068
+F0585,Marian S. Rosen & Associates,,,,1,1,1,2068
+F0586,Law Office of Howard Weil Rubinstein,,,,1,1,1,2068
+F0587,"Provost Umphrey Law Firm, LLP",,,,1,1,1,2068
+F0588,Davis Polk & Wardwell,"Davis Polk & Wardwell, LLP",,,1,2,2,"2068, 2476"
+F0589,Lambert Coffin,,,,1,1,1,2068
+F0590,Rudman & Winchell,,,,1,1,1,2068
+F0591,GERGOSIAN & GRALEWSKI LLP,Gergosian & Gralewski,,,1,1,3,2086
+F0592,"Blood Hurst & O’Reardon, LLP","Blood, Hurst & O’Reardon, LLP","Blood Hurst & O'Reardon, LLP",Blood Hurst & O’Reardon LLP,1,4,12,"2087, 2258, 2308, 2357"
+F0593,Andrews & Thornton,,,,1,1,1,2087
+F0594,Davis & Crump,"Davis & Crump, PC",,,1,3,3,"2087, 2226, 2502"
+F0595,"Andrus Boudreaux, PLC",,,,1,1,1,2087
+F0596,Mark Zamora & Associates,,,,1,1,1,2087
+F0597,"The Orlando Firm, P.C.",,,,1,1,1,2087
+F0598,"Ulmer & Berne, LLP",Ulmer & Berne LLP,,,1,3,6,"2100, 2226, 2974"
+F0599,Kotchen and Low LLP,Kotchen & Low LLP,,,1,1,2,2089
+F0600,McCulley McCluer LLC,McCulley McCluer PLLC,,,1,2,6,"2089, 2972"
+F0601,"Schreeder, Wheeler & Flint, LLP",,,,1,1,2,2089
+F0602,"Kreindler & Kreindler, LLP/ Lipsitz, Green Scime Cambria, LLP",,,,1,1,4,2085
+F0603,"Clifford Law Offices, P.C./ Colucci & Gallaher",,,,1,1,4,2085
+F0604,"Speiser Krause Nolan & Granito/ Connors & Vilardo, LLC",,,,1,1,4,2085
+F0605,"Baumeister & Samuels, PC",,,,1,1,3,2085
+F0606,"Paul William Beltz, P.C.",,,,1,1,2,2085
+F0607,"Gair, Gair, Conauson, Steigman, & Mackauf",,,,1,1,1,2085
+F0608,Law Office of Jonathan C. Reiter,,,,1,1,2,2085
+F0609,"Hodgson Russ, LLP",,,,1,1,2,2085
+F0610,"Magavern, Magavern & Grimm",,,,1,1,1,2085
+F0611,Doran & Murphy,,,,1,1,1,2085
+F0612,"Merrill Nomura & Molineux, LLP",,,,1,1,1,2098
+F0613,"Levy Ram and Olson, llp",,,,1,1,1,2098
+F0614,Law Offices of Sam Lock,,,,1,1,2,2098
+F0615,Ram and Olson L.L.P.,,,,1,1,1,2098
+F0616,Merrill Namora & Molineaux LLP,,,,1,1,1,2098
+F0617,Williams Montgomery & John Ltd.,Williams Montgomery & John Ltd,,,1,1,4,2109
+F0618,"Edelson McGuire, LLC",Edelson McGuire LLC,,,1,4,8,"2103, 2167, 2250, 2261"
+F0619,"Gutride Safier, LLP",,,,1,1,2,2103
+F0620,Parisi & Havens LLP,,,,1,1,1,2103
+F0621,"Law Offices of Freedman & Freedman, PLC",,,,1,1,1,2103
+F0622,"Golomb & Honik, P.C.",Golomb & Honik,"Golomb & Honik, P.A.",,1,4,5,"2107, 2334, 2373, 2969"
+F0623,Milstein Adelman L.L.P.,Milstein Adelman LLP,,,1,2,2,"2107, 2199"
+F0624,Gilbert LLP,,,,1,1,2,2124
+F0625,Millstein and Associates,,,,1,1,2,2124
+F0626,"Law Office of Donelon, P.C.",,,,1,1,1,2138
+F0627,Marlin & Saltzman,"Marlin & Saltzman, LLP",,,1,2,2,"2138, 2226"
+F0628,Sturdevant Law Firm,,,,1,2,2,"2138, 2274"
+F0629,"Brown & Associates, L.L.C.",,,,1,1,1,2138
+F0630,"The Huge Law Firm, PLLC",The Huge Law Firm PLLC,,,1,1,2,2147
+F0631,Freeborn & Peters LLP,,,,1,1,1,2109
+F0632,Covington & Burling LLP,,,,1,2,2,"2190, 2385"
+F0633,Kenny Nachwalter,"Kenny Nachwalter, P.A.",,,1,2,2,"2196, 2925"
+F0634,The Kralowec Law Group,,,,1,1,1,2186
+F0635,Steyer Lowenthal Boodrookas Alvarez & Smith LLP,,,,1,1,2,2186
+F0636,Rothken Law Firm,,,,1,1,1,2188
+F0637,Gardy & Notis LLP,,,,1,1,1,2188
+F0638,Harke Clasby & Bushman LLP,,,,1,2,2,"2173, 2324"
+F0639,Strange & Carpenter,STRANGE & CARPENTER,,,1,5,8,"2196, 2238, 2258, 2358, 2481"
+F0640,"Kerger & Hartman, LLC",,,,1,1,1,2196
+F0641,Barnes & Thornburg LLP,BARNES & THORNBURG LLP,,,1,3,4,"2196, 2924, 2973"
+F0642,Geragos & Geragos APC,Geragos & Geragos,,,1,3,4,"2199, 2220, 2438"
+F0643,KATTEN MUCHIN ROSENMAN LLP,,,,1,1,1,2200
+F0644,"YOUNG CONAWAY STARGATT & TAYLOR, LLP",,,,1,1,1,2200
+F0645,FLASTER/GREENBERG P.C.,,,,1,1,1,2200
+F0646,"Finnegan, Henderson, Farabow, Garrett & Dunner, LLP",,,,1,1,1,2200
+F0647,Connolly Bove Lodge & Hutz LLP,,,,1,1,1,2200
+F0648,NBA,,,,1,1,1,2199
+F0649,"Lowey Dannenberg Cohen & Hart, P.C.",,,,1,2,2,"2213, 2481"
+F0650,Gordon Law Offices,,,,1,1,1,2186
+F0651,Kerr & Wagstaffe LLP,,,,1,1,2,2208
+F0652,"The Daniel D. King Law Firm, PLLC",,,,1,1,1,2208
+F0653,"Koss & Schonfeld, LLP",,,,1,1,1,2220
+F0654,"Klein & Solomon, LLP",,,,1,1,1,2220
+F0655,The Piscitelli Law Firm,Piscitelli Law Firm,the Piscitelli Law Firm,,1,3,3,"2220, 2317, 2324"
+F0656,Sutton Rankin PLC,,,,1,1,1,2226
+F0657,"STACK & ASSOCIATES, P.C.",,,,1,1,2,2218
+F0658,Caddell & Chapman,,,,1,1,2,2223
+F0659,Weller Green Toups & Terrell,,,,1,1,1,2223
+F0660,"John F. Nevares & Associates, P.S.C.",,,,1,1,1,2223
+F0661,"Law Offices of Richard R. Barrett, PLLC",,,,1,1,1,2223
+F0662,The Katriel Law Firm,,,,1,1,1,2223
+F0663,"Klein Kavanagh Costello, LLP",,,,1,2,3,"2233, 2290"
+F0664,Sill & Medley,,,,1,1,1,2226
+F0665,"Pearson, Randall & Schumacher, PA",,,,1,1,1,2226
+F0666,The Simmons Firm,,,,1,1,1,2226
+F0667,The Diaz Law Firm,Diaz Law Firm,,,1,2,2,"2226, 3026"
+F0668,The Koch Law Firm PC,,,,1,1,1,2226
+F0669,Urban & Taylor S.C.,,,,1,1,1,2226
+F0670,Piper & Associates,,,,1,1,1,2226
+F0671,"Bunch, James & Zamora",,,,1,1,1,2226
+F0672,"Greenberg Traurig, LLP",Greenberg Traurig LLP,,,1,3,8,"2226, 2974, 3071"
+F0673,Ice Miller LLP,,,,1,1,1,2226
+F0674,"Wites & Kapetan, P.A.",,,,1,1,1,2238
+F0675,"Isaac, Brant, Ledman and Teetor, LLP",,,,1,1,1,2233
+F0676,"Schlanger & Schlanger, LLP",,,,1,1,1,2233
+F0677,"KamberLaw, LLC",,,,1,2,2,"2264, 2562"
+F0678,"Wilson, Troclair & Lovins",,,,1,1,1,2264
+F0679,Birka-White Law Offices,,,,1,1,1,2247
+F0680,Law Offices of David H. Greenberg,,,,1,1,1,2247
+F0681,"Herman Gerel, LLP",,,,1,1,1,2258
+F0682,Law Offices of David A. McKay LLC,,,,1,1,1,2258
+F0683,Frank & Bianco LLP,"Frank & Bianco, LLP",,,1,1,2,2275
+F0684,"The Rosen Law Firm, P.A.",the Rosen Law Firm,,,1,2,3,"2275, 2989"
+F0685,"Smith & McMorrow, P.C.",,,,1,1,1,2261
+F0686,Law Offices of Douglas J. Campion,,,,1,1,1,2261
+F0687,Speights and Runyan,,,,1,1,2,2000
+F0688,Pope and Hudgens,,,,1,1,1,2000
+F0689,"Pomerantz, LLP",Pomerantz LLP,,,1,1,2,2275
+F0690,"Wohl & Fruchter, LLP",Wohl & Fruchter LLP,,,1,1,2,2275
+F0691,Wills Law Firm,,,,1,1,1,2266
+F0692,Yetter Coleman LLP,,,,1,1,2,2266
+F0693,"Marshall & Lewis, LLP",,,,1,1,2,2266
+F0694,"Padilla, Rodriguez & de la Garza, LLP",,,,1,1,1,2266
+F0695,Ballard Spahr,,,,1,1,1,2284
+F0696,"Roddy Klein & Ryan (to be renamed Klein Kavanagh Costello, LLP as of January 1, 2012)",,,,1,1,1,2274
+F0697,Housing and Economic Rights Advocates,,,,1,1,1,2274
+F0698,Stonebarger Law,,,,1,1,1,2274
+F0699,Holland Groves Schneller Stolze,"Holland, Groves, Schneller & Stolze, LLC","Holland, Groves, Schneller & Stolze",,1,3,3,"2274, 2290, 2474"
+F0700,Hudson Mallaney Shindler Anderson P.C.,"Hudson, Mallaney, Shindler & Anderson, P.C.",,,1,2,2,"2274, 2290"
+F0701,Neighborhood Legal Services,,,,1,1,1,2290
+F0702,"Bolen Robinson & Ellis, LLP","Bolen, Robinson & Ellis, LLP","BOLEN ROBINSON & ELLIS, LLP",,1,2,12,"2290, 2936"
+F0703,"Mauriello Law Firm, APC",,,,1,1,1,2290
+F0704,"Lanza & Smith, PLC",,,,1,1,1,2290
+F0705,"The Grant Law Firm, PLLC",,,,1,1,1,2290
+F0706,"Friscia & Associates, LLC",,,,1,1,1,2290
+F0707,"Sill Law Group, PLLC",the Sill Law Group,Sill Law Group,,1,2,3,"2299, 2700"
+F0708,McGlinchey Stafford PLLC,,,,1,1,1,2299
+F0709,Attorneys General of the State of Connecticut,,,,1,1,1,2293
+F0710,"Schachter, Hendy & Johnson, PSC",,,,1,1,5,2308
+F0711,"Janet, Jenner & Suggs, LLC",,,,1,2,2,"2308, 2502"
+F0712,STEWARTS LAW US LLP,,,,1,1,6,2314
+F0713,"Silverman, Thompson, Slutkin & White LLC",SILVERMAN THOMPSON SLUTKIN WHITE,Silverman Thompson Slutkin White,,1,2,3,"2314, 2358"
+F0714,STRAITE PLLC,,,,1,1,1,2314
+F0715,Grygiel Law LLC,,,,1,1,2,2314
+F0716,Simmons Hanly Conroy LLC,Simmons Hanly Conroy LLP,"Simmons Hanly Conroy, LLC",Simmons Hanly Conroy,1,6,7,"2314, 2996, 3047, 3079, 3080, 3084"
+F0717,Kiesel Law LLP,,,,1,1,2,2314
+F0718,"The Barnes Law Group, LLC","Barnes Law Group, LLC",Barnes & Associates,,1,3,8,"2314, 2583, 3115"
+F0719,Beasley Allen et al,,,,1,1,1,2299
+F0720,Hanly Conroy et al,,,,1,1,1,2299
+F0721,Law Offices of W Mark Lanier,,,,1,1,1,2299
+F0722,Morrow Morrow et al,,,,1,1,1,2299
+F0723,Robinson Calcagnie et al,,,,1,1,1,2299
+F0724,Murphy Falcon Murphy,,,,1,1,1,2314
+F0725,"the Gorny Law Firm, LC",,,,1,1,1,2314
+F0726,"Burns, Cunningham & Mackey, P.C.",,,,1,1,1,2314
+F0727,Bergmanis Law Firm LLC,,,,1,1,1,2314
+F0728,"SHAHEEN & GORDON, P.A.",,,,1,1,1,2320
+F0729,Sianni & Straite LLP,,,,1,1,1,2314
+F0730,"Bingham & Lea, P.C.",,,,1,1,1,2317
+F0731,"Lackey Hershman, LLP",,,,1,1,1,2317
+F0732,Law Office of Thomas H. Brill,,,,1,1,4,2328
+F0733,Sharp McQueen PA,,,,1,1,3,2328
+F0734,Brady & Associates,,,,1,1,3,2328
+F0735,Bernstein Leibhard LLP,,,,1,1,3,2328
+F0736,Arias Ozzello law firm,,,,1,1,1,2330
+F0737,Levin Fishbein law firm,,,,1,1,1,2330
+F0738,"Adams and Reese, LLP",,,,1,1,1,2328
+F0739,"JUSTIN O’TOOLE LUCEY, PA","Justin O’Toole Lucey, P.A.",,,1,2,2,"2333, 2514"
+F0740,"Smith, Bundy, Bybee & Barnett, PC","SMITH, BUNDY, BYBEE & BARNETT, P.C.","Smith Bundy, Bybee & Barnett P.C.",,1,1,4,2333
+F0741,Carney Williams,,,,1,2,2,"2334, 2373"
+F0742,McTigue Law LLP,,,,1,1,1,2335
+F0743,The Lucey Law Firm,,,,1,1,1,2333
+F0744,Oliver Law Group PC,Oliver Law Group P.C.,"Oliver Law Group, P.C.",,1,4,5,"2333, 2481, 3014, 3087"
+F0745,"Childress Duffy, Ltd.",,,,1,2,2,"2333, 2688"
+F0746,NastLaw LLC,"NastLaw, LLC",,,1,3,5,"2342, 3031, 3080"
+F0747,"Stark & Stark, P.C.",,,,1,1,1,2342
+F0748,"Finkelstein, Blankinship, Frei-Pearson & Garber, LLP",,,,1,1,5,2357
+F0749,"The O’Mara Law Firm, P.C.",,,,1,1,2,2357
+F0750,THORNTON & NAUMES LLP,,,,1,1,1,2335
+F0751,HACH ROSE SCHIRRIPA & CHEVERIE LLP,Hach Rose Schirripa & Cheverie LLP,,,1,2,2,"2335, 2989"
+F0752,MURRAY MURPHY MOUL + BASIL LLP,,,,1,1,1,2335
+F0753,ROBBINS UMEDA LLP,,,,1,1,1,2335
+F0754,"Finger & Slanina, L.L.C.",,,,1,1,1,2358
+F0755,"Stewarts Law U.S., L.L.C.",,,,1,1,1,2358
+F0756,"Simmons Browder Gianaris Angelides and Barnerd, LLC","Simmons, Browder Gianaris Angelides & Barnerd, LLC","Simmons, Browder, Gianaris, Angelides & Barnerd, LLC",,1,3,3,"2342, 2502, 2519"
+F0757,Tracey Law Firm,,,,1,1,1,2342
+F0758,Reilly Pozner LLP,,,,1,2,2,"2342, 2458"
+F0759,LAW OFFICES OF GORDON BALL,The Law Offices of Gordon Ball,Gordon Ball PLLC,,1,2,3,"2343, 2508"
+F0760,Block and Leviton,Block & Leviton LLP,,,1,1,2,2384
+F0761,McDermott Will & Emery LLP,,,,1,1,1,2359
+F0762,Nelson Bumgardner Casto P.C.,,,,1,1,1,2371
+F0763,"InnovaLaw, P.C.",,,,1,1,1,2371
+F0764,Duane Morris LLP,,,,1,2,3,"2371, 2949"
+F0765,STRANGE & BUTLER LLP,Strange & Butler LLP,,,1,1,2,2358
+F0766,Reese Richman LLP,,,,1,1,1,2361
+F0767,"Bursor & Fisher, P.A.",Bursor & Fisher,Bursor & Fisher P.A.,"BURSOR & FISHER, P.A.",1,9,11,"2361, 2438, 2562, 2903, 2924, 2985, 3001, 3009, 3089"
+F0768,Davis & Norris,Davis & Norris LLP,,,1,3,4,"2361, 2985, 3001"
+F0769,Campbell Law,,,,1,1,1,2359
+F0770,Tycko & Zavareei LLP,Tycko & Zavareei,Tycko and Zavareei LLP,"Tycko & Zavareei, LLP",1,6,16,"2407, 2985, 3001, 3019, 3108, 3115"
+F0771,Gentle Turner Sexton Debrosse & Harbison,,,,1,1,2,2407
+F0772,JonesWard PLC,,,,1,1,2,2407
+F0773,Providio Lien Counsel,,,,1,1,1,2385
+F0774,Stanley Iola LLP,,,,1,1,1,2405
+F0775,Reese LLP,,,,1,5,9,"2413, 2909, 2948, 3009, 3025"
+F0776,"Terrell Marshall Daudt & Willie, PLLC",Terrell Marshall Daudt & Willie PLLC,,,1,1,2,2416
+F0777,"Keogh Law, Ltd.",Keogh Law Ltd.,"Keogh Law, LTD",,1,2,5,"2416, 2478"
+F0778,"McCuneWright, LLP",,,,1,1,2,2424
+F0779,"Morelli, Alters, Ratner, P.C.",,,,1,1,1,2415
+F0780,"Baron & Budd, P.C.","Baron Budd, P.C.",,,1,6,11,"2415, 2905, 2948, 3051, 3052, 3080"
+F0781,Delaware Department of Justice,,,,1,1,1,2446
+F0782,Williamson & Williams,,,,1,1,1,2416
+F0783,"Meyer Wilson Co., LPA",,,,1,1,1,2416
+F0784,Hilliard & Shadowen LLP,Hilliard & Shadowen LLC,,,1,2,3,"2409, 2521"
+F0785,"Pomerantz, Grossman, Hufford, Dahlstrom & Gross, LLP",,,,1,1,1,2409
+F0786,"Rigrodsky & Long, P.A.",,,,1,1,2,2451
+F0787,Cohen Law Group P.C.,,,,1,1,2,2451
+F0788,Zimmerman Law Offices,"Zimmerman Law Offices, P.C.",,,1,2,3,"2439, 3108"
+F0789,Law Offices of Todd M. Friedman,,,,1,1,1,2439
+F0790,"Agruss Law Firm, LLC",,,,1,1,1,2439
+F0791,"Ademi & O’Reilly, LLP",,,,1,1,1,2439
+F0792,"Evans Law Firm, P.A.",,,,1,1,1,2439
+F0793,"Hirsch Law Firm, P.A.",,,,1,1,1,2439
+F0794,"Marks & Klein, LLP",,,,1,1,1,2439
+F0795,Holland Law Firm,,,,1,2,4,"2474, 2973"
+F0796,"McElroy, Deutsch, Mulvaney & Carpenter, LLP","MCELROY, DEUTSCH, MULVANEY & CARPENTER, LLP",,,1,2,6,"2471, 3113"
+F0797,Burns Charest LLP,,,,1,4,6,"2471, 2948, 3107, 3108"
+F0798,NastLawLLC,,,,1,1,1,2458
+F0799,Feldman and Pinto,,,,1,1,1,2458
+F0800,Gray & White,,,,1,1,1,2474
+F0801,"Steward Law Firm, LLC",,,,1,1,1,2474
+F0802,"Lemberg Law, LLC",Lemberg Law LLC,,,1,1,2,2478
+F0803,Hyde & Swigart,,,,1,1,1,2478
+F0804,"Lyngklip & Associates Consumer Law Group, PLC",,,,1,1,1,2478
+F0805,"Nussbaum Law Group, P.C.","Nussbaum Law Group, PC",,,1,3,4,"2481, 3096, 3127"
+F0806,Denlca & Carton LLP,,,,1,1,1,2491
+F0807,Del Sole Cavanaugh Stroyd LLC,,,,1,2,3,"2491, 3014"
+F0808,Stewart M. Weltman LLC,,,,1,1,1,2491
+F0809,"Bonsignore, LLC",,,,1,1,1,2481
+F0810,"Vanek, Vickers & Masini, P.C.",,,,1,1,1,2481
+F0811,"Spears, Moore, Rebman & Williams, P.C.",,,,1,1,3,2508
+F0812,"Berke, Berke, & Berke",,,,1,1,2,2508
+F0813,"Miller & Martin, PLLC",,,,1,1,1,2508
+F0814,"Baker Botts, L.L.P",,,,1,1,1,2508
+F0815,"Maynard, Cooper & Gale, P.C.",,,,1,1,1,2508
+F0816,"Grant, Konvalinka & Harrison, PC",,,,1,1,1,2508
+F0817,"The Potts Law Firm, LLP",the Potts Law Firm,,,1,2,2,"2511, 2968"
+F0818,"Cipriani & Werner, P.C.",,,,1,1,1,2511
+F0819,"Warren and Griffin, P.C.",,,,1,1,1,2508
+F0820,"Johnson Becker, PLLC","Johnson // Becker, PLLC",Johnson Becker,Johnson Becker PLLC,1,8,15,"2502, 2973, 3014, 3026, 3079, 3087, 3092, 3094"
+F0821,Heaviside Reed Zaic,,,,1,1,1,2502
+F0822,"Langston & Lott, PA",,,,1,1,1,2502
+F0823,"Nast Law, LLC",,,,1,1,1,2502
+F0824,"Restaino Siler, LLC",,,,1,1,1,2502
+F0825,Cera LLP,,,,1,1,1,2508
+F0826,"Heim Payne & Chorush, LLP",,,,1,1,1,2521
+F0827,"Taus, Cebulash & Landau LLP","Taus, Cebulash & Landau, LLP",,,1,3,6,"2521, 2993, 3107"
+F0828,Butsch Roberts & Associates LLC,,,,1,1,1,2564
+F0829,"The Dugan Law Firm, APLC","Dugan Law Firm, APLC",,,1,2,3,"2521, 3026"
+F0830,"Quantum Legal, LLC","QUANTUM LEGAL, LLC",,,1,1,3,2540
+F0831,"Law Offices of Walkup, Melodia, Kelly & Schoenberger, A Professional Corporation",,,,1,1,2,2532
+F0832,Myers Brier & Kelly LLP,,,,1,1,3,2532
+F0833,"Landskroner, Grieco, Merriman, LLC","LANDSKRONER, GRIECO, MERRIMAN, LLC",,,1,1,3,2577
+F0834,"Simon Law Firm, P.C.",,,,1,1,1,2562
+F0835,"Steelman, Gaunt & Horsefield",,,,1,1,1,2562
+F0836,"Wise & Donahue, PLC",,,,1,1,1,2514
+F0837,Faegre Baker Daniels LLP,,,,1,1,1,2514
+F0838,"Finley Firm, P.C.","The Finley Firm, P.C.","THE FINLEY FIRM, P.C.",,1,3,3,"2583, 3056, 3074"
+F0839,"Herrick, Feinstein LLP",,,,1,1,1,2577
+F0840,"Hausfeld, LLP - DC",,,,1,1,1,2583
+F0841,"Harris Penn Lowry, LLP",Harris Penn Lowry LLP,,,1,1,6,2583
+F0842,Altshuler Berzon LLP,,,,1,2,6,"2617, 2992"
+F0843,Law Office of Steve Gibbins,,,,1,1,1,2588
+F0844,"Ahdoot & Wolfson, PC","Ahdoot & Wolfson, P.C.",,,1,6,7,"2583, 2588, 2905, 2951, 3107, 3148"
+F0845,"Clifford Law Offices, P.C.",,,,1,2,2,"2619, 2948"
+F0846,"W. Pitts Carr and Associates, PC",,,,1,1,1,2583
+F0847,"Carney Bates & Pulliam, PLLC",,,,1,1,1,2583
+F0848,Chestnut Cambronne PA,"Chestnut Cambronne, PA",,,1,2,4,"2583, 3108"
+F0849,"Gillen, Withers & Lake, LLC",,,,1,1,1,2583
+F0850,Derby Curtis LLP,,,,1,1,1,2639
+F0851,Gibbs Law Group LLP,,,,1,4,7,"2661, 2905, 3031, 3108"
+F0852,"Eisenberg, Rothweiler, Winkler, Eisenberg & Jeck, P.C.",,,,1,1,1,2654
+F0853,"Kramer, Dillof, Livingston & Moore",,,,1,1,1,2654
+F0854,Stein Mitchell Cipollone Beato & Missner,,,,1,1,1,2654
+F0855,"Kline & Specter, P.C.",,,,1,1,2,2654
+F0856,"Morelli Law Firm, PLLC",,,,1,1,2,2654
+F0857,GableGotwals,,,,1,1,3,2700
+F0858,"Langer, Grogan & Diver L.L.P.","Langer, Grogan & Diver, P.C.",,,1,1,2,2668
+F0859,Law Offices of Jonathan A. Sorkowitz,,,,1,1,2,2903
+F0860,Hansen Reynolds Dickinson Crueger LLC,,,,1,1,2,2688
+F0861,Michael Best & Friedrich LLP,,,,1,1,2,2688
+F0862,Chaikin Law Firm PLLC,,,,1,1,1,2688
+F0863,"Arthur Chapman Kettering Smetak Pikala, P.A.",,,,1,1,1,2688
+F0864,"Lite DePalma Greenberg & Afanador, LLC",Lite DePalma Greenberg & Afanador,"LITE DEPALMA GREENBERG & AFANADOR, LLC",,1,2,4,"2904, 3113"
+F0865,"Podhurst Orseck, P.A.","PODHURST ORSECK, P.A.",,,1,2,4,"2905, 2924"
+F0866,"Levi & Korsinsky, LLP",,,,1,3,3,"2905, 2938, 3025"
+F0867,Bleichmar Fonti & Auld LLP,"Bleichmar Fonti & Auld, LLP",,,1,1,3,2905
+F0868,Pritzker Levine LLP,,,,1,2,4,"2905, 3148"
+F0869,Pierce Bainbridge Beck Price & Hecht LLP,,,,1,1,1,2903
+F0870,Smolen & Roytman,,,,1,1,1,2903
+F0871,Connors LLP,,,,1,1,1,2903
+F0872,"Caruso Law Firm, P.C.",,,,1,1,1,2903
+F0873,Reich Radcliffe & Hoover LLP,,,,1,1,1,2903
+F0874,Forchelli Deegan Terrana,,,,1,1,1,2903
+F0875,Shindler Anderson Goplerud & Weese PC,"Shindler, Anderson, Goplerud & Weese P.C.",,,1,2,2,"2903, 3036"
+F0876,"Adhoot & Wolfson, PC",,,,1,2,2,"2905, 3096"
+F0877,KING & SPALDING LLP,King & Spalding,King & Spalding LLP,,1,4,13,"2915, 2924, 2973, 3111"
+F0878,Zelle LLP,,,,1,2,6,"2918, 3107"
+F0879,Holland & Knight LLP,Holland & Knight,HOLLAND & KNIGHT LLP,,1,2,4,"2924, 3110"
+F0880,Goodell Devries,,,,1,1,1,2924
+F0881,Vinson & Elkins LLP,,,,1,2,3,"2925, 3121"
+F0882,Siro Smith Dickson Law Firm,SIRO SMITH DICKSON LAW FIRM,,,1,1,7,2936
+F0883,Langdon & Emison,LANGDON & EMISON,"Langdon & Emison, LLC",,1,2,7,"2936, 3081"
+F0884,Wollmuth Maher & Deutsch LLP,,,,1,1,2,2931
+F0885,Malkinson & Halpern PC,,,,1,1,2,2931
+F0886,Radice Law Firm,"Radice Law Firm, PC","Radice Law Firm, P.C.",,1,4,5,"2931, 2946, 2966, 3107"
+F0887,Reed Smith LLP,"Reed Smith, LLP",,,1,2,4,"2933, 2969"
+F0888,Rogers & Hardin LLP,,,,1,1,1,2933
+F0889,Ropes & Gray LLP,,,,1,1,1,2941
+F0890,"Paul, Weiss, Rifkind, Wharton & Garrison LLP",,,,1,2,2,"2941, 3110"
+F0891,"Consumer Litigation Associates, P.C.",,,,1,2,5,"2933, 3128"
+F0892,Kelly Guzzo PLC,"Kelly Guzzo, PLC",,,1,2,5,"2933, 3128"
+F0893,Khayat Law Firm,,,,1,1,2,2933
+F0894,"GOODELL, DEVRIES, LEECH & DANN, LLP",,,,1,1,1,2924
+F0895,PHILLIPS LYTLE LLP,,,,1,1,1,2924
+F0896,"White, Graham, Buckley & Carr, L.L.C.","WHITE, GRAHAM, BUCKLEY, & CARR, L.L.C",,,1,1,10,2936
+F0897,Clayton Jones Law Firm,,,,1,1,5,2936
+F0898,Krause & Kinsman,"KRAUSE AND KINSMAN, LLC",,,1,2,3,"2924, 2936"
+F0899,"Emerson Firm, PLLC","EMERSON FIRM, PLLC",,,1,1,6,2936
+F0900,Johnson Firm,JOHNSON FIRM,,,1,1,4,2936
+F0901,"Lundberg Law Firm, P.L.C.","LUNDBERG LAW FIRM, P.L.C.",,,1,1,6,2936
+F0902,"Griffith Law Center, PLLC","GRIFFITH LAW CENTER, PLLC",,,1,1,6,2936
+F0903,Steckler Gresham Cochran PLLC,,,,1,1,1,2946
+F0904,Thompson Coburn LLP,"Thompson Coburn, LLP",,,1,2,2,"2946, 2993"
+F0905,Jennings PLLC,,,,1,1,2,2936
+F0906,"BIRD, MARELLA, BOXER, WOLPERT, NESSIM, DROOKS, LINCENBERG & RHOW, P.C.","Bird, Marella, Boxer, Wolpert, Nessim, Drooks, Lincenberg & Rhow, P.C.",,,1,1,2,2948
+F0907,Fegan Scott LLC,FEGAN SCOTT LLC,"Fegan Scott, LLC",,1,5,10,"2924, 2948, 3052, 3089, 3110"
+F0908,"CLAYTON JONES, ATTORNEY AT LAW",,,,1,1,1,2936
+F0909,"SANDY LAW FIRM, P.C.",,,,1,1,1,2936
+F0910,Wittels McInturff Palikovic,,,,1,1,1,2951
+F0911,Kopelowitz Ostrow Ferguson Weiselberg Gilbert,KOPELOWITZ OSTROW FERGUSON WEISELBERG GILBERT,,,1,3,5,"2924, 3108, 3127"
+F0912,"Pope McGlamry, P.C.",Pope McGlamry,"POPE McGLAMRY, P.C.",,1,4,5,"2924, 2949, 3014, 3140"
+F0913,"Pulaski Kherkher, PLLC","PULASKI KHERKHER, PLLC",Pulaski Kherkher PLLC,,1,4,5,"2924, 2973, 3004, 3084"
+F0914,"GoldenbergLaw, PLLC","GOLDENBERGLAW, PLLC",,,1,2,3,"2924, 3004"
+F0915,Chaffin Luhana LLP,CHAFFIN LUHANA LLP,Chaffin Luhana,,1,4,5,"2924, 3004, 3084, 3140"
+F0916,Watts Guerra LLP,WATTS GUERRA LLP,Watts Guerra LLC,,1,4,6,"2924, 3004, 3043, 3084"
+F0917,"MAY LIGHTFOOT, PLLC",,,,1,1,1,2924
+F0918,"SAUNDERS & WALKER, P.A.",,,,1,1,1,2924
+F0919,LEAR WERTS LLP,Lear Werts LLP,,,1,2,2,"2924, 3009"
+F0920,Fox Rothschild LLP,,,,1,1,1,2945
+F0921,Baker McKenzie,,,,1,1,2,2945
+F0922,Moore & Van Allen PLLC,,,,1,1,1,2945
+F0923,Dovel & Luner,"Dovel & Luner, LLP",,,1,3,4,"2955, 2985, 3001"
+F0924,"James & Carter, PLC",,,,1,1,1,2949
+F0925,"Warshauer McLaughlin Law Group, P.C.",,,,1,1,1,2949
+F0926,Wells and Associates,,,,1,1,1,2949
+F0927,Israel David LLC,,,,1,3,3,"2948, 3096, 3113"
+F0928,"Gibson Consumer Law Group, LLC",,,,1,2,3,"2948, 3056"
+F0929,Herman Jones LLP,,,,1,2,2,"2948, 3073"
+F0930,"Bottini & Bottini, Inc.",,,,1,2,2,"2948, 3149"
+F0931,"Wilson Sonsini Goodrich & Rosati, P.C.",,,,1,1,1,2948
+F0932,Loevy & Loevy,Loevy and Loevy,,,1,2,4,"2967, 3143"
+F0933,"Lynch Carpenter, LLP",Lynch Carpenter LLP,"LYNCH CARPENTER, LLP",,1,11,27,"2969, 2984, 3014, 3032, 3056, 3074, 3083, 3096, 3108, 3115, 3149"
+F0934,"The Moskowitz Law Firm, PLLC",The Moskowitz Law Firm PLLC,,,1,2,5,"2969, 3076"
+F0935,Golomb Spirt Grunfeld PC,,,,1,1,1,2969
+F0936,"Goodrich & Associates, P.C.",,,,1,1,2,2969
+F0937,Merlin Law Group,,,,1,1,2,2969
+F0938,Troutman Pepper Hamilton Sanders LLP,,,,1,1,18,2972
+F0939,Burr Forman McNair,,,,1,1,2,2972
+F0940,"Duffy & Young, LLC",,,,1,1,2,2972
+F0941,Girard Sharp LLP,Girard Sharp,"Girard Sharp, LLP",GIRARD SHARP LLP,1,7,11,"2966, 3014, 3107, 3108, 3113, 3115, 3148"
+F0942,"Rawlings & Associates, PLLC",,,,1,1,1,2966
+F0943,Raizner Slania LLP,,,,1,1,1,2968
+F0944,Sauder Schelkopf LLC,,,,1,1,1,2968
+F0945,"Alston & Bird, LLP",,,,1,1,3,2969
+F0946,"Timoney Knox, LLP",,,,1,1,3,2969
+F0947,"DiBella, Geer, McAllister & Best, P.C.",,,,1,1,3,2969
+F0948,"Levy Konigsberg, LLP",,,,1,1,1,2973
+F0949,Martin Baughman,,,,1,1,1,2973
+F0950,Maderal Byrne PLLC,,,,1,1,1,2973
+F0951,"The Drakulich Firm, APLC",,,,1,1,2,2973
+F0952,"Hilliard Martinez Gonzales, LLP",,,,1,1,2,2973
+F0953,The Carlson Law Firm,,,,1,1,2,2973
+F0954,"Rappaport, Glass, Levine, & Zullo, LLP",,,,1,1,2,2973
+F0955,"Levy Kongsberg, LLP",,,,1,1,1,2973
+F0956,Breit Biniazan,BREIT BINIAZAN,,,1,2,4,"2974, 3092"
+F0957,SeegerWeiss LLP,,,,1,1,1,2973
+F0958,Butler Snow LLP,,,,1,1,7,2974
+F0959,Miller Schirger LLC,,,,1,1,1,2975
+F0960,Faegre Drinker,,,,1,1,1,2973
+F0961,Skadden,,,,1,1,1,2973
+F0962,Riggs Abney Neal Turpen Orbison & Lewis,,,,1,1,3,2977
+F0963,"Axinn, Veltrop & Harkrider LLP",,,,1,1,1,2977
+F0964,Venable,,,,1,1,2,2977
+F0965,Swigart Law Group,,,,1,1,1,2992
+F0966,Browne George Ross O’Brien Annaguey & Ellis,Browne George Ross O’Brien Annaguey & Ellis LLP,,,1,1,2,2989
+F0967,"Anastopoulo Law Firm, LLC",,,,1,1,2,2989
+F0968,McDonald Worley,"McDonald Worley, PC",,,1,3,6,"2989, 3029, 3081"
+F0969,"Pessah Law Group, PC",,,,1,1,2,2989
+F0970,"Joseph Saveri Law Firm, LLP",Joseph Saveri Law Firm,Joseph Saveri Law Firm LLP,,1,4,7,"2989, 3071, 3080, 3108"
+F0971,"The Ferraro Law Firm, P.A.",The Ferraro Law Firm,,,1,2,2,"2989, 3080"
+F0972,Safirstein Metcalf LLP,,,,1,1,1,2989
+F0973,Grossman Roth Yaffa Cohen P.A.,,,,1,1,1,2989
+F0974,Napoli Shkolnik,"Napoli Shkolnik, PLLC",,,1,2,3,"2973, 3121"
+F0975,"Levy Konisgberg, LLP",,,,1,1,1,2973
+F0976,"Sanders Phillips Grossman, LLC",,,,1,1,1,2973
+F0977,"Sperling & Slater, LLC",Sperling & Slater LLC,,,1,2,2,"2981, 3080"
+F0978,"Dollar, Burns, Becker & Hershewe, L.C.",,,,1,1,1,2984
+F0979,Walsh Law PLLC,Walsh PLLC,,,1,4,4,"2984, 3015, 3084, 3094"
+F0980,"Tostrud Law Group, P.C.",,,,1,3,4,"2998, 3031, 3110"
+F0981,"Bozeman Law Firm, P.A.",,,,1,1,1,2998
+F0982,The Law Office of Daniel G. Shay,,,,1,1,1,2992
+F0983,"McShane & Brady, LLC",McShane & Brady LLC,,,1,4,6,"2994, 3019, 3073, 3096"
+F0984,Steyer Lowenthal,,,,1,2,3,"2985, 3001"
+F0985,Kopelowitz Ostrow P.A.,KOPELOWITZ OSTROW P.A.,,,1,5,6,"2985, 3001, 3090, 3115, 3149"
+F0986,"Martzell, Bickford & Centola, APC",,,,1,1,1,2996
+F0987,"Mehri & Skalet, PLLC",,,,1,1,1,2996
+F0988,"Sonosky, Chambers, Sachse, Miller & Monkman, LLP",,,,1,1,1,2996
+F0989,"Browne Pelican, PLLC",,,,1,1,1,2996
+F0990,Devine Goodman Rasco & Watts-FitzGerald LLP,,,,1,1,1,2994
+F0991,"Fell Law, PC",,,,1,1,1,2994
+F0992,Law Office of Kenneth E. Berger LLC,,,,1,1,1,2994
+F0993,Dennis Spurling PLLC Attorneys at Law,,,,1,1,1,3014
+F0994,"Walkup, Melodia, Kelly & Schoenberger","Walkup, Melodia, Kelly and Schoenberger, APC",,,1,2,4,"3004, 3084"
+F0995,The Cates Law Firm,,,,1,1,1,3004
+F0996,TorHoerman Law,,,,1,1,2,3004
+F0997,"LaMacchia Law, PC",,,,1,1,1,3004
+F0998,Williams Dirks Dameron LLC,,,,1,1,2,3009
+F0999,"Cates Mahoney, LLC",,,,1,1,1,3004
+F1000,Wagstaff Law Firm,,,,1,1,1,3004
+F1001,Elias LLC,,,,1,1,1,3006
+F1002,OnderLaw LLC,OnderLaw,,,1,2,2,"3006, 3140"
+F1003,Hollingsworth LLP,,,,1,1,3,3006
+F1004,Wienand and Bagin,,,,1,1,1,3014
+F1005,Bradley/Grombacher LLP,"Bradley/Grombacher, LLP",Bradley Grombacher LLP,,1,3,5,"3015, 3089, 3115"
+F1006,Keller Lenkner LLC,"Keller Lenkner, LLC",,,1,1,3,3015
+F1007,"Walsh Law, PLC",Walsh Law PLC,,,1,1,2,3015
+F1008,"Morgan, Lewis & Bockius, LLP",,,,1,1,1,3014
+F1009,"Sullivan & Cromwell, LLP",,,,1,1,2,3014
+F1010,"Milberg Coleman Cryson Phillips Grossman, PCCL",,,,1,1,1,3009
+F1011,Shub Law Firm LLC,Shub Law Firm,,,1,2,2,"3009, 3025"
+F1012,"Levensten Law Firm, PC",,,,1,1,1,3009
+F1013,"Dowd & Dowd, P.C.",,,,1,1,1,3009
+F1014,Tadler Law LLP,,,,1,1,1,3009
+F1015,Law Offices of Ronald Marron,,,,1,1,1,3019
+F1016,"Lowey Dannenberg, P.C.",,,,1,6,10,"3019, 3062, 3071, 3107, 3110, 3119"
+F1017,Morgan & Morgan Mass Tort Dept.,,,,1,3,3,"3014, 3019, 3114"
+F1018,Hotze Runkle LLC,Hotze Runkle PLLC,,,1,1,3,3023
+F1019,Paul LLP,,,,1,4,8,"2993, 3023, 3025, 3031"
+F1020,Chimicles Schwartz Kriner & Donaldson-Smith LLP,,,,1,1,1,3014
+F1021,"Ron Austin Law, LLC",Ron Austin Law,,,1,1,2,3014
+F1022,Sharp Law LLP,"Sharp Law, LLP",,,1,3,7,"2993, 3014, 3021"
+F1023,Migliaccio & Rathod LLP,,,,1,3,5,"3014, 3108, 3114"
+F1024,Kelley Ferraro LLC,"Kelley & Ferraro, LLP",,,1,3,5,"3014, 3080, 3092"
+F1025,"Robert Peirce & Associates, P.C.",Robert Peirce & Associates,ROBERT PEIRCE & ASSOCIATES P.C.,,1,3,6,"3014, 3092, 3140"
+F1026,"Pietragallo Gordon Alfano Bosick & Raspanti, LLP",,,,1,1,2,3014
+F1027,"Rubenstein Law, P.A.",Rubenstein Law,,,1,2,3,"3014, 3140"
+F1028,"Hensley Legal Group, PC",,,,1,1,2,3014
+F1029,Meshbesher & Spence,,,,1,1,2,3014
+F1030,"Babin Law, LLC",,,,1,2,3,"3014, 3029"
+F1031,"Messa & Associates, P.C.",,,,1,1,2,3014
+F1032,"Campbell & Levine, LLC",,,,1,1,2,3014
+F1033,"Onder Law, LLC",,,,1,1,2,3014
+F1034,Silver Golub & Teitell LLP,,,,1,4,5,"3014, 3025, 3128, 3144"
+F1035,East End Trial Group LLC,,,,1,1,2,3014
+F1036,"Deakle-Johnson Law Firm, PLLC",,,,1,1,1,3021
+F1037,Deakle Sholtis & Hamil,,,,1,1,1,3021
+F1038,"Pasley, Nuce, Mallory & Davis, LLC",,,,1,1,1,3021
+F1039,"Strassburger, McKenna, Gutnick & Gefsky",,,,1,1,1,3021
+F1040,Levin Law Firm,,,,1,1,1,3014
+F1041,Montgomery McCracken Walker & Rhoads LLP,"Montgomery McCracken, Walker & Rhoads LLP",,,1,1,2,3028
+F1042,"Lyons & Flood, LLP",,,,1,1,1,3028
+F1043,"Mahoney & Keane, LLP",,,,1,1,1,3028
+F1044,"Giuliano, McDonnell and Perrone, LLP",,,,1,1,1,3028
+F1045,"Flynn, Delich and Wise, LLP",,,,1,1,1,3028
+F1046,"Lane, Powell, P.C.",,,,1,1,1,3028
+F1047,"Marwedel, Minichello and Reeb, PC",,,,1,1,1,3028
+F1048,Hill Rivkins LLP,,,,1,1,1,3028
+F1049,Nicoletti Hornig & Sweeney,NICOLETTI HORNIG & SWEENEY,,,1,1,2,3028
+F1050,Gibson Robb & Lindh LLP,,,,1,1,1,3028
+F1051,Kennedys Law LLP,,,,1,1,1,3028
+F1052,Law Offices of Ronald Maron,,,,1,1,1,3019
+F1053,"Levin, Rojas, Camassar & Reck, LLC",,,,1,2,3,"3026, 3081"
+F1054,Fulmer Sill,,,,1,2,4,"3026, 3108"
+F1055,"Peiffer Wolf Carr Kane Conway & Wise, LLP","PEIFFER WOLF CARR KANE CONWAY & WISE, LLP",Peiffer Wolf Carr Kane Conway & Wise,,1,4,9,"3026, 3079, 3084, 3092"
+F1056,Watts LLP,WATTS LLP,,,1,2,4,"3026, 3092"
+F1057,The Dixon Firm,,,,1,1,1,3026
+F1058,Kaveny & Kroll,,,,1,1,1,3026
+F1059,Goldenberg Lauricella PLLC,,,,1,1,1,3026
+F1060,Ferrer Poirot Feller,,,,1,1,1,3026
+F1061,Irpino Avin & Hawkins,,,,1,2,2,"3026, 3080"
+F1062,Romano Law Group,,,,1,1,1,3026
+F1063,"Strauss Troy Co., LPA",,,,1,1,1,3025
+F1064,"Poulin Willey Anastopoulo, LLC",,,,1,1,1,3025
+F1065,"Markovits, Stock & Demarco, LLC",,,,1,1,1,3025
+F1066,Schubert Jonckheer & Kolbe LLP,Schubert Jonckheer & Kolbe,,,1,3,3,"3025, 3096, 3149"
+F1067,"TISDALE & NAST LAW OFFICES, LLC",,,,1,1,1,3028
+F1068,"Fleming, Nolen & Jez, LLP","FLEMING, NOLEN & JEZ, L.L.P.","Fleming, Nolen & Jez, L.L.P.",,1,2,3,"3029, 3089"
+F1069,"Bernheim Kelley Battista & Bliss, LLC",,,,1,1,1,3029
+F1070,"Neal & Harwell, PLC",,,,1,1,3,3032
+F1071,Derfner & Altman,,,,1,1,1,3031
+F1072,Hartley LLP,,,,1,2,3,"3031, 3149"
+F1073,Karon LLC,,,,1,1,2,3031
+F1074,Rueb Stoller Daniel,,,,1,1,1,3029
+F1075,Nigh Goldenberg Raso & Vaughn,"Nigh Goldenberg Raso & Vaughn, PLLC","Nigh, Goldenberg, Raso & Vaughn PLLC",,1,5,6,"3029, 3084, 3089, 3092, 3140"
+F1076,King Law,,,,1,1,1,3029
+F1077,"Cadwalader, Wickersham & Taft LLP",,,,1,1,1,3031
+F1078,AARP Foundation,,,,1,1,6,3035
+F1079,"Kantor & Kantor, LLP","Kantor & Kantor, LLC",KANTOR & KANTOR LLP,,1,1,6,3035
+F1080,"Streett Law Firm, P.A.",,,,1,1,1,3032
+F1081,"Osborne & Francis Law Firm, PLLC","OSBORNE & FRANCIS LAW FIRM, PLLC",,,1,1,4,3035
+F1082,"Blue, LLP",Blue LLP,,,1,1,4,3035
+F1083,"Wright & Schulte, LLC",Wright & Schulte LLC,Wright & Schulte,,1,2,5,"3035, 3140"
+F1084,Goldman Ismail Tomaselli Brennan & Baum LLP,,,,1,1,1,3036
+F1085,Robinson Bradshaw & Hinson,,,,1,1,1,3036
+F1086,Turning Point Litigation; Mullins Duncan Harrell & Russell PLLC,,,,1,1,1,3036
+F1087,Bronster Fujichaku Robbins A Law Corporation,,,,1,1,2,3036
+F1088,Siri & Glimstad LLP,,,,1,1,1,3036
+F1089,"Downing, Allison & Jorgenson",,,,1,1,1,3036
+F1090,"Margulis Gelfand, LLC",,,,1,1,1,3036
+F1091,Mack Rosenberg Law,,,,1,1,1,3036
+F1092,"A. LIBERATORE, P.C.",,,,1,1,1,3036
+F1093,"Law Offices of Sadaka Associates, LLC",,,,1,1,1,3036
+F1094,Tinsman & Sciano Inc.,,,,1,1,1,3037
+F1095,Preuss | Foster Law,,,,1,1,1,3037
+F1096,Dilley Law Firm,,,,1,1,1,3037
+F1097,"McIntyre Thanasides Bringgold Elliott Grimaldi & Guito, P.A.",,,,1,1,1,3037
+F1098,"Singleton Schreiber, LLP",Singleton Schreiber,,,1,2,2,"3043, 3140"
+F1099,"Rivero Mestre, LLP",Rivero Mestre LLP,,,1,1,2,3050
+F1100,"Forester Haynie, PLLC",,,,1,1,2,3044
+F1101,"Jacob D. Fuchsberg Law Firm, LLP",,,,1,1,2,3044
+F1102,Weisman Kennedy,,,,1,1,2,3044
+F1103,Honik LLC,,,,1,1,2,3050
+F1104,"Humphrey Farrington & McClain, P.C.",HUMPHREY FARRINGTON & McCLAIN,,,1,1,3,3052
+F1105,"ALLEN STOVAL NEUMAN & ASHTON, LLP",,,,1,1,1,3052
+F1106,COZEN O’CONNOR,,,,1,1,2,3052
+F1107,GROTEFFELD HOFFMANN LLP,,,,1,1,2,3052
+F1108,"BERGER KAHN, A Law Corporation.",,,,1,1,1,3052
+F1109,LAW OFFICES OF ROBERT A. STUNTMAN. P.C.,,,,1,1,1,3052
+F1110,GROTEFELD HOFFMANN LLP,,,,1,1,2,3052
+F1111,MWH Law Group LLP,,,,1,1,1,3052
+F1112,Caplan Cobb LLC,,,,1,1,1,3051
+F1113,"The Blakely Firm, LLC",,,,1,1,1,3051
+F1114,JENNER & BLOCK LLP,,,,1,1,1,3052
+F1115,Dann Law,,,,1,1,1,3056
+F1116,Meyer Wilson,MEYER WILSON,,,1,3,5,"3056, 3092, 3094"
+F1117,"McCune Wright Arevalo, LLP",,,,1,1,2,2993
+F1118,Eckert Seamans,,,,1,1,2,3060
+F1119,Korein Tillery P.C.,KOREIN TILLERY LLC,Korein Tillery LLC,,1,4,12,"3062, 3071, 3107, 3113"
+F1120,Hawkins Parnell,,,,1,1,1,3060
+F1121,Sims Funk PLC,"Sims Funk, PLC",,,1,1,2,3071
+F1122,"DeSouza Law, PA",,,,1,1,1,3075
+F1123,Miles & Stockbridge P.C.,,,,1,1,1,3075
+F1124,"Lowery Dannenberg, P.C.",,,,1,1,2,3071
+F1125,Edelson Lechtzin LLP,,,,1,1,4,2993
+F1126,Kershaw Talley Barlow PC,KERSHAW TALLEY & BARLOW,KERSHAW TALLEY BARLOW,,1,2,4,"3078, 3092"
+F1127,"Bryson, Harris, Suciu & Demay PLLC",,,,1,1,2,3078
+F1128,Lee Segui PLLC,,,,1,1,2,3078
+F1129,"Pinto Coates Kyre & Bowers, PLLC",,,,1,1,1,3062
+F1130,Baker & Hostetler LLP,Baker Hostetler LLP,,,1,2,2,"3071, 3090"
+F1131,MARCUS & ZELMAN LLC,,,,1,1,1,3074
+F1132,WALLACE MILLER,Wallace Miller,,,1,2,4,"3079, 3092"
+F1133,"Childers, Schlueter & Smith, LLC","CHILDERS, SCHLUETER & SMITH, LLC",,,1,3,5,"3079, 3092, 3115"
+F1134,ANAPOLWEISS,,,,1,1,1,3079
+F1135,CROSS LAW FIRM,,,,1,1,1,3078
+F1136,"OMER LAW FIRM, PLLC",,,,1,1,1,3078
+F1137,"Roberts Law Firm US, PC",,,,1,2,6,"3080, 3110"
+F1138,"Dickerson Oxton, LLC",Dickerson Oxton LLC,,,1,2,7,"3081, 3125"
+F1139,"Ciresi Conlin, LLP",Ciresi Conlin LLP,Ciresi Conlin,,1,4,9,"3081, 3089, 3108, 3140"
+F1140,Scout Law Group,,,,1,1,3,3081
+F1141,"Holman Schiavone, LLC",Holman Schiavone LLC,,,1,2,3,"3081, 3125"
+F1142,Ratzan Weissman & Boldt,,,,1,2,4,"3081, 3125"
+F1143,"The Cochran Firm – Dallas, PLLC",,,,1,1,3,3081
+F1144,Balaban Law LLC,Balaban Law,,,1,2,4,"3081, 3125"
+F1145,"Leger Ketchum & Cohoon, PLLC",,,,1,1,3,3081
+F1146,"Woodworth Law Firm, LLC",,,,1,1,3,3081
+F1147,"Dickey Anderson, LLC",,,,1,1,3,3081
+F1148,Robert Brown Law,,,,1,1,3,3081
+F1149,"Trial Lawyers for Justice, P.C.",Trial Lawyers for Justice,,,1,2,4,"3081, 3125"
+F1150,"Constant Legal Group, LLP",Constant Legal Group LLP,,,1,2,4,"3081, 3125"
+F1151,Beus O’Connor McGroder PLLC,Beus O’Connor McGroder,,,1,2,3,"3081, 3125"
+F1152,The Nations Law Firm,,,,1,1,2,3081
+F1153,The Gori Law Firm,,,,1,2,2,"3081, 3094"
+F1154,Peiffer Wolf,,,,1,1,1,3081
+F1155,Ben Crump Law,,,,1,1,1,3080
+F1156,"NS PR Law Services, LLC",,,,1,1,1,3080
+F1157,Environmental Litigation Group PC,,,,1,1,1,3080
+F1158,The Cicala Law Firm PLLC,,,,1,1,1,3080
+F1159,Liston & Deas PLLC,,,,1,1,1,3080
+F1160,Forman Watkins & Krutz LLP,,,,1,1,1,3080
+F1161,MSP Recovery Law Firm,,,,1,1,1,3080
+F1162,"eDiscovery CoCounsel, PLLC",,,,1,1,1,3081
+F1163,Friedman Gilbert + Gerhardstein,FRIEDMAN GILBERT + GERHARDSTEIN,,,1,1,3,3092
+F1164,Bailey Cowan Heckaman PLLC,,,,1,1,5,3087
+F1165,Pearce Lewis LLP,,,,1,1,1,3087
+F1166,McKelvey Law LLC,,,,1,1,1,3087
+F1167,Lytle Soule & Felty P.C.,,,,1,1,1,3087
+F1168,The Sultzer Law Group P.C.,,,,1,1,1,3089
+F1169,Clarkson Law Firm P.C.,Clarkson Law Firm,,,1,2,2,"3089, 3149"
+F1170,Kaplan Gore LLP,,,,1,1,1,3089
+F1171,Frazer PLC,FRAZER PLC,,,1,1,3,3092
+F1172,Haber LLP,HABER LLP,,,1,1,3,3092
+F1173,Flint Cooper Cohn Thompson & Miracle,FLINT COOPER COHN THOMPSON & MIRACLE,,,1,1,3,3092
+F1174,"Fibich, Leebron, Copeland & Briggs","FIBICH, LEEBRON, COPELAND & BRIGGS",,,1,1,3,3092
+F1175,Flint Cooper LLC,FLINT COOPER LLC,,,1,1,3,3092
+F1176,Tittle & Perlmuter,,,,1,1,2,3092
+F1177,Hammers Law Firm,Hammers Law,HAMMERS LAW FIRM,,1,2,4,"3092, 3094"
+F1178,"Cooper Law Partners, PLLC",COOPER LAW PARTNERS PLLC,,,1,1,3,3092
+F1179,Dolman Law Group,DOLMAN LAW GROUP,,,1,1,3,3092
+F1180,Bey & Associates,BEY & ASSOCIATES,,,1,1,3,3092
+F1181,"Goza & Honnold, LLC",,,,1,1,1,3094
+F1182,Susen Law Firm,Susen Law Group,,,1,1,2,3094
+F1183,Leif Cabraser Heimann and Bernstien,,,,1,1,1,3094
+F1184,Ferrer Poirot Feller Daniel,,,,1,1,1,3094
+F1185,Laborde Earles Injury Lawyers,,,,1,1,1,3094
+F1186,Sullivan Paipan Block McManus Coffinas & Cannavo,,,,1,1,1,3094
+F1187,Park Waichman,,,,1,1,1,3094
+F1188,LOWE SCOTT FISHER,,,,1,1,1,3092
+F1189,Pogust Goodhead,,,,1,1,1,3094
+F1190,Alex Walsh Law,,,,1,1,1,3094
+F1191,"Roberts Law Firm U.S., PC",,,,1,1,1,3097
+F1192,Wilkinson Stekloff LLP,,,,1,1,2,3110
+F1193,RMP LLP,,,,1,1,2,3110
+F1194,"Marshall, Gerstein & Borun LLP",,,,1,1,1,3103
+F1195,Gemini Law LLP,,,,1,1,1,3103
+F1196,Fish & Richardson P.C.,,,,1,1,1,3103
+F1197,Rakoczy Molino Mazzochi Siwik LLP,,,,1,1,1,3103
+F1198,MOLOLAMKEN LLP,MoloLamken LLP,,,1,1,7,3113
+F1199,The Kaplan Law Firm,Kaplan Law Firm,,,1,1,4,3111
+F1200,Plakas Mannos,,,,1,1,1,3107
+F1201,Spiro Harrison & Nelson,,,,1,1,1,3107
+F1202,"Zoll & Kranz, LLC",,,,1,1,1,3107
+F1203,Bathaee Dunne LLP,,,,1,1,1,3107
+F1204,BoiesBattin LLP,,,,1,1,1,3107
+F1205,"Steven N. Williams Law, P.C.",,,,1,1,1,3107
+F1206,"Morris, King & Hodge P.C.",,,,1,1,3,3108
+F1207,Modjarrad Abusaad & Said,,,,1,1,1,3114
+F1208,The Ward Law Firm,,,,1,1,2,3119
+F1209,"Dodd Law Office, LLC",,,,1,1,2,3119
+F1210,"KELLOGG, HANSEN, TODD FIGEL & FREDERICK, P.L.L.C.","Kellogg, Hansen, Todd, Figel & Frederick, P.L.L.C.",,,1,1,6,3113
+F1211,Allen Overy Shearman Sterling US LLP,,,,1,1,1,3110
+F1212,Eimer Stahl LLP,,,,1,1,2,3110
+F1213,Arnall Golden Gregory LLP,,,,1,1,2,3121
+F1214,Devlin Law Firm LLC,,,,1,1,2,3108
+F1215,Meyerson & Miller,,,,1,1,2,3108
+F1216,Fishman Haygood L.L.P.,Fishman Haygood,,,1,2,3,"3108, 3140"
+F1217,Robbins Geller Rudman & Dowd LLP - BR FL,,,,1,1,1,3115
+F1218,Keller Rohrback LLP – CA,,,,1,1,1,3115
+F1219,AVA Law Group,,,,1,1,1,3125
+F1220,"Cutter Law, P.C.",,,,1,1,1,3125
+F1221,"Bowen Hatch Law, PC",,,,1,1,1,3125
+F1222,Poynter Law Group,,,,1,1,2,3127
+F1223,"Watson Burns, PLLC",,,,1,1,3,3127
+F1224,"Methvin, Terrell, Yancey, Stephens, & Miller, P.C.",,,,1,1,1,3148
+F1225,McIntyre Tate LLP,,,,1,1,1,3148
+F1226,Lebaton Keller Sucharow LLP,,,,1,1,1,3149
+F1227,"Newsome Melton, P.A.",,,,1,1,1,3128
+F1228,"The Consumer Protection Attorney, P.A.",,,,1,1,1,3128
+F1229,Kneupper & Covey P.C.,,,,1,1,1,3128
+F1230,Connecticut Fair Housing Center,,,,1,1,1,3128
+F1231,Law Offices of Ron Marron,,,,1,1,1,3128
+F1232,Rothwell Figg,,,,1,1,2,3143
+F1233,Klaris Law,,,,1,1,1,3143
+F1234,"Frantz Law Group, APLC","FRANTZ LAW GROUP, APLC",,,1,1,4,3149
+F1235,"MURPHY, HESSE, TOOMEY & LEHANE LLP",,,,1,1,2,3149
+F1236,ARTIANO SHINOFF,,,,1,1,2,3149
+F1237,"Pittman, Dutton, Hellums, Bradley & Mann",,,,1,1,2,3140
+F1238,"Rafferty, Domnick, Cunningham, Yaffa",,,,1,1,1,3140
+F1239,Seeger Devine,,,,1,1,1,3140
+F1240,Stag Liuzza,,,,1,1,1,3140
+F1241,Hilliard Law,,,,1,1,1,3140
+F1242,Kellogg Hansen,,,,1,1,1,3140
+F1243,Stranch Jennings,,,,1,1,2,3140
+F1244,Simmons Hanly,,,,1,1,1,3140
+F1245,Lieff Cabraser,,,,1,1,1,3140
+F1246,Dunn Sheehan,,,,1,1,1,3140
+F1247,Schwaba Law Firm,,,,1,1,1,3140
+F1248,McGartland Law Firm,,,,1,1,1,3140
+F1249,Culpepper & Associates,,,,1,1,1,3140
+F1250,Law Office of Barrett Yarbrough,,,,1,1,1,3140
+F1251,Clark Partington,,,,1,1,1,3140
+F1252,Cornell Law,,,,1,1,1,3140
+F1253,"Panish, Shea, Boyle, Ravipudi",,,,1,1,1,3140

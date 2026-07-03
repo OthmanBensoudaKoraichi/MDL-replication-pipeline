@@ -1,0 +1,151 @@
+﻿Name_A,Name_B,same,confidence,merged
+James C. Percy,Jamie Mauhay Powers,False,high,False
+Ben Barnow,Benjamin Brown,False,high,False
+John Smith,John M. Sandy,False,high,False
+Jack Smith,John M. Sandy,False,high,False
+Roger Smith,W. Roger Smith,True,high,True
+W. Roger Smith,William Smith,False,low,False
+Jay Sever,Jay Shapiro,False,high,False
+Christopher G. Hayes,C. Erik Hawes,False,high,False
+C. Erik Hawes,Connor Hayes,False,high,False
+M. Graham,Stephen Gorny,False,high,False
+Marc Moller,Mark Mueller,False,high,False
+E. Powell Miller,Powell Miller,True,high,True
+E. Powell Miller,E. Powell Miller,True,high,True
+Paul Hanley,Paul Hanly,True,high,True
+J. Rudd,Julia Roth,False,high,False
+Peter Burke,Peter W. Burg,False,high,False
+Mike Brock,Michael S. Burg,False,high,False
+Mike Brock,Michael Berg,False,high,False
+Michael S. Burg,Michael Berg,False,high,False
+Anne Andrews,A. James Andrews,False,high,False
+William H. Anderson,William Andrichik,False,high,False
+James McDonough,J. Mostyn,False,high,False
+J. Mostyn,Christopher J. McDonald,False,high,False
+Steven Marks,Stephen Morrissey,False,high,False
+Jon Conlin,Jan Conlin,False,high,False
+Richard Ruoco,Richard Paul Rouco,True,medium,True
+Andrew Gordon,Andrew Gardner,False,high,False
+Michael Boni,Michael Baum,False,high,False
+J. Donohue,Joseph Dunn,False,high,False
+J. Donohue,Brian J. Dunne,False,high,False
+Joe Zanies,Joseph Zonies,True,high,True
+Adam Moskowtiz,Adam Moskowitz,True,high,True
+David Langfitt,Dave Langevin,False,high,False
+Joseph B. Kenney,Joseph H. Kanee,False,high,False
+Brent Wisner,Robert Brent Wisner,True,high,True
+R. Brent Wisner,Robert Brent Wisner,True,high,True
+Jennifer Moore,J. Mark Moore,False,high,False
+Jennifer Moore,J. Andrew Meyer,False,high,False
+Stephen Murray,Steven R. Maher,False,high,False
+Stephen Murray,Stephen Maher,False,high,False
+J. Mark Moore,J. Andrew Meyer,False,high,False
+Don Barrett,D. Dorian Britt,False,high,False
+Mindee Reuben,Mindee Rueben,True,medium,True
+Marc Williams,Marc A. Wallenstein,False,high,False
+Daniel Mason,Daniel J. Mogin,False,high,False
+Richard McCune,R. Laurence Macon,False,high,False
+Rhett McSweeney,R. Laurence Macon,False,high,False
+Randi McGinn,R. Laurence Macon,False,high,False
+Steven Bizar,Stephen Basser,False,high,False
+R. Richards,Robert Rikard,False,high,False
+J. Richards,Jeffrey C. Rickard,False,high,False
+J. Richards,Jason Richards,False,low,False
+J. Richards,Joyce Chambers Reichard,False,high,False
+J. Gerard Stranch IV,John Strongman,False,high,False
+J. Gerard Stranch IV,Jonathan Stern,False,high,False
+"A.
+ Jones",Alyson Jones,False,low,False
+Larence Jones,Lawrence Jones,True,medium,True
+Rhon Jones,R. Andrew Jones,False,low,False
+Anne Callis,Ann Callis,True,medium,True
+Jerold Parker,Jerrold Parker,True,high,True
+Richard Cornfeld,R. Seth Crompton,False,high,False
+Bill Robins,William Robinson,False,high,False
+Dave Matthews,D. Mathews,False,low,False
+Dave Matthews,David Mathews,False,low,False
+D. Mathews,David Mathews,False,low,False
+D. Mathews,David Matthews,False,high,False
+David Mathews,David Matthews,False,low,False
+K. Bailey,Camp Bailey,True,medium,True
+Joe Saunders,Joel S. Sanders,False,high,False
+James Gotz,J. Devlan Geddes,False,high,False
+Tom Cartmell,Thomas R. Curtin,False,high,False
+Thomas Cartmell,Thomas R. Curtin,False,high,False
+Douglass McNamara,Douglas J. McNamara,True,high,True
+David  Stellings,David Steelman,False,high,False
+Joel Rhine,J. Rome,False,high,False
+D. Aaron Rihn,Daniel Rihn,True,high,True
+Russell Budd,Russel H. Beatie,False,high,False
+Christopher Hellums,Chris Hollinger,False,high,False
+Christopher Hellums,Cristopher Hellmich,False,high,False
+Chris Hellums,Chris Hollinger,False,high,False
+David Boies,David Beck,False,high,False
+D. Hufford,Dirk Hubbard,False,low,False
+Bryan Clobes,Brian Clobes,True,medium,True
+Stephen A. Corr,Steven F. Cherry,False,high,False
+Steven F. Cherry,Stephen A.Cor,False,high,False
+Garett Blanchfield,Garrett Blanchfield,True,medium,True
+D. Blankinship,Garrett Blanchfield,False,high,False
+Hamish Hume,H. Blair Hahn,False,high,False
+Frank Woodson,Frank Watson,False,high,False
+Wes Pittman,C. Wes Pittman,True,medium,True
+Wilson Miles,W. Miles,True,medium,True
+J. Bachus,Peter J. Bezek,False,high,False
+Douglass Kreis,Douglass Kreiss,True,high,True
+William Kershaw,Adam Krause,False,high,False
+Dougless Kreis,Douglass Kreiss,True,high,True
+Douglass Kreiss,Douglas Kreis,True,medium,True
+J. Daniel,Jeff Daniel,False,low,False
+Sara Schram,Sara Schramm,False,low,False
+Shelley Hutson,Shelly Hutson,True,high,True
+James M. Evangelista,James Eubank,False,high,False
+Lesley Weaver,Lesley Waver,True,high,True
+Steven Block,Steven Bloch,False,medium,False
+Steven Block,Steve Bloch,False,medium,False
+Eric Kennedy,Robert E. (Eric) Kennedy,True,high,True
+R. Eric Kennedy,Robert E. (Eric) Kennedy,True,high,True
+Kit Pearson,Kit A. Pierson,False,low,False
+D. Michael Campbell,Douglas Campbell,False,low,False
+Mark Seltzer,Mark C. Schultz,False,high,False
+Marc M. Seltzer,Mark C. Schultz,False,high,False
+Norman E. Siegel,Norman E. Seigel,True,medium,True
+Peter Mougey,Peter A. Muhic,False,high,False
+David O'Mara,David G. Omer,False,high,False
+Brett Vaughn,C. Vaughn,True,medium,True
+J. Michael Vaughan,John Vecchione,False,high,False
+J. Michael Vaughan,Jay Vaughn,False,low,False
+J. Nabers,John Nevares,False,high,False
+J. Nabers,Joseph Scott Nabers,True,medium,True
+Robert Darroch,Robert E. DeRose,False,high,False
+Robert Darroch,R. Jackson Drake,False,high,False
+Michelle Drake,Michele Drake,True,medium,True
+Michelle Drake,Michele Dirke,False,low,False
+Robert E. DeRose,R. Jackson Drake,False,high,False
+Mark Godino,Marc L. Godino,True,high,True
+Phillip Wittman,Phillip A. Wittmann,True,medium,True
+Phillip Wittman,Phil Wittmann,True,medium,True
+William Hoffman,William J. Hoffmann,False,low,False
+Tor Hoerman,Tor Hoermann,True,medium,True
+Patrick F. Madden,P. Graham Maiden,False,high,False
+Karen Swope,Karin Swope,False,low,False
+Daniel Lapinski,Daniel Lapinsky,True,high,True
+Amy Solomon,Amy W. Schulman,False,high,False
+Amy Solomon,"A. G. Solomons, III",False,high,False
+Amy W. Schulman,"A. G. Solomons, III",False,high,False
+David Dukes,David R. Dugas,False,high,False
+Richard Head,Rich Hood,False,high,False
+Richard Head,Richard J. Hood,False,high,False
+Andy Alonzo,Andy Alonso,True,high,True
+Adam Pulaski,Adam Polk,False,high,False
+Jeffrey Cereghino,Jeffrey J. Corrigan,False,high,False
+C. Warriner,Calvin Warriner,True,medium,True
+James D. Young,J. Rutledge Young III,False,high,False
+Jaime Theriot,J. Alan Truitt,False,high,False
+Paul Sizemore,J. Paul Sizemore,True,high,True
+Eric Quetglas,Eric M. Quetgla-Jordan,True,medium,True
+Eric M. Quetglas-Jordan,Eric M. Quetgla-Jordan,True,high,True
+Pete Albanis,"Panagiotis “Pete” V. Albanis, Esq.",True,high,True
+Matthew McCarley,Matthew McCauley,False,low,False
+Walter Daniels,W. Daniel,False,high,False
+David Hodges,David Hodge,False,low,False

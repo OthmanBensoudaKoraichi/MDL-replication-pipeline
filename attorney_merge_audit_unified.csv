@@ -1,0 +1,172 @@
+﻿Name_A,Name_B,Level,Reason
+John Smith,Jack Smith,strong,exact surname + first nick
+Donald Migliori,Don Migliori,strong,exact surname + first nick
+Donald Migliori,Donald Miglori,context,fuzzy surname + first exact (shared firm/MDL)
+Pete Flowers,Peter Flowers,strong,exact surname + first nick
+M. Elizabeth Graham,M. Graham,context,exact surname + first subset (shared firm/MDL)
+M. Elizabeth Graham,Elizabeth Graham,context,exact surname + first subset (shared firm/MDL)
+Mike Miller,Michael Miller,strong,exact surname + first nick
+Peter Miller,Pete Miller,strong,exact surname + first nick
+Powell Miller,E. Powell Miller,context,exact surname + first subset (shared firm/MDL)
+Thomas Mellon,"Thomas E. Mallon, Jr.",context,fuzzy surname + first exact (shared firm/MDL)
+James Cecchi,James E. Ceechi,context,fuzzy surname + first exact (shared firm/MDL)
+James Cecchi,James E. Checchi,context,fuzzy surname + first exact (shared firm/MDL)
+Brian Gudmundson,Brian Gudmondson,context,fuzzy surname + first exact (shared firm/MDL)
+Bryan L. Bleichner,Brian Bleichner,context,exact surname + first edit1 (shared firm/MDL)
+Thomas Zimmerman,Tom Zimmerman,strong,exact surname + first nick
+Diandra “Fu” Debrosse Zimmermann,Diandra “Fu” Debrosse Zimmerman,context,fuzzy surname + first exact (shared firm/MDL)
+Richard Root,Rick Root,strong,exact surname + first nick
+Anne Regan,Anne Reagan,context,fuzzy surname + first exact (shared firm/MDL)
+Benjamin Anderson,Ben Anderson,strong,exact surname + first nick
+Joseph Rice,Joe Rice,strong,exact surname + first nick
+Benjamin Gordon,Ben Gordon,strong,exact surname + first nick
+Jean Martin,Juan R. Martinez,context,fuzzy surname + first edit1 (shared firm/MDL)
+Matt Sill,Matthew Sill,strong,exact surname + first nick
+W. Joseph Bruckner,W. Joseph Bruckner,context,exact surname + first subset (shared firm/MDL)
+Irvin Levin,Irwin Levin,context,exact surname + first edit1 (shared firm/MDL)
+Christopher Seeger,Chris Seeger,strong,exact surname + first nick
+Kenneth Seeger,Ken Seeger,strong,exact surname + first nick
+David Buchanan,Dave Buchanan,strong,exact surname + first nick
+James Dugan,Jim Dugan,strong,exact surname + first nick
+Christopher Coffin,Chris Coffin,strong,exact surname + first nick
+Thomas V. Girardi,Tom Girardi,strong,exact surname + first nick
+Brent Wisner,R. Brent Wisner,context,exact surname + first subset (shared firm/MDL)
+Steven R. Maher,Stephen Maher,strong,exact surname + first nick
+Steve Berman,Steven Berman,strong,exact surname + first nick
+Lewis Garrison,W. Lewis Garrison,context,exact surname + first subset (shared firm/MDL)
+Michael McGartland,Mike Mcgartland,strong,exact surname + first nick
+Don Barrett,John Barrett,context,exact surname + first subset (shared firm/MDL)
+Kenny Byrd,Kenneth S. Byrd,strong,exact surname + first nick
+Wendy Fleishman,Wendy Fleischman,context,fuzzy surname + first exact (shared firm/MDL)
+Bonney Sweeney,Bonny Sweeney,context,exact surname + first edit1 (shared firm/MDL)
+Gregory Asciolla,Greg Asciolla,strong,exact surname + first nick
+Larry Cohan,Lawrence J. Cohan,strong,exact surname + first nick
+Elizabeth Cabraser,Elizabeth Cabreser,context,fuzzy surname + first exact (shared firm/MDL)
+Kirk Wood,E. Kirk Wood,context,exact surname + first subset (shared firm/MDL)
+Douglas Richards,J. Richards,context,exact surname + first subset (shared firm/MDL)
+Gerard Stranch,J. Gerard Stranch IV,context,exact surname + first subset (shared firm/MDL)
+J. Gerard Stranch IV,James G. Stranch III,context,exact surname + first initial (shared firm/MDL)
+Steven Asher,Stephen A. Asher,strong,exact surname + first nick
+Benjamin F. Johns,Ben Johns,strong,exact surname + first nick
+Steve Larson,Steven Larson,strong,exact surname + first nick
+A. J. De Bartolomeo,A.J. De Bartolomeo,context,exact surname + first subset (shared firm/MDL)
+J.R. Rogers,J. Rogers,context,exact surname + first subset (shared firm/MDL)
+Laura Yeager,Laura Yaeger,context,fuzzy surname + first exact (shared firm/MDL)
+A. Bartolomeo,A. J. Bartolomeo,context,exact surname + first subset (shared firm/MDL)
+Mark Robinson,Mar Robinson,context,exact surname + first edit1 (shared firm/MDL)
+John Robinson,Jon Robinson,strong,exact surname + first nick
+Bryan Aylstock,Brian Aylstock,context,exact surname + first edit1 (shared firm/MDL)
+Chris Placitella,Christopher Placitella,strong,exact surname + first nick
+Christopher Placitella,Christopher M. Placittella,context,fuzzy surname + first exact (shared firm/MDL)
+Dave Matthews,David Matthews,strong,exact surname + first nick
+D. Mathews,D. Todd Mathews,context,exact surname + first subset (shared firm/MDL)
+D. Todd Mathews,D. Todd Matthews,context,fuzzy surname + first exact (shared firm/MDL)
+D. Todd Mathews,Todd Matthews,context,fuzzy surname + first subset (shared firm/MDL)
+D. Todd Matthews,Todd Matthews,context,exact surname + first subset (shared firm/MDL)
+Doug Monsour,Douglas Monsour,strong,exact surname + first nick
+Ed Blizzard,Edward F. Blizzard,strong,exact surname + first nick
+James H. Welsh,James Walsh,context,fuzzy surname + first exact (shared firm/MDL)
+Gordon Ball,Gordan Ball,context,exact surname + first edit1 (shared firm/MDL)
+Gordon Ball,W. Gordon Ball,context,exact surname + first subset (shared firm/MDL)
+J Osborne,Joe Osborne,context,exact surname + first initial (shared firm/MDL)
+J Osborne,Joseph Osborne,context,exact surname + first initial (shared firm/MDL)
+Joe Osborne,Joseph Osborne,strong,exact surname + first nick
+Jeff Grand,Jeffrey Grand,strong,exact surname + first nick
+Joe Saunders,Joseph Saunders,strong,exact surname + first nick
+John Restaino,Jon Restaino,strong,exact surname + first nick
+Rick Meadow,Richard Meadow,strong,exact surname + first nick
+Tom Anapol,Thomas Anapol,strong,exact surname + first nick
+Tom Cartmell,Thomas Cartmell,strong,exact surname + first nick
+Jeff Carton,Jeffrey I. Carton,strong,exact surname + first nick
+Laddie Montague,"H. Laddie Montague, Jr.",context,exact surname + first subset (shared firm/MDL)
+Douglas J. McNamara,Doug McNamara,strong,exact surname + first nick
+J. Liat Rome,J. Rome,context,exact surname + first subset (shared firm/MDL)
+Sterling Aldridge,Sarah Sterling Aldridge,context,exact surname + first subset (shared firm/MDL)
+Peter Prieto,Pete Priet,context,fuzzy surname + first nick (shared firm/MDL)
+Jeffrey Ostrow,Jeff Ostrow,strong,exact surname + first nick
+Christopher Hellums,Chris Hellums,strong,exact surname + first nick
+"Joe R. Whatley, Jr.","Joseph Whatley, Jr.",strong,exact surname + first nick
+Conlee Whiteley,Conlee Whitely,context,fuzzy surname + first exact (shared firm/MDL)
+Bob Methvin,"Robert G. Methvin, Jr.",strong,exact surname + first nick
+Stephen A. Corr,Stephen A.Cor,context,fuzzy surname + first exact (shared firm/MDL)
+Blair Hahn,H. Blair Hahn,context,exact surname + first subset (shared firm/MDL)
+W. Miles,W. Daniel Miles,context,exact surname + first subset (shared firm/MDL)
+Palmer Lambert,M. Lambert,context,exact surname + first subset (shared firm/MDL)
+Douglass Kreis,Dougless Kreis,context,exact surname + first edit1 (shared firm/MDL)
+Douglass Kreis,Douglas Kreis,context,exact surname + first edit1 (shared firm/MDL)
+Doug Kreis,Douglas Kreis,strong,exact surname + first nick
+Gabriel Assaad,Gabriel Asaad,context,fuzzy surname + first exact (shared firm/MDL)
+K. Lanier,Rachel Lanier,context,exact surname + first subset (shared firm/MDL)
+W. Lanier,Mark Lanier,context,exact surname + first subset (shared firm/MDL)
+Michael Burns,Mike Burns,strong,exact surname + first nick
+Thomas Pirtle,Tom Pirtle,strong,exact surname + first nick
+Matt Moreland,Matthew B. Moreland,strong,exact surname + first nick
+Thomas J.H. Brill,Tom Brill,strong,exact surname + first nick
+Robert Hilliard,Robert Hillard,context,fuzzy surname + first exact (shared firm/MDL)
+Michael Papantonio,Mike Papantonio,strong,exact surname + first nick
+Jonathan Sedgh,Jonathan Sedge,context,fuzzy surname + first exact (shared firm/MDL)
+John Fiske,John Fisk,context,fuzzy surname + first exact (shared firm/MDL)
+Steven Bloch,Steve Bloch,strong,exact surname + first nick
+Eric Kennedy,R. Eric Kennedy,context,exact surname + first subset (shared firm/MDL)
+Jeff Bowersox,Jeffrey Bowersox,strong,exact surname + first nick
+Frank Pitre,Frank M. Pitre,context,exact surname + first subset (shared firm/MDL)
+Jim Reeves,James Reeves,strong,exact surname + first nick
+Mark Seltzer,Marc M. Seltzer,context,exact surname + first edit1 (shared firm/MDL)
+Matthew Schultz,Matt Schultz,strong,exact surname + first nick
+Frederick Longer,Fred Longer,strong,exact surname + first nick
+Michael Critchley,Michael Critchiey Sr.,context,fuzzy surname + first exact (shared firm/MDL)
+Jeff Gibson,Jeffrey Gibson,strong,exact surname + first nick
+Steven Silverman,Steve Silverman,strong,exact surname + first nick
+Lawrence Gornick,Larry Gornick,strong,exact surname + first nick
+Pete Kaufman,Peter Kaufman,strong,exact surname + first nick
+Shelly Kaufman,Shelley Kaufman,context,exact surname + first edit1 (shared firm/MDL)
+Ron Goldman,Ronald L.M. Goldman,strong,exact surname + first nick
+Marlo Fischer,Marlo Fisher,context,fuzzy surname + first exact (shared firm/MDL)
+Steve Babin,Steven Babin,strong,exact surname + first nick
+E. Michelle Drake,Michelle Drake,context,exact surname + first subset (shared firm/MDL)
+Michele Drake,Michele Dirke,context,fuzzy surname + first exact (shared firm/MDL)
+Gregory Hopper,Greg Hopper,strong,exact surname + first nick
+Phillip A. Wittmann,Phil Wittmann,strong,exact surname + first nick
+Christopher Tisi,Chris Tisi,strong,exact surname + first nick
+Christopher Ridout,Cristopher Ridout,context,exact surname + first edit1 (shared firm/MDL)
+Tobias Millrood,Tobias Milrood,context,fuzzy surname + first exact (shared firm/MDL)
+Erick Rosemond,G. Erick Rosemond,context,exact surname + first subset (shared firm/MDL)
+Matt Edling,Matthew Edling,strong,exact surname + first nick
+Rich Hood,Richard J. Hood,strong,exact surname + first nick
+Richard M. Paul III,Rick Paul,strong,exact surname + first nick
+Steven Rotman,Steve Rotman,strong,exact surname + first nick
+Karen H. Riebel,Karen Ribel,context,fuzzy surname + first exact (shared firm/MDL)
+Steven Skikos,Steve Skikos,strong,exact surname + first nick
+Timothy O'Brien,Tim O'Brien,strong,exact surname + first nick
+Tom Loeser,Thomas Loeser,strong,exact surname + first nick
+José M. Rosas,José M. Rojas,context,fuzzy surname + first exact (shared firm/MDL)
+José M. Rojas,Jose Rojas,context,exact surname + first edit1 (shared firm/MDL)
+Frederick Hovde,Fredrick Hovde,context,exact surname + first edit1 (shared firm/MDL)
+Michael Weinkowitz,Mike Weinkowitz,strong,exact surname + first nick
+S. Thomas Weinner,Thomas Wienner,context,fuzzy surname + first subset (shared firm/MDL)
+"Michael
+ Heaviside",Mike Heaviside,strong,exact surname + first nick
+"Brian McCormick, Jr.",Brian J. McCormick,context,fuzzy surname + first exact (shared firm/MDL)
+Philip Sechler,Phillip Sechler,strong,exact surname + first nick
+Isaac Diel,Issac Diel,context,exact surname + first edit1 (shared firm/MDL)
+Tom Bender,Thomas V. Bender,strong,exact surname + first nick
+Stephen Susman,Steve Susman,strong,exact surname + first nick
+Robert G. Germany,Bob Germany,strong,exact surname + first nick
+Eric Quetglas,Eric M. Quetglas-Jordan,context,fuzzy surname + first exact (shared firm/MDL)
+Jeff S. Westerman,Jeffrey Westerman,strong,exact surname + first nick
+Theodore Babbitt,Ted Babbitt,strong,exact surname + first nick
+Steve Grygiel,Stephen G. Grygiel,strong,exact surname + first nick
+Steve Grygiel,Steven G. Grygiel,strong,exact surname + first nick
+Stephen G. Grygiel,Steven G. Grygiel,strong,exact surname + first nick
+Salvador Antonetti-Zequira,Salvador J. Antonetti-Stutts,context,fuzzy surname + first exact (shared firm/MDL)
+Katie McElveen,Catherine H. McElveen,strong,exact surname + first nick
+Theodore J. Leopold,Ted Leopold,strong,exact surname + first nick
+Travis Griffith,Travis Griffth,context,fuzzy surname + first exact (shared firm/MDL)
+Julia Merritt,Julia Merrit,context,fuzzy surname + first exact (shared firm/MDL)
+Timothy Semenoro,Timothy Semenero,context,fuzzy surname + first exact (shared firm/MDL)
+Steve Nathan,Steven M. Nathan,strong,exact surname + first nick
+Nicholas Colella,Nicolas Colella,context,exact surname + first edit1 (shared firm/MDL)
+Jenniffer Elwell,Jennifer Elwell,context,exact surname + first edit1 (shared firm/MDL)
+Jennifer Elwell,Jenny Elwell,strong,exact surname + first nick
+Bill Carmody,William Christopher Carmody,strong,exact surname + first nick
+D. Nicole Guntner,D. Nicole Gunter,context,fuzzy surname + first exact (shared firm/MDL)
