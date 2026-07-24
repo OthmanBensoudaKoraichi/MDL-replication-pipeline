@@ -116,6 +116,15 @@ Built by `code/build_final_database.py`. Eight tabs:
 Because MDL_new has no human coding, quality is established on the MDL_old MDLs, where the pipeline output
 can be compared directly to the gold. All 201 old MDLs were run through the pipeline for this purpose.
 
+**Development vs. held-out split.** Of the 185 gold-labeled MDLs, **130** were used during development
+(7 batches — the exact MDL lists and seeds are in `VALIDATION_LOG.md` §"Cases used so far"): prompt
+engineering proper used the 10-MDL `dev` batch; two batches tuned specific components (the Rule-53
+resolver, the firm-row logic); one tuned only the eval matcher; three (70 MDLs) were validation batches —
+extracted and error-analyzed but not used to change prompts. The remaining **55 MDLs were never used in
+any development** (listed in `untouched_gold_mdls.txt`): 20 of them formed the pre-run **holdout
+backtest** (individuals F1 95.0 / recall 93.0 / precision 97.1 with the final prompts), and **35 were
+first touched only in the final full-corpus run** — the cleanest out-of-sample set.
+
 **Full-gold accuracy** (`code/compare_roles_vs_gold.py`, matched at attorney × MDL):
 - Identity recall **87.1%**, precision **86.8%**.
 - Appointment-type exact-set agreement **77.4%**; per-role recall is high on the roles that carry the
