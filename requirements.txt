@@ -9,8 +9,7 @@ pillow==10.2.0           # render PDF pages to images for Tesseract
 pydantic>=2.0            # structured extraction schema (extract_orders, resolve_motions)
 pandas>=2.0              # build the Excel workbook from the JSONL (extract_orders.build_excel)
 openpyxl==3.1.2          # pandas ExcelWriter engine for the .xlsx workbook
-python-docx>=1.1         # regenerate DATA_DICTIONARY.docx (make_dd_docx.py)
-numpy>=1.26              # Monte-Carlo null model (analysis) + dist_compare
+numpy>=1.26              # Monte-Carlo null model (analysis)
 matplotlib>=3.7          # replication figures (replication_mdl/code/analysis_ours.ipynb)
 plotly>=5.24             # appendix bar-state choropleths (interactive, in-notebook)
 # NOTE: pytesseract needs the Tesseract binary: `brew install tesseract`

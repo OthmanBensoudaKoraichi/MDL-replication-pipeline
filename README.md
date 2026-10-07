@@ -1,115 +1,125 @@
-# MDL Leadership Data Pipeline — Replication Materials
+# Who Leads in Mass Litigation? Evidence from MDL — replication materials
 
-Replication code and data for **"Who Leads in Mass Litigation? Evidence from MDL."**
+Code and data for *Who Leads in Mass Litigation? Evidence from MDL* by Othman Bensouda Koraichi,
+Matthew Brundage, Gabriel Faria Bernardes, David Freeman Engstrom, C. Scott Hemphill, Brianne
+Holland-Stergar, David L. Noll, and Adam Zimmerman.
 
-This repository turns a corpus of MDL (multidistrict-litigation) court-document PDFs into a structured,
-deduplicated, demographically-enriched dataset of **plaintiff leadership appointments** (lead/liaison
-counsel, steering/executive committees, Rule 23(g) class counsel), and reproduces the paper's figures.
+The paper studies who gets appointed to plaintiffs' leadership in federal multidistrict litigation
+(lead and liaison counsel, steering and executive committees, class counsel). This repository contains
+the pipeline we used to build the appointment dataset from court orders, the dataset itself, and the
+notebook that produces the paper's figures. Appendix A of the paper describes how the dataset was
+built and validated; this README covers how to run things.
 
-**Read [`METHODOLOGY.md`](METHODOLOGY.md) first** — it is the self-contained account of what the pipeline
-does and how it was validated. [`METHOD.md`](METHOD.md) is the deep stage-by-stage code reference;
-[`VALIDATION_LOG.md`](VALIDATION_LOG.md) is the dated build/validation record.
+## Contents
 
-## What's here
+| Path | What it is |
+|---|---|
+| `unified_mdl_database.xlsx` | The final dataset (see below). |
+| `code/` | The pipeline scripts. |
+| `PROMPTS.md` | Every prompt sent to a language model, copied from the code by `code/make_prompts_md.py`. |
+| `MDL_merged.csv` | The 809 MDLs established between 2002 and 2026. |
+| `csvs_current_dataset/` | The hand coding for about 200 MDLs (Orders, Appointments, Attorneys). |
+| `gold_mdl_split.csv` | Which hand-coded MDLs were used during development and which 55 were held out for validation. |
+| `order_extractions.jsonl`, `.xlsx` | Raw extraction output, one record per order. |
+| `canonical_attorneys_v2_demographics.csv`, `canonical_firms_v2.csv` | Attorney and firm identities after name resolution. |
+| `dedup_v2_*` | Name-resolution inputs, cached model decisions, and the name-to-ID maps. |
+| `demographics_cache_v2.jsonl` | Cached attorney biography lookups. |
+| `appointment_type_comparison.csv` | Role-by-role comparison of pipeline vs. hand coding for each attorney and MDL. |
+| `replication_mdl/datasets_ours/` | The same dataset as CSVs, one file per workbook tab. |
+| `replication_mdl/` | The figure notebook and the generated figures. |
 
-- **`code/`** — the full pipeline (document → data), the LLM-adjudicated deduper, demographics, the
-  deliverable builders, and the evaluation harnesses.
-- **`PROMPTS.md`** — every LLM prompt, verbatim (generated from the source by `code/make_prompts_md.py`).
-- **`unified_mdl_database.xlsx`** — **the deliverable.** All-extracted (old + new) leadership dataset,
-  deduped and demographically enriched, with the human gold coding and an LLM-vs-human role comparison as
-  reference tabs (8 tabs: MDLs, Orders, Appointments, Attorneys, Firms, Gold_Appointments,
-  Gold_Attorneys, Role_Comparison).
-- **`canonical_attorneys_v2_demographics.csv`, `canonical_firms_v2.csv`** — the canonical rosters.
-- **`appointment_type_comparison.csv`** — per-attorney LLM-vs-gold appointment-type agreement flag.
-- **`MDL_merged.csv`** — the 809-MDL master list (old + new).
-- **`csvs_current_dataset/`** — the human hand-coded gold (Orders / Appointments / Attorneys).
-- **`replication_mdl/`** — the paper's replication notebook adapted to this dataset
-  (`code/analysis_ours.ipynb`, scope switch old/new/both) + the generated figures (`figures_ours/`).
+The court documents themselves (about 41,000 PDFs) and their OCR text are too large for git and are
+not included.
 
-**Not distributed via git** (size): the raw PDFs (`files/`), the OCR corpus (`ocr/`), the working corpus
-(`filtered_files/`), and large regenerable label files (`page_counts.csv`, `type_labels.csv`,
-`order_status.csv`). The pipeline regenerates every downstream artifact from `files/`. **`.env` is never
-committed.**
+### The dataset
 
-## The pipeline (document → data)
+`unified_mdl_database.xlsx` has one tab per table:
 
-Deterministic DAG; each stage is a pure function of the previous stage's durable output. Models:
-gpt-5.4-mini (classification), gpt-5.5 (gate/extraction/resolution), LlamaParse (OCR).
+- **MDLs**: the 809 MDLs with docket metadata.
+- **Orders**: leadership orders (one row per order), with the source file each was extracted from.
+- **Appointments**: one row per appointee per order. `Unified_Attorney_ID` and `Unified_Firm_ID` link
+  to the Attorneys and Firms tabs.
+- **Attorneys**, **Firms**: one row per resolved identity, with the name variants merged into it.
+  Attorneys also carry gender, birth year, schools, and bar admissions where we could find them.
+- **Gold_Appointments**, **Gold_Attorneys**: the hand coding, for reference.
+- **Role_Comparison**: the contents of `appointment_type_comparison.csv`.
 
-```
-  files/                 --1 count_pages----> page_counts.csv
-  + page_counts.csv      --2 classify_type--> type_labels.csv               (gpt-5.4-mini)
-  + type_labels.csv      --3 filter_corpus--> filtered_files/               (drop + dedup)
-  filtered_files/        --4 ocr_llamaparse-> ocr/<MDL>/<doc>.json          (LlamaParse + Tesseract)
-  type_labels + ocr/     --5 refine_unclear-> type_labels.csv               (gpt-5.4-mini)
-  ocr/ + type_labels     --6 confirm_orders-> order_status.csv  THE GATE    (gpt-5.5)
-  ocr/ (retrieve=1)      --7 trim_orders----> orders/<MDL>/<doc>.json       (deterministic)
-  orders/                --8 extract_orders-> order_extractions.{jsonl,xlsx}(gpt-5.5)
-  order_extractions      --9 resolve_motions-> order_extractions.{jsonl,xlsx}(gpt-5.5)
-```
+The `Corpus` column marks whether a row comes from an MDL in the hand-coded set (`old`) or not (`new`).
+Both were coded by the same pipeline.
 
-Then, on the extracted corpus:
-
-```
-  order_extractions.jsonl  --> build_allextracted_corpus.py --> dedup_v2.py       (LLM-adjudicated dedup)
-  canonical_*_v2 + gold    --> seed_v2_demographics + attorney_demographics.py    (web-grounded demographics)
-  everything               --> build_final_database.py       --> unified_mdl_database.xlsx
-  vs gold                  --> compare_roles_vs_gold.py       --> appointment_type_comparison.csv
-```
+Each tab is also saved as a CSV in `replication_mdl/datasets_ours/` (`appointments.csv`, `firms.csv`,
+`gold_attorneys.csv`, and so on), for anyone not using Excel. The figure notebook reads these CSVs.
 
 ## Setup
 
-```bash
-python3 -m pip install -r requirements.txt
-# OCR (stage 4) also needs the Tesseract binary as a fallback: brew install tesseract
-```
-
-Create `.env` in the project root (never committed):
-
-```
-OPENAI_API_KEY=...        # gpt-5.4-mini (2,5) and gpt-5.5 (6,8,9, dedup, demographics)
-llamaparse_api_key=...    # LlamaParse OCR (stage 4)
-```
-
-## Reproduce
-
-Document→data pipeline (regenerates from `files/`, which you must supply):
+Python 3.12.
 
 ```bash
-P=python3
-$P code/count_pages.py
-$P code/classify_type.py
-$P code/filter_corpus.py --apply
-$P code/ocr_llamaparse.py --all --workers 24
-$P code/refine_unclear.py --all --apply
-$P code/confirm_orders.py --all --model gpt-5.5
-$P code/trim_orders.py --all
-$P code/extract_orders.py --all --model gpt-5.5
-$P code/resolve_motions.py
+pip install -r requirements.txt
+brew install tesseract   # OCR fallback, only needed for step 4
 ```
 
-Dedup → demographics → final workbook:
+API keys go in a `.env` file at the repository root (see `.env.example`): `OPENAI_API_KEY` for the
+GPT-5.4-mini and GPT-5.5 calls, and `llamaparse_api_key` for OCR.
+
+## Running the pipeline
+
+To rebuild from the documents, put the PDFs in `files/<MDL number>/` and run the steps in order. Each
+step reads the previous step's output and caches what it has already done, so an interrupted run can be
+restarted and only the remaining documents will be sent to the API.
 
 ```bash
-$P code/build_allextracted_corpus.py
-$P code/dedup_v2.py --stage all              # candidates → LLM adjudicate → web → cluster → gold-gate
-$P code/seed_v2_demographics.py
-$P code/attorney_demographics.py --in-csv canonical_attorneys_v2.csv \
-     --out-csv canonical_attorneys_v2_demographics.csv --cache demographics_cache_v2.jsonl --apply
-$P code/build_final_database.py              # -> unified_mdl_database.xlsx
-$P code/compare_roles_vs_gold.py             # -> appointment_type_comparison.csv (LLM-vs-gold role flag)
+python3 code/count_pages.py                        # 1. page counts
+python3 code/classify_type.py                      # 2. order / motion / other (GPT-5.4-mini)
+python3 code/filter_corpus.py --apply              # 3. drop non-orders and duplicates
+python3 code/ocr_llamaparse.py --all --workers 24  # 4. OCR (LlamaParse, Tesseract fallback)
+python3 code/refine_unclear.py --all --apply       # 5. reclassify unclear documents from their text
+python3 code/confirm_orders.py --all --model gpt-5.5   # 6. keep only leadership orders
+python3 code/trim_orders.py --all                  # 7. cut each order at the judge's signature
+python3 code/extract_orders.py --all --model gpt-5.5   # 8. extract appointees and roles
+python3 code/resolve_motions.py                    # 9. follow orders that appoint "by reference"
 ```
 
-Figures — open `replication_mdl/code/analysis_ours.ipynb`, set `SCOPE` to `"old" | "new" | "both"`,
-Run All (writes `replication_mdl/figures_ours/<scope>/`).
+Then resolve names, add demographics, and build the workbook:
 
-Billable stages are **resumable** — re-running only processes what isn't already cached.
+```bash
+python3 code/build_allextracted_corpus.py   # combine extractions into one file for name resolution
+python3 code/dedup_v2.py --stage all        # resolve attorney and firm names (GPT-5.5, web search for unclear pairs)
+python3 code/attorney_demographics.py --apply \
+    --in-csv canonical_attorneys_v2.csv \
+    --out-csv canonical_attorneys_v2_demographics.csv \
+    --cache demographics_cache_v2.jsonl
+python3 code/compare_roles_vs_gold.py       # appointment_type_comparison.csv
+python3 code/build_final_database.py        # unified_mdl_database.xlsx
+python3 code/export_csvs.py                 # the same tabs as CSVs in replication_mdl/datasets_ours/
+```
 
-## Headline validation (against the human gold, all 201 old MDLs)
+`code/dedup_v2_reverify.py` re-checks three kinds of borderline name matches with a web search; after
+running it, run `dedup_v2.py --stage cluster` again. The model decisions behind the released files are
+committed in the `dedup_v2_*` and `demographics_cache_v2.jsonl` caches, so these steps only call the API
+for pairs or attorneys that aren't already cached.
 
-- Extraction identity: recall **87%**, precision **87%** (attorney × MDL).
-- Appointment-type agreement: **77%** exact set match; 94–97% recall on the core leadership roles.
-- Dedup (LLM-adjudicated) vs. human canonicalization: precision **0.92**, recall **0.87**, F1 **0.89**.
-- Central result (repeat co-appointment ≫ chance, Monte-Carlo p ≈ 0) reproduces in old, new, and both.
+## Figures
 
-See [`METHODOLOGY.md`](METHODOLOGY.md) §6 for the full validation and known limitations.
+Open `replication_mdl/code/analysis_ours.ipynb`, set `SCOPE` to `"both"` (the full dataset), `"old"`, or
+`"new"`, and run all cells. Figures are written to `replication_mdl/figures_ours/<scope>/`.
+`replication_mdl/code/analysis.ipynb` is the earlier notebook that ran on the hand-coded data only
+(`replication_mdl/datasets/`).
+
+## Validation
+
+Appendix A, Part XI reports how the pipeline compares with the hand coding on the 55 hand-coded MDLs
+that were not used during development (listed in `gold_mdl_split.csv`). At the attorney × MDL level,
+recall is 90.6% and precision is 93.3%. Agreement on lead counsel and steering-committee roles is
+κ = 0.92 and 0.90. To rerun the comparison:
+
+```bash
+python3 code/eval_vs_gold.py --tag heldout55 \
+    --mdls "$(awk -F, '$2=="heldout"{print $1}' gold_mdl_split.csv | paste -sd, -)"
+```
+
+The output goes to `eval/`. The committed `eval/report_heldout55.md` is the run behind Table 2.
+
+## License
+
+MIT. See `LICENSE`.

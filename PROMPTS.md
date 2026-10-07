@@ -2,7 +2,7 @@
 
 Every LLM prompt used to build the dataset, extracted **verbatim from the pipeline source** by
 `code/make_prompts_md.py` (re-run it after any prompt change; the code is authoritative).
-For what each stage does and how it was validated, see `METHODOLOGY.md`.
+For what each stage does and how it was validated, see Appendix A of the paper.
 
 | Stage | File | Model |
 |---|---|---|

@@ -7,7 +7,7 @@ Output : canonical_attorneys_demographics.csv -- same rows, with Gender, Birth_Y
 Cache  : demographics_cache.jsonl -- one raw model result per attorney, so a run is resumable and the
          lookups are FROZEN (re-running never re-queries a cached attorney -> reproducible for the paper).
 
-Method (disclosed in METHOD.md): per canonical attorney we issue ONE web-grounded LLM lookup, passing
+Method (described in Appendix A of the paper): per canonical attorney we issue ONE web-grounded LLM lookup, passing
 the name + their law firm(s) + the MDLs they led in (disambiguation context). The model is told to
 return a field ONLY when it finds a citable source, to infer gender from a bio/pronouns (NOT from the
 first name), and to abstain otherwise. Every filled field carries source URLs and a confidence level;

@@ -1,0 +1,186 @@
+mdl_no,split,batch
+1431,development,small
+1566,development,batch2
+1570,development,small
+1663,development,valid
+1700,development,valid
+1720,development,fresh
+1738,development,small
+1836,heldout,final run only
+1869,development,held
+1871,development,blind
+1913,development,small
+1916,heldout,pre-run backtest
+1917,development,fresh
+1964,development,fresh
+2002,development,small
+2009,development,small
+2020,heldout,final run only
+2034,development,valid
+2036,development,valid
+2047,development,blind
+2067,heldout,pre-run backtest
+2084,heldout,final run only
+2090,heldout,final run only
+2151,development,batch2
+2153,heldout,final run only
+2158,heldout,final run only
+2179,development,valid
+2184,heldout,pre-run backtest
+2185,development,valid
+2187,development,batch2
+2197,heldout,final run only
+2221,development,blind
+2243,development,batch2
+2244,development,fresh
+2262,development,held
+2263,development,dev
+2272,development,small
+2286,development,fresh
+2295,development,held
+2296,development,valid
+2311,development,blind
+2323,development,valid
+2325,development,valid
+2326,development,blind
+2327,heldout,pre-run backtest
+2329,heldout,final run only
+2331,development,small
+2332,heldout,final run only
+2338,development,valid
+2353,development,small
+2357,heldout,pre-run backtest
+2382,heldout,final run only
+2387,development,held
+2391,development,valid
+2406,development,batch2
+2418,development,small
+2419,heldout,pre-run backtest
+2420,development,held
+2428,development,dev
+2433,heldout,pre-run backtest
+2434,development,batch2
+2436,development,small
+2437,development,blind
+2440,development,fresh
+2441,development,valid
+2445,heldout,pre-run backtest
+2452,heldout,final run only
+2460,development,fresh
+2472,development,blind
+2475,heldout,pre-run backtest
+2492,development,held
+2493,development,small
+2495,heldout,pre-run backtest
+2504,development,dev
+2516,development,valid
+2522,development,fresh
+2541,heldout,pre-run backtest
+2542,development,small
+2543,development,held
+2545,development,fresh
+2548,development,blind
+2551,development,fresh
+2555,heldout,pre-run backtest
+2557,heldout,pre-run backtest
+2566,development,small
+2567,development,batch2
+2570,development,dev
+2573,heldout,pre-run backtest
+2575,development,blind
+2580,development,blind
+2586,heldout,pre-run backtest
+2587,heldout,final run only
+2590,development,small
+2591,development,fresh
+2592,development,fresh
+2595,development,blind
+2599,development,valid
+2606,heldout,final run only
+2613,development,small
+2615,heldout,pre-run backtest
+2624,heldout,final run only
+2626,development,valid
+2627,development,fresh
+2633,development,small
+2641,heldout,final run only
+2642,heldout,final run only
+2645,development,blind
+2656,development,blind
+2657,development,blind
+2664,development,dev
+2665,heldout,final run only
+2666,development,blind
+2667,development,fresh
+2669,development,small
+2670,development,batch2
+2672,development,batch2
+2673,development,small
+2677,heldout,final run only
+2687,development,dev
+2691,heldout,final run only
+2693,development,small
+2695,development,held
+2704,heldout,pre-run backtest
+2705,heldout,final run only
+2709,development,blind
+2724,development,fresh
+2734,development,valid
+2737,heldout,final run only
+2738,heldout,final run only
+2740,development,held
+2741,development,dev
+2742,development,blind
+2743,development,batch2
+2744,development,small
+2750,heldout,final run only
+2752,heldout,pre-run backtest
+2753,development,valid
+2754,heldout,pre-run backtest
+2767,development,small
+2768,development,blind
+2773,development,batch2
+2775,development,batch2
+2776,heldout,final run only
+2777,heldout,final run only
+2779,heldout,final run only
+2782,heldout,pre-run backtest
+2785,development,fresh
+2789,development,valid
+2792,heldout,final run only
+2795,development,batch2
+2796,development,small
+2797,development,small
+2800,development,batch2
+2801,development,fresh
+2804,heldout,final run only
+2807,development,small
+2809,heldout,final run only
+2814,development,small
+2816,development,fresh
+2817,development,batch2
+2818,development,dev
+2819,development,valid
+2820,development,small
+2827,heldout,final run only
+2828,heldout,final run only
+2833,heldout,final run only
+2836,development,batch2
+2841,heldout,final run only
+2842,development,batch2
+2843,heldout,final run only
+2846,development,valid
+2848,development,batch2
+2850,development,held
+2859,development,batch2
+2862,development,blind
+2865,development,small
+2867,development,batch2
+2873,development,dev
+2874,development,small
+2875,development,fresh
+2878,development,dev
+2879,heldout,final run only
+2885,development,blind
+2886,development,fresh
+2887,development,small

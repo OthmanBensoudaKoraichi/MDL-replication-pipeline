@@ -37,3 +37,6 @@ venv/
 
 # ============ os ============
 .DS_Store
+
+# ============ regenerable outputs ============
+order_extractions_unified.jsonl

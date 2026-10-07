@@ -4,7 +4,7 @@ Reads the RAW appointees from order_extractions.jsonl (which carry the per-MDL /
 collapsed Attorneys tab has lost) and produces a canonical roster: one row per real person/firm, with
 Canonical_Name + AKAs, the firms and MDLs they appear in, and a confidence flag.
 
-Method (see METHOD.md):
+Method:
   1. Aggregate raw mentions into exact-normalized entities (lowercase first-token + last name).
   2. BLOCK by last-name Soundex and last[:4] -> only plausible pairs are compared (not N^2).
   3. SCORE each pair: last names must match (exact / Soundex / edit<=1); first names relate as
