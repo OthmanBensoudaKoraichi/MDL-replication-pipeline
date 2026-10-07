@@ -14,6 +14,7 @@ does and how it was validated. [`METHOD.md`](METHOD.md) is the deep stage-by-sta
 
 - **`code/`** — the full pipeline (document → data), the LLM-adjudicated deduper, demographics, the
   deliverable builders, and the evaluation harnesses.
+- **`PROMPTS.md`** — every LLM prompt, verbatim (generated from the source by `code/make_prompts_md.py`).
 - **`unified_mdl_database.xlsx`** — **the deliverable.** All-extracted (old + new) leadership dataset,
   deduped and demographically enriched, with the human gold coding and an LLM-vs-human role comparison as
   reference tabs (8 tabs: MDLs, Orders, Appointments, Attorneys, Firms, Gold_Appointments,
