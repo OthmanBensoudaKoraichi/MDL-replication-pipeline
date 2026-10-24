@@ -1,0 +1,12 @@
+practice_area,mdls,attorneys,observed,null_mean,null_sd,multiplier,p_value
+Products Liability,156,1365,2106,857.2,54.1,2.46,0.001
+Antitrust,90,509,527,279.8,38.3,1.88,0.001
+Miscellaneous,83,466,391,50.2,9.9,7.79,0.001
+Sales Practices,65,395,108,25.3,6.7,4.27,0.001
+Data Breach and Consumer Privacy,13,142,131,71.0,14.9,1.84,0.002
+Employment Practices,10,81,0,0.0,0.0,,1.0
+Contract,13,59,0,0.0,0.1,0.0,1.0
+Common Disaster,4,60,0,0.0,0.0,,1.0
+Securities,11,49,0,0.0,0.0,,1.0
+Unknown,3,27,0,0.0,0.0,,1.0
+Intellectual Property,5,13,0,0.0,0.0,,1.0
